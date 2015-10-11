@@ -1,0 +1,7 @@
+/fsbext
+/other files
+*.fsbcache
+*/fsbcache
+*/fmod_designer.log
+*/Instructions.log
+*/undo-log.txt
