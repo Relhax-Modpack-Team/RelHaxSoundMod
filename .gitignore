@@ -5,3 +5,7 @@
 */fmod_designer.log
 */Instructions.log
 */undo-log.txt
+*.fev
+*.fsb
+*.bak
+/zip distrubitables
