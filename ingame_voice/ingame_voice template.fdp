@@ -460,12 +460,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/pen_02.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/pen_03.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -521,6 +515,18 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/pen_12.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>../ingame_voice_censored/voice mod folders template/update 7/pen_1.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>../ingame_voice_censored/voice mod folders template/update 7/pen_2.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -568,12 +574,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/pen_02.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/pen_03.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -629,6 +629,18 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/pen_12.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>../ingame_voice_censored/voice mod folders template/update 7/pen_1.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>../ingame_voice_censored/voice mod folders template/update 7/pen_2.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -676,12 +688,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/pen_02.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/pen_03.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -737,6 +743,18 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/pen_12.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>../ingame_voice_censored/voice mod folders template/update 7/pen_1.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>../ingame_voice_censored/voice mod folders template/update 7/pen_2.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -2727,6 +2745,12 @@
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
 </waveform>
+<waveform>
+<filename>voice mod folders template/update 7/tracks_destroyed_1.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
 </sounddef>
 <sounddef>
 <name>/tracks_functional</name>
@@ -3065,6 +3089,18 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/update 6/player_died_2.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 7/player_died_1.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 7/player_died_2.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -9955,6 +9991,40 @@
 <notes></notes>
 <rebuild>1</rebuild>
 <waveform>
+<filename>../ingame_voice_censored/voice mod folders template/update 7/pen_1.mp3</filename>
+<guid>{961ce9f2-a815-41b6-b84b-5f2fa7419162}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>48000</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>../ingame_voice_censored/voice mod folders template/update 7/pen_2.mp3</filename>
+<guid>{592179f2-f199-4455-bd20-b50a71ecba27}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>48000</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
 <filename>voice mod folders template/ammo_rack_hit_01.mp3</filename>
 <guid>{b74167c6-0216-4857-b195-72bd09ad443b}</guid>
 <mindistance>1</mindistance>
@@ -12097,23 +12167,6 @@
 <notes></notes>
 </waveform>
 <waveform>
-<filename>voice mod folders template/pen_02.mp3</filename>
-<guid>{9b7e747f-8d6b-448d-befc-4397ade770fa}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>44100</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
 <filename>voice mod folders template/pen_03.mp3</filename>
 <guid>{00bb976c-852b-4ab9-833a-c27136434e6a}</guid>
 <mindistance>1</mindistance>
@@ -13799,6 +13852,57 @@
 <waveform>
 <filename>voice mod folders template/update 6/target_locked_1.mp3</filename>
 <guid>{acdbcb93-0ab6-4bf3-bb94-79db30ee917f}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>48000</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 7/player_died_1.mp3</filename>
+<guid>{474908d3-6651-4e6e-8eef-eaeb91de60a6}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>48000</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 7/player_died_2.mp3</filename>
+<guid>{fddd596d-17c4-4fce-b6cb-0cc93078eaba}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>48000</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 7/tracks_destroyed_1.mp3</filename>
+<guid>{6f7c9bb4-37ca-4bd3-a89d-97c3d5f9173e}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>

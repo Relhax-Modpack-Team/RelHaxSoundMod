@@ -104,7 +104,7 @@
 <trigger_delay_max>0</trigger_delay_max>
 <notes></notes>
 <waveform>
-<filename>../fsbext/gui_orig/sirene_01.wav</filename>
+<filename>gui/update 6/enemy_capping_1.mp3</filename>
 <soundbankname>gui</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -7478,23 +7478,6 @@
 <notes></notes>
 </waveform>
 <waveform>
-<filename>../fsbext/gui_orig/sirene_01.wav</filename>
-<guid>{c7c62ac7-6432-498e-8c1f-7e36c7d3e7bf}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
 <filename>../fsbext/gui_orig/starting_dynamic_platoon_01.wav</filename>
 <guid>{c6a57758-32bc-4cc4-a976-ef6007139ea0}</guid>
 <mindistance>1</mindistance>
@@ -7908,6 +7891,23 @@
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>44100</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>gui/update 6/enemy_capping_1.mp3</filename>
+<guid>{cc5e86d0-599f-453c-8702-41b6ebfe8c43}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>48000</deffreq>
 <defvol>1</defvol>
 <defpan>0</defpan>
 <defpri>128</defpri>
