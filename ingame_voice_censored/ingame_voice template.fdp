@@ -142,25 +142,7 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/ammo_rack_hit_05.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/ammo_rack_hit_06.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/ammo_rack_hit_07.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/ammo_rack_hit_08.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -214,24 +196,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/didntpen_4.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/didntpen_5.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_01.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/bounce_02.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -245,18 +209,6 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/bounce_04.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_05.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_07.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -298,12 +250,6 @@
 <trigger_delay_max>0</trigger_delay_max>
 <notes></notes>
 <waveform>
-<filename>voice mod folders template/bounce_01.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/bounce_02.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -317,18 +263,6 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/bounce_04.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_05.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_07.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -364,12 +298,6 @@
 <trigger_delay_max>0</trigger_delay_max>
 <notes></notes>
 <waveform>
-<filename>voice mod folders template/bounce_01.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/bounce_02.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -383,18 +311,6 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/bounce_04.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_05.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_07.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -766,12 +682,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/bounce_01.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/bounce_02.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -785,12 +695,6 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/bounce_04.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_07.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -850,12 +754,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/bounce_01.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/bounce_02.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -869,12 +767,6 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/bounce_04.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_07.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -934,12 +826,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/bounce_01.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/bounce_02.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -953,12 +839,6 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/bounce_04.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_07.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -1354,12 +1234,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/enemy_killed_02.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/enemy_killed_03.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -1421,12 +1295,6 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/enemy_killed_13.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/enemy_killed_14.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -1685,12 +1553,6 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/gun_damaged_2.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/gun_damaged_3.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -2050,12 +1912,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/battle_start_18.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/battle_start_19.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -2075,12 +1931,6 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/battle_start_22.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/battle_start_23.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -2206,30 +2056,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/battle_start_44.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/update 5/battle_start_1.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/update 5/battle_start_3.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/update 5/battle_start_4.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/update 5/battle_start_6.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -2242,13 +2068,13 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/update 5/battle_start_8.mp3</filename>
+<filename>voice mod folders template/update 6/battle_start_2.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/update 6/battle_start_2.mp3</filename>
+<filename>voice mod folders template/update 8/battle_start_1.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -2620,12 +2446,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/track_destroyed_5.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/track_destroyed_6.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -2945,18 +2765,6 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/player_died_21.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/player_died_22.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>voice mod folders template/update 5/player_died_1.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -9945,59 +9753,8 @@
 <notes></notes>
 </waveform>
 <waveform>
-<filename>voice mod folders template/ammo_rack_hit_05.mp3</filename>
-<guid>{2fba90f7-be09-45b9-b469-9b7a076cc162}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
 <filename>voice mod folders template/ammo_rack_hit_06.mp3</filename>
 <guid>{9846f6eb-41d3-499c-9156-69e385e0004a}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/ammo_rack_hit_07.mp3</filename>
-<guid>{99ab37e1-2c17-4ae1-969d-05a63752d374}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/ammo_rack_hit_08.mp3</filename>
-<guid>{2e2621cc-539d-47d2-96d5-7e7f12fa66bd}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
@@ -10302,23 +10059,6 @@
 <notes></notes>
 </waveform>
 <waveform>
-<filename>voice mod folders template/battle_start_18.mp3</filename>
-<guid>{11f9d051-cc98-4972-b7f2-3577e30fd85a}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
 <filename>voice mod folders template/battle_start_19.mp3</filename>
 <guid>{9fe7b76c-138f-488f-8136-f56e9b1a34cb}</guid>
 <mindistance>1</mindistance>
@@ -10372,23 +10112,6 @@
 <waveform>
 <filename>voice mod folders template/battle_start_22.mp3</filename>
 <guid>{f2147f60-70d5-4463-ac3d-004c886c44df}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/battle_start_23.mp3</filename>
-<guid>{964b2004-c251-436c-b041-c0818d859d14}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
@@ -10744,40 +10467,6 @@
 <notes></notes>
 </waveform>
 <waveform>
-<filename>voice mod folders template/battle_start_44.mp3</filename>
-<guid>{a277eee9-12ac-43ad-ab69-74c3b0ca35c9}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_01.mp3</filename>
-<guid>{afd82ef1-63b2-4507-bb6a-6b9132597c9b}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>44100</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
 <filename>voice mod folders template/bounce_02.mp3</filename>
 <guid>{cd728fb8-ae32-4ec1-a498-4628f9e18c1e}</guid>
 <mindistance>1</mindistance>
@@ -10814,40 +10503,6 @@
 <waveform>
 <filename>voice mod folders template/bounce_04.mp3</filename>
 <guid>{0d21b81f-a9ab-4695-ac32-ea3dae302549}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_05.mp3</filename>
-<guid>{b9178dd9-6f4c-4f13-bb96-a1e77d92082b}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>44100</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/bounce_07.mp3</filename>
-<guid>{1d4e4111-d2a2-4b19-8fa1-15dd5963ccf5}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
@@ -11152,40 +10807,6 @@
 <notes></notes>
 </waveform>
 <waveform>
-<filename>voice mod folders template/didntpen_4.mp3</filename>
-<guid>{bcb72d54-3f7d-4661-ad54-6db6de3cf967}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>44100</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/didntpen_5.mp3</filename>
-<guid>{812c8190-fd6e-4485-9b8a-aedcacb5e04c}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
 <filename>voice mod folders template/driver_died_1.mp3</filename>
 <guid>{5b9ab8ad-6b59-417d-9fec-b15e529067b9}</guid>
 <mindistance>1</mindistance>
@@ -11222,23 +10843,6 @@
 <waveform>
 <filename>voice mod folders template/enemy_killed_01.mp3</filename>
 <guid>{a61e5b31-7d05-471a-be55-ad1412f8b75f}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>44100</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/enemy_killed_02.mp3</filename>
-<guid>{45530dd2-bbee-4c2a-8614-f409f793041b}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>44100</deffreq>
@@ -11426,23 +11030,6 @@
 <waveform>
 <filename>voice mod folders template/enemy_killed_13.mp3</filename>
 <guid>{ffcb1dde-36c1-49fc-8222-1fc5899dcad3}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/enemy_killed_14.mp3</filename>
-<guid>{37aa14b1-f4dd-482e-9483-cff272c5da36}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
@@ -11667,23 +11254,6 @@
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>44100</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/gun_damaged_3.mp3</filename>
-<guid>{5e0e618a-ab41-49e3-8c80-96fdd49cff38}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
 <defvol>1</defvol>
 <defpan>0</defpan>
 <defpri>128</defpri>
@@ -12478,23 +12048,6 @@
 <notes></notes>
 </waveform>
 <waveform>
-<filename>voice mod folders template/player_died_22.mp3</filename>
-<guid>{2807a659-b8e5-4ec6-9874-4182a6171765}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
 <filename>voice mod folders template/player_on_fire_1.mp3</filename>
 <guid>{89f386b7-35d5-4959-8f06-18868f6c1f19}</guid>
 <mindistance>1</mindistance>
@@ -13209,23 +12762,6 @@
 <notes></notes>
 </waveform>
 <waveform>
-<filename>voice mod folders template/track_destroyed_5.mp3</filename>
-<guid>{193c489c-c7dd-4d11-9910-775550ddf239}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
 <filename>voice mod folders template/track_destroyed_6.mp3</filename>
 <guid>{225a1f39-7a4d-4f69-91b0-06c7a4bfb8ee}</guid>
 <mindistance>1</mindistance>
@@ -13362,57 +12898,6 @@
 <notes></notes>
 </waveform>
 <waveform>
-<filename>voice mod folders template/update 5/battle_start_1.mp3</filename>
-<guid>{51311fe1-1302-43e0-b131-ef225f8a1007}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/update 5/battle_start_3.mp3</filename>
-<guid>{b79a0a57-5a94-4ccb-9635-7bcdbff9e453}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/update 5/battle_start_4.mp3</filename>
-<guid>{5a7a192f-cd7d-4526-8977-b62446dad65a}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
 <filename>voice mod folders template/update 5/battle_start_6.mp3</filename>
 <guid>{2739f9c8-b41c-4e30-b1d1-3755e357b899}</guid>
 <mindistance>1</mindistance>
@@ -13432,40 +12917,6 @@
 <waveform>
 <filename>voice mod folders template/update 5/battle_start_7.mp3</filename>
 <guid>{29c0415e-b4c1-47dc-93f0-d3c8b169fedb}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/update 5/battle_start_8.mp3</filename>
-<guid>{5043f866-6082-43df-81f2-8ba52a4b9b68}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/update 5/player_died_1.mp3</filename>
-<guid>{781f26bf-7a81-4f8b-b1f9-3d407b9f8954}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
@@ -13690,6 +13141,23 @@
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 8/battle_start_1.mp3</filename>
+<guid>{6a60cb93-cd60-462d-b8c9-ad9edea2d86d}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>44100</deffreq>
 <defvol>1</defvol>
 <defpan>0</defpan>
 <defpri>128</defpri>

@@ -94,7 +94,7 @@
 <pitch_random_max>0</pitch_random_max>
 <pitch_randomization>0</pitch_randomization>
 <pitch_recalculate>0</pitch_recalculate>
-<volume_db>-8.5</volume_db>
+<volume_db>-7</volume_db>
 <volume_randmethod>1</volume_randmethod>
 <volume_random_min>0</volume_random_min>
 <volume_random_max>0</volume_random_max>

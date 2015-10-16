@@ -94,7 +94,7 @@
 <pitch_random_max>0</pitch_random_max>
 <pitch_randomization>0</pitch_randomization>
 <pitch_recalculate>0</pitch_recalculate>
-<volume_db>0</volume_db>
+<volume_db>-7</volume_db>
 <volume_randmethod>1</volume_randmethod>
 <volume_random_min>0</volume_random_min>
 <volume_random_max>0</volume_random_max>
@@ -213,12 +213,6 @@
 </waveform>
 <waveform>
 <filename>gui/battle_countdown_5.mp3</filename>
-<soundbankname>gui</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
-<filename>gui/update 3/battle_countdown_1.mp3</filename>
 <soundbankname>gui</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -7755,23 +7749,6 @@
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>gui/update 3/battle_countdown_1.mp3</filename>
-<guid>{16e392e6-586f-4409-bf8a-3cbb2e563907}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>44100</deffreq>
 <defvol>1</defvol>
 <defpan>0</defpan>
 <defpri>128</defpri>
