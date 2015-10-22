@@ -2446,12 +2446,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/track_destroyed_5.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/track_destroyed_6.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -12753,23 +12747,6 @@
 <waveform>
 <filename>voice mod folders template/track_destroyed_4.mp3</filename>
 <guid>{9d355df1-6e03-49d3-890e-36b5a0b4660a}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/track_destroyed_5.mp3</filename>
-<guid>{193c489c-c7dd-4d11-9910-775550ddf239}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
