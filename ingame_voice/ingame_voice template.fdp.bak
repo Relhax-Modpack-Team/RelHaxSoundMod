@@ -849,6 +849,12 @@
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
 </waveform>
+<waveform>
+<filename>voice mod folders template/update 9/critical_hit_1.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
 </sounddef>
 <sounddef>
 <name>/enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player</name>
@@ -933,6 +939,12 @@
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
 </waveform>
+<waveform>
+<filename>voice mod folders template/update 9/critical_hit_1.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
 </sounddef>
 <sounddef>
 <name>/enemy_no_hp_damage_at_no_attempt_by_player</name>
@@ -1013,6 +1025,12 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/bounce_08.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 9/critical_hit_1.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -13528,6 +13546,23 @@
 <waveform>
 <filename>voice mod folders template/update 8/player_died_1.mp3</filename>
 <guid>{3049bc9f-37db-434d-aca0-e2c8ed0b7e64}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>44100</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 9/critical_hit_1.mp3</filename>
+<guid>{294ea1f5-1c87-4365-a62f-8d1d420bee8d}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>44100</deffreq>
