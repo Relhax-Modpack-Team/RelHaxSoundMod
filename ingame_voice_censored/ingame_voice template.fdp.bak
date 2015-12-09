@@ -2097,6 +2097,12 @@
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
 </waveform>
+<waveform>
+<filename>voice mod folders template/update 10/battle_start_1.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
 </sounddef>
 <sounddef>
 <name>/surveying_devices_crit_damaged</name>
@@ -2261,6 +2267,12 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/update 6/target_locked_1.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 10/target_locked_1.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -12901,6 +12913,40 @@
 <waveform>
 <filename>voice mod folders template/turret_ring_functional_2.mp3</filename>
 <guid>{233bf73a-968b-4285-be4e-67d0b4e22974}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>48000</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 10/battle_start_1.mp3</filename>
+<guid>{6fbc88ee-1efb-4ae9-8160-cac41db1b6c2}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>44100</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 10/target_locked_1.mp3</filename>
+<guid>{0b287224-06cf-46ad-b1db-4b73979be168}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>

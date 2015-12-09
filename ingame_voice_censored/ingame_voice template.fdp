@@ -1276,12 +1276,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/enemy_killed_07.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/enemy_killed_08.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -1300,12 +1294,6 @@
 <percentagelocked>0</percentagelocked>
 </waveform>
 <waveform>
-<filename>voice mod folders template/enemy_killed_11.mp3</filename>
-<soundbankname>ingame_voice_def</soundbankname>
-<weight>100</weight>
-<percentagelocked>0</percentagelocked>
-</waveform>
-<waveform>
 <filename>voice mod folders template/enemy_killed_12.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
@@ -1313,6 +1301,12 @@
 </waveform>
 <waveform>
 <filename>voice mod folders template/enemy_killed_13.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 11/enemy_killed_1.mp3</filename>
 <soundbankname>ingame_voice_def</soundbankname>
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
@@ -10956,23 +10950,6 @@
 <notes></notes>
 </waveform>
 <waveform>
-<filename>voice mod folders template/enemy_killed_07.mp3</filename>
-<guid>{7d1f82a3-dac5-4563-919f-3b23a90b0b98}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
 <filename>voice mod folders template/enemy_killed_08.mp3</filename>
 <guid>{4336ca5b-4b44-4d14-ae27-c6be9e144b73}</guid>
 <mindistance>1</mindistance>
@@ -11009,23 +10986,6 @@
 <waveform>
 <filename>voice mod folders template/enemy_killed_10.mp3</filename>
 <guid>{7861cf85-3f51-4edc-ac0a-0c37feb0b043}</guid>
-<mindistance>1</mindistance>
-<maxdistance>10000</maxdistance>
-<deffreq>48000</deffreq>
-<defvol>1</defvol>
-<defpan>0</defpan>
-<defpri>128</defpri>
-<xmafiltering>0</xmafiltering>
-<channelmode>0</channelmode>
-<quality_crossplatform>0</quality_crossplatform>
-<quality>-1</quality>
-<optimisedratereduction>100</optimisedratereduction>
-<enableratereduction>1</enableratereduction>
-<notes></notes>
-</waveform>
-<waveform>
-<filename>voice mod folders template/enemy_killed_11.mp3</filename>
-<guid>{d7f1bd34-df65-4a88-af53-415f0f8dbb85}</guid>
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
@@ -12950,6 +12910,23 @@
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 11/enemy_killed_1.mp3</filename>
+<guid>{02342863-21ee-41b4-8f8c-5f2e3548014c}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>44100</deffreq>
 <defvol>1</defvol>
 <defpan>0</defpan>
 <defpri>128</defpri>

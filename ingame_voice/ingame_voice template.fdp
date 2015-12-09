@@ -1491,6 +1491,12 @@
 <weight>100</weight>
 <percentagelocked>0</percentagelocked>
 </waveform>
+<waveform>
+<filename>voice mod folders template/update 11/enemy_killed_1.mp3</filename>
+<soundbankname>ingame_voice_def</soundbankname>
+<weight>100</weight>
+<percentagelocked>0</percentagelocked>
+</waveform>
 </sounddef>
 <sounddef>
 <name>/engine_damaged</name>
@@ -13289,6 +13295,23 @@
 <mindistance>1</mindistance>
 <maxdistance>10000</maxdistance>
 <deffreq>48000</deffreq>
+<defvol>1</defvol>
+<defpan>0</defpan>
+<defpri>128</defpri>
+<xmafiltering>0</xmafiltering>
+<channelmode>0</channelmode>
+<quality_crossplatform>0</quality_crossplatform>
+<quality>-1</quality>
+<optimisedratereduction>100</optimisedratereduction>
+<enableratereduction>1</enableratereduction>
+<notes></notes>
+</waveform>
+<waveform>
+<filename>voice mod folders template/update 11/enemy_killed_1.mp3</filename>
+<guid>{0d537478-400b-4e9b-9992-6e205a3a3675}</guid>
+<mindistance>1</mindistance>
+<maxdistance>10000</maxdistance>
+<deffreq>44100</deffreq>
 <defvol>1</defvol>
 <defpan>0</defpan>
 <defpri>128</defpri>
