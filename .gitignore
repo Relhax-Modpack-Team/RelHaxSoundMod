@@ -10,3 +10,4 @@
 *.bak
 /zip distrubitables
 *.zip
+/python
