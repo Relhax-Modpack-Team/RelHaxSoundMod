@@ -1,0 +1,6 @@
+14:02:24 ..\..\src\propertyeditor.cpp:1508 EM: Set Name
+14:04:02 ..\..\src\propertyeditor.cpp:1508 EM: Set Name
+14:09:03 ..\..\src\propertyeditor.cpp:1508 EM: Set Filename Prefix
+14:09:13 ..\..\src\propertyeditor.cpp:1508 EM: Set Filename Prefix
+14:10:05 ..\..\src\editlanguagesdialog.cpp:135 BH: Change Languages
+14:10:13 ..\..\src\propertyeditor.cpp:1508 EM: Set Filename Prefix

@@ -1,0 +1,2020 @@
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: QPainter::begin: Paint device returned engine == 0, type: 1
+Warning: QPainter::setPen: Painter not active
+Warning: QPainter::setBrush: Painter not active
+Warning: QPainter::setRenderHint: Painter must be active to set rendering hints
+Warning: QPainter::setPen: Painter not active
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Debug: "14:02:24 ..\..\src\propertyeditor.cpp:1508 EM: Set Name" 
+Debug: 
+Building project 'ingame_voice'...
+Debug: Building project F:\RelHaxSoundMod\ingame_voice\ingame_voice.fev...
+Debug: Unique sound defs 1/65
+Debug: Retrieving sound file info...
+Debug: Retrieving reverb info...
+Debug: FEV file written ok
+Debug: Unique Envelope Points: 0 of 0
+Debug: Unique Strings: 3252 characters of 3253
+Debug: Caching sound file details for ''...
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_captured_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_captured_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_4.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_5.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_6.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ready_for_action.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_03.wav
+Debug: ..\ingame_voice_censored\voice mod folders template\update 7\pen_1.mp3
+Debug: ..\ingame_voice_censored\voice mod folders template\update 7\pen_2.mp3
+Debug: voice mod folders template\ammo_rack_hit_01.mp3
+Debug: voice mod folders template\ammo_rack_hit_02.mp3
+Debug: voice mod folders template\ammo_rack_hit_03.mp3
+Debug: voice mod folders template\ammo_rack_hit_04.mp3
+Debug: voice mod folders template\ammo_rack_hit_06.mp3
+Debug: voice mod folders template\battle_start_01.mp3
+Debug: voice mod folders template\battle_start_02.mp3
+Debug: voice mod folders template\battle_start_03.mp3
+Debug: voice mod folders template\battle_start_04.mp3
+Debug: voice mod folders template\battle_start_05.mp3
+Debug: voice mod folders template\battle_start_06.mp3
+Debug: voice mod folders template\battle_start_07.mp3
+Debug: voice mod folders template\battle_start_08.mp3
+Debug: voice mod folders template\battle_start_09.mp3
+Debug: voice mod folders template\battle_start_10.mp3
+Debug: voice mod folders template\battle_start_11.mp3
+Debug: voice mod folders template\battle_start_12.mp3
+Debug: voice mod folders template\battle_start_13.mp3
+Debug: voice mod folders template\battle_start_14.mp3
+Debug: voice mod folders template\battle_start_15.mp3
+Debug: voice mod folders template\battle_start_16.mp3
+Debug: voice mod folders template\battle_start_17.mp3
+Debug: voice mod folders template\battle_start_19.mp3
+Debug: voice mod folders template\battle_start_20.mp3
+Debug: voice mod folders template\battle_start_21.mp3
+Debug: voice mod folders template\battle_start_22.mp3
+Debug: voice mod folders template\battle_start_23.mp3
+Debug: voice mod folders template\battle_start_24.mp3
+Debug: voice mod folders template\battle_start_25.mp3
+Debug: voice mod folders template\battle_start_26.mp3
+Debug: voice mod folders template\battle_start_27.mp3
+Debug: voice mod folders template\battle_start_28.mp3
+Debug: voice mod folders template\battle_start_29.mp3
+Debug: voice mod folders template\battle_start_30.mp3
+Debug: voice mod folders template\battle_start_31.mp3
+Debug: voice mod folders template\battle_start_32.mp3
+Debug: voice mod folders template\battle_start_33.mp3
+Debug: voice mod folders template\battle_start_34.mp3
+Debug: voice mod folders template\battle_start_35.mp3
+Debug: voice mod folders template\battle_start_36.mp3
+Debug: voice mod folders template\battle_start_37.mp3
+Debug: voice mod folders template\battle_start_38.mp3
+Debug: voice mod folders template\battle_start_39.mp3
+Debug: voice mod folders template\battle_start_40.mp3
+Debug: voice mod folders template\battle_start_41.mp3
+Debug: voice mod folders template\battle_start_42.mp3
+Debug: voice mod folders template\battle_start_43.mp3
+Debug: voice mod folders template\bounce_02.mp3
+Debug: voice mod folders template\bounce_03.mp3
+Debug: voice mod folders template\bounce_04.mp3
+Debug: voice mod folders template\bounce_06.mp3
+Debug: voice mod folders template\bounce_07.mp3
+Debug: voice mod folders template\bounce_08.mp3
+Debug: voice mod folders template\commander_died_1.mp3
+Debug: voice mod folders template\commander_died_2.mp3
+Debug: voice mod folders template\commander_died_3.mp3
+Debug: voice mod folders template\commander_died_4.mp3
+Debug: voice mod folders template\commander_died_5.mp3
+Debug: voice mod folders template\crew_died_1.mp3
+Debug: voice mod folders template\crew_died_2.mp3
+Debug: voice mod folders template\crew_died_3.mp3
+Debug: voice mod folders template\crew_died_4.mp3
+Debug: voice mod folders template\criticalhit_1.mp3
+Debug: voice mod folders template\criticalhit_2.mp3
+Debug: voice mod folders template\criticalhit_3.mp3
+Debug: voice mod folders template\criticalhit_4.mp3
+Debug: voice mod folders template\didntpen_1.mp3
+Debug: voice mod folders template\didntpen_2.mp3
+Debug: voice mod folders template\didntpen_3.mp3
+Debug: voice mod folders template\didntpen_4.mp3
+Debug: voice mod folders template\driver_died_1.mp3
+Debug: voice mod folders template\driver_died_2.mp3
+Debug: voice mod folders template\enemy_killed_01.mp3
+Debug: voice mod folders template\enemy_killed_02.mp3
+Debug: voice mod folders template\enemy_killed_03.mp3
+Debug: voice mod folders template\enemy_killed_04.mp3
+Debug: voice mod folders template\enemy_killed_06.mp3
+Debug: voice mod folders template\enemy_killed_07.mp3
+Debug: voice mod folders template\enemy_killed_08.mp3
+Debug: voice mod folders template\enemy_killed_09.mp3
+Debug: voice mod folders template\enemy_killed_10.mp3
+Debug: voice mod folders template\enemy_killed_11.mp3
+Debug: voice mod folders template\enemy_killed_12.mp3
+Debug: voice mod folders template\enemy_killed_13.mp3
+Debug: voice mod folders template\enemy_killed_14.mp3
+Debug: voice mod folders template\engine_damaged_1.mp3
+Debug: voice mod folders template\engine_damaged_2.mp3
+Debug: voice mod folders template\engine_destroyed_1.mp3
+Debug: voice mod folders template\engine_fire_1.mp3
+Debug: voice mod folders template\engine_fire_2.mp3
+Debug: voice mod folders template\engine_functional_1.mp3
+Debug: voice mod folders template\engine_functional_2.mp3
+Debug: voice mod folders template\fire_out_1.mp3
+Debug: voice mod folders template\fire_out_2.mp3
+Debug: voice mod folders template\fueltank_damaged_1.mp3
+Debug: voice mod folders template\fueltank_damaged_2.mp3
+Debug: voice mod folders template\gun_damaged_1.mp3
+Debug: voice mod folders template\gun_damaged_2.mp3
+Debug: voice mod folders template\gun_destroyed_1.mp3
+Debug: voice mod folders template\gun_functional_1.mp3
+Debug: voice mod folders template\gun_functional_2.mp3
+Debug: voice mod folders template\gunner_died_1.mp3
+Debug: voice mod folders template\gunner_died_2.mp3
+Debug: voice mod folders template\loader_killed_1.mp3
+Debug: voice mod folders template\loader_killed_2.mp3
+Debug: voice mod folders template\missed_closely_01.mp3
+Debug: voice mod folders template\missed_closely_02.mp3
+Debug: voice mod folders template\missed_closely_03.mp3
+Debug: voice mod folders template\missed_closely_04.mp3
+Debug: voice mod folders template\missed_closely_05.mp3
+Debug: voice mod folders template\missed_closely_06.mp3
+Debug: voice mod folders template\missed_closely_07.mp3
+Debug: voice mod folders template\missed_closely_08.mp3
+Debug: voice mod folders template\missed_closely_09.mp3
+Debug: voice mod folders template\near_explosion.mp3
+Debug: voice mod folders template\pen_01.mp3
+Debug: voice mod folders template\pen_03.mp3
+Debug: voice mod folders template\pen_04.mp3
+Debug: voice mod folders template\pen_05.mp3
+Debug: voice mod folders template\pen_06.mp3
+Debug: voice mod folders template\pen_07.mp3
+Debug: voice mod folders template\pen_08.mp3
+Debug: voice mod folders template\pen_09.mp3
+Debug: voice mod folders template\pen_10.mp3
+Debug: voice mod folders template\pen_11.mp3
+Debug: voice mod folders template\pen_12.mp3
+Debug: voice mod folders template\player_died_01.mp3
+Debug: voice mod folders template\player_died_02.mp3
+Debug: voice mod folders template\player_died_03.mp3
+Debug: voice mod folders template\player_died_04.mp3
+Debug: voice mod folders template\player_died_05.mp3
+Debug: voice mod folders template\player_died_06.mp3
+Debug: voice mod folders template\player_died_07.mp3
+Debug: voice mod folders template\player_died_08.mp3
+Debug: voice mod folders template\player_died_09.mp3
+Debug: voice mod folders template\player_died_10.mp3
+Debug: voice mod folders template\player_died_11.mp3
+Debug: voice mod folders template\player_died_12.mp3
+Debug: voice mod folders template\player_died_13.mp3
+Debug: voice mod folders template\player_died_14.mp3
+Debug: voice mod folders template\player_died_15.mp3
+Debug: voice mod folders template\player_died_16.mp3
+Debug: voice mod folders template\player_died_17.mp3
+Debug: voice mod folders template\player_died_18.mp3
+Debug: voice mod folders template\player_died_19.mp3
+Debug: voice mod folders template\player_died_20.mp3
+Debug: voice mod folders template\player_on_fire_1.mp3
+Debug: voice mod folders template\player_on_fire_2.mp3
+Debug: voice mod folders template\player_on_fire_3.mp3
+Debug: voice mod folders template\player_on_fire_4.mp3
+Debug: voice mod folders template\radio_damaged_1.mp3
+Debug: voice mod folders template\radio_damaged_2.mp3
+Debug: voice mod folders template\radio_damaged_3.mp3
+Debug: voice mod folders template\radioman_died_1.mp3
+Debug: voice mod folders template\radioman_died_2.mp3
+Debug: voice mod folders template\radioman_died_3.mp3
+Debug: voice mod folders template\radioman_died_4.mp3
+Debug: voice mod folders template\riccochet_1.mp3
+Debug: voice mod folders template\riccochet_2.mp3
+Debug: voice mod folders template\riccochet_5.mp3
+Debug: voice mod folders template\surveying_device_damged_1.mp3
+Debug: voice mod folders template\surveying_device_destroyed_1.mp3
+Debug: voice mod folders template\surveying_device_functional_1.mp3
+Debug: voice mod folders template\target_locked_1.mp3
+Debug: voice mod folders template\target_locked_2.mp3
+Debug: voice mod folders template\target_locked_3.mp3
+Debug: voice mod folders template\target_lost_1.mp3
+Debug: voice mod folders template\target_lost_2.mp3
+Debug: voice mod folders template\target_lost_3.mp3
+Debug: voice mod folders template\target_lost_4.mp3
+Debug: voice mod folders template\target_lost_5.mp3
+Debug: voice mod folders template\target_lost_6.mp3
+Debug: voice mod folders template\target_unlocked_1.mp3
+Debug: voice mod folders template\target_unlocked_2.mp3
+Debug: voice mod folders template\target_unlocked_3.mp3
+Debug: voice mod folders template\target_unlocked_4.mp3
+Debug: voice mod folders template\teamkill_1.mp3
+Debug: voice mod folders template\teamkill_2.mp3
+Debug: voice mod folders template\teamkill_3.mp3
+Debug: voice mod folders template\teamkill_4.mp3
+Debug: voice mod folders template\teamkill_5.mp3
+Debug: voice mod folders template\track_damaged_1.mp3
+Debug: voice mod folders template\track_damaged_2.mp3
+Debug: voice mod folders template\track_damaged_3.mp3
+Debug: voice mod folders template\track_destroyed_1.mp3
+Debug: voice mod folders template\track_destroyed_2.mp3
+Debug: voice mod folders template\track_destroyed_4.mp3
+Debug: voice mod folders template\track_destroyed_5.mp3
+Debug: voice mod folders template\track_destroyed_6.mp3
+Debug: voice mod folders template\track_repaired_1.mp3
+Debug: voice mod folders template\track_repaired_can_move_1.mp3
+Debug: voice mod folders template\track_repaired_can_move_2.mp3
+Debug: voice mod folders template\turret_ring_damaged_1.mp3
+Debug: voice mod folders template\turret_ring_destroyed_1.mp3
+Debug: voice mod folders template\turret_ring_functional_1.mp3
+Debug: voice mod folders template\turret_ring_functional_2.mp3
+Debug: voice mod folders template\update 10\battle_start_1.mp3
+Debug: voice mod folders template\update 10\target_locked_1.mp3
+Debug: voice mod folders template\update 11\enemy_killed_1.mp3
+Debug: voice mod folders template\update 5\battle_start_6.mp3
+Debug: voice mod folders template\update 5\battle_start_7.mp3
+Debug: voice mod folders template\update 5\player_died_2.mp3
+Debug: voice mod folders template\update 6\ammo_rack_hit_1.mp3
+Debug: voice mod folders template\update 6\battle_start_1.mp3
+Debug: voice mod folders template\update 6\battle_start_2.mp3
+Debug: voice mod folders template\update 6\didntpen_1.mp3
+Debug: voice mod folders template\update 6\didntpen_2.mp3
+Debug: voice mod folders template\update 6\player_died_1.mp3
+Debug: voice mod folders template\update 6\player_died_2.mp3
+Debug: voice mod folders template\update 6\riccochet_1.mp3
+Debug: voice mod folders template\update 6\target_locked_1.mp3
+Debug: voice mod folders template\update 7\player_died_1.mp3
+Debug: voice mod folders template\update 7\player_died_2.mp3
+Debug: voice mod folders template\update 7\tracks_destroyed_1.mp3
+Debug: voice mod folders template\update 8\battle_start_1.mp3
+Debug: voice mod folders template\update 8\pen_1.mp3
+Debug: voice mod folders template\update 8\player_died_1.mp3
+Debug: voice mod folders template\update 9\critical_hit_1.mp3
+Debug: Building 'ingame_voice_uk.fsb'
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_captured_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_captured_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_4.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_5.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_6.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_deliver_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_deliver_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_deliver_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_drop_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_drop_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_drop_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ready_for_action.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_repair_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_repair_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_repair_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_take_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_take_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_take_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\assistance_been_requested_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\assistance_been_requested_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\assistance_been_requested_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\been_excluded_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\been_excluded_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\been_excluded_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\left_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\left_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\left_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_created_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_created_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_created_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_dismissed_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_dismissed_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_dismissed_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_joined_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_joined_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_joined_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\player_joined_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\player_joined_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\player_joined_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\ingame_voice_censored\voice mod folders template\update 7\pen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\ingame_voice_censored\voice mod folders template\update 7\pen_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_13.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_14.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_15.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_16.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_17.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_19.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_20.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_21.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_22.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_23.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_24.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_25.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_26.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_27.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_28.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_29.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_30.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_31.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_32.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_33.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_34.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_35.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_36.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_37.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_38.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_39.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_40.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_41.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_42.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_43.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\driver_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\driver_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_13.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_14.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_fire_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_fire_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_functional_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fire_out_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fire_out_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fueltank_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fueltank_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_functional_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gunner_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gunner_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\loader_killed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\loader_killed_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\near_explosion.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_13.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_14.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_15.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_16.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_17.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_18.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_19.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_20.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radio_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radio_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radio_damaged_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\riccochet_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\riccochet_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\riccochet_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\surveying_device_damged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\surveying_device_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\surveying_device_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_locked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_locked_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_locked_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_6.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_damaged_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_6.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_repaired_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_repaired_can_move_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_repaired_can_move_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_functional_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 10\battle_start_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 10\target_locked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 11\enemy_killed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 5\battle_start_6.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 5\battle_start_7.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 5\player_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\ammo_rack_hit_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\battle_start_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\battle_start_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\didntpen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\didntpen_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\player_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\player_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\riccochet_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\target_locked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 7\player_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 7\player_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 7\tracks_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 8\battle_start_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 8\pen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 8\player_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 9\critical_hit_1.mp3
+Debug: Writing FSB...
+Debug: Finished building FSB
+Debug: 
+Debug: 
+Summary of build:
+SUCCESS: F:/RelHaxSoundMod/ingame_voice/ingame_voice.fev
+SUCCESS: ingame_voice_uk.fsb
+Debug: "14:04:02 ..\..\src\propertyeditor.cpp:1508 EM: Set Name" 
+Debug: 
+Building project 'ingame_voice'...
+Debug: Building project F:\RelHaxSoundMod\ingame_voice\ingame_voice.fev...
+Debug: Unique sound defs 1/65
+Debug: Retrieving sound file info...
+Debug: Retrieving reverb info...
+Debug: FEV file written ok
+Debug: Unique Envelope Points: 0 of 0
+Debug: Unique Strings: 3252 characters of 3253
+Debug: Caching sound file details for ''...
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_captured_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_captured_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_4.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_5.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_6.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ready_for_action.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_03.wav
+Debug: ..\ingame_voice_censored\voice mod folders template\update 7\pen_1.mp3
+Debug: ..\ingame_voice_censored\voice mod folders template\update 7\pen_2.mp3
+Debug: voice mod folders template\ammo_rack_hit_01.mp3
+Debug: voice mod folders template\ammo_rack_hit_02.mp3
+Debug: voice mod folders template\ammo_rack_hit_03.mp3
+Debug: voice mod folders template\ammo_rack_hit_04.mp3
+Debug: voice mod folders template\ammo_rack_hit_06.mp3
+Debug: voice mod folders template\battle_start_01.mp3
+Debug: voice mod folders template\battle_start_02.mp3
+Debug: voice mod folders template\battle_start_03.mp3
+Debug: voice mod folders template\battle_start_04.mp3
+Debug: voice mod folders template\battle_start_05.mp3
+Debug: voice mod folders template\battle_start_06.mp3
+Debug: voice mod folders template\battle_start_07.mp3
+Debug: voice mod folders template\battle_start_08.mp3
+Debug: voice mod folders template\battle_start_09.mp3
+Debug: voice mod folders template\battle_start_10.mp3
+Debug: voice mod folders template\battle_start_11.mp3
+Debug: voice mod folders template\battle_start_12.mp3
+Debug: voice mod folders template\battle_start_13.mp3
+Debug: voice mod folders template\battle_start_14.mp3
+Debug: voice mod folders template\battle_start_15.mp3
+Debug: voice mod folders template\battle_start_16.mp3
+Debug: voice mod folders template\battle_start_17.mp3
+Debug: voice mod folders template\battle_start_19.mp3
+Debug: voice mod folders template\battle_start_20.mp3
+Debug: voice mod folders template\battle_start_21.mp3
+Debug: voice mod folders template\battle_start_22.mp3
+Debug: voice mod folders template\battle_start_23.mp3
+Debug: voice mod folders template\battle_start_24.mp3
+Debug: voice mod folders template\battle_start_25.mp3
+Debug: voice mod folders template\battle_start_26.mp3
+Debug: voice mod folders template\battle_start_27.mp3
+Debug: voice mod folders template\battle_start_28.mp3
+Debug: voice mod folders template\battle_start_29.mp3
+Debug: voice mod folders template\battle_start_30.mp3
+Debug: voice mod folders template\battle_start_31.mp3
+Debug: voice mod folders template\battle_start_32.mp3
+Debug: voice mod folders template\battle_start_33.mp3
+Debug: voice mod folders template\battle_start_34.mp3
+Debug: voice mod folders template\battle_start_35.mp3
+Debug: voice mod folders template\battle_start_36.mp3
+Debug: voice mod folders template\battle_start_37.mp3
+Debug: voice mod folders template\battle_start_38.mp3
+Debug: voice mod folders template\battle_start_39.mp3
+Debug: voice mod folders template\battle_start_40.mp3
+Debug: voice mod folders template\battle_start_41.mp3
+Debug: voice mod folders template\battle_start_42.mp3
+Debug: voice mod folders template\battle_start_43.mp3
+Debug: voice mod folders template\bounce_02.mp3
+Debug: voice mod folders template\bounce_03.mp3
+Debug: voice mod folders template\bounce_04.mp3
+Debug: voice mod folders template\bounce_06.mp3
+Debug: voice mod folders template\bounce_07.mp3
+Debug: voice mod folders template\bounce_08.mp3
+Debug: voice mod folders template\commander_died_1.mp3
+Debug: voice mod folders template\commander_died_2.mp3
+Debug: voice mod folders template\commander_died_3.mp3
+Debug: voice mod folders template\commander_died_4.mp3
+Debug: voice mod folders template\commander_died_5.mp3
+Debug: voice mod folders template\crew_died_1.mp3
+Debug: voice mod folders template\crew_died_2.mp3
+Debug: voice mod folders template\crew_died_3.mp3
+Debug: voice mod folders template\crew_died_4.mp3
+Debug: voice mod folders template\criticalhit_1.mp3
+Debug: voice mod folders template\criticalhit_2.mp3
+Debug: voice mod folders template\criticalhit_3.mp3
+Debug: voice mod folders template\criticalhit_4.mp3
+Debug: voice mod folders template\didntpen_1.mp3
+Debug: voice mod folders template\didntpen_2.mp3
+Debug: voice mod folders template\didntpen_3.mp3
+Debug: voice mod folders template\didntpen_4.mp3
+Debug: voice mod folders template\driver_died_1.mp3
+Debug: voice mod folders template\driver_died_2.mp3
+Debug: voice mod folders template\enemy_killed_01.mp3
+Debug: voice mod folders template\enemy_killed_02.mp3
+Debug: voice mod folders template\enemy_killed_03.mp3
+Debug: voice mod folders template\enemy_killed_04.mp3
+Debug: voice mod folders template\enemy_killed_06.mp3
+Debug: voice mod folders template\enemy_killed_07.mp3
+Debug: voice mod folders template\enemy_killed_08.mp3
+Debug: voice mod folders template\enemy_killed_09.mp3
+Debug: voice mod folders template\enemy_killed_10.mp3
+Debug: voice mod folders template\enemy_killed_11.mp3
+Debug: voice mod folders template\enemy_killed_12.mp3
+Debug: voice mod folders template\enemy_killed_13.mp3
+Debug: voice mod folders template\enemy_killed_14.mp3
+Debug: voice mod folders template\engine_damaged_1.mp3
+Debug: voice mod folders template\engine_damaged_2.mp3
+Debug: voice mod folders template\engine_destroyed_1.mp3
+Debug: voice mod folders template\engine_fire_1.mp3
+Debug: voice mod folders template\engine_fire_2.mp3
+Debug: voice mod folders template\engine_functional_1.mp3
+Debug: voice mod folders template\engine_functional_2.mp3
+Debug: voice mod folders template\fire_out_1.mp3
+Debug: voice mod folders template\fire_out_2.mp3
+Debug: voice mod folders template\fueltank_damaged_1.mp3
+Debug: voice mod folders template\fueltank_damaged_2.mp3
+Debug: voice mod folders template\gun_damaged_1.mp3
+Debug: voice mod folders template\gun_damaged_2.mp3
+Debug: voice mod folders template\gun_destroyed_1.mp3
+Debug: voice mod folders template\gun_functional_1.mp3
+Debug: voice mod folders template\gun_functional_2.mp3
+Debug: voice mod folders template\gunner_died_1.mp3
+Debug: voice mod folders template\gunner_died_2.mp3
+Debug: voice mod folders template\loader_killed_1.mp3
+Debug: voice mod folders template\loader_killed_2.mp3
+Debug: voice mod folders template\missed_closely_01.mp3
+Debug: voice mod folders template\missed_closely_02.mp3
+Debug: voice mod folders template\missed_closely_03.mp3
+Debug: voice mod folders template\missed_closely_04.mp3
+Debug: voice mod folders template\missed_closely_05.mp3
+Debug: voice mod folders template\missed_closely_06.mp3
+Debug: voice mod folders template\missed_closely_07.mp3
+Debug: voice mod folders template\missed_closely_08.mp3
+Debug: voice mod folders template\missed_closely_09.mp3
+Debug: voice mod folders template\near_explosion.mp3
+Debug: voice mod folders template\pen_01.mp3
+Debug: voice mod folders template\pen_03.mp3
+Debug: voice mod folders template\pen_04.mp3
+Debug: voice mod folders template\pen_05.mp3
+Debug: voice mod folders template\pen_06.mp3
+Debug: voice mod folders template\pen_07.mp3
+Debug: voice mod folders template\pen_08.mp3
+Debug: voice mod folders template\pen_09.mp3
+Debug: voice mod folders template\pen_10.mp3
+Debug: voice mod folders template\pen_11.mp3
+Debug: voice mod folders template\pen_12.mp3
+Debug: voice mod folders template\player_died_01.mp3
+Debug: voice mod folders template\player_died_02.mp3
+Debug: voice mod folders template\player_died_03.mp3
+Debug: voice mod folders template\player_died_04.mp3
+Debug: voice mod folders template\player_died_05.mp3
+Debug: voice mod folders template\player_died_06.mp3
+Debug: voice mod folders template\player_died_07.mp3
+Debug: voice mod folders template\player_died_08.mp3
+Debug: voice mod folders template\player_died_09.mp3
+Debug: voice mod folders template\player_died_10.mp3
+Debug: voice mod folders template\player_died_11.mp3
+Debug: voice mod folders template\player_died_12.mp3
+Debug: voice mod folders template\player_died_13.mp3
+Debug: voice mod folders template\player_died_14.mp3
+Debug: voice mod folders template\player_died_15.mp3
+Debug: voice mod folders template\player_died_16.mp3
+Debug: voice mod folders template\player_died_17.mp3
+Debug: voice mod folders template\player_died_18.mp3
+Debug: voice mod folders template\player_died_19.mp3
+Debug: voice mod folders template\player_died_20.mp3
+Debug: voice mod folders template\player_on_fire_1.mp3
+Debug: voice mod folders template\player_on_fire_2.mp3
+Debug: voice mod folders template\player_on_fire_3.mp3
+Debug: voice mod folders template\player_on_fire_4.mp3
+Debug: voice mod folders template\radio_damaged_1.mp3
+Debug: voice mod folders template\radio_damaged_2.mp3
+Debug: voice mod folders template\radio_damaged_3.mp3
+Debug: voice mod folders template\radioman_died_1.mp3
+Debug: voice mod folders template\radioman_died_2.mp3
+Debug: voice mod folders template\radioman_died_3.mp3
+Debug: voice mod folders template\radioman_died_4.mp3
+Debug: voice mod folders template\riccochet_1.mp3
+Debug: voice mod folders template\riccochet_2.mp3
+Debug: voice mod folders template\riccochet_5.mp3
+Debug: voice mod folders template\surveying_device_damged_1.mp3
+Debug: voice mod folders template\surveying_device_destroyed_1.mp3
+Debug: voice mod folders template\surveying_device_functional_1.mp3
+Debug: voice mod folders template\target_locked_1.mp3
+Debug: voice mod folders template\target_locked_2.mp3
+Debug: voice mod folders template\target_locked_3.mp3
+Debug: voice mod folders template\target_lost_1.mp3
+Debug: voice mod folders template\target_lost_2.mp3
+Debug: voice mod folders template\target_lost_3.mp3
+Debug: voice mod folders template\target_lost_4.mp3
+Debug: voice mod folders template\target_lost_5.mp3
+Debug: voice mod folders template\target_lost_6.mp3
+Debug: voice mod folders template\target_unlocked_1.mp3
+Debug: voice mod folders template\target_unlocked_2.mp3
+Debug: voice mod folders template\target_unlocked_3.mp3
+Debug: voice mod folders template\target_unlocked_4.mp3
+Debug: voice mod folders template\teamkill_1.mp3
+Debug: voice mod folders template\teamkill_2.mp3
+Debug: voice mod folders template\teamkill_3.mp3
+Debug: voice mod folders template\teamkill_4.mp3
+Debug: voice mod folders template\teamkill_5.mp3
+Debug: voice mod folders template\track_damaged_1.mp3
+Debug: voice mod folders template\track_damaged_2.mp3
+Debug: voice mod folders template\track_damaged_3.mp3
+Debug: voice mod folders template\track_destroyed_1.mp3
+Debug: voice mod folders template\track_destroyed_2.mp3
+Debug: voice mod folders template\track_destroyed_4.mp3
+Debug: voice mod folders template\track_destroyed_5.mp3
+Debug: voice mod folders template\track_destroyed_6.mp3
+Debug: voice mod folders template\track_repaired_1.mp3
+Debug: voice mod folders template\track_repaired_can_move_1.mp3
+Debug: voice mod folders template\track_repaired_can_move_2.mp3
+Debug: voice mod folders template\turret_ring_damaged_1.mp3
+Debug: voice mod folders template\turret_ring_destroyed_1.mp3
+Debug: voice mod folders template\turret_ring_functional_1.mp3
+Debug: voice mod folders template\turret_ring_functional_2.mp3
+Debug: voice mod folders template\update 10\battle_start_1.mp3
+Debug: voice mod folders template\update 10\target_locked_1.mp3
+Debug: voice mod folders template\update 11\enemy_killed_1.mp3
+Debug: voice mod folders template\update 5\battle_start_6.mp3
+Debug: voice mod folders template\update 5\battle_start_7.mp3
+Debug: voice mod folders template\update 5\player_died_2.mp3
+Debug: voice mod folders template\update 6\ammo_rack_hit_1.mp3
+Debug: voice mod folders template\update 6\battle_start_1.mp3
+Debug: voice mod folders template\update 6\battle_start_2.mp3
+Debug: voice mod folders template\update 6\didntpen_1.mp3
+Debug: voice mod folders template\update 6\didntpen_2.mp3
+Debug: voice mod folders template\update 6\player_died_1.mp3
+Debug: voice mod folders template\update 6\player_died_2.mp3
+Debug: voice mod folders template\update 6\riccochet_1.mp3
+Debug: voice mod folders template\update 6\target_locked_1.mp3
+Debug: voice mod folders template\update 7\player_died_1.mp3
+Debug: voice mod folders template\update 7\player_died_2.mp3
+Debug: voice mod folders template\update 7\tracks_destroyed_1.mp3
+Debug: voice mod folders template\update 8\battle_start_1.mp3
+Debug: voice mod folders template\update 8\pen_1.mp3
+Debug: voice mod folders template\update 8\player_died_1.mp3
+Debug: voice mod folders template\update 9\critical_hit_1.mp3
+Debug: Building 'ingame_voice_def.fsb'
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_captured_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_captured_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_4.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_5.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_6.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_deliver_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_deliver_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_drop_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_deliver_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_drop_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_drop_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ready_for_action.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_repair_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_repair_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_repair_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_take_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_take_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_take_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\assistance_been_requested_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\assistance_been_requested_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\assistance_been_requested_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\been_excluded_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\been_excluded_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\been_excluded_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\left_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\left_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\left_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_created_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_created_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_created_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_dismissed_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_dismissed_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_dismissed_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_joined_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_joined_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_joined_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\player_joined_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\player_joined_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\player_joined_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\ingame_voice_censored\voice mod folders template\update 7\pen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\ingame_voice_censored\voice mod folders template\update 7\pen_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_13.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_14.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_15.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_16.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_17.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_19.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_20.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_21.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_22.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_23.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_24.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_25.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_26.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_27.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_28.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_29.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_30.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_31.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_32.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_33.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_34.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_35.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_36.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_37.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_38.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_39.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_40.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_41.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_42.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_43.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\driver_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\driver_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_13.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_14.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_fire_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_fire_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_functional_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fire_out_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fire_out_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fueltank_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fueltank_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_functional_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gunner_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gunner_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\loader_killed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\loader_killed_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\near_explosion.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_14.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_13.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_15.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_16.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_17.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_18.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_19.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_20.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radio_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radio_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radio_damaged_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\riccochet_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\riccochet_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\riccochet_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\surveying_device_damged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\surveying_device_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\surveying_device_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_locked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_locked_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_locked_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_6.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_damaged_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_6.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_repaired_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_repaired_can_move_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_repaired_can_move_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_functional_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 10\battle_start_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 10\target_locked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 11\enemy_killed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 5\battle_start_6.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 5\battle_start_7.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 5\player_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\ammo_rack_hit_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\battle_start_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\battle_start_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\didntpen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\didntpen_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\player_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\player_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\riccochet_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\target_locked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 7\player_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 7\player_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 7\tracks_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 8\battle_start_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 8\pen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 8\player_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 9\critical_hit_1.mp3
+Debug: Writing FSB...
+Debug: Finished building FSB
+Debug: 
+Debug: 
+Summary of build:
+SUCCESS: F:/RelHaxSoundMod/ingame_voice/ingame_voice.fev
+SUCCESS: ingame_voice_def.fsb
+Debug: 
+Building project 'ingame_voice'...
+Debug: Building project F:\RelHaxSoundMod\ingame_voice\ingame_voice.fev...
+Debug: Unique sound defs 1/65
+Debug: Retrieving sound file info...
+Debug: Retrieving reverb info...
+Debug: FEV file written ok
+Debug: Unique Envelope Points: 0 of 0
+Debug: Unique Strings: 3252 characters of 3253
+Debug: Caching sound file details for ''...
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_captured_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_captured_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_4.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_5.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_6.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ready_for_action.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_03.wav
+Debug: ..\ingame_voice_censored\voice mod folders template\update 7\pen_1.mp3
+Debug: ..\ingame_voice_censored\voice mod folders template\update 7\pen_2.mp3
+Debug: voice mod folders template\ammo_rack_hit_01.mp3
+Debug: voice mod folders template\ammo_rack_hit_02.mp3
+Debug: voice mod folders template\ammo_rack_hit_03.mp3
+Debug: voice mod folders template\ammo_rack_hit_04.mp3
+Debug: voice mod folders template\ammo_rack_hit_06.mp3
+Debug: voice mod folders template\battle_start_01.mp3
+Debug: voice mod folders template\battle_start_02.mp3
+Debug: voice mod folders template\battle_start_03.mp3
+Debug: voice mod folders template\battle_start_04.mp3
+Debug: voice mod folders template\battle_start_05.mp3
+Debug: voice mod folders template\battle_start_06.mp3
+Debug: voice mod folders template\battle_start_07.mp3
+Debug: voice mod folders template\battle_start_08.mp3
+Debug: voice mod folders template\battle_start_09.mp3
+Debug: voice mod folders template\battle_start_10.mp3
+Debug: voice mod folders template\battle_start_11.mp3
+Debug: voice mod folders template\battle_start_12.mp3
+Debug: voice mod folders template\battle_start_13.mp3
+Debug: voice mod folders template\battle_start_14.mp3
+Debug: voice mod folders template\battle_start_15.mp3
+Debug: voice mod folders template\battle_start_16.mp3
+Debug: voice mod folders template\battle_start_17.mp3
+Debug: voice mod folders template\battle_start_19.mp3
+Debug: voice mod folders template\battle_start_20.mp3
+Debug: voice mod folders template\battle_start_21.mp3
+Debug: voice mod folders template\battle_start_22.mp3
+Debug: voice mod folders template\battle_start_23.mp3
+Debug: voice mod folders template\battle_start_24.mp3
+Debug: voice mod folders template\battle_start_25.mp3
+Debug: voice mod folders template\battle_start_26.mp3
+Debug: voice mod folders template\battle_start_27.mp3
+Debug: voice mod folders template\battle_start_28.mp3
+Debug: voice mod folders template\battle_start_29.mp3
+Debug: voice mod folders template\battle_start_30.mp3
+Debug: voice mod folders template\battle_start_31.mp3
+Debug: voice mod folders template\battle_start_32.mp3
+Debug: voice mod folders template\battle_start_33.mp3
+Debug: voice mod folders template\battle_start_34.mp3
+Debug: voice mod folders template\battle_start_35.mp3
+Debug: voice mod folders template\battle_start_36.mp3
+Debug: voice mod folders template\battle_start_37.mp3
+Debug: voice mod folders template\battle_start_38.mp3
+Debug: voice mod folders template\battle_start_39.mp3
+Debug: voice mod folders template\battle_start_40.mp3
+Debug: voice mod folders template\battle_start_41.mp3
+Debug: voice mod folders template\battle_start_42.mp3
+Debug: voice mod folders template\battle_start_43.mp3
+Debug: voice mod folders template\bounce_02.mp3
+Debug: voice mod folders template\bounce_03.mp3
+Debug: voice mod folders template\bounce_04.mp3
+Debug: voice mod folders template\bounce_06.mp3
+Debug: voice mod folders template\bounce_07.mp3
+Debug: voice mod folders template\bounce_08.mp3
+Debug: voice mod folders template\commander_died_1.mp3
+Debug: voice mod folders template\commander_died_2.mp3
+Debug: voice mod folders template\commander_died_3.mp3
+Debug: voice mod folders template\commander_died_4.mp3
+Debug: voice mod folders template\commander_died_5.mp3
+Debug: voice mod folders template\crew_died_1.mp3
+Debug: voice mod folders template\crew_died_2.mp3
+Debug: voice mod folders template\crew_died_3.mp3
+Debug: voice mod folders template\crew_died_4.mp3
+Debug: voice mod folders template\criticalhit_1.mp3
+Debug: voice mod folders template\criticalhit_2.mp3
+Debug: voice mod folders template\criticalhit_3.mp3
+Debug: voice mod folders template\criticalhit_4.mp3
+Debug: voice mod folders template\didntpen_1.mp3
+Debug: voice mod folders template\didntpen_2.mp3
+Debug: voice mod folders template\didntpen_3.mp3
+Debug: voice mod folders template\didntpen_4.mp3
+Debug: voice mod folders template\driver_died_1.mp3
+Debug: voice mod folders template\driver_died_2.mp3
+Debug: voice mod folders template\enemy_killed_01.mp3
+Debug: voice mod folders template\enemy_killed_02.mp3
+Debug: voice mod folders template\enemy_killed_03.mp3
+Debug: voice mod folders template\enemy_killed_04.mp3
+Debug: voice mod folders template\enemy_killed_06.mp3
+Debug: voice mod folders template\enemy_killed_07.mp3
+Debug: voice mod folders template\enemy_killed_08.mp3
+Debug: voice mod folders template\enemy_killed_09.mp3
+Debug: voice mod folders template\enemy_killed_10.mp3
+Debug: voice mod folders template\enemy_killed_11.mp3
+Debug: voice mod folders template\enemy_killed_12.mp3
+Debug: voice mod folders template\enemy_killed_13.mp3
+Debug: voice mod folders template\enemy_killed_14.mp3
+Debug: voice mod folders template\engine_damaged_1.mp3
+Debug: voice mod folders template\engine_damaged_2.mp3
+Debug: voice mod folders template\engine_destroyed_1.mp3
+Debug: voice mod folders template\engine_fire_1.mp3
+Debug: voice mod folders template\engine_fire_2.mp3
+Debug: voice mod folders template\engine_functional_1.mp3
+Debug: voice mod folders template\engine_functional_2.mp3
+Debug: voice mod folders template\fire_out_1.mp3
+Debug: voice mod folders template\fire_out_2.mp3
+Debug: voice mod folders template\fueltank_damaged_1.mp3
+Debug: voice mod folders template\fueltank_damaged_2.mp3
+Debug: voice mod folders template\gun_damaged_1.mp3
+Debug: voice mod folders template\gun_damaged_2.mp3
+Debug: voice mod folders template\gun_destroyed_1.mp3
+Debug: voice mod folders template\gun_functional_1.mp3
+Debug: voice mod folders template\gun_functional_2.mp3
+Debug: voice mod folders template\gunner_died_1.mp3
+Debug: voice mod folders template\gunner_died_2.mp3
+Debug: voice mod folders template\loader_killed_1.mp3
+Debug: voice mod folders template\loader_killed_2.mp3
+Debug: voice mod folders template\missed_closely_01.mp3
+Debug: voice mod folders template\missed_closely_02.mp3
+Debug: voice mod folders template\missed_closely_03.mp3
+Debug: voice mod folders template\missed_closely_04.mp3
+Debug: voice mod folders template\missed_closely_05.mp3
+Debug: voice mod folders template\missed_closely_06.mp3
+Debug: voice mod folders template\missed_closely_07.mp3
+Debug: voice mod folders template\missed_closely_08.mp3
+Debug: voice mod folders template\missed_closely_09.mp3
+Debug: voice mod folders template\near_explosion.mp3
+Debug: voice mod folders template\pen_01.mp3
+Debug: voice mod folders template\pen_03.mp3
+Debug: voice mod folders template\pen_04.mp3
+Debug: voice mod folders template\pen_05.mp3
+Debug: voice mod folders template\pen_06.mp3
+Debug: voice mod folders template\pen_07.mp3
+Debug: voice mod folders template\pen_08.mp3
+Debug: voice mod folders template\pen_09.mp3
+Debug: voice mod folders template\pen_10.mp3
+Debug: voice mod folders template\pen_11.mp3
+Debug: voice mod folders template\pen_12.mp3
+Debug: voice mod folders template\player_died_01.mp3
+Debug: voice mod folders template\player_died_02.mp3
+Debug: voice mod folders template\player_died_03.mp3
+Debug: voice mod folders template\player_died_04.mp3
+Debug: voice mod folders template\player_died_05.mp3
+Debug: voice mod folders template\player_died_06.mp3
+Debug: voice mod folders template\player_died_07.mp3
+Debug: voice mod folders template\player_died_08.mp3
+Debug: voice mod folders template\player_died_09.mp3
+Debug: voice mod folders template\player_died_10.mp3
+Debug: voice mod folders template\player_died_11.mp3
+Debug: voice mod folders template\player_died_12.mp3
+Debug: voice mod folders template\player_died_13.mp3
+Debug: voice mod folders template\player_died_14.mp3
+Debug: voice mod folders template\player_died_15.mp3
+Debug: voice mod folders template\player_died_16.mp3
+Debug: voice mod folders template\player_died_17.mp3
+Debug: voice mod folders template\player_died_18.mp3
+Debug: voice mod folders template\player_died_19.mp3
+Debug: voice mod folders template\player_died_20.mp3
+Debug: voice mod folders template\player_on_fire_1.mp3
+Debug: voice mod folders template\player_on_fire_2.mp3
+Debug: voice mod folders template\player_on_fire_3.mp3
+Debug: voice mod folders template\player_on_fire_4.mp3
+Debug: voice mod folders template\radio_damaged_1.mp3
+Debug: voice mod folders template\radio_damaged_2.mp3
+Debug: voice mod folders template\radio_damaged_3.mp3
+Debug: voice mod folders template\radioman_died_1.mp3
+Debug: voice mod folders template\radioman_died_2.mp3
+Debug: voice mod folders template\radioman_died_3.mp3
+Debug: voice mod folders template\radioman_died_4.mp3
+Debug: voice mod folders template\riccochet_1.mp3
+Debug: voice mod folders template\riccochet_2.mp3
+Debug: voice mod folders template\riccochet_5.mp3
+Debug: voice mod folders template\surveying_device_damged_1.mp3
+Debug: voice mod folders template\surveying_device_destroyed_1.mp3
+Debug: voice mod folders template\surveying_device_functional_1.mp3
+Debug: voice mod folders template\target_locked_1.mp3
+Debug: voice mod folders template\target_locked_2.mp3
+Debug: voice mod folders template\target_locked_3.mp3
+Debug: voice mod folders template\target_lost_1.mp3
+Debug: voice mod folders template\target_lost_2.mp3
+Debug: voice mod folders template\target_lost_3.mp3
+Debug: voice mod folders template\target_lost_4.mp3
+Debug: voice mod folders template\target_lost_5.mp3
+Debug: voice mod folders template\target_lost_6.mp3
+Debug: voice mod folders template\target_unlocked_1.mp3
+Debug: voice mod folders template\target_unlocked_2.mp3
+Debug: voice mod folders template\target_unlocked_3.mp3
+Debug: voice mod folders template\target_unlocked_4.mp3
+Debug: voice mod folders template\teamkill_1.mp3
+Debug: voice mod folders template\teamkill_2.mp3
+Debug: voice mod folders template\teamkill_3.mp3
+Debug: voice mod folders template\teamkill_4.mp3
+Debug: voice mod folders template\teamkill_5.mp3
+Debug: voice mod folders template\track_damaged_1.mp3
+Debug: voice mod folders template\track_damaged_2.mp3
+Debug: voice mod folders template\track_damaged_3.mp3
+Debug: voice mod folders template\track_destroyed_1.mp3
+Debug: voice mod folders template\track_destroyed_2.mp3
+Debug: voice mod folders template\track_destroyed_4.mp3
+Debug: voice mod folders template\track_destroyed_5.mp3
+Debug: voice mod folders template\track_destroyed_6.mp3
+Debug: voice mod folders template\track_repaired_1.mp3
+Debug: voice mod folders template\track_repaired_can_move_1.mp3
+Debug: voice mod folders template\track_repaired_can_move_2.mp3
+Debug: voice mod folders template\turret_ring_damaged_1.mp3
+Debug: voice mod folders template\turret_ring_destroyed_1.mp3
+Debug: voice mod folders template\turret_ring_functional_1.mp3
+Debug: voice mod folders template\turret_ring_functional_2.mp3
+Debug: voice mod folders template\update 10\battle_start_1.mp3
+Debug: voice mod folders template\update 10\target_locked_1.mp3
+Debug: voice mod folders template\update 11\enemy_killed_1.mp3
+Debug: voice mod folders template\update 5\battle_start_6.mp3
+Debug: voice mod folders template\update 5\battle_start_7.mp3
+Debug: voice mod folders template\update 5\player_died_2.mp3
+Debug: voice mod folders template\update 6\ammo_rack_hit_1.mp3
+Debug: voice mod folders template\update 6\battle_start_1.mp3
+Debug: voice mod folders template\update 6\battle_start_2.mp3
+Debug: voice mod folders template\update 6\didntpen_1.mp3
+Debug: voice mod folders template\update 6\didntpen_2.mp3
+Debug: voice mod folders template\update 6\player_died_1.mp3
+Debug: voice mod folders template\update 6\player_died_2.mp3
+Debug: voice mod folders template\update 6\riccochet_1.mp3
+Debug: voice mod folders template\update 6\target_locked_1.mp3
+Debug: voice mod folders template\update 7\player_died_1.mp3
+Debug: voice mod folders template\update 7\player_died_2.mp3
+Debug: voice mod folders template\update 7\tracks_destroyed_1.mp3
+Debug: voice mod folders template\update 8\battle_start_1.mp3
+Debug: voice mod folders template\update 8\pen_1.mp3
+Debug: voice mod folders template\update 8\player_died_1.mp3
+Debug: voice mod folders template\update 9\critical_hit_1.mp3
+Debug: Building 'ingame_voice_def.fsb'
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_captured_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_captured_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ally_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_4.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_5.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_combat_reserve_6.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_deliver_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_deliver_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_deliver_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_drop_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_drop_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_drop_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_ready_for_action.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_repair_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_repair_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_repair_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_take_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_take_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\FLT_take_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\assistance_been_requested_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\assistance_been_requested_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\assistance_been_requested_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\been_excluded_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\been_excluded_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\been_excluded_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\left_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\left_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\left_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_created_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_created_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_created_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_dismissed_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_dismissed_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_dismissed_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_joined_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_joined_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\platoon_joined_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\player_joined_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\player_joined_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\def\player_joined_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\ingame_voice_censored\voice mod folders template\update 7\pen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\ingame_voice_censored\voice mod folders template\update 7\pen_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\ammo_rack_hit_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_13.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_14.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_16.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_15.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_17.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_19.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_20.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_21.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_22.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_23.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_24.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_25.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_26.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_27.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_28.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_29.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_30.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_32.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_31.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_33.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_34.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_36.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_35.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_37.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_38.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_39.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_40.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_42.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_41.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\battle_start_43.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\bounce_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\commander_died_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\crew_died_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\criticalhit_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\didntpen_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\driver_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\driver_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_13.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\enemy_killed_14.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_fire_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_fire_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\engine_functional_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fire_out_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fire_out_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fueltank_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\fueltank_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gun_functional_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gunner_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\gunner_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\loader_killed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\loader_killed_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\missed_closely_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\near_explosion.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\pen_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_01.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_02.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_03.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_04.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_05.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_06.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_07.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_08.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_09.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_10.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_11.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_12.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_13.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_14.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_15.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_16.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_17.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_18.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_19.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_died_20.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\player_on_fire_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radio_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radio_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radio_damaged_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\radioman_died_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\riccochet_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\riccochet_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\surveying_device_damged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\riccochet_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\surveying_device_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\surveying_device_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_locked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_locked_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_locked_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_lost_6.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\target_unlocked_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\teamkill_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_damaged_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_damaged_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_4.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_5.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_destroyed_6.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_repaired_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_repaired_can_move_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\track_repaired_can_move_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_damaged_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_functional_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 10\battle_start_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\turret_ring_functional_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 10\target_locked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 11\enemy_killed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 5\battle_start_6.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 5\battle_start_7.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 5\player_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\ammo_rack_hit_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\battle_start_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\battle_start_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\didntpen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\didntpen_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\player_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\player_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\riccochet_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 6\target_locked_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 7\player_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 7\player_died_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 7\tracks_destroyed_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 8\battle_start_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 8\pen_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 8\player_died_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\voice mod folders template\update 9\critical_hit_1.mp3
+Debug: Writing FSB...
+Debug: Finished building FSB
+Debug: 
+Debug: 
+Summary of build:
+SUCCESS: F:/RelHaxSoundMod/ingame_voice/ingame_voice.fev
+SUCCESS: ingame_voice_def.fsb
+Debug: "14:09:03 ..\..\src\propertyeditor.cpp:1508 EM: Set Filename Prefix" 
+Debug: "14:09:13 ..\..\src\propertyeditor.cpp:1508 EM: Set Filename Prefix" 
+Debug: "14:10:05 ..\..\src\editlanguagesdialog.cpp:135 BH: Change Languages" 
+Debug: "14:10:13 ..\..\src\propertyeditor.cpp:1508 EM: Set Filename Prefix" 
+Debug: 
+Building project 'ingame_voice'...
+Debug: Building project F:\RelHaxSoundMod\ingame_voice\ingame_voice.fev...
+Debug: Unique sound defs 1/65
+Debug: Retrieving sound file info...
+Debug: Retrieving reverb info...
+Debug: FEV file written ok
+Debug: Unique Envelope Points: 0 of 0
+Debug: Unique Strings: 3260 characters of 3260
+Debug: Caching sound file details for ''...
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_captured_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_captured_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ally_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_4.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_5.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_combat_reserve_6.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_deliver_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_drop_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_enemy_take_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_ready_for_action.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_repair_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_1.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_2.wav
+Debug: ..\fsbext\new sounds 9.13\def\FLT_take_flag_3.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\assistance_been_requested_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\been_excluded_platoon_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\left_platoon_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_created_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_dismissed_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\platoon_joined_03.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_01.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_02.wav
+Debug: ..\fsbext\new sounds 9.13\def\player_joined_platoon_03.wav
+Debug: ..\ingame_voice_censored\voice mod folders template\update 7\pen_1.mp3
+Debug: ..\ingame_voice_censored\voice mod folders template\update 7\pen_2.mp3
+Debug: voice mod folders template\ammo_rack_hit_01.mp3
+Debug: voice mod folders template\ammo_rack_hit_02.mp3
+Debug: voice mod folders template\ammo_rack_hit_03.mp3
+Debug: voice mod folders template\ammo_rack_hit_04.mp3
+Debug: voice mod folders template\ammo_rack_hit_06.mp3
+Debug: voice mod folders template\battle_start_01.mp3
+Debug: voice mod folders template\battle_start_02.mp3
+Debug: voice mod folders template\battle_start_03.mp3
+Debug: voice mod folders template\battle_start_04.mp3
+Debug: voice mod folders template\battle_start_05.mp3
+Debug: voice mod folders template\battle_start_06.mp3
+Debug: voice mod folders template\battle_start_07.mp3
+Debug: voice mod folders template\battle_start_08.mp3
+Debug: voice mod folders template\battle_start_09.mp3
+Debug: voice mod folders template\battle_start_10.mp3
+Debug: voice mod folders template\battle_start_11.mp3
+Debug: voice mod folders template\battle_start_12.mp3
+Debug: voice mod folders template\battle_start_13.mp3
+Debug: voice mod folders template\battle_start_14.mp3
+Debug: voice mod folders template\battle_start_15.mp3
+Debug: voice mod folders template\battle_start_16.mp3
+Debug: voice mod folders template\battle_start_17.mp3
+Debug: voice mod folders template\battle_start_19.mp3
+Debug: voice mod folders template\battle_start_20.mp3
+Debug: voice mod folders template\battle_start_21.mp3
+Debug: voice mod folders template\battle_start_22.mp3
+Debug: voice mod folders template\battle_start_23.mp3
+Debug: voice mod folders template\battle_start_24.mp3
+Debug: voice mod folders template\battle_start_25.mp3
+Debug: voice mod folders template\battle_start_26.mp3
+Debug: voice mod folders template\battle_start_27.mp3
+Debug: voice mod folders template\battle_start_28.mp3
+Debug: voice mod folders template\battle_start_29.mp3
+Debug: voice mod folders template\battle_start_30.mp3
+Debug: voice mod folders template\battle_start_31.mp3
+Debug: voice mod folders template\battle_start_32.mp3
+Debug: voice mod folders template\battle_start_33.mp3
+Debug: voice mod folders template\battle_start_34.mp3
+Debug: voice mod folders template\battle_start_35.mp3
+Debug: voice mod folders template\battle_start_36.mp3
+Debug: voice mod folders template\battle_start_37.mp3
+Debug: voice mod folders template\battle_start_38.mp3
+Debug: voice mod folders template\battle_start_39.mp3
+Debug: voice mod folders template\battle_start_40.mp3
+Debug: voice mod folders template\battle_start_41.mp3
+Debug: voice mod folders template\battle_start_42.mp3
+Debug: voice mod folders template\battle_start_43.mp3
+Debug: voice mod folders template\bounce_02.mp3
+Debug: voice mod folders template\bounce_03.mp3
+Debug: voice mod folders template\bounce_04.mp3
+Debug: voice mod folders template\bounce_06.mp3
+Debug: voice mod folders template\bounce_07.mp3
+Debug: voice mod folders template\bounce_08.mp3
+Debug: voice mod folders template\commander_died_1.mp3
+Debug: voice mod folders template\commander_died_2.mp3
+Debug: voice mod folders template\commander_died_3.mp3
+Debug: voice mod folders template\commander_died_4.mp3
+Debug: voice mod folders template\commander_died_5.mp3
+Debug: voice mod folders template\crew_died_1.mp3
+Debug: voice mod folders template\crew_died_2.mp3
+Debug: voice mod folders template\crew_died_3.mp3
+Debug: voice mod folders template\crew_died_4.mp3
+Debug: voice mod folders template\criticalhit_1.mp3
+Debug: voice mod folders template\criticalhit_2.mp3
+Debug: voice mod folders template\criticalhit_3.mp3
+Debug: voice mod folders template\criticalhit_4.mp3
+Debug: voice mod folders template\didntpen_1.mp3
+Debug: voice mod folders template\didntpen_2.mp3
+Debug: voice mod folders template\didntpen_3.mp3
+Debug: voice mod folders template\didntpen_4.mp3
+Debug: voice mod folders template\driver_died_1.mp3
+Debug: voice mod folders template\driver_died_2.mp3
+Debug: voice mod folders template\enemy_killed_01.mp3
+Debug: voice mod folders template\enemy_killed_02.mp3
+Debug: voice mod folders template\enemy_killed_03.mp3
+Debug: voice mod folders template\enemy_killed_04.mp3
+Debug: voice mod folders template\enemy_killed_06.mp3
+Debug: voice mod folders template\enemy_killed_07.mp3
+Debug: voice mod folders template\enemy_killed_08.mp3
+Debug: voice mod folders template\enemy_killed_09.mp3
+Debug: voice mod folders template\enemy_killed_10.mp3
+Debug: voice mod folders template\enemy_killed_11.mp3
+Debug: voice mod folders template\enemy_killed_12.mp3
+Debug: voice mod folders template\enemy_killed_13.mp3
+Debug: voice mod folders template\enemy_killed_14.mp3
+Debug: voice mod folders template\engine_damaged_1.mp3
+Debug: voice mod folders template\engine_damaged_2.mp3
+Debug: voice mod folders template\engine_destroyed_1.mp3
+Debug: voice mod folders template\engine_fire_1.mp3
+Debug: voice mod folders template\engine_fire_2.mp3
+Debug: voice mod folders template\engine_functional_1.mp3
+Debug: voice mod folders template\engine_functional_2.mp3
+Debug: voice mod folders template\fire_out_1.mp3
+Debug: voice mod folders template\fire_out_2.mp3
+Debug: voice mod folders template\fueltank_damaged_1.mp3
+Debug: voice mod folders template\fueltank_damaged_2.mp3
+Debug: voice mod folders template\gun_damaged_1.mp3
+Debug: voice mod folders template\gun_damaged_2.mp3
+Debug: voice mod folders template\gun_destroyed_1.mp3
+Debug: voice mod folders template\gun_functional_1.mp3
+Debug: voice mod folders template\gun_functional_2.mp3
+Debug: voice mod folders template\gunner_died_1.mp3
+Debug: voice mod folders template\gunner_died_2.mp3
+Debug: voice mod folders template\loader_killed_1.mp3
+Debug: voice mod folders template\loader_killed_2.mp3
+Debug: voice mod folders template\missed_closely_01.mp3
+Debug: voice mod folders template\missed_closely_02.mp3
+Debug: voice mod folders template\missed_closely_03.mp3
+Debug: voice mod folders template\missed_closely_04.mp3
+Debug: voice mod folders template\missed_closely_05.mp3
+Debug: voice mod folders template\missed_closely_06.mp3
+Debug: voice mod folders template\missed_closely_07.mp3
+Debug: voice mod folders template\missed_closely_08.mp3
+Debug: voice mod folders template\missed_closely_09.mp3
+Debug: voice mod folders template\near_explosion.mp3
+Debug: voice mod folders template\pen_01.mp3
+Debug: voice mod folders template\pen_03.mp3
+Debug: voice mod folders template\pen_04.mp3
+Debug: voice mod folders template\pen_05.mp3
+Debug: voice mod folders template\pen_06.mp3
+Debug: voice mod folders template\pen_07.mp3
+Debug: voice mod folders template\pen_08.mp3
+Debug: voice mod folders template\pen_09.mp3
+Debug: voice mod folders template\pen_10.mp3
+Debug: voice mod folders template\pen_11.mp3
+Debug: voice mod folders template\pen_12.mp3
+Debug: voice mod folders template\player_died_01.mp3
+Debug: voice mod folders template\player_died_02.mp3
+Debug: voice mod folders template\player_died_03.mp3
+Debug: voice mod folders template\player_died_04.mp3
+Debug: voice mod folders template\player_died_05.mp3
+Debug: voice mod folders template\player_died_06.mp3
+Debug: voice mod folders template\player_died_07.mp3
+Debug: voice mod folders template\player_died_08.mp3
+Debug: voice mod folders template\player_died_09.mp3
+Debug: voice mod folders template\player_died_10.mp3
+Debug: voice mod folders template\player_died_11.mp3
+Debug: voice mod folders template\player_died_12.mp3
+Debug: voice mod folders template\player_died_13.mp3
+Debug: voice mod folders template\player_died_14.mp3
+Debug: voice mod folders template\player_died_15.mp3
+Debug: voice mod folders template\player_died_16.mp3
+Debug: voice mod folders template\player_died_17.mp3
+Debug: voice mod folders template\player_died_18.mp3
+Debug: voice mod folders template\player_died_19.mp3
+Debug: voice mod folders template\player_died_20.mp3
+Debug: voice mod folders template\player_on_fire_1.mp3
+Debug: voice mod folders template\player_on_fire_2.mp3
+Debug: voice mod folders template\player_on_fire_3.mp3
+Debug: voice mod folders template\player_on_fire_4.mp3
+Debug: voice mod folders template\radio_damaged_1.mp3
+Debug: voice mod folders template\radio_damaged_2.mp3
+Debug: voice mod folders template\radio_damaged_3.mp3
+Debug: voice mod folders template\radioman_died_1.mp3
+Debug: voice mod folders template\radioman_died_2.mp3
+Debug: voice mod folders template\radioman_died_3.mp3
+Debug: voice mod folders template\radioman_died_4.mp3
+Debug: voice mod folders template\riccochet_1.mp3
+Debug: voice mod folders template\riccochet_2.mp3
+Debug: voice mod folders template\riccochet_5.mp3
+Debug: voice mod folders template\surveying_device_damged_1.mp3
+Debug: voice mod folders template\surveying_device_destroyed_1.mp3
+Debug: voice mod folders template\surveying_device_functional_1.mp3
+Debug: voice mod folders template\target_locked_1.mp3
+Debug: voice mod folders template\target_locked_2.mp3
+Debug: voice mod folders template\target_locked_3.mp3
+Debug: voice mod folders template\target_lost_1.mp3
+Debug: voice mod folders template\target_lost_2.mp3
+Debug: voice mod folders template\target_lost_3.mp3
+Debug: voice mod folders template\target_lost_4.mp3
+Debug: voice mod folders template\target_lost_5.mp3
+Debug: voice mod folders template\target_lost_6.mp3
+Debug: voice mod folders template\target_unlocked_1.mp3
+Debug: voice mod folders template\target_unlocked_2.mp3
+Debug: voice mod folders template\target_unlocked_3.mp3
+Debug: voice mod folders template\target_unlocked_4.mp3
+Debug: voice mod folders template\teamkill_1.mp3
+Debug: voice mod folders template\teamkill_2.mp3
+Debug: voice mod folders template\teamkill_3.mp3
+Debug: voice mod folders template\teamkill_4.mp3
+Debug: voice mod folders template\teamkill_5.mp3
+Debug: voice mod folders template\track_damaged_1.mp3
+Debug: voice mod folders template\track_damaged_2.mp3
+Debug: voice mod folders template\track_damaged_3.mp3
+Debug: voice mod folders template\track_destroyed_1.mp3
+Debug: voice mod folders template\track_destroyed_2.mp3
+Debug: voice mod folders template\track_destroyed_4.mp3
+Debug: voice mod folders template\track_destroyed_5.mp3
+Debug: voice mod folders template\track_destroyed_6.mp3
+Debug: voice mod folders template\track_repaired_1.mp3
+Debug: voice mod folders template\track_repaired_can_move_1.mp3
+Debug: voice mod folders template\track_repaired_can_move_2.mp3
+Debug: voice mod folders template\turret_ring_damaged_1.mp3
+Debug: voice mod folders template\turret_ring_destroyed_1.mp3
+Debug: voice mod folders template\turret_ring_functional_1.mp3
+Debug: voice mod folders template\turret_ring_functional_2.mp3
+Debug: voice mod folders template\update 10\battle_start_1.mp3
+Debug: voice mod folders template\update 10\target_locked_1.mp3
+Debug: voice mod folders template\update 11\enemy_killed_1.mp3
+Debug: voice mod folders template\update 5\battle_start_6.mp3
+Debug: voice mod folders template\update 5\battle_start_7.mp3
+Debug: voice mod folders template\update 5\player_died_2.mp3
+Debug: voice mod folders template\update 6\ammo_rack_hit_1.mp3
+Debug: voice mod folders template\update 6\battle_start_1.mp3
+Debug: voice mod folders template\update 6\battle_start_2.mp3
+Debug: voice mod folders template\update 6\didntpen_1.mp3
+Debug: voice mod folders template\update 6\didntpen_2.mp3
+Debug: voice mod folders template\update 6\player_died_1.mp3
+Debug: voice mod folders template\update 6\player_died_2.mp3
+Debug: voice mod folders template\update 6\riccochet_1.mp3
+Debug: voice mod folders template\update 6\target_locked_1.mp3
+Debug: voice mod folders template\update 7\player_died_1.mp3
+Debug: voice mod folders template\update 7\player_died_2.mp3
+Debug: voice mod folders template\update 7\tracks_destroyed_1.mp3
+Debug: voice mod folders template\update 8\battle_start_1.mp3
+Debug: voice mod folders template\update 8\pen_1.mp3
+Debug: voice mod folders template\update 8\player_died_1.mp3
+Debug: voice mod folders template\update 9\critical_hit_1.mp3
+Debug: Building 'ingame_voice_def_UK.fsb'
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_ally_captured_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_ally_captured_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_ally_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_ally_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_ally_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_combat_reserve_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_combat_reserve_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_combat_reserve_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_combat_reserve_4.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_combat_reserve_5.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_combat_reserve_6.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_deliver_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_deliver_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_deliver_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_drop_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_drop_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_drop_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_enemy_take_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_enemy_take_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_enemy_take_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_ready_for_action.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_repair_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_repair_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_repair_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_take_flag_1.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_take_flag_2.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\FLT_take_flag_3.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\assistance_been_requested_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\assistance_been_requested_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\assistance_been_requested_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\been_excluded_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\been_excluded_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\been_excluded_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\left_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\left_platoon_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\platoon_created_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\left_platoon_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\platoon_created_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\platoon_created_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\platoon_dismissed_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\platoon_dismissed_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\platoon_joined_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\platoon_dismissed_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\platoon_joined_02.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\platoon_joined_03.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\player_joined_platoon_01.wav
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\player_joined_platoon_02.wav
+Debug: Error processing F:\RelHaxSoundMod\ingame_voice\..\ingame_voice_censored\voice mod folders template\update 7\uk\pen_1.mp3:
+Debug:     Internal error from FMOD sub-system.
+Debug: Encoded F:\RelHaxSoundMod\ingame_voice\..\fsbext\new sounds 9.13\uk\player_joined_platoon_03.wav
+Debug: Error : Failed to build wave bank 'F:\RelHaxSoundMod\ingame_voice\ingame_voice_def_UK.fsb'. Build cancelled.
+Debug: 
+The following errors and warnings were detected:
+Error processing F:\RelHaxSoundMod\ingame_voice\..\ingame_voice_censored\voice mod folders template\update 7\uk\pen_1.mp3:
+    Internal error from FMOD sub-system.
+Error : Failed to build wave bank 'F:\RelHaxSoundMod\ingame_voice\ingame_voice_def_UK.fsb'. Build cancelled.
+Debug: 
+Summary of build:
+SUCCESS: F:/RelHaxSoundMod/ingame_voice/ingame_voice.fev
+FAIL   : F:/RelHaxSoundMod/ingame_voice/ingame_voice_def_UK.fsb

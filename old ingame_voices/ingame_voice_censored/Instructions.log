@@ -1,0 +1,22 @@
+1) You MUST use FMOD Designer version 4.30.06. http://www.mediafire.com/?negbyq1dt8dwo1e
+1) You may use mp3, wav or ogg sound files.
+2) I strong suggest you do not change any of the set parameters in this template.
+3) In FMOD Designer, under the Sound definitions tab, place the desired sound file(s) into the corresponding Event folder.
+4) Under the Wave banks tab, rename the bank to ingame_voice; set Bank type to decompress into memory; and set Compression to MP3.
+5) Click Build>Build project (top left); Build project for: PC; check the box next to ingame_voice; and click Build.
+
+Video tutorial:
+http://www.youtube.com/watch?feature=player_embedded&v=s0yB2_7VU9E
+
+The following applies for 0.8.6. Future updates may be different.
+-enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player is a ricochet
+-enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player is a ricochet
+-enemy_hp_damaged_by_projectile_by_player is a penetration/hit
+-enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player is a penetration/hit
+-enemy_hp_damaged_by_projectile_and_gun_damaged_by_player is a penetration/hit  
+-enemy_hp_damaged_by_explosion_at_direct_hit_by_player is a critical hit with damage
+-enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player is a critical hit with no damage
+-enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player is a critical hit with no damage
+-enemy_no_hp_damage_at_no_attempt_by_player is a critical hit with no damage
+
+enemy spotted sounds are triggered in the gui fsb/fev
