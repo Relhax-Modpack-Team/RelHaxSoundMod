@@ -12,7 +12,7 @@
 <build_applytemplate>0</build_applytemplate>
 <build_continue_on_error>0</build_continue_on_error>
 <currentbank>ingame_voice</currentbank>
-<currentlanguage>RelHax</currentlanguage>
+<currentlanguage>RelhaxCen</currentlanguage>
 <primarylanguage>default</primarylanguage>
 <language>DE</language>
 <language>RU</language>
@@ -21,6 +21,7 @@
 <language>RelHax</language>
 <language>UK</language>
 <language>JA</language>
+<language>RelhaxCen</language>
 <language>EN</language>
 <language>FR</language>
 <language>CS</language>
@@ -14957,6 +14958,14 @@
 <_BB10_quality>50</_BB10_quality>
 <_BB10_forcesoftware>0</_BB10_forcesoftware>
 <_BB10_maxstreams>10</_BB10_maxstreams>
+<_lang_CN1_filename_prefix></_lang_CN1_filename_prefix>
+<_lang_CS_filename_prefix></_lang_CS_filename_prefix>
+<_lang_DE_filename_prefix></_lang_DE_filename_prefix>
+<_lang_EN_filename_prefix></_lang_EN_filename_prefix>
+<_lang_FR_filename_prefix></_lang_FR_filename_prefix>
+<_lang_JA_filename_prefix></_lang_JA_filename_prefix>
+<_lang_RU_filename_prefix></_lang_RU_filename_prefix>
+<_lang_RelHax_filename_prefix></_lang_RelHax_filename_prefix>
 <_lang_UK_filename_prefix></_lang_UK_filename_prefix>
 <_lang_default_filename_prefix></_lang_default_filename_prefix>
 <_lang_DE_rebuild>0</_lang_DE_rebuild>
@@ -14966,6 +14975,7 @@
 <_lang_RelHax_rebuild>0</_lang_RelHax_rebuild>
 <_lang_UK_rebuild>0</_lang_UK_rebuild>
 <_lang_JA_rebuild>0</_lang_JA_rebuild>
+<_lang_RelhaxCen_rebuild>0</_lang_RelhaxCen_rebuild>
 <_lang_EN_rebuild>0</_lang_EN_rebuild>
 <_lang_FR_rebuild>0</_lang_FR_rebuild>
 <_lang_CS_rebuild>0</_lang_CS_rebuild>
@@ -36111,7 +36121,7 @@
 <_lang_JA_filename_prefix>ja\</_lang_JA_filename_prefix>
 <_lang_RU_filename_prefix>ru\</_lang_RU_filename_prefix>
 <_lang_RelHax_filename_prefix>RelHax\</_lang_RelHax_filename_prefix>
-<_lang_RelHaxCen_filename_prefix>RelHaxCen\</_lang_RelHaxCen_filename_prefix>
+<_lang_RelhaxCen_filename_prefix>RelhaxCen\</_lang_RelhaxCen_filename_prefix>
 <_lang_UK_filename_prefix>uk\</_lang_UK_filename_prefix>
 <_lang_default_filename_prefix>def\</_lang_default_filename_prefix>
 <_lang_DE_rebuild>1</_lang_DE_rebuild>
@@ -36121,6 +36131,7 @@
 <_lang_RelHax_rebuild>1</_lang_RelHax_rebuild>
 <_lang_UK_rebuild>1</_lang_UK_rebuild>
 <_lang_JA_rebuild>1</_lang_JA_rebuild>
+<_lang_RelhaxCen_rebuild>0</_lang_RelhaxCen_rebuild>
 <_lang_EN_rebuild>1</_lang_EN_rebuild>
 <_lang_FR_rebuild>1</_lang_FR_rebuild>
 <_lang_CS_rebuild>1</_lang_CS_rebuild>
