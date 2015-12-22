@@ -74,11 +74,20 @@
     </mode>
     <mode>
       <name>RelHax</name>
-      <fmod_language>RelHax</fmod_language>
+      <fmod_language>RH</fmod_language>
       <description>RelHax</description>
       <invisible>False</invisible>
       <banks>
-        <bank>ingame_voice_Rel</bank>
+        <bank>ingame_voice_RH</bank>
+      </banks>
+    </mode>
+	<mode>
+      <name>RelHaxCen</name>
+      <fmod_language>RHC</fmod_language>
+      <description>RelHaxCen</description>
+      <invisible>False</invisible>
+      <banks>
+        <bank>ingame_voice_RHC</bank>
       </banks>
     </mode>
   </modes>

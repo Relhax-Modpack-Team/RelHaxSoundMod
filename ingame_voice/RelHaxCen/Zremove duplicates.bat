@@ -1,3 +1,13 @@
+
+del armor_not_pierced_by_player_09.wav
+del armor_not_pierced_by_player_10.wav
+del armor_not_pierced_by_player_11.wav
+del armor_not_pierced_by_player_12.wav
+
+del armor_pierced_by_player_12.wav
+del armor_pierced_by_player_13.wav
+del armor_pierced_by_player_14.wav
+
 del armor_ricochet_by_player_05.wav
 del armor_ricochet_by_player_06.wav
 del armor_ricochet_by_player_07.wav
@@ -32,6 +42,10 @@ del enemy_fire_started_by_player_10.wav
 del enemy_fire_started_by_player_11.wav
 del enemy_fire_started_by_player_12.wav
 
+del enemy_killed_by_player_12.wav
+del enemy_killed_by_player_13.wav
+del enemy_killed_by_player_14.wav
+
 del engine_damaged_03.wav
 del engine_damaged_04.wav
 del engine_damaged_05.wav
@@ -45,6 +59,8 @@ del engine_destroyed_04.wav
 del engine_functional_03.wav
 del engine_functional_04.wav
 
+del fire_started_03.wav
+del fire_started_04.wav
 del fire_started_05.wav
 del fire_started_06.wav
 del fire_started_07.wav
@@ -76,6 +92,9 @@ del loader_killed_04.wav
 del radio_damaged_04.wav
 del radio_damaged_05.wav
 del radio_damaged_06.wav
+
+del start_battle_47.wav
+del start_battle_48.wav
 
 del surveying_devices_crit_damaged_02.wav
 del surveying_devices_crit_damaged_03.wav
