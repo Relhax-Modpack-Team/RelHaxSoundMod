@@ -1,8 +1,8 @@
 
-copy armor_not_pierced_by_player_01.wav armor_not_pierced_by_player_09.wav
-copy armor_not_pierced_by_player_02.wav armor_not_pierced_by_player_10.wav
-copy armor_not_pierced_by_player_03.wav armor_not_pierced_by_player_11.wav
-copy armor_not_pierced_by_player_04.wav armor_not_pierced_by_player_12.wav
+copy armor_not_pierced_by_player_01.wav armor_not_pierced_by_player_10.wav
+copy armor_not_pierced_by_player_02.wav armor_not_pierced_by_player_11.wav
+copy armor_not_pierced_by_player_03.wav armor_not_pierced_by_player_12.wav
+copy armor_not_pierced_by_player_04.wav armor_not_pierced_by_player_13.wav
 
 copy armor_pierced_by_player_01.wav armor_pierced_by_player_12.wav
 copy armor_pierced_by_player_02.wav armor_pierced_by_player_13.wav
@@ -42,9 +42,9 @@ copy enemy_fire_started_by_player_08.wav enemy_fire_started_by_player_10.wav
 copy enemy_fire_started_by_player_09.wav enemy_fire_started_by_player_11.wav
 copy enemy_fire_started_by_player_10.wav enemy_fire_started_by_player_12.wav
 
-copy enemy_killed_by_player_01.wav enemy_killed_by_player_12.wav
-copy enemy_killed_by_player_02.wav enemy_killed_by_player_13.wav
-copy enemy_killed_by_player_03.wav enemy_killed_by_player_14.wav
+copy enemy_killed_by_player_01.wav enemy_killed_by_player_13.wav
+copy enemy_killed_by_player_02.wav enemy_killed_by_player_14.wav
+copy enemy_killed_by_player_03.wav enemy_killed_by_player_15.wav
 
 copy engine_damaged_01.wav engine_damaged_03.wav
 copy engine_damaged_02.wav engine_damaged_04.wav
@@ -93,8 +93,8 @@ copy radio_damaged_01.wav radio_damaged_04.wav
 copy radio_damaged_02.wav radio_damaged_05.wav
 copy radio_damaged_03.wav radio_damaged_06.wav
 
-copy start_battle_01.wav start_battle_47.wav
-copy start_battle_02.wav start_battle_48.wav
+copy start_battle_01.wav start_battle_55.wav
+copy start_battle_02.wav start_battle_56.wav
 
 copy surveying_devices_crit_damaged_01.wav surveying_devices_crit_damaged_02.wav
 copy surveying_devices_crit_damaged_02.wav surveying_devices_crit_damaged_03.wav
