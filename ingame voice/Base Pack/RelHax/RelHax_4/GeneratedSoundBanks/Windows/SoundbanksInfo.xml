@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>F:\Tanks Projects\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_4\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Projects\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_4\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Projects\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_4\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\Tanks Projects\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_4\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3135547424" Language="English(UK)">
+			<ShortName>RelHax_4</ShortName>
+			<Path>English(UK)\RelHax_4.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1491984609" Name="vo_target_captured"/>
+				<Event Id="2836359293" Name="vo_target_lost"/>
+				<Event Id="85617264" Name="vo_target_unlocked"/>
+				<Event Id="766987452" Name="vo_track_damaged"/>
+				<Event Id="1244332268" Name="vo_track_destroyed"/>
+				<Event Id="3498324732" Name="vo_track_functional"/>
+				<Event Id="311966861" Name="vo_track_functional_can_move"/>
+				<Event Id="47755571" Name="vo_turret_rotator_damaged"/>
+				<Event Id="1630212423" Name="vo_turret_rotator_destroyed"/>
+				<Event Id="257621937" Name="vo_turret_rotator_functional"/>
+				<Event Id="3917054405" Name="vo_vehicle_destroyed"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="3900146" Language="English(UK)">
+					<ShortName>track_destroyed_03.wav</ShortName>
+					<Path>Voices\English(UK)\track_destroyed_03_E843A46D.wem</Path>
+				</File>
+				<File Id="4703126" Language="English(UK)">
+					<ShortName>vehicle_destroyed_09.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_09_E843A46D.wem</Path>
+				</File>
+				<File Id="7549598" Language="English(UK)">
+					<ShortName>track_functional_04.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_04_E843A46D.wem</Path>
+				</File>
+				<File Id="24283814" Language="English(UK)">
+					<ShortName>vehicle_destroyed_01.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_01_E843A46D.wem</Path>
+				</File>
+				<File Id="30521962" Language="English(UK)">
+					<ShortName>vehicle_destroyed_04.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_04_E843A46D.wem</Path>
+				</File>
+				<File Id="34530289" Language="English(UK)">
+					<ShortName>target_unlocked_07.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_07_E843A46D.wem</Path>
+				</File>
+				<File Id="35877652" Language="English(UK)">
+					<ShortName>target_lost_02.wav</ShortName>
+					<Path>Voices\English(UK)\target_lost_02_E843A46D.wem</Path>
+				</File>
+				<File Id="57753242" Language="English(UK)">
+					<ShortName>track_functional_can_move_04.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_can_move_04_E843A46D.wem</Path>
+				</File>
+				<File Id="64987084" Language="English(UK)">
+					<ShortName>vehicle_destroyed_17.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_17_E843A46D.wem</Path>
+				</File>
+				<File Id="78625760" Language="English(UK)">
+					<ShortName>vehicle_destroyed_07.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_07_E843A46D.wem</Path>
+				</File>
+				<File Id="78968149" Language="English(UK)">
+					<ShortName>vehicle_destroyed_15.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_15_E843A46D.wem</Path>
+				</File>
+				<File Id="80889735" Language="English(UK)">
+					<ShortName>target_unlocked_12.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_12_E843A46D.wem</Path>
+				</File>
+				<File Id="106529287" Language="English(UK)">
+					<ShortName>turret_rotator_destroyed_03.wav</ShortName>
+					<Path>Voices\English(UK)\turret_rotator_destroyed_03_E843A46D.wem</Path>
+				</File>
+				<File Id="107236908" Language="English(UK)">
+					<ShortName>target_lost_06.wav</ShortName>
+					<Path>Voices\English(UK)\target_lost_06_E843A46D.wem</Path>
+				</File>
+				<File Id="108213641" Language="English(UK)">
+					<ShortName>track_destroyed_02.wav</ShortName>
+					<Path>Voices\English(UK)\track_destroyed_02_E843A46D.wem</Path>
+				</File>
+				<File Id="135702551" Language="English(UK)">
+					<ShortName>target_captured_01.wav</ShortName>
+					<Path>Voices\English(UK)\target_captured_01_E843A46D.wem</Path>
+				</File>
+				<File Id="140225657" Language="English(UK)">
+					<ShortName>track_functional_02.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_02_E843A46D.wem</Path>
+				</File>
+				<File Id="145410951" Language="English(UK)">
+					<ShortName>vehicle_destroyed_21.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_21_E843A46D.wem</Path>
+				</File>
+				<File Id="151705195" Language="English(UK)">
+					<ShortName>track_destroyed_06.wav</ShortName>
+					<Path>Voices\English(UK)\track_destroyed_06_E843A46D.wem</Path>
+				</File>
+				<File Id="166212699" Language="English(UK)">
+					<ShortName>target_unlocked_01.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_01_E843A46D.wem</Path>
+				</File>
+				<File Id="174229662" Language="English(UK)">
+					<ShortName>track_functional_can_move_07.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_can_move_07_E843A46D.wem</Path>
+				</File>
+				<File Id="184097048" Language="English(UK)">
+					<ShortName>target_captured_03.wav</ShortName>
+					<Path>Voices\English(UK)\target_captured_03_E843A46D.wem</Path>
+				</File>
+				<File Id="186915907" Language="English(UK)">
+					<ShortName>target_lost_01.wav</ShortName>
+					<Path>Voices\English(UK)\target_lost_01_E843A46D.wem</Path>
+				</File>
+				<File Id="188201199" Language="English(UK)">
+					<ShortName>vehicle_destroyed_16.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_16_E843A46D.wem</Path>
+				</File>
+				<File Id="208006961" Language="English(UK)">
+					<ShortName>vehicle_destroyed_03.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_03_E843A46D.wem</Path>
+				</File>
+				<File Id="210159927" Language="English(UK)">
+					<ShortName>target_lost_03.wav</ShortName>
+					<Path>Voices\English(UK)\target_lost_03_E843A46D.wem</Path>
+				</File>
+				<File Id="224435059" Language="English(UK)">
+					<ShortName>track_damaged_04.wav</ShortName>
+					<Path>Voices\English(UK)\track_damaged_04_E843A46D.wem</Path>
+				</File>
+				<File Id="224720399" Language="English(UK)">
+					<ShortName>turret_rotator_damaged_01.wav</ShortName>
+					<Path>Voices\English(UK)\turret_rotator_damaged_01_E843A46D.wem</Path>
+				</File>
+				<File Id="229595621" Language="English(UK)">
+					<ShortName>target_unlocked_11.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_11_E843A46D.wem</Path>
+				</File>
+				<File Id="245724106" Language="English(UK)">
+					<ShortName>vehicle_destroyed_24.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_24_E843A46D.wem</Path>
+				</File>
+				<File Id="256138082" Language="English(UK)">
+					<ShortName>vehicle_destroyed_06.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_06_E843A46D.wem</Path>
+				</File>
+				<File Id="270892530" Language="English(UK)">
+					<ShortName>target_captured_05.wav</ShortName>
+					<Path>Voices\English(UK)\target_captured_05_E843A46D.wem</Path>
+				</File>
+				<File Id="279355305" Language="English(UK)">
+					<ShortName>vehicle_destroyed_13.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_13_E843A46D.wem</Path>
+				</File>
+				<File Id="361870953" Language="English(UK)">
+					<ShortName>turret_rotator_functional_01.wav</ShortName>
+					<Path>Voices\English(UK)\turret_rotator_functional_01_E843A46D.wem</Path>
+				</File>
+				<File Id="371123917" Language="English(UK)">
+					<ShortName>vehicle_destroyed_18.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_18_E843A46D.wem</Path>
+				</File>
+				<File Id="372694452" Language="English(UK)">
+					<ShortName>vehicle_destroyed_25.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_25_E843A46D.wem</Path>
+				</File>
+				<File Id="395971070" Language="English(UK)">
+					<ShortName>target_unlocked_10.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_10_E843A46D.wem</Path>
+				</File>
+				<File Id="408556142" Language="English(UK)">
+					<ShortName>vehicle_destroyed_10.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_10_E843A46D.wem</Path>
+				</File>
+				<File Id="412110918" Language="English(UK)">
+					<ShortName>track_functional_03.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_03_E843A46D.wem</Path>
+				</File>
+				<File Id="415130879" Language="English(UK)">
+					<ShortName>track_functional_can_move_03.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_can_move_03_E843A46D.wem</Path>
+				</File>
+				<File Id="422300820" Language="English(UK)">
+					<ShortName>target_unlocked_02.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_02_E843A46D.wem</Path>
+				</File>
+				<File Id="465316321" Language="English(UK)">
+					<ShortName>target_captured_04.wav</ShortName>
+					<Path>Voices\English(UK)\target_captured_04_E843A46D.wem</Path>
+				</File>
+				<File Id="470417607" Language="English(UK)">
+					<ShortName>vehicle_destroyed_27.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_27_E843A46D.wem</Path>
+				</File>
+				<File Id="476915405" Language="English(UK)">
+					<ShortName>vehicle_destroyed_23.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_23_E843A46D.wem</Path>
+				</File>
+				<File Id="519473691" Language="English(UK)">
+					<ShortName>turret_rotator_destroyed_04.wav</ShortName>
+					<Path>Voices\English(UK)\turret_rotator_destroyed_04_E843A46D.wem</Path>
+				</File>
+				<File Id="523724698" Language="English(UK)">
+					<ShortName>target_captured_06.wav</ShortName>
+					<Path>Voices\English(UK)\target_captured_06_E843A46D.wem</Path>
+				</File>
+				<File Id="538577695" Language="English(UK)">
+					<ShortName>track_functional_can_move_06.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_can_move_06_E843A46D.wem</Path>
+				</File>
+				<File Id="569055733" Language="English(UK)">
+					<ShortName>track_functional_01.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_01_E843A46D.wem</Path>
+				</File>
+				<File Id="573719764" Language="English(UK)">
+					<ShortName>target_unlocked_06.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_06_E843A46D.wem</Path>
+				</File>
+				<File Id="575160404" Language="English(UK)">
+					<ShortName>target_captured_02.wav</ShortName>
+					<Path>Voices\English(UK)\target_captured_02_E843A46D.wem</Path>
+				</File>
+				<File Id="577009620" Language="English(UK)">
+					<ShortName>vehicle_destroyed_08.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_08_E843A46D.wem</Path>
+				</File>
+				<File Id="598656859" Language="English(UK)">
+					<ShortName>vehicle_destroyed_11.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_11_E843A46D.wem</Path>
+				</File>
+				<File Id="610643497" Language="English(UK)">
+					<ShortName>target_unlocked_03.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_03_E843A46D.wem</Path>
+				</File>
+				<File Id="667340259" Language="English(UK)">
+					<ShortName>target_unlocked_05.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_05_E843A46D.wem</Path>
+				</File>
+				<File Id="694992188" Language="English(UK)">
+					<ShortName>target_captured_07.wav</ShortName>
+					<Path>Voices\English(UK)\target_captured_07_E843A46D.wem</Path>
+				</File>
+				<File Id="703222605" Language="English(UK)">
+					<ShortName>track_destroyed_07.wav</ShortName>
+					<Path>Voices\English(UK)\track_destroyed_07_E843A46D.wem</Path>
+				</File>
+				<File Id="708686568" Language="English(UK)">
+					<ShortName>target_lost_05.wav</ShortName>
+					<Path>Voices\English(UK)\target_lost_05_E843A46D.wem</Path>
+				</File>
+				<File Id="725525888" Language="English(UK)">
+					<ShortName>track_damaged_03.wav</ShortName>
+					<Path>Voices\English(UK)\track_damaged_03_E843A46D.wem</Path>
+				</File>
+				<File Id="740503844" Language="English(UK)">
+					<ShortName>turret_rotator_destroyed_02.wav</ShortName>
+					<Path>Voices\English(UK)\turret_rotator_destroyed_02_E843A46D.wem</Path>
+				</File>
+				<File Id="740544022" Language="English(UK)">
+					<ShortName>target_unlocked_08.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_08_E843A46D.wem</Path>
+				</File>
+				<File Id="757363626" Language="English(UK)">
+					<ShortName>target_unlocked_04.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_04_E843A46D.wem</Path>
+				</File>
+				<File Id="762816730" Language="English(UK)">
+					<ShortName>vehicle_destroyed_26.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_26_E843A46D.wem</Path>
+				</File>
+				<File Id="769380094" Language="English(UK)">
+					<ShortName>track_destroyed_01.wav</ShortName>
+					<Path>Voices\English(UK)\track_destroyed_01_E843A46D.wem</Path>
+				</File>
+				<File Id="774231910" Language="English(UK)">
+					<ShortName>vehicle_destroyed_22.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_22_E843A46D.wem</Path>
+				</File>
+				<File Id="777007237" Language="English(UK)">
+					<ShortName>vehicle_destroyed_20.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_20_E843A46D.wem</Path>
+				</File>
+				<File Id="777713789" Language="English(UK)">
+					<ShortName>target_lost_04.wav</ShortName>
+					<Path>Voices\English(UK)\target_lost_04_E843A46D.wem</Path>
+				</File>
+				<File Id="790722965" Language="English(UK)">
+					<ShortName>vehicle_destroyed_05.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_05_E843A46D.wem</Path>
+				</File>
+				<File Id="793741627" Language="English(UK)">
+					<ShortName>target_unlocked_09.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_09_E843A46D.wem</Path>
+				</File>
+				<File Id="798035101" Language="English(UK)">
+					<ShortName>vehicle_destroyed_28.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_28_E843A46D.wem</Path>
+				</File>
+				<File Id="824756200" Language="English(UK)">
+					<ShortName>target_unlocked_13.wav</ShortName>
+					<Path>Voices\English(UK)\target_unlocked_13_E843A46D.wem</Path>
+				</File>
+				<File Id="824979602" Language="English(UK)">
+					<ShortName>vehicle_destroyed_12.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_12_E843A46D.wem</Path>
+				</File>
+				<File Id="837728258" Language="English(UK)">
+					<ShortName>track_functional_can_move_01.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_can_move_01_E843A46D.wem</Path>
+				</File>
+				<File Id="896621957" Language="English(UK)">
+					<ShortName>track_destroyed_05.wav</ShortName>
+					<Path>Voices\English(UK)\track_destroyed_05_E843A46D.wem</Path>
+				</File>
+				<File Id="901553696" Language="English(UK)">
+					<ShortName>vehicle_destroyed_19.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_19_E843A46D.wem</Path>
+				</File>
+				<File Id="912266392" Language="English(UK)">
+					<ShortName>track_damaged_02.wav</ShortName>
+					<Path>Voices\English(UK)\track_damaged_02_E843A46D.wem</Path>
+				</File>
+				<File Id="934911521" Language="English(UK)">
+					<ShortName>turret_rotator_damaged_03.wav</ShortName>
+					<Path>Voices\English(UK)\turret_rotator_damaged_03_E843A46D.wem</Path>
+				</File>
+				<File Id="961194145" Language="English(UK)">
+					<ShortName>vehicle_destroyed_14.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_14_E843A46D.wem</Path>
+				</File>
+				<File Id="1015467231" Language="English(UK)">
+					<ShortName>turret_rotator_damaged_02.wav</ShortName>
+					<Path>Voices\English(UK)\turret_rotator_damaged_02_E843A46D.wem</Path>
+				</File>
+				<File Id="1020515278" Language="English(UK)">
+					<ShortName>track_functional_can_move_05.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_can_move_05_E843A46D.wem</Path>
+				</File>
+				<File Id="1040878005" Language="English(UK)">
+					<ShortName>turret_rotator_destroyed_01.wav</ShortName>
+					<Path>Voices\English(UK)\turret_rotator_destroyed_01_E843A46D.wem</Path>
+				</File>
+				<File Id="1045055479" Language="English(UK)">
+					<ShortName>track_damaged_01.wav</ShortName>
+					<Path>Voices\English(UK)\track_damaged_01_E843A46D.wem</Path>
+				</File>
+				<File Id="1045551223" Language="English(UK)">
+					<ShortName>track_functional_can_move_02.wav</ShortName>
+					<Path>Voices\English(UK)\track_functional_can_move_02_E843A46D.wem</Path>
+				</File>
+				<File Id="1048818116" Language="English(UK)">
+					<ShortName>vehicle_destroyed_02.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_02_E843A46D.wem</Path>
+				</File>
+				<File Id="1057593824" Language="English(UK)">
+					<ShortName>track_destroyed_04.wav</ShortName>
+					<Path>Voices\English(UK)\track_destroyed_04_E843A46D.wem</Path>
+				</File>
+				<File Id="1071789051" Language="English(UK)">
+					<ShortName>turret_rotator_functional_02.wav</ShortName>
+					<Path>Voices\English(UK)\turret_rotator_functional_02_E843A46D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3135547424" Language="English(US)">
+			<ShortName>RelHax_4</ShortName>
+			<Path>English(US)\RelHax_4.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1491984609" Name="vo_target_captured"/>
+				<Event Id="2836359293" Name="vo_target_lost"/>
+				<Event Id="85617264" Name="vo_target_unlocked"/>
+				<Event Id="766987452" Name="vo_track_damaged"/>
+				<Event Id="1244332268" Name="vo_track_destroyed"/>
+				<Event Id="3498324732" Name="vo_track_functional"/>
+				<Event Id="311966861" Name="vo_track_functional_can_move"/>
+				<Event Id="47755571" Name="vo_turret_rotator_damaged"/>
+				<Event Id="1630212423" Name="vo_turret_rotator_destroyed"/>
+				<Event Id="257621937" Name="vo_turret_rotator_functional"/>
+				<Event Id="3917054405" Name="vo_vehicle_destroyed"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="16508028" Language="English(US)">
+					<ShortName>vehicle_destroyed_07.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_07_E843A46D.wem</Path>
+				</File>
+				<File Id="17765699" Language="English(US)">
+					<ShortName>vehicle_destroyed_17.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_17_E843A46D.wem</Path>
+				</File>
+				<File Id="32761682" Language="English(US)">
+					<ShortName>vehicle_destroyed_04.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_04_E843A46D.wem</Path>
+				</File>
+				<File Id="118287030" Language="English(US)">
+					<ShortName>vehicle_destroyed_22.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_22_E843A46D.wem</Path>
+				</File>
+				<File Id="118468904" Language="English(US)">
+					<ShortName>vehicle_destroyed_18.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_18_E843A46D.wem</Path>
+				</File>
+				<File Id="137948623" Language="English(US)">
+					<ShortName>target_captured_01.wav</ShortName>
+					<Path>Voices\English(US)\target_captured_01_E843A46D.wem</Path>
+				</File>
+				<File Id="143894057" Language="English(US)">
+					<ShortName>target_lost_01.wav</ShortName>
+					<Path>Voices\English(US)\target_lost_01_E843A46D.wem</Path>
+				</File>
+				<File Id="152689816" Language="English(US)">
+					<ShortName>track_functional_04.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_04_E843A46D.wem</Path>
+				</File>
+				<File Id="157689790" Language="English(US)">
+					<ShortName>track_functional_03.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_03_E843A46D.wem</Path>
+				</File>
+				<File Id="176652493" Language="English(US)">
+					<ShortName>turret_rotator_functional_02.wav</ShortName>
+					<Path>Voices\English(US)\turret_rotator_functional_02_E843A46D.wem</Path>
+				</File>
+				<File Id="200027179" Language="English(US)">
+					<ShortName>target_lost_04.wav</ShortName>
+					<Path>Voices\English(US)\target_lost_04_E843A46D.wem</Path>
+				</File>
+				<File Id="224717557" Language="English(US)">
+					<ShortName>track_destroyed_07.wav</ShortName>
+					<Path>Voices\English(US)\track_destroyed_07_E843A46D.wem</Path>
+				</File>
+				<File Id="234829988" Language="English(US)">
+					<ShortName>vehicle_destroyed_16.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_16_E843A46D.wem</Path>
+				</File>
+				<File Id="281935057" Language="English(US)">
+					<ShortName>track_functional_01.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_01_E843A46D.wem</Path>
+				</File>
+				<File Id="283522379" Language="English(US)">
+					<ShortName>track_functional_can_move_02.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_can_move_02_E843A46D.wem</Path>
+				</File>
+				<File Id="305531114" Language="English(US)">
+					<ShortName>vehicle_destroyed_03.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_03_E843A46D.wem</Path>
+				</File>
+				<File Id="306580125" Language="English(US)">
+					<ShortName>turret_rotator_destroyed_04.wav</ShortName>
+					<Path>Voices\English(US)\turret_rotator_destroyed_04_E843A46D.wem</Path>
+				</File>
+				<File Id="322915226" Language="English(US)">
+					<ShortName>target_unlocked_12.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_12_E843A46D.wem</Path>
+				</File>
+				<File Id="326001203" Language="English(US)">
+					<ShortName>target_unlocked_09.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_09_E843A46D.wem</Path>
+				</File>
+				<File Id="342944632" Language="English(US)">
+					<ShortName>target_unlocked_06.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_06_E843A46D.wem</Path>
+				</File>
+				<File Id="346457463" Language="English(US)">
+					<ShortName>target_captured_07.wav</ShortName>
+					<Path>Voices\English(US)\target_captured_07_E843A46D.wem</Path>
+				</File>
+				<File Id="349630752" Language="English(US)">
+					<ShortName>vehicle_destroyed_23.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_23_E843A46D.wem</Path>
+				</File>
+				<File Id="356437058" Language="English(US)">
+					<ShortName>vehicle_destroyed_27.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_27_E843A46D.wem</Path>
+				</File>
+				<File Id="391592367" Language="English(US)">
+					<ShortName>track_damaged_01.wav</ShortName>
+					<Path>Voices\English(US)\track_damaged_01_E843A46D.wem</Path>
+				</File>
+				<File Id="400438866" Language="English(US)">
+					<ShortName>track_destroyed_03.wav</ShortName>
+					<Path>Voices\English(US)\track_destroyed_03_E843A46D.wem</Path>
+				</File>
+				<File Id="407542772" Language="English(US)">
+					<ShortName>target_lost_02.wav</ShortName>
+					<Path>Voices\English(US)\target_lost_02_E843A46D.wem</Path>
+				</File>
+				<File Id="421258775" Language="English(US)">
+					<ShortName>turret_rotator_functional_01.wav</ShortName>
+					<Path>Voices\English(US)\turret_rotator_functional_01_E843A46D.wem</Path>
+				</File>
+				<File Id="427410163" Language="English(US)">
+					<ShortName>track_functional_can_move_01.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_can_move_01_E843A46D.wem</Path>
+				</File>
+				<File Id="430048523" Language="English(US)">
+					<ShortName>target_captured_02.wav</ShortName>
+					<Path>Voices\English(US)\target_captured_02_E843A46D.wem</Path>
+				</File>
+				<File Id="464580469" Language="English(US)">
+					<ShortName>track_functional_can_move_07.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_can_move_07_E843A46D.wem</Path>
+				</File>
+				<File Id="470212435" Language="English(US)">
+					<ShortName>target_unlocked_04.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_04_E843A46D.wem</Path>
+				</File>
+				<File Id="478879818" Language="English(US)">
+					<ShortName>vehicle_destroyed_13.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_13_E843A46D.wem</Path>
+				</File>
+				<File Id="481598810" Language="English(US)">
+					<ShortName>target_unlocked_07.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_07_E843A46D.wem</Path>
+				</File>
+				<File Id="482497564" Language="English(US)">
+					<ShortName>vehicle_destroyed_19.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_19_E843A46D.wem</Path>
+				</File>
+				<File Id="487224471" Language="English(US)">
+					<ShortName>turret_rotator_damaged_02.wav</ShortName>
+					<Path>Voices\English(US)\turret_rotator_damaged_02_E843A46D.wem</Path>
+				</File>
+				<File Id="492655691" Language="English(US)">
+					<ShortName>track_functional_02.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_02_E843A46D.wem</Path>
+				</File>
+				<File Id="500344156" Language="English(US)">
+					<ShortName>track_destroyed_06.wav</ShortName>
+					<Path>Voices\English(US)\track_destroyed_06_E843A46D.wem</Path>
+				</File>
+				<File Id="519366033" Language="English(US)">
+					<ShortName>target_lost_06.wav</ShortName>
+					<Path>Voices\English(US)\target_lost_06_E843A46D.wem</Path>
+				</File>
+				<File Id="533162270" Language="English(US)">
+					<ShortName>vehicle_destroyed_15.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_15_E843A46D.wem</Path>
+				</File>
+				<File Id="556068767" Language="English(US)">
+					<ShortName>target_unlocked_01.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_01_E843A46D.wem</Path>
+				</File>
+				<File Id="570971557" Language="English(US)">
+					<ShortName>track_damaged_03.wav</ShortName>
+					<Path>Voices\English(US)\track_damaged_03_E843A46D.wem</Path>
+				</File>
+				<File Id="575848313" Language="English(US)">
+					<ShortName>track_damaged_04.wav</ShortName>
+					<Path>Voices\English(US)\track_damaged_04_E843A46D.wem</Path>
+				</File>
+				<File Id="577700756" Language="English(US)">
+					<ShortName>vehicle_destroyed_26.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_26_E843A46D.wem</Path>
+				</File>
+				<File Id="605994666" Language="English(US)">
+					<ShortName>vehicle_destroyed_01.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_01_E843A46D.wem</Path>
+				</File>
+				<File Id="607824813" Language="English(US)">
+					<ShortName>target_lost_05.wav</ShortName>
+					<Path>Voices\English(US)\target_lost_05_E843A46D.wem</Path>
+				</File>
+				<File Id="617623914" Language="English(US)">
+					<ShortName>track_functional_can_move_06.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_can_move_06_E843A46D.wem</Path>
+				</File>
+				<File Id="621979806" Language="English(US)">
+					<ShortName>target_unlocked_11.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_11_E843A46D.wem</Path>
+				</File>
+				<File Id="646810651" Language="English(US)">
+					<ShortName>turret_rotator_destroyed_03.wav</ShortName>
+					<Path>Voices\English(US)\turret_rotator_destroyed_03_E843A46D.wem</Path>
+				</File>
+				<File Id="652154132" Language="English(US)">
+					<ShortName>target_unlocked_05.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_05_E843A46D.wem</Path>
+				</File>
+				<File Id="664076776" Language="English(US)">
+					<ShortName>vehicle_destroyed_24.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_24_E843A46D.wem</Path>
+				</File>
+				<File Id="675719907" Language="English(US)">
+					<ShortName>target_captured_05.wav</ShortName>
+					<Path>Voices\English(US)\target_captured_05_E843A46D.wem</Path>
+				</File>
+				<File Id="690220427" Language="English(US)">
+					<ShortName>target_unlocked_08.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_08_E843A46D.wem</Path>
+				</File>
+				<File Id="702275075" Language="English(US)">
+					<ShortName>track_destroyed_02.wav</ShortName>
+					<Path>Voices\English(US)\track_destroyed_02_E843A46D.wem</Path>
+				</File>
+				<File Id="744898136" Language="English(US)">
+					<ShortName>target_captured_04.wav</ShortName>
+					<Path>Voices\English(US)\target_captured_04_E843A46D.wem</Path>
+				</File>
+				<File Id="755195268" Language="English(US)">
+					<ShortName>target_lost_03.wav</ShortName>
+					<Path>Voices\English(US)\target_lost_03_E843A46D.wem</Path>
+				</File>
+				<File Id="762133535" Language="English(US)">
+					<ShortName>track_functional_can_move_03.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_can_move_03_E843A46D.wem</Path>
+				</File>
+				<File Id="764062589" Language="English(US)">
+					<ShortName>vehicle_destroyed_11.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_11_E843A46D.wem</Path>
+				</File>
+				<File Id="764607030" Language="English(US)">
+					<ShortName>vehicle_destroyed_02.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_02_E843A46D.wem</Path>
+				</File>
+				<File Id="769841228" Language="English(US)">
+					<ShortName>vehicle_destroyed_06.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_06_E843A46D.wem</Path>
+				</File>
+				<File Id="774307800" Language="English(US)">
+					<ShortName>vehicle_destroyed_25.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_25_E843A46D.wem</Path>
+				</File>
+				<File Id="782244064" Language="English(US)">
+					<ShortName>vehicle_destroyed_10.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_10_E843A46D.wem</Path>
+				</File>
+				<File Id="785230052" Language="English(US)">
+					<ShortName>target_captured_06.wav</ShortName>
+					<Path>Voices\English(US)\target_captured_06_E843A46D.wem</Path>
+				</File>
+				<File Id="793317631" Language="English(US)">
+					<ShortName>turret_rotator_damaged_01.wav</ShortName>
+					<Path>Voices\English(US)\turret_rotator_damaged_01_E843A46D.wem</Path>
+				</File>
+				<File Id="811028027" Language="English(US)">
+					<ShortName>vehicle_destroyed_14.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_14_E843A46D.wem</Path>
+				</File>
+				<File Id="825696448" Language="English(US)">
+					<ShortName>vehicle_destroyed_09.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_09_E843A46D.wem</Path>
+				</File>
+				<File Id="829557724" Language="English(US)">
+					<ShortName>target_unlocked_03.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_03_E843A46D.wem</Path>
+				</File>
+				<File Id="853782029" Language="English(US)">
+					<ShortName>vehicle_destroyed_12.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_12_E843A46D.wem</Path>
+				</File>
+				<File Id="857163731" Language="English(US)">
+					<ShortName>vehicle_destroyed_21.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_21_E843A46D.wem</Path>
+				</File>
+				<File Id="859778494" Language="English(US)">
+					<ShortName>vehicle_destroyed_28.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_28_E843A46D.wem</Path>
+				</File>
+				<File Id="867761554" Language="English(US)">
+					<ShortName>turret_rotator_destroyed_02.wav</ShortName>
+					<Path>Voices\English(US)\turret_rotator_destroyed_02_E843A46D.wem</Path>
+				</File>
+				<File Id="876652894" Language="English(US)">
+					<ShortName>target_unlocked_10.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_10_E843A46D.wem</Path>
+				</File>
+				<File Id="892724464" Language="English(US)">
+					<ShortName>track_destroyed_01.wav</ShortName>
+					<Path>Voices\English(US)\track_destroyed_01_E843A46D.wem</Path>
+				</File>
+				<File Id="895400143" Language="English(US)">
+					<ShortName>target_captured_03.wav</ShortName>
+					<Path>Voices\English(US)\target_captured_03_E843A46D.wem</Path>
+				</File>
+				<File Id="903883433" Language="English(US)">
+					<ShortName>target_unlocked_02.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_02_E843A46D.wem</Path>
+				</File>
+				<File Id="956988426" Language="English(US)">
+					<ShortName>vehicle_destroyed_08.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_08_E843A46D.wem</Path>
+				</File>
+				<File Id="983566541" Language="English(US)">
+					<ShortName>track_destroyed_05.wav</ShortName>
+					<Path>Voices\English(US)\track_destroyed_05_E843A46D.wem</Path>
+				</File>
+				<File Id="999123575" Language="English(US)">
+					<ShortName>vehicle_destroyed_20.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_20_E843A46D.wem</Path>
+				</File>
+				<File Id="1000927984" Language="English(US)">
+					<ShortName>vehicle_destroyed_05.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_05_E843A46D.wem</Path>
+				</File>
+				<File Id="1002571798" Language="English(US)">
+					<ShortName>target_unlocked_13.wav</ShortName>
+					<Path>Voices\English(US)\target_unlocked_13_E843A46D.wem</Path>
+				</File>
+				<File Id="1018518136" Language="English(US)">
+					<ShortName>track_destroyed_04.wav</ShortName>
+					<Path>Voices\English(US)\track_destroyed_04_E843A46D.wem</Path>
+				</File>
+				<File Id="1023304144" Language="English(US)">
+					<ShortName>turret_rotator_destroyed_01.wav</ShortName>
+					<Path>Voices\English(US)\turret_rotator_destroyed_01_E843A46D.wem</Path>
+				</File>
+				<File Id="1033235947" Language="English(US)">
+					<ShortName>turret_rotator_damaged_03.wav</ShortName>
+					<Path>Voices\English(US)\turret_rotator_damaged_03_E843A46D.wem</Path>
+				</File>
+				<File Id="1039822467" Language="English(US)">
+					<ShortName>track_functional_can_move_04.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_can_move_04_E843A46D.wem</Path>
+				</File>
+				<File Id="1052857154" Language="English(US)">
+					<ShortName>track_functional_can_move_05.wav</ShortName>
+					<Path>Voices\English(US)\track_functional_can_move_05_E843A46D.wem</Path>
+				</File>
+				<File Id="1068781419" Language="English(US)">
+					<ShortName>track_damaged_02.wav</ShortName>
+					<Path>Voices\English(US)\track_damaged_02_E843A46D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

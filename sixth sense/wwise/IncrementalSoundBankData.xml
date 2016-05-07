@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="4" Flags="601859981">
+	<Platform GUID="{0BB51CE5-2763-4666-872A-A505DCFE0952}">
+		<Language ID="0">
+			<Bank Name="Init" Hash="1411499524" StreamHash="157587662" Timestamp="131069368982842003"/>
+			<Bank Name="sixthsense" Hash="154979154" StreamHash="157587662" Timestamp="131069368982701921"/>
+			<Bank Name="voiceover" Hash="4053202274" StreamHash="157587662" Timestamp="131032672936171561"/>
+			<Bank Name="voiceover_2" Hash="1454008686" StreamHash="157587662" Timestamp="131032751988799842"/>
+			<Bank Name="voiceover_enemy_killed_by_player" Hash="4090659808" StreamHash="157587662" Timestamp="131029972230497737"/>
+			<Bank Name="voiceover_start_battle" Hash="3814515128" StreamHash="157587662" Timestamp="131029972236166694"/>
+			<Bank Name="voiceover_vechile_killed_by_player" Hash="3948128613" StreamHash="157587662" Timestamp="131029970915477466"/>
+		</Language>
+	</Platform>
+</IncrementalBankBuild>

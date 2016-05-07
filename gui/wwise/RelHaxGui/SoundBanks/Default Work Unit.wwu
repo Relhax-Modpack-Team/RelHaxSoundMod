@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AABB8048-B349-4EDB-9B57-EA1D79E878FA}" SchemaVersion="70">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{AABB8048-B349-4EDB-9B57-EA1D79E878FA}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="RelHaxGui" ID="{5E64ADEB-D8D3-435A-8136-565F9AA0C614}">
+					<ObjectInclusionList>
+						<ObjectRef Name="enemy_sighted_for_team" ID="{EEF2F553-8166-4830-936E-7972E5785D61}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="timer" ID="{AD9C0C5C-3102-47C1-AB0E-D30132E559B7}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="base_capture_1" ID="{EE77DAD7-740C-451A-AD7F-7CE7834E8A4A}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

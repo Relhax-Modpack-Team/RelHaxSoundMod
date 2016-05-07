@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C8492133-64A1-4F60-B914-CF6E5F08E0CF}" SchemaVersion="70">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{C8492133-64A1-4F60-B914-CF6E5F08E0CF}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="RelHax_3" ID="{54BFE864-D5DA-469E-A494-6D8E485D6444}">
+					<ObjectInclusionList>
+						<ObjectRef Name="vo_radioman_killed" ID="{53C27D00-FD0B-4DC7-A0FB-4BA2754CA616}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_start_battle" ID="{513A2A1E-BEE7-4B8C-B3EE-8BF9EA708949}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_surveying_devices_functional" ID="{3E963872-E02B-4DD3-98FB-D9CFB8A2C528}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_surveying_devices_destroyed" ID="{F2814EE6-3E31-41B2-A956-CCDCB9CF1E20}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_surveying_devices_damaged" ID="{EF63F4FD-2387-408B-AB2F-4EBB9F4F348D}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

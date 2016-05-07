@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	324120239	sixthsense			\Default Work Unit\sixthsense	
+	2031596562	lightbulb			\Default Work Unit\lightbulb	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	5189176	RTPC_ext_menu_volume_voice_gui			\Default Work Unit\RTPC_ext_menu_volume_voice_gui	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	20840081	spotted_2	F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\sixth sense\wwise\.cache\Windows\SFX\spotted_2_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\lightbulb\spotted_2		23174
+	309660321	spotted_5	F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\sixth sense\wwise\.cache\Windows\SFX\spotted_5_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\lightbulb\spotted_5		27986
+	360446717	spotted_3	F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\sixth sense\wwise\.cache\Windows\SFX\spotted_3_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\lightbulb\spotted_3		6094
+	549259792	spotted_1	F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\sixth sense\wwise\.cache\Windows\SFX\spotted_1_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\lightbulb\spotted_1		17179
+	550621721	spotted_4	F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\sixth sense\wwise\.cache\Windows\SFX\spotted_4_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\lightbulb\spotted_4		18427
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\sixth sense\wwise\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\sixth sense\wwise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\sixth sense\wwise\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\sixth sense\wwise\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="324120239" Language="SFX">
+			<ShortName>sixthsense</ShortName>
+			<Path>sixthsense.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2031596562" Name="lightbulb"/>
+				<Event Id="324120239" Name="sixthsense"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="20840081" Language="SFX">
+					<ShortName>spotted_2.wav</ShortName>
+					<Path>SFX\spotted_2_E843A46D.wem</Path>
+				</File>
+				<File Id="309660321" Language="SFX">
+					<ShortName>spotted_5.wav</ShortName>
+					<Path>SFX\spotted_5_E843A46D.wem</Path>
+				</File>
+				<File Id="360446717" Language="SFX">
+					<ShortName>spotted_3.wav</ShortName>
+					<Path>SFX\spotted_3_E843A46D.wem</Path>
+				</File>
+				<File Id="549259792" Language="SFX">
+					<ShortName>spotted_1.wav</ShortName>
+					<Path>SFX\spotted_1_E843A46D.wem</Path>
+				</File>
+				<File Id="550621721" Language="SFX">
+					<ShortName>spotted_4.wav</ShortName>
+					<Path>SFX\spotted_4_E843A46D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

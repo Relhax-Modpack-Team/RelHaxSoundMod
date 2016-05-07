@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CCAE2B6A-94D1-4750-BD2E-80AA7ECFB505}" SchemaVersion="70">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{CCAE2B6A-94D1-4750-BD2E-80AA7ECFB505}" PersistMode="Standalone">
+			<ChildrenList>
+				<ActorMixer Name="voice_gui" ID="{3FCE70DE-26E3-4DA7-A326-BC65FFDADF8D}" ShortID="930354429">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<RTPCList>
+								<RTPC Name="" ID="{53094F8E-64AC-43CE-81CE-3201CAFE3008}" ShortID="242108077">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="RTPC_ext_menu_volume_voice_gui" ID="{4B12F7FD-9D88-4456-AC22-49FF2E73584F}" WorkUnitID="{F4AF42DF-7DF1-4F02-8669-E3CA74CE5C4C}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{F7D8F104-25CA-482B-BB16-2626B5C294F9}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="3"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>-200</YPos>
+												<Flags>5</Flags>
+											</Point>
+											<Point>
+												<XPos>100</XPos>
+												<YPos>0</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<RandomSequenceContainer Name="lightbulb" ID="{9C9D60F1-3D34-49EC-B2FC-1C1CEBF3B1DE}" ShortID="755990777">
+							<PropertyList>
+								<Property Name="OverrideConversion" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="spotted_1" ID="{119089A0-E81C-474A-B283-A865E54E3C7D}" ShortID="408439429" Type="SoundFX">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="spotted_1" ID="{AFB19E51-34A5-4C66-882C-19DB09ED9338}" ShortID="251897558">
+											<Language>SFX</Language>
+											<AudioFile>spotted_1.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="549259792"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="spotted_1" ID="{AFB19E51-34A5-4C66-882C-19DB09ED9338}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="spotted_2" ID="{8DA7DC34-E740-4FF9-9AA0-1D308F1D9A23}" ShortID="88716310" Type="SoundFX">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="spotted_2" ID="{D89B53A9-3C2E-49D6-84C1-C927C241175D}" ShortID="335930086">
+											<Language>SFX</Language>
+											<AudioFile>spotted_2.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="20840081"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="spotted_2" ID="{D89B53A9-3C2E-49D6-84C1-C927C241175D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="spotted_3" ID="{06E28BF4-C6F2-4972-9B6A-5C43849BEEC4}" ShortID="264502617" Type="SoundFX">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="spotted_3" ID="{6A58A149-A08D-49CA-AAEB-100C75769276}" ShortID="374256238">
+											<Language>SFX</Language>
+											<AudioFile>spotted_3.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="360446717"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="spotted_3" ID="{6A58A149-A08D-49CA-AAEB-100C75769276}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="spotted_4" ID="{4F5E18F7-2427-42D2-9DBB-CDBD2F5D3241}" ShortID="399628965" Type="SoundFX">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="spotted_4" ID="{E0AF75E8-8D1B-40A1-8445-29026427D836}" ShortID="877624664">
+											<Language>SFX</Language>
+											<AudioFile>spotted_4.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="550621721"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="spotted_4" ID="{E0AF75E8-8D1B-40A1-8445-29026427D836}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="spotted_5" ID="{A658298B-1B40-4789-8A6F-57B00DE8FF19}" ShortID="620182982" Type="SoundFX">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="spotted_5" ID="{A56666D4-2E86-4532-BCD4-4CE987FD1E08}" ShortID="427350560">
+											<Language>SFX</Language>
+											<AudioFile>spotted_5.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="309660321"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="spotted_5" ID="{A56666D4-2E86-4532-BCD4-4CE987FD1E08}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="sixthsense" ID="{09544AC3-1CB6-4B92-94CB-113C011A727F}" ShortID="1012469453">
+							<PropertyList>
+								<Property Name="OverrideConversion" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="spotted_1" ID="{FF092619-6A17-4D11-BBB0-961F093B8D51}" ShortID="819389465" Type="SoundFX">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="spotted_1" ID="{CC063C82-5330-4E42-BDF9-6BD637402AD3}" ShortID="549259792">
+											<Language>SFX</Language>
+											<AudioFile>spotted_1.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="spotted_1" ID="{CC063C82-5330-4E42-BDF9-6BD637402AD3}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="spotted_2" ID="{85C859AE-EB4A-40F1-891B-09BEEB4A3194}" ShortID="322659474" Type="SoundFX">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="spotted_2" ID="{2DF83DD4-0986-4D6B-9D55-D81401D67B40}" ShortID="20840081">
+											<Language>SFX</Language>
+											<AudioFile>spotted_2.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="spotted_2" ID="{2DF83DD4-0986-4D6B-9D55-D81401D67B40}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="spotted_3" ID="{64D1E698-6AF8-42C0-BEE1-00AFA51F3281}" ShortID="220897374" Type="SoundFX">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="spotted_3" ID="{5372DDD3-7728-460E-A09D-215CF3281A42}" ShortID="360446717">
+											<Language>SFX</Language>
+											<AudioFile>spotted_3.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="spotted_3" ID="{5372DDD3-7728-460E-A09D-215CF3281A42}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="spotted_4" ID="{D3E57EF2-7DA5-4007-AF71-176C14C237E9}" ShortID="415477664" Type="SoundFX">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="spotted_4" ID="{15078D23-5B06-466F-A2EE-918250623B10}" ShortID="550621721">
+											<Language>SFX</Language>
+											<AudioFile>spotted_4.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="spotted_4" ID="{15078D23-5B06-466F-A2EE-918250623B10}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="spotted_5" ID="{4390F8D5-5C63-469E-850A-2F9C367B69DF}" ShortID="342548945" Type="SoundFX">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B0C42EBB-21C0-4BBA-8512-C32DE970C98C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{833E34E0-9BC7-4644-80F6-ACE24C3A5FA5}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="spotted_5" ID="{FAE6BB91-18D2-42A6-9CBD-0939601DA599}" ShortID="309660321">
+											<Language>SFX</Language>
+											<AudioFile>spotted_5.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="spotted_5" ID="{FAE6BB91-18D2-42A6-9CBD-0939601DA599}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+					</ChildrenList>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="vo_ally_killed_by_player" ID="{7C617533-A892-4494-AFDF-805E9BC12181}">
+					<ChildrenList>
+						<Action Name="Play" ID="{F1818144-09C0-4D1C-BCB1-78CA5F0D88DB}" ShortID="194271983" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{91F72EFA-21E7-49B0-AF8D-5BC0422BBF93}" Global="false">
+									<ObjectRef Name="vo_ally_killed_by_player" ID="{1309D442-AA6A-488D-982D-762BECFCC2B7}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_ammo_bay_damaged" ID="{C21F826E-7DA9-4F59-8794-83BC76935A75}">
+					<ChildrenList>
+						<Action Name="Play" ID="{63ADB7EF-B036-4C22-A341-2E00A65FDB24}" ShortID="460190740" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{D5670CCD-74EE-4348-9239-AB08CCAAE0A3}" Global="false">
+									<ObjectRef Name="vo_ammo_bay_damaged" ID="{F26C247B-C1FA-4A67-859C-030B487D0CEA}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_armor_not_pierced_by_player" ID="{81ACC28D-69A3-48B6-9056-DEB388039D03}">
+					<ChildrenList>
+						<Action Name="Play" ID="{3644B81A-F035-4C3E-90AF-805EF438A7A5}" ShortID="327354061" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{40E41758-5567-452C-AA0B-810AB2F2A603}" Global="false">
+									<ObjectRef Name="vo_armor_not_pierced_by_player" ID="{3342C47E-D692-42F8-BDD0-E95CFEBCBD36}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_armor_ricochet_by_player" ID="{7A89F7F8-4E5C-4F88-816C-9184D3D8168D}">
+					<ChildrenList>
+						<Action Name="Play" ID="{33B23A2B-6D00-4CC5-8854-9948A45A0266}" ShortID="299894677" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{A9E933F2-2280-45B4-86C6-AA900D777B33}" Global="false">
+									<ObjectRef Name="vo_armor_ricochet_by_player" ID="{EDD1758E-F377-4E51-8D2D-C55DD8999D41}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_chat_shotcuts_attack" ID="{682FF382-84C9-465D-B70B-C48F8EA957FA}">
+					<ChildrenList>
+						<Action Name="Play" ID="{1C01687B-B998-47E3-918C-A48371539B47}" ShortID="635106054" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{BC3A03B3-362D-49EA-AC8B-8FEF4FE8DAC1}" Global="false">
+									<ObjectRef Name="vo_chat_shotcuts_attack" ID="{3B737460-5FDE-429B-9840-97693A8CABA6}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_chat_shotcuts_attack_the_enemy" ID="{E7DB6ECA-E872-4D57-84B4-6FD235BA76E7}">
+					<ChildrenList>
+						<Action Name="Play" ID="{903783D8-72EF-4649-A992-FCD63BCD3180}" ShortID="873337465" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{F72F0E57-4198-475B-AC9F-88C8806D6F8D}" Global="false">
+									<ObjectRef Name="vo_chat_shotcuts_attack_the_enemy" ID="{9B7F634C-FA6F-4724-83E1-3B7A58570F98}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_chat_shotcuts_back_to_base" ID="{A7AED1EA-DC91-4B7D-88C0-8639420960D3}">
+					<ChildrenList>
+						<Action Name="Play" ID="{05660FE5-CA7D-4A24-A0C3-86F1CFD6833E}" ShortID="289158949" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{B633D4D8-27AD-499D-82AD-8B05F63456F9}" Global="false">
+									<ObjectRef Name="vo_chat_shotcuts_back_to_base" ID="{EA2BDD13-646A-4F1E-856B-22D14417715C}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_chat_shotcuts_follow_me" ID="{3D425EA6-FE28-42D4-B100-BEDA0F5253D3}">
+					<ChildrenList>
+						<Action Name="Play" ID="{7A86E93D-8095-4417-B316-4C27E61A15C9}" ShortID="79987124" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{8205EA65-03D8-4DB4-BF2D-50E639A7AABE}" Global="false">
+									<ObjectRef Name="vo_chat_shotcuts_follow_me" ID="{B9A85C19-7E61-42C1-9235-4C133064F9D1}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_chat_shotcuts_help_me" ID="{CC6B724D-1DAE-43C0-9F24-C8CE136F9A69}">
+					<ChildrenList>
+						<Action Name="Play" ID="{9E1A9938-4935-4DB5-A41E-971616160A00}" ShortID="619041545" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{807AD947-3208-48CF-8DAC-90EED2DBCEF5}" Global="false">
+									<ObjectRef Name="vo_chat_shotcuts_help_me" ID="{16E82B0A-425D-4156-AA9C-CD177B1BD2F1}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_chat_shotcuts_negative" ID="{12E81C0D-CC58-402B-BBCB-E1BC7B3AD70E}">
+					<ChildrenList>
+						<Action Name="Play" ID="{49731A0E-B5C6-4F74-B476-5BA40A300292}" ShortID="444844938" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{6A0BF7D3-3FB6-4E30-B236-8D1C187B0A93}" Global="false">
+									<ObjectRef Name="vo_chat_shotcuts_negative" ID="{EEF720AF-874B-4717-AB19-52E818F6A085}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_chat_shotcuts_positive" ID="{E094CFA8-BC7C-4A64-8416-CF69066148FE}">
+					<ChildrenList>
+						<Action Name="Play" ID="{31CB0DDA-C057-495F-8209-3A61AC61C179}" ShortID="781387560" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{86B9DB28-3871-466E-A8F0-D5F692351560}" Global="false">
+									<ObjectRef Name="vo_chat_shotcuts_positive" ID="{6033D8EA-44F7-4705-8CD5-ADF1155F7D0A}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_commander_killed" ID="{BAB9FC89-C335-434C-A82F-54DD2E374188}">
+					<ChildrenList>
+						<Action Name="Play" ID="{FDB955F3-3EAE-4ACD-BFB3-9850C72070AA}" ShortID="193737584" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{C630AE45-F1D9-46CB-929A-8E73FC55918C}" Global="false">
+									<ObjectRef Name="vo_commander_killed" ID="{D5A338B7-53F1-4A78-BFF6-90CFB59627CF}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_crew_deactivated" ID="{452C3E30-1A92-455E-ACCE-3A7372A824E2}">
+					<ChildrenList>
+						<Action Name="Play" ID="{300CCC4A-4C97-494F-BA02-E956A48A01D0}" ShortID="614755708" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{EC051FA4-68BA-4433-B325-33AF69E5738A}" Global="false">
+									<ObjectRef Name="vo_crew_deactivated" ID="{9A5C12D1-BC12-4D9F-B4A2-0DB81782CC4F}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_damage_by_near_explosion_by_enemy" ID="{6CDA69AB-A75C-4905-85C6-69B48F390C5F}">
+					<ChildrenList>
+						<Action Name="Play" ID="{4B76EEAF-0643-4EE2-BA3F-86A310E2B96D}" ShortID="473925641" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{A95147BC-73C4-4BC2-8C9F-92C8AB5E44E6}" Global="false">
+									<ObjectRef Name="vo_damage_by_near_explosion_by_enemy" ID="{13B8CC08-2A94-41E5-AF03-27FDD5C04C95}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_damage_by_near_explosion_by_player" ID="{2DA09CF9-E820-48FC-9D7F-9E97D9CB37F8}">
+					<ChildrenList>
+						<Action Name="Play" ID="{B7FE71A5-0271-4E62-B0A6-D22E32CF810C}" ShortID="11338846" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{F5301CB0-0AD7-411B-9DCE-FA9386C50340}" Global="false">
+									<ObjectRef Name="vo_damage_by_near_explosion_by_player" ID="{DE280AD3-C5CB-4CA0-B571-F69FD2772D66}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_dp_assistance_been_requested" ID="{9DF95D4E-65DC-4D90-9936-9B5BE1A71EF1}">
+					<ChildrenList>
+						<Action Name="Play" ID="{763B07D7-775E-48D2-8A0D-A9C88770F5A5}" ShortID="239749289" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{087D6F04-53FB-4EE8-952D-DD5EF3862D05}" Global="false">
+									<ObjectRef Name="vo_dp_assistance_been_requested" ID="{08212913-D6CD-41AE-B401-E1D7A7BC20F0}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_dp_been_excluded_platoon" ID="{E47D86C6-7FC3-409D-BDFF-FC63A0AE9C39}">
+					<ChildrenList>
+						<Action Name="Play" ID="{369FAE0E-6708-47D6-AA89-E40BF97A615C}" ShortID="683104217" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{0C0800B0-D083-41B8-8D7D-D3597BDF83AD}" Global="false">
+									<ObjectRef Name="vo_dp_been_excluded_platoon" ID="{05E33026-C8E7-488E-8594-9D52D67053EC}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_dp_left_platoon" ID="{F314EA33-F597-4EF5-B554-E97FBA637626}">
+					<ChildrenList>
+						<Action Name="Play" ID="{7B696931-A4A6-4F80-A822-A6690356B2DF}" ShortID="1053359820" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{E3DC91D1-6737-42F4-92FD-136142C6561E}" Global="false">
+									<ObjectRef Name="vo_dp_left_platoon" ID="{16016722-498C-42FD-B498-7C898B9E1371}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_dp_platoon_created" ID="{8410E551-5DEF-4FD0-B60A-D9589F56F2B9}">
+					<ChildrenList>
+						<Action Name="Play" ID="{79CA306A-61A2-4F91-B7DB-7D18B63520BC}" ShortID="932383436" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{DC0A9047-9DFA-435F-9822-208BA3689A12}" Global="false">
+									<ObjectRef Name="vo_dp_platoon_created" ID="{A71DB642-6FBB-49C9-9A9A-3263B503144D}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_dp_platoon_dismissed" ID="{FFCACE59-5A19-4F28-9BE0-66BC72BA7F80}">
+					<ChildrenList>
+						<Action Name="Play" ID="{07E095C4-5A1A-43A8-9B9A-015BC83801FA}" ShortID="223610290" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{600F3B54-A9BE-458A-87D2-3C08DC54CC0E}" Global="false">
+									<ObjectRef Name="vo_dp_platoon_dismissed" ID="{5E0BDD53-A237-476F-8AD0-A7C0C8555B9E}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_dp_platoon_joined" ID="{EBC9AA07-AA47-4C0D-B4F0-0D5DAE50B7D2}">
+					<ChildrenList>
+						<Action Name="Play" ID="{E8A49680-379C-4595-BDA6-6D3D6EC41DFD}" ShortID="829217576" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{97F0C04A-A00E-4193-B46D-28381DF7AECD}" Global="false">
+									<ObjectRef Name="vo_dp_platoon_joined" ID="{D5914C0F-3913-4278-896F-B804953F8065}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_dp_player_joined_platoon" ID="{92F99F3E-D9F1-4154-ADEB-538DE7C7E734}">
+					<ChildrenList>
+						<Action Name="Play" ID="{7B8D30A0-E70C-4CFD-AC06-F1A09768A130}" ShortID="580015546" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{8BAFCDFF-3F9F-47C3-AA5C-D69CF31A6C3F}" Global="false">
+									<ObjectRef Name="vo_dp_player_joined_platoon" ID="{176964C3-C922-43B3-B230-4E2542C451A7}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_driver_killed" ID="{BCEC1474-D5D1-4BA9-B23D-14AC31F726D8}">
+					<ChildrenList>
+						<Action Name="Play" ID="{4206C0BA-02CB-4866-A101-1E11BCE83655}" ShortID="969455005" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{250374C1-C11A-4A22-AA75-4732BB1C77BD}" Global="false">
+									<ObjectRef Name="vo_driver_killed" ID="{751E3E1D-6DA5-4D5E-8368-521EBD2C246B}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemies_sighted" ID="{CF280E9D-7D95-4A13-AE05-0D44E8AA7882}">
+					<ChildrenList>
+						<Action Name="Play" ID="{33AA8963-E2BF-4D31-8973-F6F859C57DDB}" ShortID="184996843" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{54F9B5EC-8296-41EB-9C96-3438B8CD46F7}" Global="false">
+									<ObjectRef Name="vo_enemies_sighted" ID="{B2CAE7E4-19F2-46F6-856C-F6D94734E1E1}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_fire_started_by_player" ID="{41C8242B-7F2F-4D68-ACF3-9C069A69EC72}">
+					<ChildrenList>
+						<Action Name="Play" ID="{B83B07A0-5F48-4FB1-94DB-CAC41504D4B5}" ShortID="949087377" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{EAC5A6AA-A123-41E1-A7F5-D617063634E7}" Global="false">
+									<ObjectRef Name="vo_enemy_fire_started_by_player" ID="{D66F46B2-B3F7-4054-8EC4-9385D35493BB}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_hp_damaged_by_explosion_at_direct_hit_by_player" ID="{5C4E146E-A9C3-4EEB-9CAA-C8A6E3C5A753}">
+					<ChildrenList>
+						<Action Name="Play" ID="{CF66290E-CCBE-43AE-BFDF-744034FAAFEB}" ShortID="903858470" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{10BA2C4D-8A94-4C26-890F-793F64E68971}" Global="false">
+									<ObjectRef Name="vo_enemy_hp_damaged_by_projectile_by_player" ID="{B006C078-D06A-4B6B-9F18-37926083C8FB}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player" ID="{7DD1F0C2-3E0D-4C2B-862A-0700EEF40D9F}">
+					<ChildrenList>
+						<Action Name="Play" ID="{2116A6C1-75E3-4D52-8459-7035B321AEC1}" ShortID="106244992" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{0BFD418F-9AE7-4AB0-8931-F4ECB985547D}" Global="false">
+									<ObjectRef Name="vo_enemy_hp_damaged_by_projectile_by_player" ID="{B006C078-D06A-4B6B-9F18-37926083C8FB}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player" ID="{09B88CEB-2F5B-448B-8D6A-97485651BA09}">
+					<ChildrenList>
+						<Action Name="Play" ID="{AA823E3B-8AFB-41CC-911B-D6DE7BB7C171}" ShortID="865771896" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{C30EFB14-8B46-4D7C-8B16-69B943C3DDCD}" Global="false">
+									<ObjectRef Name="vo_enemy_hp_damaged_by_projectile_by_player" ID="{B006C078-D06A-4B6B-9F18-37926083C8FB}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_hp_damaged_by_projectile_by_player" ID="{347154DC-5FE1-49CF-8189-DBCAA065A08F}">
+					<ChildrenList>
+						<Action Name="Play" ID="{AADE08EE-1248-41DA-A092-E840CA67D764}" ShortID="759021582" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{4FBB690B-EE9B-48D0-8786-A04F3BC271BF}" Global="false">
+									<ObjectRef Name="vo_enemy_hp_damaged_by_projectile_by_player" ID="{B006C078-D06A-4B6B-9F18-37926083C8FB}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_killed" ID="{829954A2-2294-418A-A54B-3C24E38DC0A3}">
+					<ChildrenList>
+						<Action Name="Play" ID="{6F3D9CD0-0560-4F67-BD54-102E8D620A68}" ShortID="492780088" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{F0AE8B01-2E7D-475E-9E76-66969FBF2BAC}" Global="false">
+									<ObjectRef Name="vo_enemy_killed" ID="{82EDAE6A-656A-4A66-B3E4-64B124187C2E}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_killed_by_player" ID="{CA725117-9659-4ABB-8FA5-3599A3878F67}">
+					<ChildrenList>
+						<Action Name="Play" ID="{4706C42D-31ED-4989-9B73-BAF1863A9203}" ShortID="536746223" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{500494BC-6B01-40DB-9539-42DFA9854D22}" Global="false">
+									<ObjectRef Name="vo_enemy_killed_by_player" ID="{9969A4BB-1B96-485B-A10D-03FABE2FF87C}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" ID="{CC756AB2-CFDD-4EBA-9F2E-5D8C49B4958E}">
+					<ChildrenList>
+						<Action Name="Play" ID="{9CA0C170-C673-4BAF-854B-9C2FC5E9AEC1}" ShortID="384160772" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{C6AFC58D-5B89-40BA-9C9F-BF21BCA9A9EB}" Global="false">
+									<ObjectRef Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" ID="{A2CBBFE2-ACB2-4F3C-9331-CDB928D4D8AD}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player" ID="{7FEAC97B-7B89-462A-A7C9-8340C4BF1275}">
+					<ChildrenList>
+						<Action Name="Play" ID="{89040D0A-C8B8-471E-9637-2742DC064D81}" ShortID="399423394" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{826C2D49-7EF2-49AB-BB27-287856CD6B99}" Global="false">
+									<ObjectRef Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" ID="{A2CBBFE2-ACB2-4F3C-9331-CDB928D4D8AD}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player" ID="{21BD1B05-30F7-4764-A4E2-A837BBE65AF7}">
+					<ChildrenList>
+						<Action Name="Play" ID="{5B6654BE-649E-4547-83B8-E6ADC62C14F3}" ShortID="163799382" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{832D9FE8-F277-45D8-A11B-AB472BE3A445}" Global="false">
+									<ObjectRef Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" ID="{A2CBBFE2-ACB2-4F3C-9331-CDB928D4D8AD}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player" ID="{E8C3E100-865D-469B-A5FB-B799C4F49732}">
+					<ChildrenList>
+						<Action Name="Play" ID="{166B2241-FD3D-4B3A-A83A-993D2F4985C2}" ShortID="1003737007" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{4F51F3DA-CEAC-4ADB-ADD8-244DFD52F776}" Global="false">
+									<ObjectRef Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" ID="{A2CBBFE2-ACB2-4F3C-9331-CDB928D4D8AD}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_enemy_sighted" ID="{F7F3CB74-78B8-4DE9-B898-EC3B3BC91AEE}">
+					<ChildrenList>
+						<Action Name="Play" ID="{6D8A8AEC-7D99-4181-B24C-2C7F647735E7}" ShortID="614578739" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{0BB8011A-5E87-4A27-A7BA-F79510278327}" Global="false">
+									<ObjectRef Name="vo_enemy_sighted" ID="{6C1B69A1-2F26-4D43-AC95-B704870D8BEB}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_engine_damaged" ID="{35D4C400-650C-4C21-898D-99EA72B31F70}">
+					<ChildrenList>
+						<Action Name="Play" ID="{B1400265-4A81-4389-ADB4-7AD2191C21D1}" ShortID="361811798" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{A4E4958E-7961-4FAD-A8F5-B7EBAEF94387}" Global="false">
+									<ObjectRef Name="vo_engine_damaged" ID="{DC0BE5CB-A81F-4796-BBD8-4F38EC249115}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_engine_destroyed" ID="{05755388-0054-4476-A62E-60D74E7C3255}">
+					<ChildrenList>
+						<Action Name="Play" ID="{7EFF31A2-FD5B-4D76-A626-2C4E3C6A1819}" ShortID="59397068" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{E022371E-0582-45AB-B151-B33CCB19A985}" Global="false">
+									<ObjectRef Name="vo_engine_destroyed" ID="{97C67010-813E-446E-884D-0DB1B25430E1}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_engine_functional" ID="{B71579D1-41CC-43F2-B2F8-B87CB10AD478}">
+					<ChildrenList>
+						<Action Name="Play" ID="{845A9658-9D77-4008-BF0E-08F3559CCE8B}" ShortID="222615161" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{CBC40205-371C-4C59-B2C0-ED6E8F42DE58}" Global="false">
+									<ObjectRef Name="vo_engine_functional" ID="{EB9B7C62-76BE-488A-9FE5-A73F825368E8}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_fire_started" ID="{9BB37EB3-A5C2-498E-B0C8-74FF94042248}">
+					<ChildrenList>
+						<Action Name="Play" ID="{C3488799-9756-4A22-87BC-35DA68007705}" ShortID="556408408" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{237A88DE-6E80-4E0B-B60D-9206078E46C1}" Global="false">
+									<ObjectRef Name="vo_fire_started" ID="{0FC6E073-C8F4-41D8-BB77-A65B5E0EF838}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_fire_stopped" ID="{D67B1638-6AE9-43E5-8A0D-1B2E834BF802}">
+					<ChildrenList>
+						<Action Name="Play" ID="{25208355-2C00-41E7-8633-02462FDA4CA2}" ShortID="605295902" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{35296ADF-F0A3-4AF8-AC51-CEDF5B4E7BA5}" Global="false">
+									<ObjectRef Name="vo_fire_stopped" ID="{AB49DE28-4E02-4557-BCB9-6006503EDEDA}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_flt_ally_captured" ID="{A7780EB8-092A-4AA8-BCF1-1EE1189590B4}">
+					<ChildrenList>
+						<Action Name="Play" ID="{7AF3A593-C5CE-4CCE-B5B6-6F508BEC08E5}" ShortID="415832896" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{4E38AA16-4B0B-46CB-8A65-4874BC1CD9C6}" Global="false">
+									<ObjectRef Name="vo_flt_ally_captured" ID="{9FA3327D-A4D6-496B-8E25-F5A1F00EA6FF}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_flt_ally_flag" ID="{D46DB36F-2D1A-40CB-BF48-72E540C4C671}">
+					<ChildrenList>
+						<Action Name="Play" ID="{60C9C584-5D9B-4C63-8534-77D65EEC742C}" ShortID="650368268" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{9098A947-5C6A-4172-ACB6-385D57503675}" Global="false">
+									<ObjectRef Name="vo_flt_ally_flag" ID="{9BC73446-7C90-4AE1-84D7-88BCCE10287A}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_flt_combat_reserve" ID="{657F0DE2-1C4E-44B1-B12A-D3B0D99EFD93}">
+					<ChildrenList>
+						<Action Name="Play" ID="{898EF57F-AB09-47A1-9CDD-CB700DA2DBDF}" ShortID="482689552" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{47387536-FBA3-4B59-B351-E163A6529B84}" Global="false">
+									<ObjectRef Name="vo_flt_combat_reserve" ID="{EB3EAD46-9917-4E05-AE5B-A34431D8B9D4}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_flt_deliver_flag" ID="{39BCDFF3-7DF0-44E6-92D1-16F36EE0A004}">
+					<ChildrenList>
+						<Action Name="Play" ID="{29C9392B-A056-4288-9335-886EC8FFD7EF}" ShortID="299524225" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{37B2EEAD-9A5B-4A7A-AFF8-BE408D31EF1A}" Global="false">
+									<ObjectRef Name="vo_flt_deliver_flag" ID="{11D708D7-44AC-4C8B-B99F-B4087DE40D85}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_flt_drop_flag" ID="{12B568DC-7AA7-4213-8701-6CE34C648E9E}">
+					<ChildrenList>
+						<Action Name="Play" ID="{938C7F31-11E2-41E8-A1BE-71BC93F3A238}" ShortID="21619641" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{CAC2C7E9-BEF2-49BD-B4BA-8113B60E40AF}" Global="false">
+									<ObjectRef Name="vo_flt_drop_flag" ID="{285AB397-421C-43B5-9FB9-242F39394D71}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_flt_enemy_take_flag" ID="{052E0F81-220D-4EAC-92B7-E77A7AC5FEC5}">
+					<ChildrenList>
+						<Action Name="Play" ID="{45F2B383-A88C-4B10-AFEA-DE8BC0C4AA25}" ShortID="31239532" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{04DFDED9-24C7-4B33-9118-5D1D73DF6A8C}" Global="false">
+									<ObjectRef Name="vo_flt_enemy_take_flag" ID="{1C798469-E88D-40A8-9900-09A6EA935732}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_flt_ready_for_action" ID="{ED6AD427-6263-405C-8B45-26A957B3DA26}">
+					<ChildrenList>
+						<Action Name="Play" ID="{CE9C3214-D822-4620-8B5A-9FB9AD61330D}" ShortID="11058976" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{B404033C-1774-4DDE-861A-7F7995C91228}" Global="false">
+									<ObjectRef Name="vo_flt_ready_for_action" ID="{B5F5FEA0-ADAE-449C-A645-7E160486C7C5}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_flt_repair" ID="{72D4895A-B60C-4E2B-B3F4-6A10147BBC48}">
+					<ChildrenList>
+						<Action Name="Play" ID="{FA095D1E-9F36-40F4-9CF4-977DD8B0B0CD}" ShortID="364040926" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{7F606854-CCF2-4B18-B9AE-9F216F513F74}" Global="false">
+									<ObjectRef Name="vo_flt_repair" ID="{85D383CB-38D9-4EC1-ACF0-2DF332FC5721}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_flt_take_flag" ID="{658F8732-CD66-4835-A02F-47E4DCE28436}">
+					<ChildrenList>
+						<Action Name="Play" ID="{9DB6A4B3-047E-4462-AE9B-4697D3190C93}" ShortID="473020402" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{381D91A9-AEA4-4023-BE54-282DCC0A2A72}" Global="false">
+									<ObjectRef Name="vo_flt_take_flag" ID="{45326611-0088-482E-BF6B-052F1E0262BB}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_fuel_tank_damaged" ID="{7BC19254-3192-4F05-A1EA-3D423E5429A3}">
+					<ChildrenList>
+						<Action Name="Play" ID="{4631E84A-EA92-45F4-BCA5-69E07C32DAB5}" ShortID="588654784" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{B0A2D012-247F-416C-BE09-4470F0FD3FBA}" Global="false">
+									<ObjectRef Name="vo_fuel_tank_damaged" ID="{36F361DE-C2DC-4C99-BB1A-E743D71ACB1E}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_gun_damaged" ID="{41E64E67-F7F9-43A8-BCC3-2A158A808CAF}">
+					<ChildrenList>
+						<Action Name="Play" ID="{DA60B4FA-6971-4CA7-9AF7-9872C5C74E13}" ShortID="911939163" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{8B360158-A4E0-461B-98ED-DF7F9BCA8AC8}" Global="false">
+									<ObjectRef Name="vo_gun_damaged" ID="{3AFC4CD3-874B-46E1-9D10-393DA0860846}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_gun_destroyed" ID="{B9E91806-A2B4-4B87-AC56-95E11F9E82B7}">
+					<ChildrenList>
+						<Action Name="Play" ID="{3FAC1F26-FE97-4715-8FCB-61F618D10BC8}" ShortID="564245920" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{C691AACE-C8EB-443F-9BA5-E22FC2327A01}" Global="false">
+									<ObjectRef Name="vo_gun_destroyed" ID="{A1937322-AE69-42AD-8646-3EE509DB5A89}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_gun_functional" ID="{DC7C5574-7B02-4334-9271-53DD53489960}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A2C3AA9E-BF2D-40BE-81C2-1190515CB981}" ShortID="905608494" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{E1475022-51D8-4932-B285-40AAEE56C34F}" Global="false">
+									<ObjectRef Name="vo_gun_functional" ID="{A4A27416-B00E-451A-8BD2-BC2C1A39507D}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_gunner_killed" ID="{65F79C38-018C-40C4-A3A1-632D6661C969}">
+					<ChildrenList>
+						<Action Name="Play" ID="{CCC0AAB5-82CF-440D-AC53-70A7FA9CD8F7}" ShortID="310533843" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{17574555-0D02-49F6-8678-ABC02B7579E1}" Global="false">
+									<ObjectRef Name="vo_gunner_killed" ID="{2BE11FCC-7B79-4030-9CB1-B40F36DEDCD0}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_loader_killed" ID="{63538189-24BF-427E-AF44-9B3F6EEE5BB8}">
+					<ChildrenList>
+						<Action Name="Play" ID="{C29C6A95-7BBB-4321-AE48-CC46966B1D80}" ShortID="1017761166" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{B58385F4-6F03-4EF3-88E1-6CABC27DD50E}" Global="false">
+									<ObjectRef Name="vo_loader_killed" ID="{17CFF185-9147-4692-AD5B-A831C276604D}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_radio_damaged" ID="{1D49CA25-15CD-4D9C-AD75-164531395121}">
+					<ChildrenList>
+						<Action Name="Play" ID="{4599C555-9018-420E-8217-1F95B153AA05}" ShortID="747952182" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{CA8F8128-F66C-4813-BA89-824C4A54F755}" Global="false">
+									<ObjectRef Name="vo_radio_damaged" ID="{D2E7F3B5-A28B-4FFA-A675-DB073304E3D4}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_radioman_killed" ID="{53C27D00-FD0B-4DC7-A0FB-4BA2754CA616}">
+					<ChildrenList>
+						<Action Name="Play" ID="{1FFF394F-BC79-4C23-B528-320593186BE6}" ShortID="261280821" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{AAD3A29A-7186-43C7-992D-C3FF17527C03}" Global="false">
+									<ObjectRef Name="vo_radioman_killed" ID="{30B141AE-1DD9-4A50-9DF1-AD495026D43B}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_start_battle" ID="{513A2A1E-BEE7-4B8C-B3EE-8BF9EA708949}">
+					<ChildrenList>
+						<Action Name="Play" ID="{B019149C-1DA1-4B71-9CFB-F29AFCA16C96}" ShortID="17677704" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{ACD2A240-5493-49F8-B0BC-1720F891C228}" Global="false">
+									<ObjectRef Name="vo_start_battle" ID="{6BA376FF-7EE8-4DAB-972C-FDBE9CE6A23A}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_surveying_devices_damaged" ID="{EF63F4FD-2387-408B-AB2F-4EBB9F4F348D}">
+					<ChildrenList>
+						<Action Name="Play" ID="{0513E99A-E7BA-4ADA-A207-A2B558A08CC6}" ShortID="454735819" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{4A37B4FB-EE14-4D0F-A147-154B5B729C92}" Global="false">
+									<ObjectRef Name="vo_surveying_devices_damaged" ID="{0D8FDBC0-C10A-4643-9345-F4E0C3C947C7}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_surveying_devices_destroyed" ID="{F2814EE6-3E31-41B2-A956-CCDCB9CF1E20}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A722C138-AB0F-455F-B9C2-53AC94D646A0}" ShortID="649879747" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{3A60E2E5-FF76-408A-B109-6DC1D47DA0A7}" Global="false">
+									<ObjectRef Name="vo_surveying_devices_destroyed" ID="{88DFF2E0-C3F2-4007-B670-FD9B3AC13097}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_surveying_devices_functional" ID="{3E963872-E02B-4DD3-98FB-D9CFB8A2C528}">
+					<ChildrenList>
+						<Action Name="Play" ID="{FC84400A-E2C3-4DEF-9CAE-B0665D88A059}" ShortID="202352739" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{469B7061-C5C7-4C10-8B22-DC67270F7E82}" Global="false">
+									<ObjectRef Name="vo_surveying_devices_functional" ID="{D874D7B1-4AB9-455A-AE12-3D5EFAFDE6C1}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_target_captured" ID="{B040D25B-A655-4A13-B075-26381EAED120}">
+					<ChildrenList>
+						<Action Name="Play" ID="{3124E32F-C844-4866-87FA-83DA7D06EB7F}" ShortID="582814182" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{ECDB0D69-6199-41DC-B1FA-47F8AFDAAF55}" Global="false">
+									<ObjectRef Name="vo_target_captured" ID="{7ECC9BDD-7A6C-426B-BB3D-FE82CB52E31A}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_target_lost" ID="{0B838B73-80FC-4C0D-9BA0-387938E506CF}">
+					<ChildrenList>
+						<Action Name="Play" ID="{5A709EE9-7E4C-4348-8650-80C278EF1915}" ShortID="594065273" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{C478CE79-D43E-4398-82B3-E6579C28F069}" Global="false">
+									<ObjectRef Name="vo_target_lost" ID="{13EAF2B9-0E05-4CA9-B8A2-C35D56FA4C2A}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_target_unlocked" ID="{FD038734-EB2B-4955-A966-708B2593297D}">
+					<ChildrenList>
+						<Action Name="Play" ID="{25055615-2E91-4679-8349-97026FA93D92}" ShortID="1068801247" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{A94EE2D3-05A3-4BB3-8DDE-2AF22103B980}" Global="false">
+									<ObjectRef Name="vo_target_unlocked" ID="{87D23526-AC5B-4247-B460-1DAD4A2BF7BB}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_track_damaged" ID="{F97ABD9F-8DEC-4664-A77D-60DC813E56EE}">
+					<ChildrenList>
+						<Action Name="Play" ID="{83FF417A-F425-441A-8B59-495534AC9576}" ShortID="441028442" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{FCD9EC95-E5F8-44C9-B103-8966EE215AE9}" Global="false">
+									<ObjectRef Name="vo_track_damaged" ID="{EA128062-DD4B-48D2-999C-B3A639A36C3D}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_track_destroyed" ID="{0C751356-FCA9-41FD-A038-1FC0FBBC5DC2}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A1FC964E-2A58-4678-A4DB-4B7159CBC1C8}" ShortID="465114014" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{1B2438A3-4F8F-4293-AA96-9247C7AA15FF}" Global="false">
+									<ObjectRef Name="vo_track_destroyed" ID="{C0A26D76-F393-4BCA-B755-73F7F4052120}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_track_functional" ID="{E896986F-4471-4DBE-8EE0-E120F9414293}">
+					<ChildrenList>
+						<Action Name="Play" ID="{37F33D9C-4B54-4F04-9E50-570B6F4FA945}" ShortID="1032427771" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{520A07AF-8A7F-433C-9793-28A2FF80B32D}" Global="false">
+									<ObjectRef Name="vo_track_functional" ID="{33F25FEE-7851-4D38-A362-4F8964D9C34C}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_track_functional_can_move" ID="{668909B9-05F6-4E01-BE05-D10255D63C35}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A437BCD3-7AF5-4599-B54A-98A0256875FC}" ShortID="95175960" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{5D5B5E07-88D3-47E9-95E6-5B7CFB46478E}" Global="false">
+									<ObjectRef Name="vo_track_functional_can_move" ID="{B9B3FB64-531B-45AA-BB7F-28D85080EFD1}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_turret_rotator_damaged" ID="{3BF71E9F-985D-48C2-9483-4B5267ED02FA}">
+					<ChildrenList>
+						<Action Name="Play" ID="{398A6AFF-C8AA-4FB2-9A6E-05716B16F924}" ShortID="427822185" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{4CD60D4D-0DC5-4F81-9EC9-A42A07994B1A}" Global="false">
+									<ObjectRef Name="vo_turret_rotator_damaged" ID="{C23022FF-2C93-4358-86BE-AF3317E62A75}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_turret_rotator_destroyed" ID="{B6D5E660-823F-4BBD-A5FB-EF1AB04A2345}">
+					<ChildrenList>
+						<Action Name="Play" ID="{34BAB4BC-50DA-49D4-8F82-8D6A8E30C941}" ShortID="570876070" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{8CCA6B42-764E-45A2-966F-7C9BCAAA916F}" Global="false">
+									<ObjectRef Name="vo_turret_rotator_destroyed" ID="{20233707-1096-46D9-9E4B-C1838743BBE4}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_turret_rotator_functional" ID="{068611E8-346D-467E-AA94-0D55712171C9}">
+					<ChildrenList>
+						<Action Name="Play" ID="{D6634720-AA78-43FB-8195-CF746AF6AD51}" ShortID="598491002" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{BB43B8F4-B156-4987-B92D-B89EC33C433A}" Global="false">
+									<ObjectRef Name="vo_turret_rotator_functional" ID="{899395BF-6956-43C8-A836-A7C32261048D}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="vo_vehicle_destroyed" ID="{B9F90622-7F3C-436B-B79E-5F9C2F673834}">
+					<ChildrenList>
+						<Action Name="Play" ID="{AB03F44E-D7C5-485E-873D-C56C41575D95}" ShortID="390626043" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{7B946CCD-3D24-438E-AC2B-509C84F3FC72}" Global="false">
+									<ObjectRef Name="vo_vehicle_destroyed" ID="{AD33929D-7C0A-4427-B372-8A975BDE9514}" WorkUnitID="{47FEE6D6-CBAB-427C-A250-2BADF4F2CA45}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

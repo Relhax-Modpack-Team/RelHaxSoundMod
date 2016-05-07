@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F012754F-E3FF-40A2-A08C-DA5B70FFD20E}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{F012754F-E3FF-40A2-A08C-DA5B70FFD20E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="lightbulb" ID="{82883324-6567-4483-AA63-7B869E3F573A}">
+					<ChildrenList>
+						<Action Name="Play" ID="{3A691E1D-DA6F-4BE6-A20E-8F06C8E26A04}" ShortID="115524764" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{6404445F-DD7C-4E13-8B69-FE228858EA94}" Global="false">
+									<ObjectRef Name="lightbulb" ID="{9C9D60F1-3D34-49EC-B2FC-1C1CEBF3B1DE}" WorkUnitID="{CCAE2B6A-94D1-4750-BD2E-80AA7ECFB505}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="sixthsense" ID="{165757E3-EDBB-43EE-AD26-6234EF2665A0}">
+					<ChildrenList>
+						<Action Name="Play" ID="{96DB910C-3CE5-480D-A333-BB2CC773EA80}" ShortID="1045287979" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{9CB021DE-D34C-466D-AB4D-55293F36F37E}" Global="false">
+									<ObjectRef Name="sixthsense" ID="{09544AC3-1CB6-4B92-94CB-113C011A727F}" WorkUnitID="{CCAE2B6A-94D1-4750-BD2E-80AA7ECFB505}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
