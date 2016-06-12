@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
 	<RootPaths>
-		<ProjectRoot>F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\</ProjectRoot>
-		<SourceFilesRoot>F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -21,12 +21,15 @@
 			<IncludedEvents>
 				<Event Id="4205012737" Name="base_capture_1"/>
 				<Event Id="1873550594" Name="enemy_sighted_for_team"/>
+				<Event Id="4013127103" Name="time_buzzer_01"/>
+				<Event Id="4013127100" Name="time_buzzer_02"/>
+				<Event Id="1294084670" Name="time_countdown"/>
 				<Event Id="3920142940" Name="timer"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
-				<File Id="75904043" Language="SFX">
-					<ShortName>enemy_capping_1.wav</ShortName>
-					<Path>SFX\enemy_capping_1_E843A46D.wem</Path>
+				<File Id="73632524" Language="SFX">
+					<ShortName>2 mins with buzzer_2.wav</ShortName>
+					<Path>SFX\2 mins with buzzer_2_E843A46D.wem</Path>
 				</File>
 				<File Id="88091440" Language="SFX">
 					<ShortName>battle_countdown_08.wav</ShortName>
@@ -52,6 +55,10 @@
 					<ShortName>enemy_sighted_4.wav</ShortName>
 					<Path>SFX\enemy_sighted_4_E843A46D.wem</Path>
 				</File>
+				<File Id="365977561" Language="SFX">
+					<ShortName>enemy_capping_3.wav</ShortName>
+					<Path>SFX\enemy_capping_3_E843A46D.wem</Path>
+				</File>
 				<File Id="629107772" Language="SFX">
 					<ShortName>battle_countdown_10.wav</ShortName>
 					<Path>SFX\battle_countdown_10_E843A46D.wem</Path>
@@ -75,10 +82,6 @@
 				<File Id="845453958" Language="SFX">
 					<ShortName>enemy_sighted_6.wav</ShortName>
 					<Path>SFX\enemy_sighted_6_E843A46D.wem</Path>
-				</File>
-				<File Id="884216771" Language="SFX">
-					<ShortName>enemy_capping_2.wav</ShortName>
-					<Path>SFX\enemy_capping_2_E843A46D.wem</Path>
 				</File>
 				<File Id="915652646" Language="SFX">
 					<ShortName>enemy_sighted_1.wav</ShortName>

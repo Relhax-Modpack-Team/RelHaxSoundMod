@@ -1,6 +1,3 @@
-del ally_killed_by_player_06.wav
-
-del ammo_bay_damaged_05.wav
 
 del armor_not_pierced_by_player_06.wav
 del armor_not_pierced_by_player_07.wav
@@ -9,6 +6,8 @@ del armor_not_pierced_by_player_10.wav
 del armor_not_pierced_by_player_11.wav
 del armor_not_pierced_by_player_12.wav
 del armor_not_pierced_by_player_13.wav
+del armor_not_pierced_by_player_14.wav
+del armor_not_pierced_by_player_15.wav
 
 del armor_pierced_by_player_06.wav
 del armor_pierced_by_player_07.wav
@@ -19,9 +18,6 @@ del armor_pierced_by_player_11.wav
 del armor_pierced_by_player_12.wav
 del armor_pierced_by_player_13.wav
 del armor_pierced_by_player_14.wav
-
-del armor_pierced_crit_by_player_04.wav
-del armor_pierced_crit_by_player_05.wav
 
 del damage_by_near_explosion_by_player_06.wav
 del damage_by_near_explosion_by_player_07.wav
@@ -34,6 +30,8 @@ del enemy_killed_by_player_13.wav
 del enemy_killed_by_player_14.wav
 del enemy_killed_by_player_15.wav
 del enemy_killed_by_player_16.wav
+del enemy_killed_by_player_17.wav
+del enemy_killed_by_player_18.wav
 
 del start_battle_22.wav
 del start_battle_23.wav
@@ -78,7 +76,6 @@ del target_lost_06.wav
 
 del track_destroyed_05.wav
 del track_destroyed_06.wav
-del track_destroyed_07.wav
 
 del vehicle_destroyed_06.wav
 del vehicle_destroyed_07.wav

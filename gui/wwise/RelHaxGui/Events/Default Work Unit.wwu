@@ -3,43 +3,66 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="base_capture_1" ID="{EE77DAD7-740C-451A-AD7F-7CE7834E8A4A}">
+				<Event Name="base_capture_1" ID="{5C906277-582A-413F-BC25-BCF6A124E75B}">
 					<ChildrenList>
-						<Action Name="Play" ID="{00568D88-8C5C-4706-BDEB-2B0CBA336864}" ShortID="213859907" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{C0077465-6859-4CD0-90E2-6D27682BCDBF}" ShortID="555272660" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{131B23C9-BC26-47A6-AB76-A57578C9F741}" Global="false">
-									<ObjectRef Name="we_get_it_harmz" ID="{88FC5630-0AB8-497C-B0D5-3CFDC7A24344}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
-								</Element>
-							</ElementList>
-						</Action>
-						<Action Name="Play" ID="{7A22ACAC-8B03-4198-BF29-C7F1B02F4E86}" ShortID="873784713" Type="Play" Scope="One" Global="false">
-							<PropertyList>
-								<Property Name="Delay" Type="Real64" Value="0.5"/>
-							</PropertyList>
-							<ElementList>
-								<Element ID="{667E0FC3-3FE1-4D4E-9A58-D05F337D4D8A}" Global="false">
+								<Element ID="{7BA0CE7E-67A5-472F-BEEA-10CC66D18676}" Global="false">
 									<ObjectRef Name="base_capture_1" ID="{F6A1E5A4-4C93-427A-81BE-A5EA95ABA6A1}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
 								</Element>
 							</ElementList>
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="enemy_sighted_for_team" ID="{EEF2F553-8166-4830-936E-7972E5785D61}">
+				<Event Name="enemy_sighted_for_team" ID="{8B67994F-E1E3-433F-95B7-E91689C30841}">
 					<ChildrenList>
-						<Action Name="Play" ID="{93DC54D7-22A8-42EF-9A32-089842F58A31}" ShortID="774581793" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{0B099797-85F8-4621-9084-67C78311B7EF}" ShortID="603939209" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{3372FA16-931E-4095-AFBE-95C8357D9A30}" Global="false">
+								<Element ID="{0DFEC10A-9907-4BEB-A72A-4DA5FBA1DD99}" Global="false">
 									<ObjectRef Name="enemy_sighted_for_team" ID="{7B9CE639-82B6-4B7C-8964-FCFA71F96EE8}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
 								</Element>
 							</ElementList>
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="timer" ID="{AD9C0C5C-3102-47C1-AB0E-D30132E559B7}">
+				<Event Name="time_buzzer_01" ID="{34C96B95-6EF9-47A8-8A4C-ABC9ABE12520}">
 					<ChildrenList>
-						<Action Name="Play" ID="{A50E98CB-BCB1-4764-AA9B-0DF5DA88F669}" ShortID="954435428" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{1997ECB4-22E0-4046-B916-D9A2D4CA8E0C}" ShortID="68625809" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{C92A2471-12D0-4C44-8803-2E6375E61460}" Global="false">
+								<Element ID="{5E835608-DB85-4870-9BDC-7116B6FFB91D}" Global="false">
+									<ObjectRef Name="time_buzzer_01" ID="{FEDAFB44-A1A9-4A82-A4C7-9DF76FFD69B0}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="time_buzzer_02" ID="{BB155621-401F-4FD7-BB7C-F01714E2AEF1}">
+					<ChildrenList>
+						<Action Name="Play" ID="{26D1D57D-3497-4C8A-8451-494FC4580305}" ShortID="115421855" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{667CC688-3C64-4B78-B5E7-2AA8322C109F}" Global="false">
+									<ObjectRef Name="time_buzzer_02" ID="{39BF0F54-33B6-4E37-B79D-369881D0035A}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="time_countdown" ID="{37D04DCB-5592-47E0-AD9E-2DE8A943BBE8}">
+					<ChildrenList>
+						<Action Name="Play" ID="{56A8CFD3-E47E-4B4F-87F4-77A697871B08}" ShortID="532095152" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{257ED9E0-576D-41B6-A039-59495B3E19CD}" Global="false">
+									<ObjectRef Name="time_countdown" ID="{D7205A89-40E7-46F9-A6A7-E07EF8BEB45E}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="timer" ID="{BE7FFD91-4AE2-446A-B253-BB3F14CE3944}">
+					<ChildrenList>
+						<Action Name="Play" ID="{331EB0E1-D26B-4F42-9EFA-0B90AB86B768}" ShortID="499812781" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{C813F49E-EBAF-449B-B770-C3672A039533}" Global="false">
 									<ObjectRef Name="timer" ID="{3F1859BE-F305-4134-8A9D-00E834D72A9A}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
 								</Element>
 							</ElementList>

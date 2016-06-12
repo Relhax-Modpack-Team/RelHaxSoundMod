@@ -1,20 +1,27 @@
 
-copy armor_ricochet_by_player_01.wav armor_ricochet_by_player_05.wav
-copy armor_ricochet_by_player_02.wav armor_ricochet_by_player_06.wav
-copy armor_ricochet_by_player_03.wav armor_ricochet_by_player_07.wav
-copy armor_ricochet_by_player_04.wav armor_ricochet_by_player_08.wav
-copy armor_ricochet_by_player_05.wav armor_ricochet_by_player_09.wav
-copy armor_ricochet_by_player_06.wav armor_ricochet_by_player_10.wav
-copy armor_ricochet_by_player_07.wav armor_ricochet_by_player_11.wav
-copy armor_ricochet_by_player_08.wav armor_ricochet_by_player_12.wav
-copy armor_ricochet_by_player_09.wav armor_ricochet_by_player_13.wav
-copy armor_ricochet_by_player_10.wav armor_ricochet_by_player_14.wav
-copy armor_ricochet_by_player_11.wav armor_ricochet_by_player_15.wav
+copy armor_not_pierced_by_player_01.wav armor_ricochet_by_player_01.wav
+copy armor_not_pierced_by_player_02.wav armor_ricochet_by_player_02.wav
+copy armor_not_pierced_by_player_03.wav armor_ricochet_by_player_03.wav
+copy armor_not_pierced_by_player_04.wav armor_ricochet_by_player_04.wav
+copy armor_not_pierced_by_player_05.wav armor_ricochet_by_player_05.wav
+copy armor_not_pierced_by_player_06.wav armor_ricochet_by_player_06.wav
+copy armor_not_pierced_by_player_07.wav armor_ricochet_by_player_07.wav
+copy armor_not_pierced_by_player_08.wav armor_ricochet_by_player_08.wav
+copy armor_not_pierced_by_player_09.wav armor_ricochet_by_player_09.wav
+copy armor_not_pierced_by_player_10.wav armor_ricochet_by_player_10.wav
+copy armor_not_pierced_by_player_11.wav armor_ricochet_by_player_11.wav
+copy armor_not_pierced_by_player_12.wav armor_ricochet_by_player_12.wav
+copy armor_not_pierced_by_player_13.wav armor_ricochet_by_player_13.wav
+copy armor_not_pierced_by_player_14.wav armor_ricochet_by_player_14.wav
+copy armor_not_pierced_by_player_15.wav armor_ricochet_by_player_15.wav
 
-copy commander_killed_01.wav commander_killed_06.wav
-copy commander_killed_02.wav commander_killed_07.wav
+copy commander_killed_01.wav commander_killed_05.wav
+copy commander_killed_02.wav commander_killed_06.wav
+copy commander_killed_03.wav commander_killed_07.wav
 
-copy crew_deactivated_04.wav crew_deactivated_05.wav
+copy crew_deactivated_01.wav crew_deactivated_03.wav
+copy crew_deactivated_02.wav crew_deactivated_04.wav
+copy crew_deactivated_03.wav crew_deactivated_05.wav
 
 copy damage_by_near_explosion_by_enemy_01.wav damage_by_near_explosion_by_enemy_02.wav
 copy damage_by_near_explosion_by_enemy_02.wav damage_by_near_explosion_by_enemy_03.wav
@@ -39,16 +46,16 @@ copy engine_damaged_03.wav engine_damaged_05.wav
 copy engine_damaged_04.wav engine_damaged_06.wav
 copy engine_damaged_05.wav engine_damaged_07.wav
 
-copy engine_destroyed_01.wav engine_destroyed_02.wav
-copy engine_destroyed_02.wav engine_destroyed_03.wav
-copy engine_destroyed_03.wav engine_destroyed_04.wav
+copy engine_destroyed_01.wav engine_destroyed_03.wav
+copy engine_destroyed_02.wav engine_destroyed_04.wav
 
 copy engine_functional_01.wav engine_functional_03.wav
 copy engine_functional_02.wav engine_functional_04.wav
 
-copy fire_started_01.wav fire_started_05.wav
-copy fire_started_02.wav fire_started_06.wav
-copy fire_started_03.wav fire_started_07.wav
+copy fire_started_01.wav fire_started_04.wav
+copy fire_started_02.wav fire_started_05.wav
+copy fire_started_03.wav fire_started_06.wav
+copy fire_started_04.wav fire_started_07.wav
 copy fire_started_04.wav fire_started_08.wav
 
 copy fire_stopped_01.wav fire_stopped_03.wav
@@ -113,15 +120,16 @@ copy surveying_devices_functional_13.wav surveying_devices_functional_14.wav
 copy target_captured_01.wav target_captured_06.wav
 copy target_captured_02.wav target_captured_07.wav
 
-copy target_unlocked_01.wav target_unlocked_05.wav
-copy target_unlocked_02.wav target_unlocked_06.wav
-copy target_unlocked_03.wav target_unlocked_07.wav
-copy target_unlocked_04.wav target_unlocked_08.wav
-copy target_unlocked_05.wav target_unlocked_09.wav
-copy target_unlocked_06.wav target_unlocked_10.wav
-copy target_unlocked_07.wav target_unlocked_11.wav
-copy target_unlocked_08.wav target_unlocked_12.wav
-copy target_unlocked_09.wav target_unlocked_13.wav
+copy target_unlocked_01.wav target_unlocked_04.wav
+copy target_unlocked_02.wav target_unlocked_05.wav
+copy target_unlocked_03.wav target_unlocked_06.wav
+copy target_unlocked_04.wav target_unlocked_07.wav
+copy target_unlocked_05.wav target_unlocked_08.wav
+copy target_unlocked_06.wav target_unlocked_09.wav
+copy target_unlocked_07.wav target_unlocked_10.wav
+copy target_unlocked_08.wav target_unlocked_11.wav
+copy target_unlocked_09.wav target_unlocked_12.wav
+copy target_unlocked_10.wav target_unlocked_13.wav
 
 copy track_damaged_03.wav track_damaged_04.wav
 

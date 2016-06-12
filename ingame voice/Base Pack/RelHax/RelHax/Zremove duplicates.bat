@@ -1,3 +1,8 @@
+
+del armor_ricochet_by_player_01.wav
+del armor_ricochet_by_player_02.wav
+del armor_ricochet_by_player_03.wav
+del armor_ricochet_by_player_04.wav
 del armor_ricochet_by_player_05.wav
 del armor_ricochet_by_player_06.wav
 del armor_ricochet_by_player_07.wav
@@ -10,9 +15,12 @@ del armor_ricochet_by_player_13.wav
 del armor_ricochet_by_player_14.wav
 del armor_ricochet_by_player_15.wav
 
+del commander_killed_05.wav
 del commander_killed_06.wav
 del commander_killed_07.wav
 
+del crew_deactivated_03.wav
+del crew_deactivated_04.wav
 del crew_deactivated_05.wav
 
 del damage_by_near_explosion_by_enemy_02.wav
@@ -38,13 +46,13 @@ del engine_damaged_05.wav
 del engine_damaged_06.wav
 del engine_damaged_07.wav
 
-del engine_destroyed_02.wav
 del engine_destroyed_03.wav
 del engine_destroyed_04.wav
 
 del engine_functional_03.wav
 del engine_functional_04.wav
 
+del fire_started_04.wav
 del fire_started_05.wav
 del fire_started_06.wav
 del fire_started_07.wav
@@ -112,6 +120,7 @@ del surveying_devices_functional_14.wav
 del target_captured_06.wav
 del target_captured_07.wav
 
+del target_unlocked_04.wav
 del target_unlocked_05.wav
 del target_unlocked_06.wav
 del target_unlocked_07.wav

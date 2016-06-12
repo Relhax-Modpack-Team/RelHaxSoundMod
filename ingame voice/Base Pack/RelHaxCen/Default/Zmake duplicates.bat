@@ -103,4 +103,3 @@ copy vehicle_destroyed_19.wav vehicle_destroyed_24.wav
 copy vehicle_destroyed_20.wav vehicle_destroyed_25.wav
 copy vehicle_destroyed_21.wav vehicle_destroyed_26.wav
 copy vehicle_destroyed_22.wav vehicle_destroyed_27.wav
-copy vehicle_destroyed_23.wav vehicle_destroyed_28.wav

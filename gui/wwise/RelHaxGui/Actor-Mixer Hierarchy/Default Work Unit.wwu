@@ -421,7 +421,7 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<Sound Name="enemy_capping_1" ID="{48AAC968-7FF3-4FF3-907C-D648DF5276AD}" ShortID="166992206" Type="SoundFX">
+								<Sound Name="enemy_capping_3" ID="{57359468-7344-49F4-8BD7-6DBBFEF4DF5B}" ShortID="988206718" Type="SoundFX">
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -431,18 +431,35 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_capping_1" ID="{25BE5349-0DB2-42EB-B092-49A9398B567C}" ShortID="75904043">
+										<AudioFileSource Name="enemy_capping_3" ID="{5CE52DFA-B3FA-4115-BD08-092A66803113}" ShortID="365977561">
 											<Language>SFX</Language>
-											<AudioFile>enemy_capping_1.wav</AudioFile>
+											<AudioFile>enemy_capping_3.wav</AudioFile>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="enemy_capping_1" ID="{25BE5349-0DB2-42EB-B092-49A9398B567C}" Platform="Linked"/>
+										<ActiveSource Name="enemy_capping_3" ID="{5CE52DFA-B3FA-4115-BD08-092A66803113}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="we_get_it_harmz" ID="{88FC5630-0AB8-497C-B0D5-3CFDC7A24344}" ShortID="498403434">
+						<RandomSequenceContainer Name="time_buzzer_02" ID="{39BF0F54-33B6-4E37-B79D-369881D0035A}" ShortID="28964300">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{83BEFAB3-6155-4EE1-8B87-FEC5CE807149}"/>
+								</Reference>
+							</ReferenceList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="time_buzzer_01" ID="{FEDAFB44-A1A9-4A82-A4C7-9DF76FFD69B0}" ShortID="979748694">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-10</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -452,7 +469,7 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<Sound Name="enemy_capping_2" ID="{01FFC59E-B3F1-468F-ACAF-892579B29984}" ShortID="676877628" Type="SoundFX">
+								<Sound Name="2 mins with buzzer_2" ID="{0C82B328-7B70-4443-970E-DBA78741BA39}" ShortID="110584860" Type="SoundFX">
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -462,16 +479,26 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_capping_2" ID="{89530B68-0E37-4C42-B68C-6D68276BE406}" ShortID="884216771">
+										<AudioFileSource Name="2 mins with buzzer_2" ID="{D2AE0BD8-C809-4FE6-812B-69708222F4D8}" ShortID="73632524">
 											<Language>SFX</Language>
-											<AudioFile>enemy_capping_2.wav</AudioFile>
+											<AudioFile>2 mins with buzzer_2.wav</AudioFile>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="enemy_capping_2" ID="{89530B68-0E37-4C42-B68C-6D68276BE406}" Platform="Linked"/>
+										<ActiveSource Name="2 mins with buzzer_2" ID="{D2AE0BD8-C809-4FE6-812B-69708222F4D8}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="time_countdown" ID="{D7205A89-40E7-46F9-A6A7-E07EF8BEB45E}" ShortID="797341815">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{83BEFAB3-6155-4EE1-8B87-FEC5CE807149}"/>
+								</Reference>
+							</ReferenceList>
 						</RandomSequenceContainer>
 					</ChildrenList>
 				</ActorMixer>

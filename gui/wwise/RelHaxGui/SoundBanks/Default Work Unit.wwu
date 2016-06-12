@@ -5,9 +5,12 @@
 			<ChildrenList>
 				<SoundBank Name="RelHaxGui" ID="{5E64ADEB-D8D3-435A-8136-565F9AA0C614}">
 					<ObjectInclusionList>
-						<ObjectRef Name="enemy_sighted_for_team" ID="{EEF2F553-8166-4830-936E-7972E5785D61}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="timer" ID="{AD9C0C5C-3102-47C1-AB0E-D30132E559B7}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="base_capture_1" ID="{EE77DAD7-740C-451A-AD7F-7CE7834E8A4A}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="time_buzzer_02" ID="{BB155621-401F-4FD7-BB7C-F01714E2AEF1}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="enemy_sighted_for_team" ID="{8B67994F-E1E3-433F-95B7-E91689C30841}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="base_capture_1" ID="{5C906277-582A-413F-BC25-BCF6A124E75B}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="timer" ID="{BE7FFD91-4AE2-446A-B253-BB3F14CE3944}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="time_buzzer_01" ID="{34C96B95-6EF9-47A8-8A4C-ABC9ABE12520}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="time_countdown" ID="{37D04DCB-5592-47E0-AD9E-2DE8A943BBE8}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

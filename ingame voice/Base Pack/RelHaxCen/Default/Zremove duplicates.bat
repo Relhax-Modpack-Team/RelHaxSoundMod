@@ -102,4 +102,3 @@ del vehicle_destroyed_24.wav
 del vehicle_destroyed_25.wav
 del vehicle_destroyed_26.wav
 del vehicle_destroyed_27.wav
-del vehicle_destroyed_28.wav
