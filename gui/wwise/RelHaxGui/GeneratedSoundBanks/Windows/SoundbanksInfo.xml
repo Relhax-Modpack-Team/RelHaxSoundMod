@@ -24,9 +24,14 @@
 				<Event Id="4013127103" Name="time_buzzer_01"/>
 				<Event Id="4013127100" Name="time_buzzer_02"/>
 				<Event Id="1294084670" Name="time_countdown"/>
+				<Event Id="2405842235" Name="time_over"/>
 				<Event Id="3920142940" Name="timer"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="1589932" Language="SFX">
+					<ShortName>time_over.wav</ShortName>
+					<Path>SFX\time_over_E843A46D.wem</Path>
+				</File>
 				<File Id="73632524" Language="SFX">
 					<ShortName>2 mins with buzzer_2.wav</ShortName>
 					<Path>SFX\2 mins with buzzer_2_E843A46D.wem</Path>
@@ -58,6 +63,10 @@
 				<File Id="365977561" Language="SFX">
 					<ShortName>enemy_capping_3.wav</ShortName>
 					<Path>SFX\enemy_capping_3_E843A46D.wem</Path>
+				</File>
+				<File Id="559128659" Language="SFX">
+					<ShortName>time_buzzer_02.wav</ShortName>
+					<Path>SFX\time_buzzer_02_E843A46D.wem</Path>
 				</File>
 				<File Id="629107772" Language="SFX">
 					<ShortName>battle_countdown_10.wav</ShortName>

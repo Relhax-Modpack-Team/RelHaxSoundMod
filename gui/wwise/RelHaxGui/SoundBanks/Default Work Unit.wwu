@@ -5,12 +5,13 @@
 			<ChildrenList>
 				<SoundBank Name="RelHaxGui" ID="{5E64ADEB-D8D3-435A-8136-565F9AA0C614}">
 					<ObjectInclusionList>
-						<ObjectRef Name="time_buzzer_02" ID="{BB155621-401F-4FD7-BB7C-F01714E2AEF1}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="enemy_sighted_for_team" ID="{8B67994F-E1E3-433F-95B7-E91689C30841}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="base_capture_1" ID="{5C906277-582A-413F-BC25-BCF6A124E75B}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="timer" ID="{BE7FFD91-4AE2-446A-B253-BB3F14CE3944}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="time_buzzer_01" ID="{34C96B95-6EF9-47A8-8A4C-ABC9ABE12520}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="time_countdown" ID="{37D04DCB-5592-47E0-AD9E-2DE8A943BBE8}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="enemy_sighted_for_team" ID="{163F423A-C1F3-4947-B3AC-2DFDC38EF7EC}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="time_countdown" ID="{F8C9FE3C-3C00-409A-8E1F-860A09123B20}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="time_buzzer_02" ID="{178E573E-ACAE-408A-B186-EFAE6641B360}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="base_capture_1" ID="{CB0E9A43-B27C-4AD9-ACC2-1062887D20B1}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="time_buzzer_01" ID="{0111DD61-787F-4E6F-8382-64BC8C0DE626}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="timer" ID="{EE0B5BDE-46D8-4A20-BDEB-9A04B7ACF52A}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="time_over" ID="{8CB964E1-A359-4D35-BBFB-53DE95DF0D8B}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
