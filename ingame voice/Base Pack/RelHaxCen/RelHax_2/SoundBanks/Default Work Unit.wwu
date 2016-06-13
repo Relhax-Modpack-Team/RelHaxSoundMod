@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C8492133-64A1-4F60-B914-CF6E5F08E0CF}" SchemaVersion="70">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{C8492133-64A1-4F60-B914-CF6E5F08E0CF}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="RelHax_2" ID="{54BFE864-D5DA-469E-A494-6D8E485D6444}">
+					<ObjectInclusionList>
+						<ObjectRef Name="vo_gun_destroyed" ID="{B9E91806-A2B4-4B87-AC56-95E11F9E82B7}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_start_battle" ID="{513A2A1E-BEE7-4B8C-B3EE-8BF9EA708949}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_fire_stopped" ID="{D67B1638-6AE9-43E5-8A0D-1B2E834BF802}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_gunner_killed" ID="{65F79C38-018C-40C4-A3A1-632D6661C969}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_fuel_tank_damaged" ID="{7BC19254-3192-4F05-A1EA-3D423E5429A3}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_gun_damaged" ID="{41E64E67-F7F9-43A8-BCC3-2A158A808CAF}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_gun_functional" ID="{DC7C5574-7B02-4334-9271-53DD53489960}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_loader_killed" ID="{63538189-24BF-427E-AF44-9B3F6EEE5BB8}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_fire_started" ID="{9BB37EB3-A5C2-498E-B0C8-74FF94042248}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_engine_functional" ID="{B71579D1-41CC-43F2-B2F8-B87CB10AD478}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

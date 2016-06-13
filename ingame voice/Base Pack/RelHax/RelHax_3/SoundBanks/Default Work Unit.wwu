@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C8492133-64A1-4F60-B914-CF6E5F08E0CF}" SchemaVersion="70">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{C8492133-64A1-4F60-B914-CF6E5F08E0CF}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="RelHax_3" ID="{54BFE864-D5DA-469E-A494-6D8E485D6444}">
+					<ObjectInclusionList>
+						<ObjectRef Name="vo_surveying_devices_functional" ID="{4A173C02-3A7F-4F66-A3CD-677A3B513464}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_track_damaged" ID="{D1E7D21A-97D9-432E-87AF-EB28635F7337}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_target_unlocked" ID="{042A3720-0307-4116-BBFB-DF4F12CC913A}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_track_destroyed" ID="{C8FB9F32-C9A5-43B5-B728-A463C2621722}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_turret_rotator_functional" ID="{37443337-F9B5-491B-8F42-30CB0FBF87A7}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_track_functional" ID="{94C67054-27FB-4C52-8B0C-5172528549D7}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_radioman_killed" ID="{C6740456-C146-4908-A3D6-910D59756C6B}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_target_lost" ID="{30AB9957-9172-4069-8395-C5F5BF236003}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_gunner_killed" ID="{E99BA461-13F5-4173-B223-2C9189E4E7A8}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_gun_destroyed" ID="{36F1B280-4CE8-4D6C-841B-03F2C7AAA101}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_surveying_devices_damaged" ID="{369D72AB-EF54-48E5-8864-4695A440D2AB}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_loader_killed" ID="{BE78D2AB-09A2-44C1-83D3-80D1878AD058}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_track_functional_can_move" ID="{2E10F9AF-4307-472D-896B-CDF0703A03AB}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_turret_rotator_destroyed" ID="{5F9086B0-C6CD-4985-8D4B-070E5D7B2246}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_surveying_devices_destroyed" ID="{B83FD5B2-6282-4614-858A-7427ACBD0E50}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_radio_damaged" ID="{0148DCD8-F70C-4B61-9BDA-35DDC2767241}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_target_captured" ID="{06F2F8EE-1BD9-4AA8-B63C-4ABD405B770C}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_gun_functional" ID="{A28A99F3-6297-4FF0-8EBC-254F626D8F39}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_turret_rotator_damaged" ID="{01F05AF6-BA92-4BEB-A958-132D57E0DC13}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

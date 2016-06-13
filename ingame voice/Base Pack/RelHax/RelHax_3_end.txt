@@ -1,1 +1,1 @@
-vo_surveying_devices_functional
+vo_turret_rotator_functional

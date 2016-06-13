@@ -15,16 +15,11 @@ copy armor_not_pierced_by_player_13.wav armor_ricochet_by_player_13.wav
 copy armor_not_pierced_by_player_14.wav armor_ricochet_by_player_14.wav
 copy armor_not_pierced_by_player_15.wav armor_ricochet_by_player_15.wav
 
-copy commander_killed_01.wav commander_killed_05.wav
-copy commander_killed_02.wav commander_killed_06.wav
-copy commander_killed_03.wav commander_killed_07.wav
-
 copy crew_deactivated_01.wav crew_deactivated_03.wav
 copy crew_deactivated_02.wav crew_deactivated_04.wav
 copy crew_deactivated_03.wav crew_deactivated_05.wav
 
 copy damage_by_near_explosion_by_enemy_01.wav damage_by_near_explosion_by_enemy_02.wav
-copy damage_by_near_explosion_by_enemy_02.wav damage_by_near_explosion_by_enemy_03.wav
 
 copy driver_killed_01.wav driver_killed_03.wav
 copy driver_killed_02.wav driver_killed_04.wav
@@ -32,13 +27,6 @@ copy driver_killed_02.wav driver_killed_04.wav
 copy enemy_fire_started_by_player_01.wav enemy_fire_started_by_player_03.wav
 copy enemy_fire_started_by_player_02.wav enemy_fire_started_by_player_04.wav
 copy enemy_fire_started_by_player_03.wav enemy_fire_started_by_player_05.wav
-copy enemy_fire_started_by_player_04.wav enemy_fire_started_by_player_06.wav
-copy enemy_fire_started_by_player_05.wav enemy_fire_started_by_player_07.wav
-copy enemy_fire_started_by_player_06.wav enemy_fire_started_by_player_08.wav
-copy enemy_fire_started_by_player_07.wav enemy_fire_started_by_player_09.wav
-copy enemy_fire_started_by_player_08.wav enemy_fire_started_by_player_10.wav
-copy enemy_fire_started_by_player_09.wav enemy_fire_started_by_player_11.wav
-copy enemy_fire_started_by_player_10.wav enemy_fire_started_by_player_12.wav
 
 copy engine_damaged_01.wav engine_damaged_03.wav
 copy engine_damaged_02.wav engine_damaged_04.wav
@@ -47,7 +35,6 @@ copy engine_damaged_04.wav engine_damaged_06.wav
 copy engine_damaged_05.wav engine_damaged_07.wav
 
 copy engine_destroyed_01.wav engine_destroyed_03.wav
-copy engine_destroyed_02.wav engine_destroyed_04.wav
 
 copy engine_functional_01.wav engine_functional_03.wav
 copy engine_functional_02.wav engine_functional_04.wav
@@ -85,13 +72,14 @@ copy radio_damaged_01.wav radio_damaged_04.wav
 copy radio_damaged_02.wav radio_damaged_05.wav
 copy radio_damaged_03.wav radio_damaged_06.wav
 
+copy radioman_killed_01.wav radioman_killed_04.wav
+
 copy surveying_devices_damaged_01.wav surveying_devices_damaged_02.wav
 copy surveying_devices_damaged_02.wav surveying_devices_damaged_03.wav
 copy surveying_devices_damaged_03.wav surveying_devices_damaged_04.wav
 copy surveying_devices_damaged_04.wav surveying_devices_damaged_05.wav
 copy surveying_devices_damaged_05.wav surveying_devices_damaged_06.wav
 copy surveying_devices_damaged_06.wav surveying_devices_damaged_07.wav
-copy surveying_devices_damaged_07.wav surveying_devices_damaged_08.wav
 
 copy surveying_devices_destroyed_01.wav surveying_devices_destroyed_02.wav
 copy surveying_devices_destroyed_02.wav surveying_devices_destroyed_03.wav
@@ -99,9 +87,6 @@ copy surveying_devices_destroyed_03.wav surveying_devices_destroyed_04.wav
 copy surveying_devices_destroyed_04.wav surveying_devices_destroyed_05.wav
 copy surveying_devices_destroyed_05.wav surveying_devices_destroyed_06.wav
 copy surveying_devices_destroyed_06.wav surveying_devices_destroyed_07.wav
-copy surveying_devices_destroyed_07.wav surveying_devices_destroyed_08.wav
-copy surveying_devices_destroyed_08.wav surveying_devices_destroyed_09.wav
-copy surveying_devices_destroyed_09.wav surveying_devices_destroyed_10.wav
 
 copy surveying_devices_functional_01.wav surveying_devices_functional_02.wav
 copy surveying_devices_functional_02.wav surveying_devices_functional_03.wav
@@ -109,27 +94,9 @@ copy surveying_devices_functional_03.wav surveying_devices_functional_04.wav
 copy surveying_devices_functional_04.wav surveying_devices_functional_05.wav
 copy surveying_devices_functional_05.wav surveying_devices_functional_06.wav
 copy surveying_devices_functional_06.wav surveying_devices_functional_07.wav
-copy surveying_devices_functional_07.wav surveying_devices_functional_08.wav
-copy surveying_devices_functional_08.wav surveying_devices_functional_09.wav
-copy surveying_devices_functional_09.wav surveying_devices_functional_10.wav
-copy surveying_devices_functional_10.wav surveying_devices_functional_11.wav
-copy surveying_devices_functional_11.wav surveying_devices_functional_12.wav
-copy surveying_devices_functional_12.wav surveying_devices_functional_13.wav
-copy surveying_devices_functional_13.wav surveying_devices_functional_14.wav
 
 copy target_captured_01.wav target_captured_06.wav
 copy target_captured_02.wav target_captured_07.wav
-
-copy target_unlocked_01.wav target_unlocked_04.wav
-copy target_unlocked_02.wav target_unlocked_05.wav
-copy target_unlocked_03.wav target_unlocked_06.wav
-copy target_unlocked_04.wav target_unlocked_07.wav
-copy target_unlocked_05.wav target_unlocked_08.wav
-copy target_unlocked_06.wav target_unlocked_09.wav
-copy target_unlocked_07.wav target_unlocked_10.wav
-copy target_unlocked_08.wav target_unlocked_11.wav
-copy target_unlocked_09.wav target_unlocked_12.wav
-copy target_unlocked_10.wav target_unlocked_13.wav
 
 copy track_damaged_03.wav track_damaged_04.wav
 

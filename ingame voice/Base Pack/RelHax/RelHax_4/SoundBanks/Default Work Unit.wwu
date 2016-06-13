@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C8492133-64A1-4F60-B914-CF6E5F08E0CF}" SchemaVersion="70">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{C8492133-64A1-4F60-B914-CF6E5F08E0CF}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="RelHax_4" ID="{54BFE864-D5DA-469E-A494-6D8E485D6444}">
+					<ObjectInclusionList>
+						<ObjectRef Name="vo_vehicle_destroyed" ID="{AC70B893-CCB9-4D1A-94E5-BB8402B29ED5}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

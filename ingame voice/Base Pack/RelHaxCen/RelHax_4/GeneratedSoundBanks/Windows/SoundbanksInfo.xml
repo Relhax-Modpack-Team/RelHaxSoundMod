@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>F:\Tanks Stuff\RelHaxSoundMod\ingame voice\Base Pack\RelHaxCen\RelHax_4\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Stuff\RelHaxSoundMod\ingame voice\Base Pack\RelHaxCen\RelHax_4\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Stuff\RelHaxSoundMod\ingame voice\Base Pack\RelHaxCen\RelHax_4\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelHaxSoundMod\ingame voice\Base Pack\RelHaxCen\RelHax_4\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3135547431" Language="English(UK)">
+			<ShortName>RelHax_3</ShortName>
+			<Path>English(UK)\RelHax_3.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3917054405" Name="vo_vehicle_destroyed"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="4703126" Language="English(UK)">
+					<ShortName>vehicle_destroyed_09.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_09_E843A46D.wem</Path>
+				</File>
+				<File Id="24283814" Language="English(UK)">
+					<ShortName>vehicle_destroyed_01.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_01_E843A46D.wem</Path>
+				</File>
+				<File Id="30521962" Language="English(UK)">
+					<ShortName>vehicle_destroyed_04.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_04_E843A46D.wem</Path>
+				</File>
+				<File Id="64987084" Language="English(UK)">
+					<ShortName>vehicle_destroyed_17.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_17_E843A46D.wem</Path>
+				</File>
+				<File Id="78625760" Language="English(UK)">
+					<ShortName>vehicle_destroyed_07.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_07_E843A46D.wem</Path>
+				</File>
+				<File Id="78968149" Language="English(UK)">
+					<ShortName>vehicle_destroyed_15.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_15_E843A46D.wem</Path>
+				</File>
+				<File Id="145410951" Language="English(UK)">
+					<ShortName>vehicle_destroyed_21.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_21_E843A46D.wem</Path>
+				</File>
+				<File Id="188201199" Language="English(UK)">
+					<ShortName>vehicle_destroyed_16.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_16_E843A46D.wem</Path>
+				</File>
+				<File Id="208006961" Language="English(UK)">
+					<ShortName>vehicle_destroyed_03.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_03_E843A46D.wem</Path>
+				</File>
+				<File Id="245724106" Language="English(UK)">
+					<ShortName>vehicle_destroyed_24.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_24_E843A46D.wem</Path>
+				</File>
+				<File Id="256138082" Language="English(UK)">
+					<ShortName>vehicle_destroyed_06.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_06_E843A46D.wem</Path>
+				</File>
+				<File Id="279355305" Language="English(UK)">
+					<ShortName>vehicle_destroyed_13.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_13_E843A46D.wem</Path>
+				</File>
+				<File Id="371123917" Language="English(UK)">
+					<ShortName>vehicle_destroyed_18.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_18_E843A46D.wem</Path>
+				</File>
+				<File Id="372694452" Language="English(UK)">
+					<ShortName>vehicle_destroyed_25.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_25_E843A46D.wem</Path>
+				</File>
+				<File Id="408556142" Language="English(UK)">
+					<ShortName>vehicle_destroyed_10.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_10_E843A46D.wem</Path>
+				</File>
+				<File Id="470417607" Language="English(UK)">
+					<ShortName>vehicle_destroyed_27.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_27_E843A46D.wem</Path>
+				</File>
+				<File Id="476915405" Language="English(UK)">
+					<ShortName>vehicle_destroyed_23.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_23_E843A46D.wem</Path>
+				</File>
+				<File Id="577009620" Language="English(UK)">
+					<ShortName>vehicle_destroyed_08.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_08_E843A46D.wem</Path>
+				</File>
+				<File Id="598656859" Language="English(UK)">
+					<ShortName>vehicle_destroyed_11.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_11_E843A46D.wem</Path>
+				</File>
+				<File Id="762816730" Language="English(UK)">
+					<ShortName>vehicle_destroyed_26.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_26_E843A46D.wem</Path>
+				</File>
+				<File Id="774231910" Language="English(UK)">
+					<ShortName>vehicle_destroyed_22.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_22_E843A46D.wem</Path>
+				</File>
+				<File Id="777007237" Language="English(UK)">
+					<ShortName>vehicle_destroyed_20.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_20_E843A46D.wem</Path>
+				</File>
+				<File Id="790722965" Language="English(UK)">
+					<ShortName>vehicle_destroyed_05.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_05_E843A46D.wem</Path>
+				</File>
+				<File Id="824979602" Language="English(UK)">
+					<ShortName>vehicle_destroyed_12.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_12_E843A46D.wem</Path>
+				</File>
+				<File Id="901553696" Language="English(UK)">
+					<ShortName>vehicle_destroyed_19.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_19_E843A46D.wem</Path>
+				</File>
+				<File Id="961194145" Language="English(UK)">
+					<ShortName>vehicle_destroyed_14.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_14_E843A46D.wem</Path>
+				</File>
+				<File Id="1048818116" Language="English(UK)">
+					<ShortName>vehicle_destroyed_02.wav</ShortName>
+					<Path>Voices\English(UK)\vehicle_destroyed_02_E843A46D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3135547431" Language="English(US)">
+			<ShortName>RelHax_3</ShortName>
+			<Path>English(US)\RelHax_3.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3917054405" Name="vo_vehicle_destroyed"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="16508028" Language="English(US)">
+					<ShortName>vehicle_destroyed_07.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_07_E843A46D.wem</Path>
+				</File>
+				<File Id="17765699" Language="English(US)">
+					<ShortName>vehicle_destroyed_17.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_17_E843A46D.wem</Path>
+				</File>
+				<File Id="32761682" Language="English(US)">
+					<ShortName>vehicle_destroyed_04.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_04_E843A46D.wem</Path>
+				</File>
+				<File Id="118287030" Language="English(US)">
+					<ShortName>vehicle_destroyed_22.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_22_E843A46D.wem</Path>
+				</File>
+				<File Id="118468904" Language="English(US)">
+					<ShortName>vehicle_destroyed_18.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_18_E843A46D.wem</Path>
+				</File>
+				<File Id="234829988" Language="English(US)">
+					<ShortName>vehicle_destroyed_16.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_16_E843A46D.wem</Path>
+				</File>
+				<File Id="305531114" Language="English(US)">
+					<ShortName>vehicle_destroyed_03.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_03_E843A46D.wem</Path>
+				</File>
+				<File Id="349630752" Language="English(US)">
+					<ShortName>vehicle_destroyed_23.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_23_E843A46D.wem</Path>
+				</File>
+				<File Id="356437058" Language="English(US)">
+					<ShortName>vehicle_destroyed_27.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_27_E843A46D.wem</Path>
+				</File>
+				<File Id="478879818" Language="English(US)">
+					<ShortName>vehicle_destroyed_13.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_13_E843A46D.wem</Path>
+				</File>
+				<File Id="482497564" Language="English(US)">
+					<ShortName>vehicle_destroyed_19.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_19_E843A46D.wem</Path>
+				</File>
+				<File Id="533162270" Language="English(US)">
+					<ShortName>vehicle_destroyed_15.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_15_E843A46D.wem</Path>
+				</File>
+				<File Id="577700756" Language="English(US)">
+					<ShortName>vehicle_destroyed_26.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_26_E843A46D.wem</Path>
+				</File>
+				<File Id="605994666" Language="English(US)">
+					<ShortName>vehicle_destroyed_01.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_01_E843A46D.wem</Path>
+				</File>
+				<File Id="664076776" Language="English(US)">
+					<ShortName>vehicle_destroyed_24.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_24_E843A46D.wem</Path>
+				</File>
+				<File Id="764062589" Language="English(US)">
+					<ShortName>vehicle_destroyed_11.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_11_E843A46D.wem</Path>
+				</File>
+				<File Id="764607030" Language="English(US)">
+					<ShortName>vehicle_destroyed_02.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_02_E843A46D.wem</Path>
+				</File>
+				<File Id="769841228" Language="English(US)">
+					<ShortName>vehicle_destroyed_06.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_06_E843A46D.wem</Path>
+				</File>
+				<File Id="774307800" Language="English(US)">
+					<ShortName>vehicle_destroyed_25.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_25_E843A46D.wem</Path>
+				</File>
+				<File Id="782244064" Language="English(US)">
+					<ShortName>vehicle_destroyed_10.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_10_E843A46D.wem</Path>
+				</File>
+				<File Id="811028027" Language="English(US)">
+					<ShortName>vehicle_destroyed_14.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_14_E843A46D.wem</Path>
+				</File>
+				<File Id="825696448" Language="English(US)">
+					<ShortName>vehicle_destroyed_09.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_09_E843A46D.wem</Path>
+				</File>
+				<File Id="853782029" Language="English(US)">
+					<ShortName>vehicle_destroyed_12.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_12_E843A46D.wem</Path>
+				</File>
+				<File Id="857163731" Language="English(US)">
+					<ShortName>vehicle_destroyed_21.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_21_E843A46D.wem</Path>
+				</File>
+				<File Id="956988426" Language="English(US)">
+					<ShortName>vehicle_destroyed_08.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_08_E843A46D.wem</Path>
+				</File>
+				<File Id="999123575" Language="English(US)">
+					<ShortName>vehicle_destroyed_20.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_20_E843A46D.wem</Path>
+				</File>
+				<File Id="1000927984" Language="English(US)">
+					<ShortName>vehicle_destroyed_05.wav</ShortName>
+					<Path>Voices\English(US)\vehicle_destroyed_05_E843A46D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

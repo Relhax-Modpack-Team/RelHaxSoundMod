@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
 	<RootPaths>
-		<ProjectRoot>F:\Tanks Projects\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_1\</ProjectRoot>
-		<SourceFilesRoot>F:\Tanks Projects\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_1\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>F:\Tanks Projects\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_1\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>F:\Tanks Stuff\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_1\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Stuff\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_1\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Stuff\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_1\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>F:\Tanks Projects\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_1\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelHaxSoundMod\ingame voice\Base Pack\RelHax\RelHax_1\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -23,13 +23,6 @@
 				<Event Id="3166122996" Name="vo_ammo_bay_damaged"/>
 				<Event Id="1332081395" Name="vo_armor_not_pierced_by_player"/>
 				<Event Id="2655350512" Name="vo_armor_ricochet_by_player"/>
-				<Event Id="4169869122" Name="vo_chat_shotcuts_attack"/>
-				<Event Id="2574232355" Name="vo_chat_shotcuts_attack_the_enemy"/>
-				<Event Id="1903908767" Name="vo_chat_shotcuts_back_to_base"/>
-				<Event Id="3654393098" Name="vo_chat_shotcuts_follow_me"/>
-				<Event Id="3167328132" Name="vo_chat_shotcuts_help_me"/>
-				<Event Id="1700054719" Name="vo_chat_shotcuts_negative"/>
-				<Event Id="2100629867" Name="vo_chat_shotcuts_positive"/>
 				<Event Id="1946435397" Name="vo_commander_killed"/>
 				<Event Id="1988695347" Name="vo_crew_deactivated"/>
 				<Event Id="3716823038" Name="vo_damage_by_near_explosion_by_enemy"/>
@@ -48,6 +41,15 @@
 				<Event Id="136522141" Name="vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player"/>
 				<Event Id="102434383" Name="vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player"/>
 				<Event Id="1057290642" Name="vo_enemy_hp_damaged_by_projectile_by_player"/>
+				<Event Id="1316861587" Name="vo_enemy_killed"/>
+				<Event Id="3406769" Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player"/>
+				<Event Id="3175172091" Name="vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player"/>
+				<Event Id="730352367" Name="vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player"/>
+				<Event Id="1713814001" Name="vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player"/>
+				<Event Id="40924856" Name="vo_enemy_sighted"/>
+				<Event Id="1702267773" Name="vo_engine_damaged"/>
+				<Event Id="1302422561" Name="vo_engine_destroyed"/>
+				<Event Id="4148607935" Name="vo_engine_functional"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="396061" Language="English(UK)">
@@ -61,6 +63,10 @@
 				<File Id="6624793" Language="English(UK)">
 					<ShortName>commander_killed_02.wav</ShortName>
 					<Path>Voices\English(UK)\commander_killed_02_E843A46D.wem</Path>
+				</File>
+				<File Id="13319587" Language="English(UK)">
+					<ShortName>engine_damaged_06.wav</ShortName>
+					<Path>Voices\English(UK)\engine_damaged_06_E843A46D.wem</Path>
 				</File>
 				<File Id="13448339" Language="English(UK)">
 					<ShortName>driver_killed_02.wav</ShortName>
@@ -94,17 +100,9 @@
 					<ShortName>crew_deactivated_04.wav</ShortName>
 					<Path>Voices\English(UK)\crew_deactivated_04_E843A46D.wem</Path>
 				</File>
-				<File Id="111094113" Language="English(UK)">
-					<ShortName>ally_killed_by_player_06.wav</ShortName>
-					<Path>Voices\English(UK)\ally_killed_by_player_06_E843A46D.wem</Path>
-				</File>
 				<File Id="133912369" Language="English(UK)">
 					<ShortName>ammo_bay_damaged_03.wav</ShortName>
 					<Path>Voices\English(UK)\ammo_bay_damaged_03_E843A46D.wem</Path>
-				</File>
-				<File Id="139727365" Language="SFX">
-					<ShortName>platoon_created_02.wav</ShortName>
-					<Path>SFX\platoon_created_02_E843A46D.wem</Path>
 				</File>
 				<File Id="141655730" Language="English(UK)">
 					<ShortName>commander_killed_03.wav</ShortName>
@@ -174,10 +172,6 @@
 					<ShortName>armor_ricochet_by_player_07.wav</ShortName>
 					<Path>Voices\English(UK)\armor_ricochet_by_player_07_E843A46D.wem</Path>
 				</File>
-				<File Id="245543857" Language="SFX">
-					<ShortName>platoon_dismissed_03.wav</ShortName>
-					<Path>SFX\platoon_dismissed_03_E843A46D.wem</Path>
-				</File>
 				<File Id="267425759" Language="English(UK)">
 					<ShortName>armor_ricochet_by_player_01.wav</ShortName>
 					<Path>Voices\English(UK)\armor_ricochet_by_player_01_E843A46D.wem</Path>
@@ -190,21 +184,17 @@
 					<ShortName>ammo_bay_damaged_04.wav</ShortName>
 					<Path>Voices\English(UK)\ammo_bay_damaged_04_E843A46D.wem</Path>
 				</File>
-				<File Id="309565280" Language="English(UK)">
-					<ShortName>commander_killed_06.wav</ShortName>
-					<Path>Voices\English(UK)\commander_killed_06_E843A46D.wem</Path>
-				</File>
-				<File Id="312323887" Language="English(UK)">
-					<ShortName>enemy_fire_started_by_player_11.wav</ShortName>
-					<Path>Voices\English(UK)\enemy_fire_started_by_player_11_E843A46D.wem</Path>
+				<File Id="303336399" Language="English(UK)">
+					<ShortName>armor_not_pierced_by_player_14.wav</ShortName>
+					<Path>Voices\English(UK)\armor_not_pierced_by_player_14_E843A46D.wem</Path>
 				</File>
 				<File Id="320401629" Language="English(UK)">
 					<ShortName>armor_ricochet_by_player_14.wav</ShortName>
 					<Path>Voices\English(UK)\armor_ricochet_by_player_14_E843A46D.wem</Path>
 				</File>
-				<File Id="341188852" Language="English(UK)">
-					<ShortName>damage_by_near_explosion_by_enemy_03.wav</ShortName>
-					<Path>Voices\English(UK)\damage_by_near_explosion_by_enemy_03_E843A46D.wem</Path>
+				<File Id="337017663" Language="English(UK)">
+					<ShortName>engine_damaged_03.wav</ShortName>
+					<Path>Voices\English(UK)\engine_damaged_03_E843A46D.wem</Path>
 				</File>
 				<File Id="347711643" Language="English(UK)">
 					<ShortName>armor_pierced_by_player_12.wav</ShortName>
@@ -213,6 +203,10 @@
 				<File Id="360299303" Language="English(UK)">
 					<ShortName>ally_killed_by_player_04.wav</ShortName>
 					<Path>Voices\English(UK)\ally_killed_by_player_04_E843A46D.wem</Path>
+				</File>
+				<File Id="397154426" Language="English(UK)">
+					<ShortName>engine_functional_03.wav</ShortName>
+					<Path>Voices\English(UK)\engine_functional_03_E843A46D.wem</Path>
 				</File>
 				<File Id="404127349" Language="SFX">
 					<ShortName>been_excluded_platoon_01.wav</ShortName>
@@ -238,6 +232,10 @@
 					<ShortName>damage_by_near_explosion_by_player_02.wav</ShortName>
 					<Path>Voices\English(UK)\damage_by_near_explosion_by_player_02_E843A46D.wem</Path>
 				</File>
+				<File Id="452213554" Language="English(UK)">
+					<ShortName>engine_damaged_01.wav</ShortName>
+					<Path>Voices\English(UK)\engine_damaged_01_E843A46D.wem</Path>
+				</File>
 				<File Id="455765450" Language="English(UK)">
 					<ShortName>damage_by_near_explosion_by_player_04.wav</ShortName>
 					<Path>Voices\English(UK)\damage_by_near_explosion_by_player_04_E843A46D.wem</Path>
@@ -245,10 +243,6 @@
 				<File Id="455896669" Language="English(UK)">
 					<ShortName>damage_by_near_explosion_by_player_08.wav</ShortName>
 					<Path>Voices\English(UK)\damage_by_near_explosion_by_player_08_E843A46D.wem</Path>
-				</File>
-				<File Id="459895606" Language="English(UK)">
-					<ShortName>enemy_fire_started_by_player_09.wav</ShortName>
-					<Path>Voices\English(UK)\enemy_fire_started_by_player_09_E843A46D.wem</Path>
 				</File>
 				<File Id="469178083" Language="English(UK)">
 					<ShortName>armor_ricochet_by_player_13.wav</ShortName>
@@ -258,10 +252,6 @@
 					<ShortName>armor_not_pierced_by_player_11.wav</ShortName>
 					<Path>Voices\English(UK)\armor_not_pierced_by_player_11_E843A46D.wem</Path>
 				</File>
-				<File Id="487901316" Language="English(UK)">
-					<ShortName>commander_killed_05.wav</ShortName>
-					<Path>Voices\English(UK)\commander_killed_05_E843A46D.wem</Path>
-				</File>
 				<File Id="510004584" Language="English(UK)">
 					<ShortName>armor_not_pierced_by_player_06.wav</ShortName>
 					<Path>Voices\English(UK)\armor_not_pierced_by_player_06_E843A46D.wem</Path>
@@ -269,10 +259,6 @@
 				<File Id="545343910" Language="English(UK)">
 					<ShortName>armor_pierced_by_player_11.wav</ShortName>
 					<Path>Voices\English(UK)\armor_pierced_by_player_11_E843A46D.wem</Path>
-				</File>
-				<File Id="546042688" Language="English(UK)">
-					<ShortName>ammo_bay_damaged_05.wav</ShortName>
-					<Path>Voices\English(UK)\ammo_bay_damaged_05_E843A46D.wem</Path>
 				</File>
 				<File Id="552210815" Language="English(UK)">
 					<ShortName>damage_by_near_explosion_by_player_09.wav</ShortName>
@@ -286,17 +272,13 @@
 					<ShortName>armor_not_pierced_by_player_12.wav</ShortName>
 					<Path>Voices\English(UK)\armor_not_pierced_by_player_12_E843A46D.wem</Path>
 				</File>
-				<File Id="602323397" Language="English(UK)">
-					<ShortName>enemy_fire_started_by_player_12.wav</ShortName>
-					<Path>Voices\English(UK)\enemy_fire_started_by_player_12_E843A46D.wem</Path>
-				</File>
 				<File Id="603038051" Language="English(UK)">
 					<ShortName>armor_not_pierced_by_player_04.wav</ShortName>
 					<Path>Voices\English(UK)\armor_not_pierced_by_player_04_E843A46D.wem</Path>
 				</File>
-				<File Id="620015463" Language="English(UK)">
-					<ShortName>enemy_fire_started_by_player_06.wav</ShortName>
-					<Path>Voices\English(UK)\enemy_fire_started_by_player_06_E843A46D.wem</Path>
+				<File Id="612422673" Language="English(UK)">
+					<ShortName>engine_functional_04.wav</ShortName>
+					<Path>Voices\English(UK)\engine_functional_04_E843A46D.wem</Path>
 				</File>
 				<File Id="638175140" Language="English(UK)">
 					<ShortName>armor_ricochet_by_player_12.wav</ShortName>
@@ -334,10 +316,6 @@
 					<ShortName>ally_killed_by_player_02.wav</ShortName>
 					<Path>Voices\English(UK)\ally_killed_by_player_02_E843A46D.wem</Path>
 				</File>
-				<File Id="717503416" Language="SFX">
-					<ShortName>platoon_dismissed_02.wav</ShortName>
-					<Path>SFX\platoon_dismissed_02_E843A46D.wem</Path>
-				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_E843A46D.wem</Path>
@@ -346,13 +324,13 @@
 					<ShortName>armor_ricochet_by_player_04.wav</ShortName>
 					<Path>Voices\English(UK)\armor_ricochet_by_player_04_E843A46D.wem</Path>
 				</File>
-				<File Id="765888789" Language="English(UK)">
-					<ShortName>commander_killed_07.wav</ShortName>
-					<Path>Voices\English(UK)\commander_killed_07_E843A46D.wem</Path>
-				</File>
 				<File Id="772786733" Language="English(UK)">
 					<ShortName>armor_ricochet_by_player_03.wav</ShortName>
 					<Path>Voices\English(UK)\armor_ricochet_by_player_03_E843A46D.wem</Path>
+				</File>
+				<File Id="799606270" Language="English(UK)">
+					<ShortName>engine_destroyed_01.wav</ShortName>
+					<Path>Voices\English(UK)\engine_destroyed_01_E843A46D.wem</Path>
 				</File>
 				<File Id="809588662" Language="English(UK)">
 					<ShortName>armor_not_pierced_by_player_01.wav</ShortName>
@@ -366,17 +344,17 @@
 					<ShortName>armor_ricochet_by_player_10.wav</ShortName>
 					<Path>Voices\English(UK)\armor_ricochet_by_player_10_E843A46D.wem</Path>
 				</File>
-				<File Id="854311450" Language="SFX">
-					<ShortName>platoon_created_03.wav</ShortName>
-					<Path>SFX\platoon_created_03_E843A46D.wem</Path>
+				<File Id="842006770" Language="English(UK)">
+					<ShortName>armor_not_pierced_by_player_15.wav</ShortName>
+					<Path>Voices\English(UK)\armor_not_pierced_by_player_15_E843A46D.wem</Path>
 				</File>
 				<File Id="855736339" Language="SFX">
 					<ShortName>platoon_dismissed_01.wav</ShortName>
 					<Path>SFX\platoon_dismissed_01_E843A46D.wem</Path>
 				</File>
-				<File Id="861362167" Language="English(UK)">
-					<ShortName>enemy_fire_started_by_player_07.wav</ShortName>
-					<Path>Voices\English(UK)\enemy_fire_started_by_player_07_E843A46D.wem</Path>
+				<File Id="859285655" Language="English(UK)">
+					<ShortName>engine_destroyed_02.wav</ShortName>
+					<Path>Voices\English(UK)\engine_destroyed_02_E843A46D.wem</Path>
 				</File>
 				<File Id="874127590" Language="English(UK)">
 					<ShortName>driver_killed_03.wav</ShortName>
@@ -394,6 +372,10 @@
 					<ShortName>damage_by_near_explosion_by_enemy_02.wav</ShortName>
 					<Path>Voices\English(UK)\damage_by_near_explosion_by_enemy_02_E843A46D.wem</Path>
 				</File>
+				<File Id="916283972" Language="English(UK)">
+					<ShortName>engine_destroyed_03.wav</ShortName>
+					<Path>Voices\English(UK)\engine_destroyed_03_E843A46D.wem</Path>
+				</File>
 				<File Id="918453365" Language="English(UK)">
 					<ShortName>armor_ricochet_by_player_15.wav</ShortName>
 					<Path>Voices\English(UK)\armor_ricochet_by_player_15_E843A46D.wem</Path>
@@ -410,13 +392,17 @@
 					<ShortName>driver_killed_04.wav</ShortName>
 					<Path>Voices\English(UK)\driver_killed_04_E843A46D.wem</Path>
 				</File>
+				<File Id="965721978" Language="English(UK)">
+					<ShortName>engine_damaged_07.wav</ShortName>
+					<Path>Voices\English(UK)\engine_damaged_07_E843A46D.wem</Path>
+				</File>
 				<File Id="968005484" Language="English(UK)">
 					<ShortName>ammo_bay_damaged_01.wav</ShortName>
 					<Path>Voices\English(UK)\ammo_bay_damaged_01_E843A46D.wem</Path>
 				</File>
-				<File Id="979154597" Language="English(UK)">
-					<ShortName>enemy_fire_started_by_player_08.wav</ShortName>
-					<Path>Voices\English(UK)\enemy_fire_started_by_player_08_E843A46D.wem</Path>
+				<File Id="971295353" Language="English(UK)">
+					<ShortName>engine_functional_01.wav</ShortName>
+					<Path>Voices\English(UK)\engine_functional_01_E843A46D.wem</Path>
 				</File>
 				<File Id="985073302" Language="English(UK)">
 					<ShortName>crew_deactivated_02.wav</ShortName>
@@ -426,6 +412,14 @@
 					<ShortName>armor_pierced_by_player_01.wav</ShortName>
 					<Path>Voices\English(UK)\armor_pierced_by_player_01_E843A46D.wem</Path>
 				</File>
+				<File Id="996202094" Language="English(UK)">
+					<ShortName>engine_damaged_02.wav</ShortName>
+					<Path>Voices\English(UK)\engine_damaged_02_E843A46D.wem</Path>
+				</File>
+				<File Id="999363801" Language="English(UK)">
+					<ShortName>engine_functional_02.wav</ShortName>
+					<Path>Voices\English(UK)\engine_functional_02_E843A46D.wem</Path>
+				</File>
 				<File Id="1005525853" Language="English(UK)">
 					<ShortName>enemy_fire_started_by_player_01.wav</ShortName>
 					<Path>Voices\English(UK)\enemy_fire_started_by_player_01_E843A46D.wem</Path>
@@ -434,13 +428,13 @@
 					<ShortName>armor_ricochet_by_player_11.wav</ShortName>
 					<Path>Voices\English(UK)\armor_ricochet_by_player_11_E843A46D.wem</Path>
 				</File>
-				<File Id="1007004868" Language="English(UK)">
-					<ShortName>enemy_fire_started_by_player_10.wav</ShortName>
-					<Path>Voices\English(UK)\enemy_fire_started_by_player_10_E843A46D.wem</Path>
-				</File>
 				<File Id="1007876272" Language="English(UK)">
 					<ShortName>damage_by_near_explosion_by_player_03.wav</ShortName>
 					<Path>Voices\English(UK)\damage_by_near_explosion_by_player_03_E843A46D.wem</Path>
+				</File>
+				<File Id="1012120467" Language="English(UK)">
+					<ShortName>engine_damaged_04.wav</ShortName>
+					<Path>Voices\English(UK)\engine_damaged_04_E843A46D.wem</Path>
 				</File>
 				<File Id="1014840912" Language="English(UK)">
 					<ShortName>armor_not_pierced_by_player_10.wav</ShortName>
@@ -462,6 +456,10 @@
 					<ShortName>armor_pierced_by_player_06.wav</ShortName>
 					<Path>Voices\English(UK)\armor_pierced_by_player_06_E843A46D.wem</Path>
 				</File>
+				<File Id="1045669764" Language="English(UK)">
+					<ShortName>engine_damaged_05.wav</ShortName>
+					<Path>Voices\English(UK)\engine_damaged_05_E843A46D.wem</Path>
+				</File>
 				<File Id="1065164189" Language="English(UK)">
 					<ShortName>ally_killed_by_player_05.wav</ShortName>
 					<Path>Voices\English(UK)\ally_killed_by_player_05_E843A46D.wem</Path>
@@ -476,13 +474,6 @@
 				<Event Id="3166122996" Name="vo_ammo_bay_damaged"/>
 				<Event Id="1332081395" Name="vo_armor_not_pierced_by_player"/>
 				<Event Id="2655350512" Name="vo_armor_ricochet_by_player"/>
-				<Event Id="4169869122" Name="vo_chat_shotcuts_attack"/>
-				<Event Id="2574232355" Name="vo_chat_shotcuts_attack_the_enemy"/>
-				<Event Id="1903908767" Name="vo_chat_shotcuts_back_to_base"/>
-				<Event Id="3654393098" Name="vo_chat_shotcuts_follow_me"/>
-				<Event Id="3167328132" Name="vo_chat_shotcuts_help_me"/>
-				<Event Id="1700054719" Name="vo_chat_shotcuts_negative"/>
-				<Event Id="2100629867" Name="vo_chat_shotcuts_positive"/>
 				<Event Id="1946435397" Name="vo_commander_killed"/>
 				<Event Id="1988695347" Name="vo_crew_deactivated"/>
 				<Event Id="3716823038" Name="vo_damage_by_near_explosion_by_enemy"/>
@@ -501,8 +492,25 @@
 				<Event Id="136522141" Name="vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player"/>
 				<Event Id="102434383" Name="vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player"/>
 				<Event Id="1057290642" Name="vo_enemy_hp_damaged_by_projectile_by_player"/>
+				<Event Id="1316861587" Name="vo_enemy_killed"/>
+				<Event Id="3406769" Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player"/>
+				<Event Id="3175172091" Name="vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player"/>
+				<Event Id="730352367" Name="vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player"/>
+				<Event Id="1713814001" Name="vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player"/>
+				<Event Id="40924856" Name="vo_enemy_sighted"/>
+				<Event Id="1702267773" Name="vo_engine_damaged"/>
+				<Event Id="1302422561" Name="vo_engine_destroyed"/>
+				<Event Id="4148607935" Name="vo_engine_functional"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="7804888" Language="English(US)">
+					<ShortName>engine_damaged_03.wav</ShortName>
+					<Path>Voices\English(US)\engine_damaged_03_E843A46D.wem</Path>
+				</File>
+				<File Id="8852526" Language="English(US)">
+					<ShortName>engine_damaged_07.wav</ShortName>
+					<Path>Voices\English(US)\engine_damaged_07_E843A46D.wem</Path>
+				</File>
 				<File Id="19369136" Language="English(US)">
 					<ShortName>damage_by_near_explosion_by_player_08.wav</ShortName>
 					<Path>Voices\English(US)\damage_by_near_explosion_by_player_08_E843A46D.wem</Path>
@@ -510,10 +518,6 @@
 				<File Id="23305868" Language="English(US)">
 					<ShortName>armor_not_pierced_by_player_05.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_05_E843A46D.wem</Path>
-				</File>
-				<File Id="25906887" Language="English(US)">
-					<ShortName>commander_killed_06.wav</ShortName>
-					<Path>Voices\English(US)\commander_killed_06_E843A46D.wem</Path>
 				</File>
 				<File Id="27829749" Language="English(US)">
 					<ShortName>armor_ricochet_by_player_12.wav</ShortName>
@@ -551,6 +555,10 @@
 					<ShortName>armor_pierced_by_player_05.wav</ShortName>
 					<Path>Voices\English(US)\armor_pierced_by_player_05_E843A46D.wem</Path>
 				</File>
+				<File Id="89732810" Language="English(US)">
+					<ShortName>engine_destroyed_01.wav</ShortName>
+					<Path>Voices\English(US)\engine_destroyed_01_E843A46D.wem</Path>
+				</File>
 				<File Id="92727954" Language="English(US)">
 					<ShortName>driver_killed_03.wav</ShortName>
 					<Path>Voices\English(US)\driver_killed_03_E843A46D.wem</Path>
@@ -571,10 +579,6 @@
 					<ShortName>ammo_bay_damaged_04.wav</ShortName>
 					<Path>Voices\English(US)\ammo_bay_damaged_04_E843A46D.wem</Path>
 				</File>
-				<File Id="139727365" Language="SFX">
-					<ShortName>platoon_created_02.wav</ShortName>
-					<Path>SFX\platoon_created_02_E843A46D.wem</Path>
-				</File>
 				<File Id="146719936" Language="English(US)">
 					<ShortName>commander_killed_03.wav</ShortName>
 					<Path>Voices\English(US)\commander_killed_03_E843A46D.wem</Path>
@@ -582,10 +586,6 @@
 				<File Id="156362035" Language="SFX">
 					<ShortName>platoon_created_01.wav</ShortName>
 					<Path>SFX\platoon_created_01_E843A46D.wem</Path>
-				</File>
-				<File Id="164235009" Language="English(US)">
-					<ShortName>enemy_fire_started_by_player_07.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_07_E843A46D.wem</Path>
 				</File>
 				<File Id="169074058" Language="English(US)">
 					<ShortName>driver_killed_04.wav</ShortName>
@@ -599,13 +599,13 @@
 					<ShortName>armor_pierced_by_player_01.wav</ShortName>
 					<Path>Voices\English(US)\armor_pierced_by_player_01_E843A46D.wem</Path>
 				</File>
+				<File Id="217569460" Language="English(US)">
+					<ShortName>engine_destroyed_03.wav</ShortName>
+					<Path>Voices\English(US)\engine_destroyed_03_E843A46D.wem</Path>
+				</File>
 				<File Id="244635743" Language="English(US)">
 					<ShortName>damage_by_near_explosion_by_player_09.wav</ShortName>
 					<Path>Voices\English(US)\damage_by_near_explosion_by_player_09_E843A46D.wem</Path>
-				</File>
-				<File Id="245543857" Language="SFX">
-					<ShortName>platoon_dismissed_03.wav</ShortName>
-					<Path>SFX\platoon_dismissed_03_E843A46D.wem</Path>
 				</File>
 				<File Id="246890909" Language="English(US)">
 					<ShortName>damage_by_near_explosion_by_player_07.wav</ShortName>
@@ -614,6 +614,14 @@
 				<File Id="247335799" Language="English(US)">
 					<ShortName>commander_killed_04.wav</ShortName>
 					<Path>Voices\English(US)\commander_killed_04_E843A46D.wem</Path>
+				</File>
+				<File Id="258186197" Language="English(US)">
+					<ShortName>engine_functional_03.wav</ShortName>
+					<Path>Voices\English(US)\engine_functional_03_E843A46D.wem</Path>
+				</File>
+				<File Id="264678110" Language="English(US)">
+					<ShortName>engine_damaged_04.wav</ShortName>
+					<Path>Voices\English(US)\engine_damaged_04_E843A46D.wem</Path>
 				</File>
 				<File Id="285259681" Language="English(US)">
 					<ShortName>armor_not_pierced_by_player_07.wav</ShortName>
@@ -626,6 +634,10 @@
 				<File Id="327732899" Language="English(US)">
 					<ShortName>armor_pierced_by_player_09.wav</ShortName>
 					<Path>Voices\English(US)\armor_pierced_by_player_09_E843A46D.wem</Path>
+				</File>
+				<File Id="332399221" Language="English(US)">
+					<ShortName>engine_damaged_06.wav</ShortName>
+					<Path>Voices\English(US)\engine_damaged_06_E843A46D.wem</Path>
 				</File>
 				<File Id="333225108" Language="English(US)">
 					<ShortName>armor_ricochet_by_player_02.wav</ShortName>
@@ -643,6 +655,10 @@
 					<ShortName>damage_by_near_explosion_by_player_03.wav</ShortName>
 					<Path>Voices\English(US)\damage_by_near_explosion_by_player_03_E843A46D.wem</Path>
 				</File>
+				<File Id="373132093" Language="English(US)">
+					<ShortName>engine_destroyed_02.wav</ShortName>
+					<Path>Voices\English(US)\engine_destroyed_02_E843A46D.wem</Path>
+				</File>
 				<File Id="400136120" Language="English(US)">
 					<ShortName>armor_pierced_by_player_04.wav</ShortName>
 					<Path>Voices\English(US)\armor_pierced_by_player_04_E843A46D.wem</Path>
@@ -650,10 +666,6 @@
 				<File Id="404127349" Language="SFX">
 					<ShortName>been_excluded_platoon_01.wav</ShortName>
 					<Path>SFX\been_excluded_platoon_01_E843A46D.wem</Path>
-				</File>
-				<File Id="418188747" Language="English(US)">
-					<ShortName>commander_killed_07.wav</ShortName>
-					<Path>Voices\English(US)\commander_killed_07_E843A46D.wem</Path>
 				</File>
 				<File Id="418711586" Language="English(US)">
 					<ShortName>ally_killed_by_player_02.wav</ShortName>
@@ -667,17 +679,17 @@
 					<ShortName>armor_not_pierced_by_player_13.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_13_E843A46D.wem</Path>
 				</File>
-				<File Id="449863110" Language="English(US)">
-					<ShortName>enemy_fire_started_by_player_11.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_11_E843A46D.wem</Path>
-				</File>
-				<File Id="460826243" Language="English(US)">
-					<ShortName>commander_killed_05.wav</ShortName>
-					<Path>Voices\English(US)\commander_killed_05_E843A46D.wem</Path>
-				</File>
 				<File Id="487101416" Language="English(US)">
 					<ShortName>damage_by_near_explosion_by_enemy_02.wav</ShortName>
 					<Path>Voices\English(US)\damage_by_near_explosion_by_enemy_02_E843A46D.wem</Path>
+				</File>
+				<File Id="491276398" Language="English(US)">
+					<ShortName>engine_functional_04.wav</ShortName>
+					<Path>Voices\English(US)\engine_functional_04_E843A46D.wem</Path>
+				</File>
+				<File Id="491411735" Language="English(US)">
+					<ShortName>engine_functional_02.wav</ShortName>
+					<Path>Voices\English(US)\engine_functional_02_E843A46D.wem</Path>
 				</File>
 				<File Id="505724404" Language="English(US)">
 					<ShortName>driver_killed_01.wav</ShortName>
@@ -690,14 +702,6 @@
 				<File Id="541381540" Language="English(US)">
 					<ShortName>armor_not_pierced_by_player_11.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_11_E843A46D.wem</Path>
-				</File>
-				<File Id="549811964" Language="English(US)">
-					<ShortName>ammo_bay_damaged_05.wav</ShortName>
-					<Path>Voices\English(US)\ammo_bay_damaged_05_E843A46D.wem</Path>
-				</File>
-				<File Id="550615999" Language="English(US)">
-					<ShortName>enemy_fire_started_by_player_09.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_09_E843A46D.wem</Path>
 				</File>
 				<File Id="568839297" Language="English(US)">
 					<ShortName>armor_ricochet_by_player_08.wav</ShortName>
@@ -722,10 +726,6 @@
 				<File Id="601958797" Language="English(US)">
 					<ShortName>armor_not_pierced_by_player_06.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_06_E843A46D.wem</Path>
-				</File>
-				<File Id="602706524" Language="English(US)">
-					<ShortName>enemy_fire_started_by_player_12.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_12_E843A46D.wem</Path>
 				</File>
 				<File Id="625983824" Language="English(US)">
 					<ShortName>crew_deactivated_05.wav</ShortName>
@@ -759,9 +759,13 @@
 					<ShortName>armor_pierced_by_player_12.wav</ShortName>
 					<Path>Voices\English(US)\armor_pierced_by_player_12_E843A46D.wem</Path>
 				</File>
-				<File Id="717503416" Language="SFX">
-					<ShortName>platoon_dismissed_02.wav</ShortName>
-					<Path>SFX\platoon_dismissed_02_E843A46D.wem</Path>
+				<File Id="714246690" Language="English(US)">
+					<ShortName>engine_damaged_01.wav</ShortName>
+					<Path>Voices\English(US)\engine_damaged_01_E843A46D.wem</Path>
+				</File>
+				<File Id="716087478" Language="English(US)">
+					<ShortName>engine_damaged_02.wav</ShortName>
+					<Path>Voices\English(US)\engine_damaged_02_E843A46D.wem</Path>
 				</File>
 				<File Id="718315318" Language="English(US)">
 					<ShortName>armor_pierced_by_player_06.wav</ShortName>
@@ -779,13 +783,13 @@
 					<ShortName>commander_killed_01.wav</ShortName>
 					<Path>Voices\English(US)\commander_killed_01_E843A46D.wem</Path>
 				</File>
-				<File Id="763122658" Language="English(US)">
-					<ShortName>ally_killed_by_player_06.wav</ShortName>
-					<Path>Voices\English(US)\ally_killed_by_player_06_E843A46D.wem</Path>
-				</File>
 				<File Id="766526953" Language="English(US)">
 					<ShortName>crew_deactivated_01.wav</ShortName>
 					<Path>Voices\English(US)\crew_deactivated_01_E843A46D.wem</Path>
+				</File>
+				<File Id="771650940" Language="English(US)">
+					<ShortName>armor_not_pierced_by_player_14.wav</ShortName>
+					<Path>Voices\English(US)\armor_not_pierced_by_player_14_E843A46D.wem</Path>
 				</File>
 				<File Id="784303227" Language="English(US)">
 					<ShortName>ammo_bay_damaged_01.wav</ShortName>
@@ -803,6 +807,10 @@
 					<ShortName>armor_not_pierced_by_player_10.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_10_E843A46D.wem</Path>
 				</File>
+				<File Id="833324615" Language="English(US)">
+					<ShortName>armor_not_pierced_by_player_15.wav</ShortName>
+					<Path>Voices\English(US)\armor_not_pierced_by_player_15_E843A46D.wem</Path>
+				</File>
 				<File Id="845442869" Language="English(US)">
 					<ShortName>armor_pierced_by_player_03.wav</ShortName>
 					<Path>Voices\English(US)\armor_pierced_by_player_03_E843A46D.wem</Path>
@@ -811,25 +819,13 @@
 					<ShortName>driver_killed_02.wav</ShortName>
 					<Path>Voices\English(US)\driver_killed_02_E843A46D.wem</Path>
 				</File>
-				<File Id="854311450" Language="SFX">
-					<ShortName>platoon_created_03.wav</ShortName>
-					<Path>SFX\platoon_created_03_E843A46D.wem</Path>
-				</File>
 				<File Id="855736339" Language="SFX">
 					<ShortName>platoon_dismissed_01.wav</ShortName>
 					<Path>SFX\platoon_dismissed_01_E843A46D.wem</Path>
 				</File>
-				<File Id="857952986" Language="English(US)">
-					<ShortName>enemy_fire_started_by_player_06.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_06_E843A46D.wem</Path>
-				</File>
 				<File Id="875486317" Language="English(US)">
 					<ShortName>enemy_fire_started_by_player_02.wav</ShortName>
 					<Path>Voices\English(US)\enemy_fire_started_by_player_02_E843A46D.wem</Path>
-				</File>
-				<File Id="878937080" Language="English(US)">
-					<ShortName>enemy_fire_started_by_player_10.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_10_E843A46D.wem</Path>
 				</File>
 				<File Id="886162254" Language="English(US)">
 					<ShortName>crew_deactivated_03.wav</ShortName>
@@ -855,10 +851,6 @@
 					<ShortName>crew_deactivated_02.wav</ShortName>
 					<Path>Voices\English(US)\crew_deactivated_02_E843A46D.wem</Path>
 				</File>
-				<File Id="908361522" Language="English(US)">
-					<ShortName>damage_by_near_explosion_by_enemy_03.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_enemy_03_E843A46D.wem</Path>
-				</File>
 				<File Id="931892923" Language="English(US)">
 					<ShortName>enemy_fire_started_by_player_03.wav</ShortName>
 					<Path>Voices\English(US)\enemy_fire_started_by_player_03_E843A46D.wem</Path>
@@ -875,13 +867,13 @@
 					<ShortName>armor_pierced_by_player_13.wav</ShortName>
 					<Path>Voices\English(US)\armor_pierced_by_player_13_E843A46D.wem</Path>
 				</File>
-				<File Id="981744403" Language="English(US)">
-					<ShortName>enemy_fire_started_by_player_08.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_08_E843A46D.wem</Path>
-				</File>
 				<File Id="987534357" Language="English(US)">
 					<ShortName>armor_ricochet_by_player_14.wav</ShortName>
 					<Path>Voices\English(US)\armor_ricochet_by_player_14_E843A46D.wem</Path>
+				</File>
+				<File Id="998442541" Language="English(US)">
+					<ShortName>engine_damaged_05.wav</ShortName>
+					<Path>Voices\English(US)\engine_damaged_05_E843A46D.wem</Path>
 				</File>
 				<File Id="1001936836" Language="English(US)">
 					<ShortName>armor_not_pierced_by_player_03.wav</ShortName>
@@ -906,6 +898,10 @@
 				<File Id="1031423750" Language="English(US)">
 					<ShortName>armor_ricochet_by_player_11.wav</ShortName>
 					<Path>Voices\English(US)\armor_ricochet_by_player_11_E843A46D.wem</Path>
+				</File>
+				<File Id="1034372704" Language="English(US)">
+					<ShortName>engine_functional_01.wav</ShortName>
+					<Path>Voices\English(US)\engine_functional_01_E843A46D.wem</Path>
 				</File>
 				<File Id="1039491588" Language="English(US)">
 					<ShortName>ammo_bay_damaged_02.wav</ShortName>
