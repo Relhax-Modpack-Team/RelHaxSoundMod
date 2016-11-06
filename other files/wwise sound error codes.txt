@@ -1,0 +1,2 @@
+error 52 - memory errors, increase the size of the memory pool
+error 64 - incorrect bank version, use 2015 for WoT

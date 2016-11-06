@@ -1,13 +1,11 @@
 /fsbext
-/other files
 *.fsbcache
 */fsbcache
 */fmod_designer.log
-*/Instructions.log
 */undo-log.txt
 *.fev
 *.fsb
 *.bak
-/zip distrubitables
 *.zip
-/python
+*.bnk
+*.pck
