@@ -4,6 +4,7 @@
 		<WorkUnit Name="Default Work Unit" ID="{F5EC8F29-B2D6-4EEE-91B9-7FC48A323475}" PersistMode="Standalone">
 			<ChildrenList>
 				<GameParameter Name="RTPC_ext_menu_volume_voice_gui" ID="{99F7EAA1-020C-4260-AED7-1B7CDC39E095}"/>
+				<GameParameter Name="RTPC_ext_menu_volume_music" ID="{23452AD8-5B78-4327-A675-389ED4D0A111}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</GameParameters>

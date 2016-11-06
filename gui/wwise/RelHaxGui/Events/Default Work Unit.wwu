@@ -3,78 +3,111 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="base_capture_1" ID="{CB0E9A43-B27C-4AD9-ACC2-1062887D20B1}">
+				<Event Name="base_capture_1" ID="{8764007C-1513-4155-8BF8-CD3A5953527A}">
 					<ChildrenList>
-						<Action Name="Play" ID="{EC342392-A265-4AFD-863B-B6ADC71BA9BD}" ShortID="841404254" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{596B05E0-7F19-4C9D-82E5-F8C5D5C6A7A6}" ShortID="420692714" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{2FCD771E-9F89-425D-BF4F-E987681E0AA2}" Global="false">
+								<Element ID="{441B17F3-847E-4556-83C2-7D56232D6BCE}" Global="false">
 									<ObjectRef Name="base_capture_1" ID="{F6A1E5A4-4C93-427A-81BE-A5EA95ABA6A1}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
 								</Element>
 							</ElementList>
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="enemy_sighted_for_team" ID="{163F423A-C1F3-4947-B3AC-2DFDC38EF7EC}">
+				<Event Name="enemy_sighted_for_team" ID="{8378503C-315D-4079-B117-5820D71B9540}">
 					<ChildrenList>
-						<Action Name="Play" ID="{F80F6DDF-B54E-403A-BF0F-92FAEC806516}" ShortID="378221544" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{6F8E8E29-E310-4F6C-BAA3-D5CDD0B63F43}" ShortID="636882123" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{0A606A25-A2FA-4930-B918-B35F36CE3F04}" Global="false">
+								<Element ID="{8F9AF08F-5D54-42FC-B3BF-72D7C3A15AED}" Global="false">
 									<ObjectRef Name="enemy_sighted_for_team" ID="{7B9CE639-82B6-4B7C-8964-FCFA71F96EE8}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
 								</Element>
 							</ElementList>
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="time_buzzer_01" ID="{0111DD61-787F-4E6F-8382-64BC8C0DE626}">
+				<Event Name="time_buzzer_01" ID="{E16E3700-633A-4F99-96A1-298156E62E3C}">
 					<ChildrenList>
-						<Action Name="Play" ID="{26604EDC-B68B-4555-97FB-DE840B0B3418}" ShortID="364753868" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{0DB6587B-8306-4821-A012-EDDE5D8013B4}" ShortID="654855191" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{318B4993-5300-4A4E-94F8-1C01BBEAEA9C}" Global="false">
+								<Element ID="{756A071F-E08B-45E3-8CCB-203206FF5F06}" Global="false">
 									<ObjectRef Name="time_buzzer_01" ID="{FEDAFB44-A1A9-4A82-A4C7-9DF76FFD69B0}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
 								</Element>
 							</ElementList>
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="time_buzzer_02" ID="{178E573E-ACAE-408A-B186-EFAE6641B360}">
+				<Event Name="time_buzzer_02" ID="{550C2606-D802-4398-966B-6DBE31719EBC}">
 					<ChildrenList>
-						<Action Name="Play" ID="{AD599243-8F3C-4196-95E1-D73F33FC2933}" ShortID="1029394656" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{23292508-11FA-4A86-A1DE-30B04A816B20}" ShortID="131804144" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{35B76963-3D05-48D0-AD4A-1C347B248933}" Global="false">
+								<Element ID="{30A71F49-353D-4991-9EDC-7CEE36AF8C2B}" Global="false">
 									<ObjectRef Name="time_buzzer_02" ID="{39BF0F54-33B6-4E37-B79D-369881D0035A}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
 								</Element>
 							</ElementList>
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="time_countdown" ID="{F8C9FE3C-3C00-409A-8E1F-860A09123B20}">
+				<Event Name="time_countdown" ID="{EAEA35EA-7A03-4B7B-814F-C305E701C527}">
 					<ChildrenList>
-						<Action Name="Play" ID="{028F84F5-7A41-424B-A56D-547A2BF65C87}" ShortID="1016440731" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{17B41080-CD5C-484F-839D-C1A4E37AE9BB}" ShortID="731068425" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{74E97EAC-AB1E-4F3B-88EA-78D53AA94C22}" Global="false">
+								<Element ID="{916BC6F7-FD36-4810-964F-B1280AD6DA77}" Global="false">
 									<ObjectRef Name="time_countdown" ID="{D7205A89-40E7-46F9-A6A7-E07EF8BEB45E}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
 								</Element>
 							</ElementList>
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="time_over" ID="{8CB964E1-A359-4D35-BBFB-53DE95DF0D8B}">
+				<Event Name="time_over" ID="{4EC36C72-28B5-447F-B644-B8CBA7057866}">
 					<ChildrenList>
-						<Action Name="Play" ID="{0385A735-C6FB-44A8-90CC-7F989FAB34B5}" ShortID="254036431" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{41CF6330-DEB0-4E72-B094-51F4FDE23A2D}" ShortID="1026786502" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{06B85132-A584-4C1C-B4AE-8B1D159CA44C}" Global="false">
+								<Element ID="{DAD79AD0-3B4F-433D-BA4F-71512E50B177}" Global="false">
 									<ObjectRef Name="time_over" ID="{232FE86A-CB3C-4B2A-A5C9-5F3C86A9C2FD}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
 								</Element>
 							</ElementList>
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="timer" ID="{EE0B5BDE-46D8-4A20-BDEB-9A04B7ACF52A}">
+				<Event Name="timer" ID="{C31D446E-FA17-4E72-B6C9-DEDC25BE10B9}">
 					<ChildrenList>
-						<Action Name="Play" ID="{3766DA04-578E-43A7-9942-65E8A1535844}" ShortID="725608240" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{535C785D-74D9-44AA-BE2F-57DD0816A88D}" ShortID="231781174" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{A7E084F5-CCD7-40A7-9134-0E6E749AA84F}" Global="false">
+								<Element ID="{EEB03B84-8A3A-4081-8DDF-0C051F509548}" Global="false">
 									<ObjectRef Name="timer" ID="{3F1859BE-F305-4134-8A9D-00E834D72A9A}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="music_defeat" ID="{4E9045BE-58E2-4AFE-9067-0016F4265D84}">
+					<ChildrenList>
+						<Action Name="Play" ID="{881EF5A2-BBC0-4C6C-B7B2-D07C57C6AE2D}" ShortID="741146823" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{BD87B149-BD46-431E-9F72-ECAF27F892C6}" Global="false">
+									<ObjectRef Name="music_defeat" ID="{DB6004F4-EB17-4F88-91F0-115C2E629ED7}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="music_drawn_game" ID="{602E5BDA-7C5A-43A0-8239-528852EBF779}">
+					<ChildrenList>
+						<Action Name="Play" ID="{FBDA2A55-9B46-4944-B2AF-41F05DE4BC8B}" ShortID="588900274" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{DABA6F45-0560-43E0-9DFE-204E4EABC38D}" Global="false">
+									<ObjectRef Name="music_drawn_game" ID="{37C22EAE-D001-443E-A555-6BDBCEBEF39B}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="music_victory" ID="{C5D9A692-1632-4723-9B62-126E60C81022}">
+					<ChildrenList>
+						<Action Name="Play" ID="{AFD4D15A-D869-4F2E-877D-0012AE2751CB}" ShortID="945899506" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{F5B13185-C095-4782-940B-08449C53879A}" Global="false">
+									<ObjectRef Name="music_victory" ID="{0CF7B653-404F-4E85-BA62-216537367F2D}" WorkUnitID="{79771E1D-6542-4C73-BDDF-77C1B28E443E}"/>
 								</Element>
 							</ElementList>
 						</Action>

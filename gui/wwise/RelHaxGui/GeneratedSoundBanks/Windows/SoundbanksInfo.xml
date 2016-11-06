@@ -15,6 +15,29 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
+		<SoundBank Id="1747237449" Language="SFX">
+			<ShortName>ExternalMusicSources</ShortName>
+			<Path>ExternalMusicSources.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3125733004" Name="music_defeat"/>
+				<Event Id="1537356472" Name="music_drawn_game"/>
+				<Event Id="2637400697" Name="music_victory"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="135403119" Language="SFX">
+					<ShortName>battle_won.wav</ShortName>
+					<Path>SFX\battle_won_9E69E797.wem</Path>
+				</File>
+				<File Id="256872752" Language="SFX">
+					<ShortName>battle_lost.wav</ShortName>
+					<Path>SFX\battle_lost_9E69E797.wem</Path>
+				</File>
+				<File Id="388193426" Language="SFX">
+					<ShortName>battle_drawn.wav</ShortName>
+					<Path>SFX\battle_drawn_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="2802364914" Language="SFX">
 			<ShortName>RelHaxGui</ShortName>
 			<Path>RelHaxGui.bnk</Path>
