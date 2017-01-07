@@ -1,0 +1,51 @@
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: QPainter::begin: Paint device returned engine == 0, type: 1
+Warning: QPainter::setPen: Painter not active
+Warning: QPainter::setBrush: Painter not active
+Warning: QPainter::setRenderHint: Painter must be active to set rendering hints
+Warning: QPainter::setPen: Painter not active
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Warning: libpng warning: Interlace handling should be turned on when using png_read_image
+Debug: "19:14:03 ..\..\src\propertyeditor.cpp:4234 ER: Set Bank Type" 
+Debug: "19:14:07 ..\..\src\propertyeditor.cpp:4234 ER: Set Compression" 
+Debug: "19:15:27 e:\jk\workspace\build__4.44__designer_win\fmod4\tools\fmod_designer\src\sounddefform.ui.h:2159 FR: Delete Sound Def Item" 
+Debug: "19:15:39 e:\jk\workspace\build__4.44__designer_win\fmod4\tools\fmod_designer\src\sounddefform.ui.h:2856 HG: Add Sound File" 
+Debug: "19:15:48 e:\jk\workspace\build__4.44__designer_win\fmod4\tools\fmod_designer\src\sounddefform.ui.h:2159 FR: Delete Sound Def Item" 
+Debug: "19:15:50 e:\jk\workspace\build__4.44__designer_win\fmod4\tools\fmod_designer\src\sounddefform.ui.h:2159 FR: Delete Sound Def Item" 
+Debug: "19:15:57 e:\jk\workspace\build__4.44__designer_win\fmod4\tools\fmod_designer\src\sounddefform.ui.h:2856 HG: Add Sound File" 
+Debug: "19:16:04 e:\jk\workspace\build__4.44__designer_win\fmod4\tools\fmod_designer\src\sounddefform.ui.h:2856 HG: Add Sound File" 
+Debug: "19:16:49 ..\..\src\propertyeditor.cpp:1508 EM: Set Name" 
+Debug: "19:17:02 ..\..\src\propertyeditor.cpp:4234 ER: Set Compression" 
+Debug: 
+Building project 'xvm'...
+Debug: Building project F:\RelHaxSoundMod\6thSense\xvm.fev...
+Debug: Unique sound defs 1/1
+Debug: Retrieving sound file info...
+Debug: Retrieving reverb info...
+Debug: FEV file written ok
+Debug: Unique Envelope Points: 0 of 0
+Debug: Unique Strings: 28 characters of 28
+Debug: Caching sound file details for ''...
+Debug: 6thsense\spotted_1.mp3
+Debug: 6thsense\spotted_2.mp3
+Debug: 6thsense\spotted_3.mp3
+Debug: 6thsense\update 2\spotted_1.mp3
+Debug: 6thsense\update 3\spotted_2.wav
+Debug: Building 'xvm.fsb'
+Debug: Encoded F:\RelHaxSoundMod\6thSense\6thsense\spotted_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\6thSense\6thsense\spotted_2.mp3
+Debug: Encoded F:\RelHaxSoundMod\6thSense\6thsense\spotted_3.mp3
+Debug: Encoded F:\RelHaxSoundMod\6thSense\6thsense\update 2\spotted_1.mp3
+Debug: Encoded F:\RelHaxSoundMod\6thSense\6thsense\update 3\spotted_2.wav
+Debug: Writing FSB...
+Debug: Finished building FSB
+Debug: 
+Debug: 
+Summary of build:
+SUCCESS: F:/RelHaxSoundMod/6thSense/xvm.fev
+SUCCESS: xvm.fsb
