@@ -5,6 +5,13 @@
       <wwpress>	play	</wwpress>
     </default>
     <schemas>
+      <xmasButton>
+        <sounds>
+          <press>/GUI/ny_event/tree_click</press>
+        </sounds>
+        <groups>
+        </groups>
+      </xmasButton>
       <buttonCapsRed>
         <sounds>
           <wwover>highlight_red_butt</wwover>
@@ -210,5 +217,16 @@
     <wwcs_animation_division_up_alt>division_up</wwcs_animation_division_up_alt>
     <wwdyn_squad_starting_dynamic_platoon>starting_dynamic_platoon</wwdyn_squad_starting_dynamic_platoon>
     <wwrody_dog>	rudy	</wwrody_dog>
+    <xmas_award>ev_christmas_tree_opening_gift</xmas_award>
+    <xmas_garland>ev_christmas_tree_decorations_garland</xmas_garland>
+    <xmas_gift>ev_christmas_tree_decorations_gift</xmas_gift>
+    <xmas_toy>ev_christmas_tree_decorations_toy</xmas_toy>
+    <xmas_tank_turret>ev_christmas_tree_tank_turret</xmas_tank_turret>
+    <xmas_tank_front>ev_christmas_tree_tank_grid</xmas_tank_front>
+    <xmas_tank_board>ev_christmas_tree_tank_chassis</xmas_tank_board>
+    <xmas_tank_camouflage>ev_christmas_tree_tank_camouflage</xmas_tank_camouflage>
+    <xmas_alchemy_convert>ev_christmas_tree_alchemy</xmas_alchemy_convert>
+    <xmas_award_show>ev_christmas_tree_ribbon_gift</xmas_award_show>
+    <xmas_ribbon_shine>ev_christmas_tree_ribbon_shine</xmas_ribbon_shine>
   </effects>
 </gui_sounds.xml>

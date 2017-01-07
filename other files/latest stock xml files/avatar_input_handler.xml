@@ -36,13 +36,46 @@
   <postMortemMode>
     <defaultOffset>0.0 0.0</defaultOffset>
     <camera>
-      <advancedCollision>
-        <ePower>2.0</ePower>
+      <advancedCollider>
+        <enable>	true	</enable>
         <fovRatio>2.0</fovRatio>
-        <specialCollisionRadius>2.0</specialCollisionRadius>
-        <forwardEstimatedTime>0.1</forwardEstimatedTime>
-        <backwardEstimatedTime>0.1</backwardEstimatedTime>
-      </advancedCollision>
+        <rollbackSpeed>1.0</rollbackSpeed>
+        <speedThreshold>0.1</speedThreshold>
+        <volumeGroups>
+          <tiny>
+            <lowSpeedLimit>1.0</lowSpeedLimit>
+            <vehicleVisibilityLimit>10.0</vehicleVisibilityLimit>
+            <approachSpeed>1.5 10.0</approachSpeed>
+            <cameraSpeedFactor>0.4</cameraSpeedFactor>
+            <criticalDistance>5.0</criticalDistance>
+            <canSkip>	true	</canSkip>
+          </tiny>
+          <small>
+            <minVolume>300.0</minVolume>
+            <lowSpeedLimit>0.75</lowSpeedLimit>
+            <vehicleVisibilityLimit>10.0</vehicleVisibilityLimit>
+            <approachSpeed>1.5 10.0</approachSpeed>
+            <cameraSpeedFactor>0.4</cameraSpeedFactor>
+            <criticalDistance>5.0</criticalDistance>
+            <canSkip>	true	</canSkip>
+          </small>
+          <medium>
+            <minVolume>500.0</minVolume>
+            <lowSpeedLimit>0.5</lowSpeedLimit>
+            <vehicleVisibilityLimit>10.0</vehicleVisibilityLimit>
+            <approachSpeed>1.5 10.0</approachSpeed>
+            <cameraSpeedFactor>0.4</cameraSpeedFactor>
+            <criticalDistance>5.0</criticalDistance>
+            <canSkip>	true	</canSkip>
+          </medium>
+          <large>
+            <minVolume>700.0</minVolume>
+            <approachSpeed>1.5 10000.0</approachSpeed>
+            <cameraSpeedFactor>0.1</cameraSpeedFactor>
+            <canSkip>	false	</canSkip>
+          </large>
+        </volumeGroups>
+      </advancedCollider>
       <keySensitivity>0.025</keySensitivity>
       <sensitivity>0.0025</sensitivity>
       <scrollSensitivity>	5	</scrollSensitivity>
@@ -105,13 +138,47 @@
     <aim>arcade</aim>
     <numScrolls>	1	</numScrolls>
     <camera>
-      <advancedCollision>
-        <ePower>2.0</ePower>
+      <advancedCollider>
+        <enable>	true	</enable>
         <fovRatio>2.0</fovRatio>
-        <specialCollisionRadius>2.0</specialCollisionRadius>
-        <forwardEstimatedTime>0.1</forwardEstimatedTime>
-        <backwardEstimatedTime>0.1</backwardEstimatedTime>
-      </advancedCollision>
+        <rollbackSpeed>1.0</rollbackSpeed>
+        <speedThreshold>0.1</speedThreshold>
+        <minimalVolume>50.0</minimalVolume>
+        <volumeGroups>
+          <tiny>
+            <lowSpeedLimit>1.0</lowSpeedLimit>
+            <vehicleVisibilityLimit>10.0</vehicleVisibilityLimit>
+            <approachSpeed>1.5 10.0</approachSpeed>
+            <cameraSpeedFactor>0.4</cameraSpeedFactor>
+            <criticalDistance>5.0</criticalDistance>
+            <canSkip>	true	</canSkip>
+          </tiny>
+          <small>
+            <minVolume>100.0</minVolume>
+            <lowSpeedLimit>0.75</lowSpeedLimit>
+            <vehicleVisibilityLimit>10.0</vehicleVisibilityLimit>
+            <approachSpeed>1.5 10.0</approachSpeed>
+            <cameraSpeedFactor>0.4</cameraSpeedFactor>
+            <criticalDistance>5.0</criticalDistance>
+            <canSkip>	true	</canSkip>
+          </small>
+          <medium>
+            <minVolume>300.0</minVolume>
+            <lowSpeedLimit>0.5</lowSpeedLimit>
+            <vehicleVisibilityLimit>10.0</vehicleVisibilityLimit>
+            <approachSpeed>1.5 10.0</approachSpeed>
+            <cameraSpeedFactor>0.4</cameraSpeedFactor>
+            <criticalDistance>5.0</criticalDistance>
+            <canSkip>	true	</canSkip>
+          </medium>
+          <large>
+            <minVolume>500.0</minVolume>
+            <approachSpeed>1.5 10000.0</approachSpeed>
+            <cameraSpeedFactor>0.1</cameraSpeedFactor>
+            <canSkip>	false	</canSkip>
+          </large>
+        </volumeGroups>
+      </advancedCollider>
       <keySensitivity>0.025</keySensitivity>
       <sensitivity>0.0025</sensitivity>
       <scrollSensitivity>	5	</scrollSensitivity>
