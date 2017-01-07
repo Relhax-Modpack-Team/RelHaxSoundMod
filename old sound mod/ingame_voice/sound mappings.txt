@@ -1,4 +1,0 @@
-explosion->crit_by_player
-projectile->armor_pierced
-attempt->armor_not_pierced
-no_attempt->crit_by_player
