@@ -127,10 +127,6 @@
 					<ShortName>start_battle_51.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_51_E843A46D.wem</Path>
 				</File>
-				<File Id="317329289" Language="English(UK)">
-					<ShortName>enemy_killed_by_player_17.wav</ShortName>
-					<Path>Voices\English(UK)\enemy_killed_by_player_17_E843A46D.wem</Path>
-				</File>
 				<File Id="318451038" Language="English(UK)">
 					<ShortName>start_battle_46.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_46_E843A46D.wem</Path>
@@ -311,10 +307,6 @@
 					<ShortName>start_battle_02.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_02_E843A46D.wem</Path>
 				</File>
-				<File Id="767199675" Language="English(UK)">
-					<ShortName>enemy_killed_by_player_18.wav</ShortName>
-					<Path>Voices\English(UK)\enemy_killed_by_player_18_E843A46D.wem</Path>
-				</File>
 				<File Id="768515370" Language="English(UK)">
 					<ShortName>start_battle_11.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_11_E843A46D.wem</Path>
@@ -334,10 +326,6 @@
 				<File Id="784839412" Language="English(UK)">
 					<ShortName>start_battle_52.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_52_E843A46D.wem</Path>
-				</File>
-				<File Id="792533154" Language="English(UK)">
-					<ShortName>start_battle_57.wav</ShortName>
-					<Path>Voices\English(UK)\start_battle_57_E843A46D.wem</Path>
 				</File>
 				<File Id="829496203" Language="English(UK)">
 					<ShortName>start_battle_40.wav</ShortName>
@@ -398,10 +386,6 @@
 				<File Id="1000817995" Language="English(UK)">
 					<ShortName>start_battle_30.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_30_E843A46D.wem</Path>
-				</File>
-				<File Id="1001044966" Language="English(UK)">
-					<ShortName>start_battle_58.wav</ShortName>
-					<Path>Voices\English(UK)\start_battle_58_E843A46D.wem</Path>
 				</File>
 				<File Id="1003526728" Language="English(UK)">
 					<ShortName>start_battle_06.wav</ShortName>
@@ -489,10 +473,6 @@
 					<ShortName>start_battle_33.wav</ShortName>
 					<Path>Voices\English(US)\start_battle_33_E843A46D.wem</Path>
 				</File>
-				<File Id="155613374" Language="English(US)">
-					<ShortName>enemy_killed_by_player_18.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_18_E843A46D.wem</Path>
-				</File>
 				<File Id="176223431" Language="English(US)">
 					<ShortName>fire_started_07.wav</ShortName>
 					<Path>Voices\English(US)\fire_started_07_E843A46D.wem</Path>
@@ -541,10 +521,6 @@
 					<ShortName>start_battle_25.wav</ShortName>
 					<Path>Voices\English(US)\start_battle_25_E843A46D.wem</Path>
 				</File>
-				<File Id="360232698" Language="English(US)">
-					<ShortName>start_battle_58.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_58_E843A46D.wem</Path>
-				</File>
 				<File Id="367381372" Language="English(US)">
 					<ShortName>start_battle_13.wav</ShortName>
 					<Path>Voices\English(US)\start_battle_13_E843A46D.wem</Path>
@@ -560,10 +536,6 @@
 				<File Id="392029424" Language="English(US)">
 					<ShortName>gun_damaged_03.wav</ShortName>
 					<Path>Voices\English(US)\gun_damaged_03_E843A46D.wem</Path>
-				</File>
-				<File Id="414348367" Language="English(US)">
-					<ShortName>enemy_killed_by_player_17.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_17_E843A46D.wem</Path>
 				</File>
 				<File Id="414372413" Language="English(US)">
 					<ShortName>enemy_killed_by_player_14.wav</ShortName>
@@ -668,10 +640,6 @@
 				<File Id="700931911" Language="English(US)">
 					<ShortName>start_battle_07.wav</ShortName>
 					<Path>Voices\English(US)\start_battle_07_E843A46D.wem</Path>
-				</File>
-				<File Id="703629826" Language="English(US)">
-					<ShortName>start_battle_57.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_57_E843A46D.wem</Path>
 				</File>
 				<File Id="704022739" Language="English(US)">
 					<ShortName>start_battle_50.wav</ShortName>

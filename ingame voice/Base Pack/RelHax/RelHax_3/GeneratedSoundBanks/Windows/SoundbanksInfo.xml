@@ -268,6 +268,10 @@
 					<ShortName>gun_destroyed_01.wav</ShortName>
 					<Path>Voices\English(UK)\gun_destroyed_01_E843A46D.wem</Path>
 				</File>
+				<File Id="568548551" Language="English(UK)">
+					<ShortName>radioman_killed_04.wav</ShortName>
+					<Path>Voices\English(UK)\radioman_killed_04_E843A46D.wem</Path>
+				</File>
 				<File Id="569055733" Language="English(UK)">
 					<ShortName>track_functional_01.wav</ShortName>
 					<Path>Voices\English(UK)\track_functional_01_E843A46D.wem</Path>
@@ -438,6 +442,10 @@
 				<File Id="35899331" Language="English(US)">
 					<ShortName>surveying_devices_damaged_06.wav</ShortName>
 					<Path>Voices\English(US)\surveying_devices_damaged_06_E843A46D.wem</Path>
+				</File>
+				<File Id="64109528" Language="English(US)">
+					<ShortName>radioman_killed_04.wav</ShortName>
+					<Path>Voices\English(US)\radioman_killed_04_E843A46D.wem</Path>
 				</File>
 				<File Id="80842302" Language="English(US)">
 					<ShortName>surveying_devices_destroyed_04.wav</ShortName>

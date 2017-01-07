@@ -22,13 +22,6 @@
 				<Event Id="3166122996" Name="vo_ammo_bay_damaged"/>
 				<Event Id="1332081395" Name="vo_armor_not_pierced_by_player"/>
 				<Event Id="2655350512" Name="vo_armor_ricochet_by_player"/>
-				<Event Id="4169869122" Name="vo_chat_shotcuts_attack"/>
-				<Event Id="2574232355" Name="vo_chat_shotcuts_attack_the_enemy"/>
-				<Event Id="1903908767" Name="vo_chat_shotcuts_back_to_base"/>
-				<Event Id="3654393098" Name="vo_chat_shotcuts_follow_me"/>
-				<Event Id="3167328132" Name="vo_chat_shotcuts_help_me"/>
-				<Event Id="1700054719" Name="vo_chat_shotcuts_negative"/>
-				<Event Id="2100629867" Name="vo_chat_shotcuts_positive"/>
 				<Event Id="1946435397" Name="vo_commander_killed"/>
 				<Event Id="1988695347" Name="vo_crew_deactivated"/>
 				<Event Id="3716823038" Name="vo_damage_by_near_explosion_by_enemy"/>
@@ -105,10 +98,6 @@
 				<File Id="133912369" Language="English(UK)">
 					<ShortName>ammo_bay_damaged_03.wav</ShortName>
 					<Path>Voices\English(UK)\ammo_bay_damaged_03_E843A46D.wem</Path>
-				</File>
-				<File Id="139727365" Language="SFX">
-					<ShortName>platoon_created_02.wav</ShortName>
-					<Path>SFX\platoon_created_02_E843A46D.wem</Path>
 				</File>
 				<File Id="141655730" Language="English(UK)">
 					<ShortName>commander_killed_03.wav</ShortName>
@@ -189,10 +178,6 @@
 				<File Id="240414504" Language="English(UK)">
 					<ShortName>armor_ricochet_by_player_07.wav</ShortName>
 					<Path>Voices\English(UK)\armor_ricochet_by_player_07_E843A46D.wem</Path>
-				</File>
-				<File Id="245543857" Language="SFX">
-					<ShortName>platoon_dismissed_03.wav</ShortName>
-					<Path>SFX\platoon_dismissed_03_E843A46D.wem</Path>
 				</File>
 				<File Id="267425759" Language="English(UK)">
 					<ShortName>armor_ricochet_by_player_01.wav</ShortName>
@@ -290,10 +275,6 @@
 					<ShortName>armor_not_pierced_by_player_04.wav</ShortName>
 					<Path>Voices\English(UK)\armor_not_pierced_by_player_04_E843A46D.wem</Path>
 				</File>
-				<File Id="638175140" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_12.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_12_E843A46D.wem</Path>
-				</File>
 				<File Id="643972564" Language="English(UK)">
 					<ShortName>enemy_killed_by_player_13.wav</ShortName>
 					<Path>Voices\English(UK)\enemy_killed_by_player_13_E843A46D.wem</Path>
@@ -326,10 +307,6 @@
 					<ShortName>damage_by_near_explosion_by_player_07.wav</ShortName>
 					<Path>Voices\English(UK)\damage_by_near_explosion_by_player_07_E843A46D.wem</Path>
 				</File>
-				<File Id="717503416" Language="SFX">
-					<ShortName>platoon_dismissed_02.wav</ShortName>
-					<Path>SFX\platoon_dismissed_02_E843A46D.wem</Path>
-				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_E843A46D.wem</Path>
@@ -337,6 +314,10 @@
 				<File Id="739050429" Language="English(UK)">
 					<ShortName>armor_ricochet_by_player_04.wav</ShortName>
 					<Path>Voices\English(UK)\armor_ricochet_by_player_04_E843A46D.wem</Path>
+				</File>
+				<File Id="770340191" Language="English(UK)">
+					<ShortName>enemy_killed_by_player_15.wav</ShortName>
+					<Path>Voices\English(UK)\enemy_killed_by_player_15_E843A46D.wem</Path>
 				</File>
 				<File Id="772786733" Language="English(UK)">
 					<ShortName>armor_ricochet_by_player_03.wav</ShortName>
@@ -361,10 +342,6 @@
 				<File Id="843437755" Language="English(UK)">
 					<ShortName>enemy_killed_by_player_12.wav</ShortName>
 					<Path>Voices\English(UK)\enemy_killed_by_player_12_E843A46D.wem</Path>
-				</File>
-				<File Id="854311450" Language="SFX">
-					<ShortName>platoon_created_03.wav</ShortName>
-					<Path>SFX\platoon_created_03_E843A46D.wem</Path>
 				</File>
 				<File Id="855736339" Language="SFX">
 					<ShortName>platoon_dismissed_01.wav</ShortName>
@@ -479,13 +456,6 @@
 				<Event Id="3166122996" Name="vo_ammo_bay_damaged"/>
 				<Event Id="1332081395" Name="vo_armor_not_pierced_by_player"/>
 				<Event Id="2655350512" Name="vo_armor_ricochet_by_player"/>
-				<Event Id="4169869122" Name="vo_chat_shotcuts_attack"/>
-				<Event Id="2574232355" Name="vo_chat_shotcuts_attack_the_enemy"/>
-				<Event Id="1903908767" Name="vo_chat_shotcuts_back_to_base"/>
-				<Event Id="3654393098" Name="vo_chat_shotcuts_follow_me"/>
-				<Event Id="3167328132" Name="vo_chat_shotcuts_help_me"/>
-				<Event Id="1700054719" Name="vo_chat_shotcuts_negative"/>
-				<Event Id="2100629867" Name="vo_chat_shotcuts_positive"/>
 				<Event Id="1946435397" Name="vo_commander_killed"/>
 				<Event Id="1988695347" Name="vo_crew_deactivated"/>
 				<Event Id="3716823038" Name="vo_damage_by_near_explosion_by_enemy"/>
@@ -530,10 +500,6 @@
 				<File Id="23305868" Language="English(US)">
 					<ShortName>armor_not_pierced_by_player_05.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_05_E843A46D.wem</Path>
-				</File>
-				<File Id="27829749" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_12.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_12_E843A46D.wem</Path>
 				</File>
 				<File Id="29118875" Language="SFX">
 					<ShortName>left_platoon_01.wav</ShortName>
@@ -595,10 +561,6 @@
 					<ShortName>ammo_bay_damaged_04.wav</ShortName>
 					<Path>Voices\English(US)\ammo_bay_damaged_04_E843A46D.wem</Path>
 				</File>
-				<File Id="139727365" Language="SFX">
-					<ShortName>platoon_created_02.wav</ShortName>
-					<Path>SFX\platoon_created_02_E843A46D.wem</Path>
-				</File>
 				<File Id="146719936" Language="English(US)">
 					<ShortName>commander_killed_03.wav</ShortName>
 					<Path>Voices\English(US)\commander_killed_03_E843A46D.wem</Path>
@@ -634,10 +596,6 @@
 				<File Id="244635743" Language="English(US)">
 					<ShortName>damage_by_near_explosion_by_player_09.wav</ShortName>
 					<Path>Voices\English(US)\damage_by_near_explosion_by_player_09_E843A46D.wem</Path>
-				</File>
-				<File Id="245543857" Language="SFX">
-					<ShortName>platoon_dismissed_03.wav</ShortName>
-					<Path>SFX\platoon_dismissed_03_E843A46D.wem</Path>
 				</File>
 				<File Id="246890909" Language="English(US)">
 					<ShortName>damage_by_near_explosion_by_player_07.wav</ShortName>
@@ -787,10 +745,6 @@
 					<ShortName>engine_damaged_02.wav</ShortName>
 					<Path>Voices\English(US)\engine_damaged_02_E843A46D.wem</Path>
 				</File>
-				<File Id="717503416" Language="SFX">
-					<ShortName>platoon_dismissed_02.wav</ShortName>
-					<Path>SFX\platoon_dismissed_02_E843A46D.wem</Path>
-				</File>
 				<File Id="718315318" Language="English(US)">
 					<ShortName>armor_pierced_by_player_06.wav</ShortName>
 					<Path>Voices\English(US)\armor_pierced_by_player_06_E843A46D.wem</Path>
@@ -839,10 +793,6 @@
 					<ShortName>driver_killed_02.wav</ShortName>
 					<Path>Voices\English(US)\driver_killed_02_E843A46D.wem</Path>
 				</File>
-				<File Id="854311450" Language="SFX">
-					<ShortName>platoon_created_03.wav</ShortName>
-					<Path>SFX\platoon_created_03_E843A46D.wem</Path>
-				</File>
 				<File Id="855736339" Language="SFX">
 					<ShortName>platoon_dismissed_01.wav</ShortName>
 					<Path>SFX\platoon_dismissed_01_E843A46D.wem</Path>
@@ -882,6 +832,10 @@
 				<File Id="933905000" Language="English(US)">
 					<ShortName>armor_ricochet_by_player_03.wav</ShortName>
 					<Path>Voices\English(US)\armor_ricochet_by_player_03_E843A46D.wem</Path>
+				</File>
+				<File Id="935090494" Language="English(US)">
+					<ShortName>enemy_killed_by_player_15.wav</ShortName>
+					<Path>Voices\English(US)\enemy_killed_by_player_15_E843A46D.wem</Path>
 				</File>
 				<File Id="949660087" Language="English(US)">
 					<ShortName>enemy_killed_by_player_11.wav</ShortName>

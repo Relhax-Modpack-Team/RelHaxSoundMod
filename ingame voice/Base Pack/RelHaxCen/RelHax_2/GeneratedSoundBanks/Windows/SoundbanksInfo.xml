@@ -147,10 +147,6 @@
 					<ShortName>start_battle_46.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_46_E843A46D.wem</Path>
 				</File>
-				<File Id="319960662" Language="English(UK)">
-					<ShortName>start_battle_55.wav</ShortName>
-					<Path>Voices\English(UK)\start_battle_55_E843A46D.wem</Path>
-				</File>
 				<File Id="332320911" Language="English(UK)">
 					<ShortName>start_battle_27.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_27_E843A46D.wem</Path>
@@ -271,17 +267,9 @@
 					<ShortName>start_battle_49.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_49_E843A46D.wem</Path>
 				</File>
-				<File Id="609348742" Language="English(UK)">
-					<ShortName>start_battle_54.wav</ShortName>
-					<Path>Voices\English(UK)\start_battle_54_E843A46D.wem</Path>
-				</File>
 				<File Id="612422673" Language="English(UK)">
 					<ShortName>engine_functional_04.wav</ShortName>
 					<Path>Voices\English(UK)\engine_functional_04_E843A46D.wem</Path>
-				</File>
-				<File Id="636166867" Language="English(UK)">
-					<ShortName>start_battle_56.wav</ShortName>
-					<Path>Voices\English(UK)\start_battle_56_E843A46D.wem</Path>
 				</File>
 				<File Id="641366230" Language="English(UK)">
 					<ShortName>start_battle_41.wav</ShortName>
@@ -525,10 +513,6 @@
 					<ShortName>fire_stopped_01.wav</ShortName>
 					<Path>Voices\English(US)\fire_stopped_01_E843A46D.wem</Path>
 				</File>
-				<File Id="350021997" Language="English(US)">
-					<ShortName>start_battle_55.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_55_E843A46D.wem</Path>
-				</File>
 				<File Id="353076716" Language="English(US)">
 					<ShortName>start_battle_46.wav</ShortName>
 					<Path>Voices\English(US)\start_battle_46_E843A46D.wem</Path>
@@ -572,10 +556,6 @@
 				<File Id="467764517" Language="English(US)">
 					<ShortName>fire_started_03.wav</ShortName>
 					<Path>Voices\English(US)\fire_started_03_E843A46D.wem</Path>
-				</File>
-				<File Id="474290093" Language="English(US)">
-					<ShortName>start_battle_56.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_56_E843A46D.wem</Path>
 				</File>
 				<File Id="474754890" Language="English(US)">
 					<ShortName>gun_destroyed_03.wav</ShortName>
@@ -688,10 +668,6 @@
 				<File Id="739579212" Language="English(US)">
 					<ShortName>start_battle_20.wav</ShortName>
 					<Path>Voices\English(US)\start_battle_20_E843A46D.wem</Path>
-				</File>
-				<File Id="739969899" Language="English(US)">
-					<ShortName>start_battle_54.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_54_E843A46D.wem</Path>
 				</File>
 				<File Id="757698949" Language="English(US)">
 					<ShortName>start_battle_30.wav</ShortName>

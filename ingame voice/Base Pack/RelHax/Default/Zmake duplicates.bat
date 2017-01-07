@@ -35,8 +35,6 @@ copy enemy_killed_by_player_03.wav enemy_killed_by_player_13.wav
 copy enemy_killed_by_player_04.wav enemy_killed_by_player_14.wav
 copy enemy_killed_by_player_05.wav enemy_killed_by_player_15.wav
 copy enemy_killed_by_player_06.wav enemy_killed_by_player_16.wav
-copy enemy_killed_by_player_07.wav enemy_killed_by_player_17.wav
-copy enemy_killed_by_player_08.wav enemy_killed_by_player_18.wav
 
 copy start_battle_01.wav start_battle_21.wav
 copy start_battle_02.wav start_battle_22.wav
@@ -74,8 +72,6 @@ copy start_battle_33.wav start_battle_53.wav
 copy start_battle_34.wav start_battle_54.wav
 copy start_battle_35.wav start_battle_55.wav
 copy start_battle_36.wav start_battle_56.wav
-copy start_battle_37.wav start_battle_57.wav
-copy start_battle_38.wav start_battle_58.wav
 
 copy target_lost_01.wav target_lost_05.wav
 copy target_lost_02.wav target_lost_06.wav

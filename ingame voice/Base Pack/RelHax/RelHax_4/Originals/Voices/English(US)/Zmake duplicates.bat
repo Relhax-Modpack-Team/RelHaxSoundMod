@@ -39,10 +39,9 @@ copy engine_destroyed_01.wav engine_destroyed_03.wav
 copy engine_functional_01.wav engine_functional_03.wav
 copy engine_functional_02.wav engine_functional_04.wav
 
-copy fire_started_01.wav fire_started_04.wav
-copy fire_started_02.wav fire_started_05.wav
-copy fire_started_03.wav fire_started_06.wav
-copy fire_started_04.wav fire_started_07.wav
+copy fire_started_01.wav fire_started_05.wav
+copy fire_started_02.wav fire_started_06.wav
+copy fire_started_03.wav fire_started_07.wav
 copy fire_started_04.wav fire_started_08.wav
 
 copy fire_stopped_01.wav fire_stopped_03.wav
@@ -94,9 +93,6 @@ copy surveying_devices_functional_03.wav surveying_devices_functional_04.wav
 copy surveying_devices_functional_04.wav surveying_devices_functional_05.wav
 copy surveying_devices_functional_05.wav surveying_devices_functional_06.wav
 copy surveying_devices_functional_06.wav surveying_devices_functional_07.wav
-
-copy target_captured_01.wav target_captured_06.wav
-copy target_captured_02.wav target_captured_07.wav
 
 copy track_damaged_03.wav track_damaged_04.wav
 

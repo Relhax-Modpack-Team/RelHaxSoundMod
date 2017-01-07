@@ -10,7 +10,6 @@ del armor_ricochet_by_player_08.wav
 del armor_ricochet_by_player_09.wav
 del armor_ricochet_by_player_10.wav
 del armor_ricochet_by_player_11.wav
-del armor_ricochet_by_player_12.wav
 
 del crew_deactivated_03.wav
 del crew_deactivated_04.wav
@@ -36,7 +35,6 @@ del engine_destroyed_03.wav
 del engine_functional_03.wav
 del engine_functional_04.wav
 
-del fire_started_03.wav
 del fire_started_04.wav
 del fire_started_05.wav
 del fire_started_06.wav
@@ -76,9 +74,6 @@ del surveying_devices_damaged_02.wav
 del surveying_devices_damaged_03.wav
 del surveying_devices_damaged_04.wav
 del surveying_devices_damaged_05.wav
-del surveying_devices_damaged_06.wav
-del surveying_devices_damaged_07.wav
-del surveying_devices_damaged_08.wav
 
 del surveying_devices_destroyed_02.wav
 del surveying_devices_destroyed_03.wav
@@ -93,9 +88,6 @@ del surveying_devices_functional_04.wav
 del surveying_devices_functional_05.wav
 del surveying_devices_functional_06.wav
 del surveying_devices_functional_07.wav
-
-del target_captured_06.wav
-del target_captured_07.wav
 
 del track_damaged_04.wav
 

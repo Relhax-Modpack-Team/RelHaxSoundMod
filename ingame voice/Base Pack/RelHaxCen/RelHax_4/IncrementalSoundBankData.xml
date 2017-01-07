@@ -7,11 +7,13 @@
 		<Language ID="11">
 			<Bank Name="RelHax_1" Hash="830125102" StreamHash="157587662" Timestamp="131102532971014323"/>
 			<Bank Name="RelHax_3" Hash="3814761882" StreamHash="157587662" Timestamp="131102539793669183"/>
+			<Bank Name="RelHax_4" Hash="3702397572" StreamHash="157587662" Timestamp="131282927491793669"/>
 			<Bank Name="RelHax_a_e" Hash="301400561" StreamHash="157587662" Timestamp="131069494335634448"/>
 		</Language>
 		<Language ID="12">
 			<Bank Name="RelHax_1" Hash="3341592723" StreamHash="157587662" Timestamp="131102532982573867"/>
 			<Bank Name="RelHax_3" Hash="2821732811" StreamHash="157587662" Timestamp="131102539793834197"/>
+			<Bank Name="RelHax_4" Hash="1645527597" StreamHash="157587662" Timestamp="131282927492023667"/>
 			<Bank Name="RelHax_a_e" Hash="3655573542" StreamHash="157587662" Timestamp="131069494336209851"/>
 		</Language>
 	</Platform>

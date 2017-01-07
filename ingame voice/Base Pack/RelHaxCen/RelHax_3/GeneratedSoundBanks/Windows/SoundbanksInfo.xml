@@ -48,10 +48,6 @@
 					<ShortName>target_lost_02.wav</ShortName>
 					<Path>Voices\English(UK)\target_lost_02_E843A46D.wem</Path>
 				</File>
-				<File Id="38345785" Language="English(UK)">
-					<ShortName>surveying_devices_damaged_07.wav</ShortName>
-					<Path>Voices\English(UK)\surveying_devices_damaged_07_E843A46D.wem</Path>
-				</File>
 				<File Id="41472027" Language="English(UK)">
 					<ShortName>surveying_devices_destroyed_07.wav</ShortName>
 					<Path>Voices\English(UK)\surveying_devices_destroyed_07_E843A46D.wem</Path>
@@ -151,10 +147,6 @@
 				<File Id="350287854" Language="English(UK)">
 					<ShortName>surveying_devices_functional_01.wav</ShortName>
 					<Path>Voices\English(UK)\surveying_devices_functional_01_E843A46D.wem</Path>
-				</File>
-				<File Id="353774309" Language="English(UK)">
-					<ShortName>surveying_devices_damaged_06.wav</ShortName>
-					<Path>Voices\English(UK)\surveying_devices_damaged_06_E843A46D.wem</Path>
 				</File>
 				<File Id="357123562" Language="English(UK)">
 					<ShortName>surveying_devices_functional_05.wav</ShortName>
@@ -363,10 +355,6 @@
 				<Event Id="257621937" Name="vo_turret_rotator_functional"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
-				<File Id="35899331" Language="English(US)">
-					<ShortName>surveying_devices_damaged_06.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_damaged_06_E843A46D.wem</Path>
-				</File>
 				<File Id="80842302" Language="English(US)">
 					<ShortName>surveying_devices_destroyed_04.wav</ShortName>
 					<Path>Voices\English(US)\surveying_devices_destroyed_04_E843A46D.wem</Path>
@@ -566,10 +554,6 @@
 				<File Id="775774545" Language="English(US)">
 					<ShortName>surveying_devices_functional_05.wav</ShortName>
 					<Path>Voices\English(US)\surveying_devices_functional_05_E843A46D.wem</Path>
-				</File>
-				<File Id="777029712" Language="English(US)">
-					<ShortName>surveying_devices_damaged_07.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_damaged_07_E843A46D.wem</Path>
 				</File>
 				<File Id="785230052" Language="English(US)">
 					<ShortName>target_captured_06.wav</ShortName>

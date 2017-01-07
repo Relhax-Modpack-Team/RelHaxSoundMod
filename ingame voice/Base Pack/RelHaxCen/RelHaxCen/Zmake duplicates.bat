@@ -1,16 +1,15 @@
 
-copy armor_pierced_by_player_01.wav armor_ricochet_by_player_01.wav
-copy armor_pierced_by_player_02.wav armor_ricochet_by_player_02.wav
-copy armor_pierced_by_player_03.wav armor_ricochet_by_player_03.wav
-copy armor_pierced_by_player_04.wav armor_ricochet_by_player_04.wav
-copy armor_pierced_by_player_05.wav armor_ricochet_by_player_05.wav
-copy armor_pierced_by_player_06.wav armor_ricochet_by_player_06.wav
-copy armor_pierced_by_player_07.wav armor_ricochet_by_player_07.wav
-copy armor_pierced_by_player_08.wav armor_ricochet_by_player_08.wav
-copy armor_pierced_by_player_09.wav armor_ricochet_by_player_09.wav
-copy armor_pierced_by_player_10.wav armor_ricochet_by_player_10.wav
-copy armor_pierced_by_player_11.wav armor_ricochet_by_player_11.wav
-copy armor_pierced_by_player_12.wav armor_ricochet_by_player_12.wav
+copy armor_not_pierced_by_player_01.wav armor_ricochet_by_player_01.wav
+copy armor_not_pierced_by_player_02.wav armor_ricochet_by_player_02.wav
+copy armor_not_pierced_by_player_03.wav armor_ricochet_by_player_03.wav
+copy armor_not_pierced_by_player_04.wav armor_ricochet_by_player_04.wav
+copy armor_not_pierced_by_player_05.wav armor_ricochet_by_player_05.wav
+copy armor_not_pierced_by_player_06.wav armor_ricochet_by_player_06.wav
+copy armor_not_pierced_by_player_07.wav armor_ricochet_by_player_07.wav
+copy armor_not_pierced_by_player_08.wav armor_ricochet_by_player_08.wav
+copy armor_not_pierced_by_player_09.wav armor_ricochet_by_player_09.wav
+copy armor_not_pierced_by_player_10.wav armor_ricochet_by_player_10.wav
+copy armor_not_pierced_by_player_11.wav armor_ricochet_by_player_11.wav
 
 copy crew_deactivated_01.wav crew_deactivated_03.wav
 copy crew_deactivated_02.wav crew_deactivated_04.wav
@@ -36,12 +35,11 @@ copy engine_destroyed_01.wav engine_destroyed_03.wav
 copy engine_functional_01.wav engine_functional_03.wav
 copy engine_functional_02.wav engine_functional_04.wav
 
-copy fire_started_01.wav fire_started_03.wav
-copy fire_started_02.wav fire_started_04.wav
-copy fire_started_03.wav fire_started_05.wav
-copy fire_started_04.wav fire_started_06.wav
-copy fire_started_05.wav fire_started_07.wav
-copy fire_started_06.wav fire_started_08.wav
+copy fire_started_01.wav fire_started_04.wav
+copy fire_started_02.wav fire_started_05.wav
+copy fire_started_03.wav fire_started_06.wav
+copy fire_started_04.wav fire_started_07.wav
+copy fire_started_05.wav fire_started_08.wav
 
 copy fire_stopped_01.wav fire_stopped_03.wav
 copy fire_stopped_02.wav fire_stopped_04.wav
@@ -76,8 +74,6 @@ copy surveying_devices_damaged_01.wav surveying_devices_damaged_02.wav
 copy surveying_devices_damaged_02.wav surveying_devices_damaged_03.wav
 copy surveying_devices_damaged_03.wav surveying_devices_damaged_04.wav
 copy surveying_devices_damaged_04.wav surveying_devices_damaged_05.wav
-copy surveying_devices_damaged_05.wav surveying_devices_damaged_06.wav
-copy surveying_devices_damaged_06.wav surveying_devices_damaged_07.wav
 
 copy surveying_devices_destroyed_01.wav surveying_devices_destroyed_02.wav
 copy surveying_devices_destroyed_02.wav surveying_devices_destroyed_03.wav
@@ -92,9 +88,6 @@ copy surveying_devices_functional_03.wav surveying_devices_functional_04.wav
 copy surveying_devices_functional_04.wav surveying_devices_functional_05.wav
 copy surveying_devices_functional_05.wav surveying_devices_functional_06.wav
 copy surveying_devices_functional_06.wav surveying_devices_functional_07.wav
-
-copy target_captured_01.wav target_captured_06.wav
-copy target_captured_02.wav target_captured_07.wav
 
 copy track_damaged_01.wav track_damaged_04.wav
 

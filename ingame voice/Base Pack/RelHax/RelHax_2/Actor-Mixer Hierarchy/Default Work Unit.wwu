@@ -2550,54 +2550,6 @@
 										<ActiveSource Name="enemy_killed_by_player_16" ID="{C6F7F570-357B-4696-9608-C5B29F2694DB}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
-								<Sound Name="enemy_killed_by_player_17" ID="{D55FD95A-AADC-4DB0-9BD8-369748E9FC7A}" ShortID="242949482" Type="Voice">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E7E7ABE4-4240-4713-AA82-7F98E1AFBCEE}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_17" ID="{75C5D689-7143-40D4-BFE7-925B5ADDCB5B}" ShortID="414348367">
-											<Language>English(US)</Language>
-											<AudioFile>enemy_killed_by_player_17.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_17" ID="{29463F9C-84A0-4390-A786-06002FA93EAF}" ShortID="317329289">
-											<Language>English(UK)</Language>
-											<AudioFile>enemy_killed_by_player_17.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_killed_by_player_17" ID="{75C5D689-7143-40D4-BFE7-925B5ADDCB5B}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_17" ID="{29463F9C-84A0-4390-A786-06002FA93EAF}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_killed_by_player_18" ID="{3E4D0AB1-1CA4-40CE-B5DD-0F8AFF90A30D}" ShortID="1018816536" Type="Voice">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E7E7ABE4-4240-4713-AA82-7F98E1AFBCEE}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_18" ID="{AEF94281-14F4-43B7-B126-BCDCA6F74057}" ShortID="155613374">
-											<Language>English(US)</Language>
-											<AudioFile>enemy_killed_by_player_18.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_18" ID="{D62AD3A5-1BB4-469B-80E8-98B2C4B88E56}" ShortID="767199675">
-											<Language>English(UK)</Language>
-											<AudioFile>enemy_killed_by_player_18.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_killed_by_player_18" ID="{AEF94281-14F4-43B7-B126-BCDCA6F74057}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_18" ID="{D62AD3A5-1BB4-469B-80E8-98B2C4B88E56}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="vo_enemy_hp_damaged_by_projectile_by_player" ID="{B006C078-D06A-4B6B-9F18-37926083C8FB}" ShortID="1034252352">
@@ -5399,54 +5351,6 @@
 										<ActiveSource Name="start_battle_56" ID="{C2FE704A-5681-487F-B89A-6AF2129FE76A}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
-								<Sound Name="start_battle_57" ID="{DDE14792-1754-41C0-84C2-8A3ADB83A22B}" ShortID="159526263" Type="Voice">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E7E7ABE4-4240-4713-AA82-7F98E1AFBCEE}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_57" ID="{8285E554-C787-4927-9EBB-4B96C6B58B82}" ShortID="703629826">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_57.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_57" ID="{B6221BAE-7709-47B8-9225-50C6CA3E90E0}" ShortID="792533154">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_57.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_57" ID="{8285E554-C787-4927-9EBB-4B96C6B58B82}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_57" ID="{B6221BAE-7709-47B8-9225-50C6CA3E90E0}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_58" ID="{87C9906F-D759-49AA-9DE4-2120AFD79691}" ShortID="785466460" Type="Voice">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E7E7ABE4-4240-4713-AA82-7F98E1AFBCEE}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_58" ID="{B811EACB-0BAB-448E-89FA-25DE3CA920CA}" ShortID="360232698">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_58.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_58" ID="{98685377-0F7E-4CF7-A3EA-EA4A980F4F8D}" ShortID="1001044966">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_58.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_58" ID="{98685377-0F7E-4CF7-A3EA-EA4A980F4F8D}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_58" ID="{B811EACB-0BAB-448E-89FA-25DE3CA920CA}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="vo_gun_functional" ID="{A4A27416-B00E-451A-8BD2-BC2C1A39507D}" ShortID="399855918">
@@ -5643,6 +5547,30 @@
 									<ActiveSourceList>
 										<ActiveSource Name="radioman_killed_03" ID="{A3D7630C-826D-4B85-8971-8F2C9D7F1E37}" Platform="Linked"/>
 										<ActiveSource Name="radioman_killed_03" ID="{7BA9859D-C040-47C6-8236-D8C1D884297D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="radioman_killed_04" ID="{2A457E42-C24A-4834-9CB0-F977579F84F1}" ShortID="1024371502" Type="Voice">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E7E7ABE4-4240-4713-AA82-7F98E1AFBCEE}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="radioman_killed_04" ID="{E8F9AB3A-613A-414A-A8ED-BE22614353EF}" ShortID="64109528">
+											<Language>English(US)</Language>
+											<AudioFile>radioman_killed_04.wav</AudioFile>
+										</AudioFileSource>
+										<AudioFileSource Name="radioman_killed_04" ID="{59E9A0BC-BC6E-45E6-AA2A-EEC55C953555}" ShortID="568548551">
+											<Language>English(UK)</Language>
+											<AudioFile>radioman_killed_04.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="radioman_killed_04" ID="{E8F9AB3A-613A-414A-A8ED-BE22614353EF}" Platform="Linked"/>
+										<ActiveSource Name="radioman_killed_04" ID="{59E9A0BC-BC6E-45E6-AA2A-EEC55C953555}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>

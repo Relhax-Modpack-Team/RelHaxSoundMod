@@ -34,8 +34,6 @@ del enemy_killed_by_player_13.wav
 del enemy_killed_by_player_14.wav
 del enemy_killed_by_player_15.wav
 del enemy_killed_by_player_16.wav
-del enemy_killed_by_player_17.wav
-del enemy_killed_by_player_18.wav
 
 del start_battle_21.wav
 del start_battle_22.wav
@@ -73,8 +71,6 @@ del start_battle_53.wav
 del start_battle_54.wav
 del start_battle_55.wav
 del start_battle_56.wav
-del start_battle_57.wav
-del start_battle_58.wav
 
 del target_lost_05.wav
 del target_lost_06.wav

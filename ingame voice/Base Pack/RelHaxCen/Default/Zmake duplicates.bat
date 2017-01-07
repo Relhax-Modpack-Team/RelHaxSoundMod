@@ -24,6 +24,7 @@ copy enemy_killed_by_player_01.wav enemy_killed_by_player_11.wav
 copy enemy_killed_by_player_02.wav enemy_killed_by_player_12.wav
 copy enemy_killed_by_player_03.wav enemy_killed_by_player_13.wav
 copy enemy_killed_by_player_04.wav enemy_killed_by_player_14.wav
+copy enemy_killed_by_player_05.wav enemy_killed_by_player_15.wav
 
 copy start_battle_01.wav start_battle_21.wav
 copy start_battle_02.wav start_battle_22.wav
@@ -58,9 +59,6 @@ copy start_battle_30.wav start_battle_50.wav
 copy start_battle_31.wav start_battle_51.wav
 copy start_battle_32.wav start_battle_52.wav
 copy start_battle_33.wav start_battle_53.wav
-copy start_battle_34.wav start_battle_54.wav
-copy start_battle_35.wav start_battle_55.wav
-copy start_battle_36.wav start_battle_56.wav
 
 copy target_lost_01.wav target_lost_05.wav
 
@@ -87,5 +85,3 @@ copy vehicle_destroyed_17.wav vehicle_destroyed_22.wav
 copy vehicle_destroyed_18.wav vehicle_destroyed_23.wav
 copy vehicle_destroyed_19.wav vehicle_destroyed_24.wav
 copy vehicle_destroyed_20.wav vehicle_destroyed_25.wav
-copy vehicle_destroyed_21.wav vehicle_destroyed_26.wav
-copy vehicle_destroyed_22.wav vehicle_destroyed_27.wav

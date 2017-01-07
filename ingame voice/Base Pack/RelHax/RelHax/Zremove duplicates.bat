@@ -39,7 +39,6 @@ del engine_destroyed_03.wav
 del engine_functional_03.wav
 del engine_functional_04.wav
 
-del fire_started_04.wav
 del fire_started_05.wav
 del fire_started_06.wav
 del fire_started_07.wav
@@ -95,9 +94,6 @@ del surveying_devices_functional_04.wav
 del surveying_devices_functional_05.wav
 del surveying_devices_functional_06.wav
 del surveying_devices_functional_07.wav
-
-del target_captured_06.wav
-del target_captured_07.wav
 
 del track_damaged_04.wav
 
