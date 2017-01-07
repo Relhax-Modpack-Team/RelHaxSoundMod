@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\gui\RelHaxGui\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\gui\RelHaxGui\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\gui\RelHaxGui\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\gui\RelHaxGui\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2802364914" Language="SFX">
+			<ShortName>RelHaxGui</ShortName>
+			<Path>RelHaxGui.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4205012737" Name="base_capture_1"/>
+				<Event Id="1873550594" Name="enemy_sighted_for_team"/>
+				<Event Id="4013127103" Name="time_buzzer_01"/>
+				<Event Id="4013127100" Name="time_buzzer_02"/>
+				<Event Id="1294084670" Name="time_countdown"/>
+				<Event Id="2405842235" Name="time_over"/>
+				<Event Id="3920142940" Name="timer"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="1589932" Language="SFX">
+					<ShortName>time_over.wav</ShortName>
+					<Path>SFX\time_over_E843A46D.wem</Path>
+				</File>
+				<File Id="73632524" Language="SFX">
+					<ShortName>2 mins with buzzer_2.wav</ShortName>
+					<Path>SFX\2 mins with buzzer_2_E843A46D.wem</Path>
+				</File>
+				<File Id="88091440" Language="SFX">
+					<ShortName>battle_countdown_08.wav</ShortName>
+					<Path>SFX\battle_countdown_08_E843A46D.wem</Path>
+				</File>
+				<File Id="103695232" Language="SFX">
+					<ShortName>enemy_sighted_5.wav</ShortName>
+					<Path>SFX\enemy_sighted_5_E843A46D.wem</Path>
+				</File>
+				<File Id="326548457" Language="SFX">
+					<ShortName>battle_countdown_06.wav</ShortName>
+					<Path>SFX\battle_countdown_06_E843A46D.wem</Path>
+				</File>
+				<File Id="326668350" Language="SFX">
+					<ShortName>enemy_sighted_2.wav</ShortName>
+					<Path>SFX\enemy_sighted_2_E843A46D.wem</Path>
+				</File>
+				<File Id="331906614" Language="SFX">
+					<ShortName>battle_countdown_04.wav</ShortName>
+					<Path>SFX\battle_countdown_04_E843A46D.wem</Path>
+				</File>
+				<File Id="357271024" Language="SFX">
+					<ShortName>enemy_sighted_4.wav</ShortName>
+					<Path>SFX\enemy_sighted_4_E843A46D.wem</Path>
+				</File>
+				<File Id="358428857" Language="SFX">
+					<ShortName>enemy_sighted_7.wav</ShortName>
+					<Path>SFX\enemy_sighted_7_E843A46D.wem</Path>
+				</File>
+				<File Id="365977561" Language="SFX">
+					<ShortName>enemy_capping_3.wav</ShortName>
+					<Path>SFX\enemy_capping_3_E843A46D.wem</Path>
+				</File>
+				<File Id="559128659" Language="SFX">
+					<ShortName>time_buzzer_02.wav</ShortName>
+					<Path>SFX\time_buzzer_02_E843A46D.wem</Path>
+				</File>
+				<File Id="629107772" Language="SFX">
+					<ShortName>battle_countdown_10.wav</ShortName>
+					<Path>SFX\battle_countdown_10_E843A46D.wem</Path>
+				</File>
+				<File Id="683298848" Language="SFX">
+					<ShortName>battle_countdown_09.wav</ShortName>
+					<Path>SFX\battle_countdown_09_E843A46D.wem</Path>
+				</File>
+				<File Id="686260537" Language="SFX">
+					<ShortName>battle_countdown_11.wav</ShortName>
+					<Path>SFX\battle_countdown_11_E843A46D.wem</Path>
+				</File>
+				<File Id="692860628" Language="SFX">
+					<ShortName>battle_countdown_05.wav</ShortName>
+					<Path>SFX\battle_countdown_05_E843A46D.wem</Path>
+				</File>
+				<File Id="826984758" Language="SFX">
+					<ShortName>battle_countdown_02.wav</ShortName>
+					<Path>SFX\battle_countdown_02_E843A46D.wem</Path>
+				</File>
+				<File Id="845453958" Language="SFX">
+					<ShortName>enemy_sighted_6.wav</ShortName>
+					<Path>SFX\enemy_sighted_6_E843A46D.wem</Path>
+				</File>
+				<File Id="915652646" Language="SFX">
+					<ShortName>enemy_sighted_1.wav</ShortName>
+					<Path>SFX\enemy_sighted_1_E843A46D.wem</Path>
+				</File>
+				<File Id="988486645" Language="SFX">
+					<ShortName>enemy_sighted_3.wav</ShortName>
+					<Path>SFX\enemy_sighted_3_E843A46D.wem</Path>
+				</File>
+				<File Id="1005595792" Language="SFX">
+					<ShortName>battle_countdown_01.wav</ShortName>
+					<Path>SFX\battle_countdown_01_E843A46D.wem</Path>
+				</File>
+				<File Id="1031606235" Language="SFX">
+					<ShortName>battle_countdown_03.wav</ShortName>
+					<Path>SFX\battle_countdown_03_E843A46D.wem</Path>
+				</File>
+				<File Id="1038319032" Language="SFX">
+					<ShortName>battle_countdown_07.wav</ShortName>
+					<Path>SFX\battle_countdown_07_E843A46D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

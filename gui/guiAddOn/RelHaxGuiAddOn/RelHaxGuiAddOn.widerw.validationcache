@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="70">
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1146490136" DateHigh="30517028"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Attenuations\Default Work Unit.wwu" DateLow="2585916275" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Control Surface Sessions\Default Work Unit.wwu" DateLow="2586026361" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Conversion Settings\Default Work Unit.wwu" DateLow="2585981329" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Conversion Settings\Factory Conversion Settings.wwu" DateLow="2780309760" DateHigh="30449190"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Dynamic Dialogue\Default Work Unit.wwu" DateLow="2586081400" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Effects\Default Work Unit.wwu" DateLow="2585736199" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Effects\Factory Effects.wwu" DateLow="2780309760" DateHigh="30449190"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Events\Default Work Unit.wwu" DateLow="1146430089" DateHigh="30517028"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Game Parameters\Default Work Unit.wwu" DateLow="3936704858" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="2585495986" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2585335873" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Mixing Sessions\Default Work Unit.wwu" DateLow="2585866244" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Modulators\Default Work Unit.wwu" DateLow="2586126432" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Presets\Default Work Unit.wwu" DateLow="2585601065" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Queries\Default Work Unit.wwu" DateLow="2585450954" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Queries\Factory Queries.wwu" DateLow="2780309760" DateHigh="30449190"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\RelHaxGui.widerw.wsettings" DateLow="1444097193" DateHigh="30517032"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\RelHaxGui.wproj" DateLow="3936594904" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\SoundBanks\Default Work Unit.wwu" DateLow="2356335377" DateHigh="30517028"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Soundcaster Sessions\Default Work Unit.wwu" DateLow="2585380909" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\States\Default Work Unit.wwu" DateLow="2585701127" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Switches\Default Work Unit.wwu" DateLow="2585811201" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\gui\wwise\RelHaxGui\Triggers\Default Work Unit.wwu" DateLow="2585536006" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3871147624" DateHigh="30516964"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Attenuations\Default Work Unit.wwu" DateLow="2585916275" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Control Surface Sessions\Default Work Unit.wwu" DateLow="2586026361" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Conversion Settings\Default Work Unit.wwu" DateLow="2585981329" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Conversion Settings\Factory Conversion Settings.wwu" DateLow="2780309760" DateHigh="30449190"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Dynamic Dialogue\Default Work Unit.wwu" DateLow="2586081400" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Effects\Default Work Unit.wwu" DateLow="2585736199" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Effects\Factory Effects.wwu" DateLow="2780309760" DateHigh="30449190"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Events\Default Work Unit.wwu" DateLow="3871052556" DateHigh="30516964"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Game Parameters\Default Work Unit.wwu" DateLow="3936704858" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="2585495986" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2585335873" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Mixing Sessions\Default Work Unit.wwu" DateLow="2585866244" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Modulators\Default Work Unit.wwu" DateLow="2586126432" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Presets\Default Work Unit.wwu" DateLow="2585601065" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Queries\Default Work Unit.wwu" DateLow="2585450954" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Queries\Factory Queries.wwu" DateLow="2780309760" DateHigh="30449190"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\RelHaxGui.widerw.wsettings" DateLow="3392182274" DateHigh="30517027"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\RelHaxGui.wproj" DateLow="3936594904" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\SoundBanks\Default Work Unit.wwu" DateLow="3871202663" DateHigh="30516964"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Soundcaster Sessions\Default Work Unit.wwu" DateLow="2585380909" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\States\Default Work Unit.wwu" DateLow="2585701127" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Switches\Default Work Unit.wwu" DateLow="2585811201" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Projects\RelHaxSoundMod\NEW SOUND MOD\gui\wwise\RelHaxGui\Triggers\Default Work Unit.wwu" DateLow="2585536006" DateHigh="30516963"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2314782492" DateHigh="30566554"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Actor-Mixer Hierarchy\transver.wwu" DateLow="1915373994" DateHigh="30566551"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Attenuations\Default Work Unit.wwu" DateLow="4253999443" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Control Surface Sessions\Default Work Unit.wwu" DateLow="4253096938" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Conversion Settings\Default Work Unit.wwu" DateLow="4252169470" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Conversion Settings\Factory Conversion Settings.wwu" DateLow="4246812694" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Dynamic Dialogue\Default Work Unit.wwu" DateLow="4246055806" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Effects\Default Work Unit.wwu" DateLow="4245318900" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Effects\Factory Effects.wwu" DateLow="4244466398" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Events\Default Work Unit.wwu" DateLow="3684922611" DateHigh="30566553"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Game Parameters\Default Work Unit.wwu" DateLow="555463902" DateHigh="30554079"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="4235286953" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4234459631" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Mixing Sessions\Default Work Unit.wwu" DateLow="4233642448" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Modulators\Default Work Unit.wwu" DateLow="4232800216" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Presets\Default Work Unit.wwu" DateLow="4232053228" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Queries\Default Work Unit.wwu" DateLow="4231281181" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Queries\Factory Queries.wwu" DateLow="4230027842" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\RelHaxGui.widerw.wsettings" DateLow="3733891550" DateHigh="30563644"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\RelHaxGui.wproj" DateLow="4227440966" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\RelHaxGuiAddOn.widerw.wsettings" DateLow="289002811" DateHigh="30566556"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\RelHaxGuiAddOn.wproj" DateLow="50585049" DateHigh="30566552"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\SoundBanks\Default Work Unit.wwu" DateLow="2605082688" DateHigh="30566554"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Soundcaster Sessions\Default Work Unit.wwu" DateLow="4225636166" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\States\Default Work Unit.wwu" DateLow="4224859108" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Switches\Default Work Unit.wwu" DateLow="4223976939" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\guiAddOn\RelHaxGuiAddOn\Triggers\Default Work Unit.wwu" DateLow="4223089492" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3095475918" DateHigh="30554104"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Actor-Mixer Hierarchy\Default Work Unit2.wwu" DateLow="2003208515" DateHigh="30509084"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Attenuations\Default Work Unit.wwu" DateLow="4253999443" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Control Surface Sessions\Default Work Unit.wwu" DateLow="4253096938" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Conversion Settings\Default Work Unit.wwu" DateLow="4252169470" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Conversion Settings\Factory Conversion Settings.wwu" DateLow="4246812694" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Dynamic Dialogue\Default Work Unit.wwu" DateLow="4246055806" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Effects\Default Work Unit.wwu" DateLow="4245318900" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Effects\Factory Effects.wwu" DateLow="4244466398" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Events\Default Work Unit.wwu" DateLow="3095546103" DateHigh="30554104"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Game Parameters\Default Work Unit.wwu" DateLow="555463902" DateHigh="30554079"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="4235286953" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4234459631" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Mixing Sessions\Default Work Unit.wwu" DateLow="4233642448" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Modulators\Default Work Unit.wwu" DateLow="4232800216" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Presets\Default Work Unit.wwu" DateLow="4232053228" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Queries\Default Work Unit.wwu" DateLow="4231281181" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Queries\Factory Queries.wwu" DateLow="4230027842" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\RelHaxGui.widerw.wsettings" DateLow="112107258" DateHigh="30555278"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\RelHaxGui.wproj" DateLow="4227440966" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\SoundBanks\Default Work Unit.wwu" DateLow="3095626444" DateHigh="30554104"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Soundcaster Sessions\Default Work Unit.wwu" DateLow="4225636166" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\States\Default Work Unit.wwu" DateLow="4224859108" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Switches\Default Work Unit.wwu" DateLow="4223976939" DateHigh="30554066"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\gui\wwise\RelHaxGui\Triggers\Default Work Unit.wwu" DateLow="4223089492" DateHigh="30554066"/>
+</ValidationCache>

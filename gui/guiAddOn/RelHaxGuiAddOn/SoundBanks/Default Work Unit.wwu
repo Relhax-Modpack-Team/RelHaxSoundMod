@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AABB8048-B349-4EDB-9B57-EA1D79E878FA}" SchemaVersion="70">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{AABB8048-B349-4EDB-9B57-EA1D79E878FA}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="RelHaxGuiAddOn" ID="{5E64ADEB-D8D3-435A-8136-565F9AA0C614}">
+					<ObjectInclusionList>
+						<ObjectRef Name="vo_chat_shotcuts_attack_the_enemy" ID="{8FC4E141-9B15-404B-AA5A-10583F76C748}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_help_me" ID="{CD74844B-F1C8-4E10-9A55-D7E35CA8F615}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_positive" ID="{0E14704F-8084-4DA2-ABBD-67FEDCBA6D98}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_follow_me" ID="{5A7B92A0-3AE1-49A3-B207-440A0CC860A6}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_back_to_base" ID="{07ABE2A0-4EB8-4179-ABEB-78302DF77941}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_negative" ID="{3949D5A1-162E-44B4-A8EA-589E881BE474}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_attack" ID="{8E6000E0-7E31-40FB-ABA7-72D7EFA71AFA}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="ExternalMusicSources" ID="{E32BCBDF-F0EA-4557-9836-B6D43FB66E00}">
+					<ObjectInclusionList>
+						<ObjectRef Name="music_victory" ID="{C5D9A692-1632-4723-9B62-126E60C81022}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="music_defeat" ID="{4E9045BE-58E2-4AFE-9067-0016F4265D84}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="music_drawn_game" ID="{602E5BDA-7C5A-43A0-8239-528852EBF779}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
