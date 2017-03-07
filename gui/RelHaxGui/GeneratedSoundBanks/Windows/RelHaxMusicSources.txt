@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	127702702	music_victory_patch			\Default Work Unit\music_victory_patch	
+	1342363171	music_drawn_game_patch			\Default Work Unit\music_drawn_game_patch	
+	3780840935	music_defeat_patch			\Default Work Unit\music_defeat_patch	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	22254591	music_drawn_game	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\music_drawn_game_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\music\music_drawn_game_patch\music_drawn_game		107996
+	715062274	music_defeat	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\music_defeat_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\music\music_defeat_patch\music_defeat		110414
+	997745699	music_victory	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\music_victory_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\music\music_victory_patch\music_victory		121423
+

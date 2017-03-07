@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2490852744" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\RelHaxChatShotcuts</ObjectPath>
+			<ShortName>RelHaxChatShotcuts</ShortName>
+			<Path>RelHaxChatShotcuts.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4169869122" Name="vo_chat_shotcuts_attack" ObjectPath="\Events\Default Work Unit\vo_chat_shotcuts_attack"/>
+				<Event Id="2574232355" Name="vo_chat_shotcuts_attack_the_enemy" ObjectPath="\Events\Default Work Unit\vo_chat_shotcuts_attack_the_enemy"/>
+				<Event Id="1903908767" Name="vo_chat_shotcuts_back_to_base" ObjectPath="\Events\Default Work Unit\vo_chat_shotcuts_back_to_base"/>
+				<Event Id="3654393098" Name="vo_chat_shotcuts_follow_me" ObjectPath="\Events\Default Work Unit\vo_chat_shotcuts_follow_me"/>
+				<Event Id="3167328132" Name="vo_chat_shotcuts_help_me" ObjectPath="\Events\Default Work Unit\vo_chat_shotcuts_help_me"/>
+				<Event Id="1700054719" Name="vo_chat_shotcuts_negative" ObjectPath="\Events\Default Work Unit\vo_chat_shotcuts_negative"/>
+				<Event Id="2100629867" Name="vo_chat_shotcuts_positive" ObjectPath="\Events\Default Work Unit\vo_chat_shotcuts_positive"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="34657582" Language="SFX">
+					<ShortName>shotcuts_affirmative_03.wav</ShortName>
+					<Path>SFX\shotcuts_affirmative_03_E843A46D.wem</Path>
+				</File>
+				<File Id="41947164" Language="SFX">
+					<ShortName>shotcuts_help_me_01.wav</ShortName>
+					<Path>SFX\shotcuts_help_me_01_E843A46D.wem</Path>
+				</File>
+				<File Id="102644631" Language="SFX">
+					<ShortName>shotcuts_help_me_02.wav</ShortName>
+					<Path>SFX\shotcuts_help_me_02_E843A46D.wem</Path>
+				</File>
+				<File Id="246341729" Language="SFX">
+					<ShortName>shotcuts_defend_base_01.wav</ShortName>
+					<Path>SFX\shotcuts_defend_base_01_E843A46D.wem</Path>
+				</File>
+				<File Id="277649062" Language="SFX">
+					<ShortName>shotcuts_negative_02.wav</ShortName>
+					<Path>SFX\shotcuts_negative_02_E843A46D.wem</Path>
+				</File>
+				<File Id="407145418" Language="SFX">
+					<ShortName>shotcuts_affirmative_02.wav</ShortName>
+					<Path>SFX\shotcuts_affirmative_02_E843A46D.wem</Path>
+				</File>
+				<File Id="472169839" Language="SFX">
+					<ShortName>shotcuts_defend_base_02.wav</ShortName>
+					<Path>SFX\shotcuts_defend_base_02_E843A46D.wem</Path>
+				</File>
+				<File Id="472364741" Language="SFX">
+					<ShortName>shotcuts_follow_me_02.wav</ShortName>
+					<Path>SFX\shotcuts_follow_me_02_E843A46D.wem</Path>
+				</File>
+				<File Id="543861377" Language="SFX">
+					<ShortName>shotcuts_affirmative_01.wav</ShortName>
+					<Path>SFX\shotcuts_affirmative_01_E843A46D.wem</Path>
+				</File>
+				<File Id="640134238" Language="SFX">
+					<ShortName>shotcuts_attack_01.wav</ShortName>
+					<Path>SFX\shotcuts_attack_01_E843A46D.wem</Path>
+				</File>
+				<File Id="871028706" Language="SFX">
+					<ShortName>shotcuts_follow_me_01.wav</ShortName>
+					<Path>SFX\shotcuts_follow_me_01_E843A46D.wem</Path>
+				</File>
+				<File Id="995197647" Language="SFX">
+					<ShortName>shotcuts_negative_01.wav</ShortName>
+					<Path>SFX\shotcuts_negative_01_E843A46D.wem</Path>
+				</File>
+				<File Id="1000886287" Language="SFX">
+					<ShortName>shotcuts_help_me_03.wav</ShortName>
+					<Path>SFX\shotcuts_help_me_03_E843A46D.wem</Path>
+				</File>
+				<File Id="1013830800" Language="SFX">
+					<ShortName>shotcuts_attack_02.wav</ShortName>
+					<Path>SFX\shotcuts_attack_02_E843A46D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2696444352" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\RelHaxMusicSources</ObjectPath>
+			<ShortName>RelHaxMusicSources</ShortName>
+			<Path>RelHaxMusicSources.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3780840935" Name="music_defeat_patch" ObjectPath="\Events\Default Work Unit\music_defeat_patch"/>
+				<Event Id="1342363171" Name="music_drawn_game_patch" ObjectPath="\Events\Default Work Unit\music_drawn_game_patch"/>
+				<Event Id="127702702" Name="music_victory_patch" ObjectPath="\Events\Default Work Unit\music_victory_patch"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="22254591" Language="SFX">
+					<ShortName>music_drawn_game.wav</ShortName>
+					<Path>SFX\music_drawn_game_E843A46D.wem</Path>
+				</File>
+				<File Id="715062274" Language="SFX">
+					<ShortName>music_defeat.wav</ShortName>
+					<Path>SFX\music_defeat_E843A46D.wem</Path>
+				</File>
+				<File Id="997745699" Language="SFX">
+					<ShortName>music_victory.wav</ShortName>
+					<Path>SFX\music_victory_E843A46D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2802364914" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\RelHaxGui</ObjectPath>
+			<ShortName>RelHaxGui</ShortName>
+			<Path>RelHaxGui.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2820493654" Name="base_capture_1_patch" ObjectPath="\Events\Default Work Unit\base_capture_1_patch"/>
+				<Event Id="486690165" Name="enemy_sighted_for_team_patch" ObjectPath="\Events\Default Work Unit\enemy_sighted_for_team_patch"/>
+				<Event Id="3765820900" Name="time_buzzer_01_patch" ObjectPath="\Events\Default Work Unit\time_buzzer_01_patch"/>
+				<Event Id="2676124087" Name="time_buzzer_02_patch" ObjectPath="\Events\Default Work Unit\time_buzzer_02_patch"/>
+				<Event Id="2146300369" Name="time_countdown_patch" ObjectPath="\Events\Default Work Unit\time_countdown_patch"/>
+				<Event Id="881805056" Name="time_over_patch" ObjectPath="\Events\Default Work Unit\time_over_patch"/>
+				<Event Id="357510679" Name="timer_patch" ObjectPath="\Events\Default Work Unit\timer_patch"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="26569887" Language="SFX">
+					<ShortName>time_buzzer_01.wav</ShortName>
+					<Path>SFX\time_buzzer_01_E843A46D.wem</Path>
+				</File>
+				<File Id="49886438" Language="SFX">
+					<ShortName>timer_07.wav</ShortName>
+					<Path>SFX\timer_07_E843A46D.wem</Path>
+				</File>
+				<File Id="103571500" Language="SFX">
+					<ShortName>timer_11.wav</ShortName>
+					<Path>SFX\timer_11_E843A46D.wem</Path>
+				</File>
+				<File Id="214925683" Language="SFX">
+					<ShortName>timer_01.wav</ShortName>
+					<Path>SFX\timer_01_E843A46D.wem</Path>
+				</File>
+				<File Id="266870849" Language="SFX">
+					<ShortName>enemy_sighted_for_team_4.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_4_E843A46D.wem</Path>
+				</File>
+				<File Id="267059211" Language="SFX">
+					<ShortName>enemy_sighted_for_team_7.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_7_E843A46D.wem</Path>
+				</File>
+				<File Id="352828495" Language="SFX">
+					<ShortName>timer_02.wav</ShortName>
+					<Path>SFX\timer_02_E843A46D.wem</Path>
+				</File>
+				<File Id="366504324" Language="SFX">
+					<ShortName>enemy_sighted_for_team_1.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_1_E843A46D.wem</Path>
+				</File>
+				<File Id="499380683" Language="SFX">
+					<ShortName>time_over.wav</ShortName>
+					<Path>SFX\time_over_E843A46D.wem</Path>
+				</File>
+				<File Id="557295975" Language="SFX">
+					<ShortName>enemy_sighted_for_team_6.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_6_E843A46D.wem</Path>
+				</File>
+				<File Id="614422849" Language="SFX">
+					<ShortName>time_buzzer_02.wav</ShortName>
+					<Path>SFX\time_buzzer_02_E843A46D.wem</Path>
+				</File>
+				<File Id="668986293" Language="SFX">
+					<ShortName>enemy_sighted_for_team_2.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_2_E843A46D.wem</Path>
+				</File>
+				<File Id="724237149" Language="SFX">
+					<ShortName>timer_05.wav</ShortName>
+					<Path>SFX\timer_05_E843A46D.wem</Path>
+				</File>
+				<File Id="808902474" Language="SFX">
+					<ShortName>enemy_sighted_for_team_8.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_8_E843A46D.wem</Path>
+				</File>
+				<File Id="823271489" Language="SFX">
+					<ShortName>timer_08.wav</ShortName>
+					<Path>SFX\timer_08_E843A46D.wem</Path>
+				</File>
+				<File Id="866404699" Language="SFX">
+					<ShortName>timer_09.wav</ShortName>
+					<Path>SFX\timer_09_E843A46D.wem</Path>
+				</File>
+				<File Id="872012602" Language="SFX">
+					<ShortName>timer_06.wav</ShortName>
+					<Path>SFX\timer_06_E843A46D.wem</Path>
+				</File>
+				<File Id="884935381" Language="SFX">
+					<ShortName>enemy_sighted_for_team_3.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_3_E843A46D.wem</Path>
+				</File>
+				<File Id="888855269" Language="SFX">
+					<ShortName>base_capture_1.wav</ShortName>
+					<Path>SFX\base_capture_1_E843A46D.wem</Path>
+				</File>
+				<File Id="916496804" Language="SFX">
+					<ShortName>enemy_sighted_for_team_5.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_5_E843A46D.wem</Path>
+				</File>
+				<File Id="923073771" Language="SFX">
+					<ShortName>timer_04.wav</ShortName>
+					<Path>SFX\timer_04_E843A46D.wem</Path>
+				</File>
+				<File Id="1003664633" Language="SFX">
+					<ShortName>timer_03.wav</ShortName>
+					<Path>SFX\timer_03_E843A46D.wem</Path>
+				</File>
+				<File Id="1006847741" Language="SFX">
+					<ShortName>timer_10.wav</ShortName>
+					<Path>SFX\timer_10_E843A46D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

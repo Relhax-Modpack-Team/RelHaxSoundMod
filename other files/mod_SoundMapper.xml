@@ -1,0 +1,15 @@
+<mod_SoundMapper>
+  <base_capture_1>base_capture_1_patch</base_capture_1>
+  <enemy_sighted_for_team>enemy_sighted_for_team_patch</enemy_sighted_for_team>
+  <time_buzzer_01>time_buzzer_01_patch</time_buzzer_01>
+  <time_buzzer_02>time_buzzer_02_patch</time_buzzer_02>
+  <time_countdown>time_countdown_patch</time_countdown>
+  <time_over>time_over_patch</time_over>
+  <timer>timer_patch</timer>
+  <!-- Examples to switch off some sounds -->
+  <!--
+  <time_buzzer_01>test_event_patch</time_buzzer_01>
+  <time_buzzer_02>test_event_patch</time_buzzer_02>
+  <time_over>test_event_patch</time_over>
+  -->
+</mod_SoundMapper>

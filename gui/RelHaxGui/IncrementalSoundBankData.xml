@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="601859981">
+	<Platform GUID="{1DF3E6B7-EAFD-492F-A74A-9D8C5E40E4AB}">
+		<Banks>
+			<Language ID="0">
+				<File Name="Init" Hash="2790977155" Timestamp="131333278504265506"/>
+				<File Name="RelHaxChatShotcuts" Hash="2197900379" Timestamp="131333278503665496"/>
+				<File Name="RelHaxGui" Hash="1140907044" Timestamp="131333278503920842"/>
+				<File Name="RelHaxMusicSources" Hash="1705379613" Timestamp="131333278504080533"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="1224621627" Timestamp="131333278504410508"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AABB8048-B349-4EDB-9B57-EA1D79E878FA}" SchemaVersion="75">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{AABB8048-B349-4EDB-9B57-EA1D79E878FA}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="RelHaxGui" ID="{5E64ADEB-D8D3-435A-8136-565F9AA0C614}">
+					<ObjectInclusionList>
+						<ObjectRef Name="time_countdown_patch" ID="{4875A91E-D4A3-431D-9897-19F48E7005C9}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="enemy_sighted_for_team_patch" ID="{C72C1528-D430-4389-ABCA-96EC8C203670}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="time_buzzer_01_patch" ID="{98C4A929-DC57-44FB-BB09-9ECCF55DEE06}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="time_over_patch" ID="{E19BD657-97CB-461E-8231-176D7815955C}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="time_buzzer_02_patch" ID="{22207EEE-1CE4-474A-8CB0-63E83BE8B720}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="timer_patch" ID="{CE65F936-E19D-4A73-84F6-6B8B011CE27B}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="base_capture_1_patch" ID="{7C3A4C01-FD92-4EB5-9280-BA70E266552F}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="RelHaxMusicSources" ID="{77107D75-6F06-437C-9A83-3522F54CA7B3}">
+					<ObjectInclusionList>
+						<ObjectRef Name="music_drawn_game_patch" ID="{E8FF027E-2874-46CC-8A68-2B3BB98A9BE8}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="music_victory_patch" ID="{CCFB82AA-203D-4A08-8AA9-83FB450D944E}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="music_defeat_patch" ID="{B24CEF12-6315-4E87-B695-2CFA3AEEE4DE}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="RelHaxChatShotcuts" ID="{FBE558AA-EE6A-4152-80B1-3A36C27ECB24}">
+					<ObjectInclusionList>
+						<ObjectRef Name="vo_chat_shotcuts_positive" ID="{D1346727-6C9B-4205-905F-B8A84471BFE1}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_follow_me" ID="{B615B0FD-E356-455D-933F-51546C193A90}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_negative" ID="{1E8B0207-E9AE-4666-8282-7BEA1252C09A}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_back_to_base" ID="{58216523-B9BC-4980-8F0D-8509EA255D3D}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_help_me" ID="{0E508370-B5CE-4B73-A568-EBF8FD222993}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_attack_the_enemy" ID="{F5D2BB8E-34FD-4D1A-AD93-4286EC29A1E7}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="vo_chat_shotcuts_attack" ID="{2EB59042-FD18-4F53-A43B-8AF696B53361}" WorkUnitID="{C0B244A8-B6A6-4F94-A981-7DDB7212ADCC}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

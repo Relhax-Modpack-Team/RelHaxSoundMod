@@ -1,0 +1,28 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1700054719	vo_chat_shotcuts_negative			\Default Work Unit\vo_chat_shotcuts_negative	
+	1903908767	vo_chat_shotcuts_back_to_base			\Default Work Unit\vo_chat_shotcuts_back_to_base	
+	2100629867	vo_chat_shotcuts_positive			\Default Work Unit\vo_chat_shotcuts_positive	
+	2574232355	vo_chat_shotcuts_attack_the_enemy			\Default Work Unit\vo_chat_shotcuts_attack_the_enemy	
+	3167328132	vo_chat_shotcuts_help_me			\Default Work Unit\vo_chat_shotcuts_help_me	
+	3654393098	vo_chat_shotcuts_follow_me			\Default Work Unit\vo_chat_shotcuts_follow_me	
+	4169869122	vo_chat_shotcuts_attack			\Default Work Unit\vo_chat_shotcuts_attack	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	5189176	RTPC_ext_menu_volume_voice_gui			\Default Work Unit\RTPC_ext_menu_volume_voice_gui	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	34657582	shotcuts_affirmative_03	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_affirmative_03_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_positive\shotcuts_affirmative_03		17105
+	41947164	shotcuts_help_me_01	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_help_me_01_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_help_me\shotcuts_help_me_01		29523
+	102644631	shotcuts_help_me_02	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_help_me_02_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_help_me\shotcuts_help_me_02		16890
+	246341729	shotcuts_defend_base_01	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_defend_base_01_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_back_to_base\shotcuts_defend_base_01		19775
+	277649062	shotcuts_negative_02	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_negative_02_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_negative\shotcuts_negative_02		15057
+	407145418	shotcuts_affirmative_02	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_affirmative_02_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_positive\shotcuts_affirmative_02		12145
+	472169839	shotcuts_defend_base_02	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_defend_base_02_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_back_to_base\shotcuts_defend_base_02		34337
+	472364741	shotcuts_follow_me_02	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_follow_me_02_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_follow_me\shotcuts_follow_me_02		29096
+	543861377	shotcuts_affirmative_01	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_affirmative_01_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_positive\shotcuts_affirmative_01		17282
+	640134238	shotcuts_attack_01	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_attack_01_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_attack\shotcuts_attack_01		26176
+	871028706	shotcuts_follow_me_01	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_follow_me_01_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_follow_me\shotcuts_follow_me_01		19699
+	995197647	shotcuts_negative_01	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_negative_01_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_negative\shotcuts_negative_01		16591
+	1000886287	shotcuts_help_me_03	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_help_me_03_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_help_me\shotcuts_help_me_03		19125
+	1013830800	shotcuts_attack_02	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\shotcuts_attack_02_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\voice_gui\vo_chat_shotcuts_attack\shotcuts_attack_02		20855
+

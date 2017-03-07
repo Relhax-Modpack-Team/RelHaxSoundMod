@@ -161,13 +161,6 @@
         <streamingPool>	2	</streamingPool>
         <IOPoolSize>	4	</IOPoolSize>
       </memoryManager>
-      <editorMemoryManager>
-        <defaultPool>	20	</defaultPool>
-        <lowEnginePool>	20	</lowEnginePool>
-        <preparedPool>	106	</preparedPool>
-        <streamingPool>	4	</streamingPool>
-        <IOPoolSize>	6	</IOPoolSize>
-      </editorMemoryManager>
       <soundRender>
         <use_config>	false	</use_config>
         <HDR_lower_threshold>	-50	</HDR_lower_threshold>

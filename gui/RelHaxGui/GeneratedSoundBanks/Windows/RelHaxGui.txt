@@ -1,0 +1,34 @@
+Event	ID	Name			Wwise Object Path	Notes
+	357510679	timer_patch			\Default Work Unit\timer_patch	
+	486690165	enemy_sighted_for_team_patch			\Default Work Unit\enemy_sighted_for_team_patch	
+	881805056	time_over_patch			\Default Work Unit\time_over_patch	
+	2146300369	time_countdown_patch			\Default Work Unit\time_countdown_patch	
+	2676124087	time_buzzer_02_patch			\Default Work Unit\time_buzzer_02_patch	
+	2820493654	base_capture_1_patch			\Default Work Unit\base_capture_1_patch	
+	3765820900	time_buzzer_01_patch			\Default Work Unit\time_buzzer_01_patch	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	26569887	time_buzzer_01	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\time_buzzer_01_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\time_buzzer_01_patch\time_buzzer_01		2113177
+	49886438	timer_07	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_07_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_07		445342
+	103571500	timer_11	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_11_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_11		402968
+	214925683	timer_01	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_01_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_01		411025
+	266870849	enemy_sighted_for_team_4	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\enemy_sighted_for_team_4_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\enemy_sighted_for_team_patch\enemy_sighted_for_team_4		8919
+	267059211	enemy_sighted_for_team_7	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\enemy_sighted_for_team_7_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\enemy_sighted_for_team_patch\enemy_sighted_for_team_7		18838
+	352828495	timer_02	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_02_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_02		373787
+	366504324	enemy_sighted_for_team_1	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\enemy_sighted_for_team_1_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\enemy_sighted_for_team_patch\enemy_sighted_for_team_1		13837
+	499380683	time_over	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\time_over_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\time_over_patch\time_over		90311
+	557295975	enemy_sighted_for_team_6	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\enemy_sighted_for_team_6_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\enemy_sighted_for_team_patch\enemy_sighted_for_team_6		26024
+	614422849	time_buzzer_02	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\time_buzzer_02_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\time_buzzer_02_patch\time_buzzer_02		59476
+	668986293	enemy_sighted_for_team_2	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\enemy_sighted_for_team_2_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\enemy_sighted_for_team_patch\enemy_sighted_for_team_2		12237
+	724237149	timer_05	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_05_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_05		423627
+	808902474	enemy_sighted_for_team_8	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\enemy_sighted_for_team_8_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\enemy_sighted_for_team_patch\enemy_sighted_for_team_8		16271
+	823271489	timer_08	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_08_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_08		387815
+	866404699	timer_09	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_09_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_09		391063
+	872012602	timer_06	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_06_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_06		393371
+	884935381	enemy_sighted_for_team_3	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\enemy_sighted_for_team_3_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\enemy_sighted_for_team_patch\enemy_sighted_for_team_3		28120
+	888855269	base_capture_1	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\base_capture_1_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\base_capture_1_patch\base_capture_1		3357377
+	916496804	enemy_sighted_for_team_5	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\enemy_sighted_for_team_5_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\enemy_sighted_for_team_patch\enemy_sighted_for_team_5		9685
+	923073771	timer_04	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_04_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_04		384644
+	1003664633	timer_03	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_03_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_03		366014
+	1006847741	timer_10	F:\Tanks Stuff\RelHaxSoundMod\gui\RelHaxGui\.cache\Windows\SFX\timer_10_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\gui\timer_patch\timer_10		276863
+
