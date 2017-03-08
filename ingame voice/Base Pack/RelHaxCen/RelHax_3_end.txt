@@ -1,2 +1,0 @@
-first include radios
-vo_turret_rotator_functional

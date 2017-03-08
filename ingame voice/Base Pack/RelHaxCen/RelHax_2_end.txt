@@ -1,2 +1,0 @@
-vo_start_battle
-did not include radios

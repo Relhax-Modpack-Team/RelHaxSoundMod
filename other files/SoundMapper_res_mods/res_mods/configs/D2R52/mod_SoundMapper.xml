@@ -1,9 +1,0 @@
-<mod_SoundMapper>
-  <lightbulb>rudy</lightbulb>
-  <!-- Examples to switch off some sounds -->
-  <!--
-  <time_buzzer_01>test_event</time_buzzer_01>
-  <time_buzzer_02>test_event</time_buzzer_02>
-  <time_over>test_event</time_over>
-  -->
-</mod_SoundMapper>

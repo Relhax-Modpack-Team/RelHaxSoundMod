@@ -1,1 +1,0 @@
-start "FilePackager.App" core_program.dat FilePackager.App

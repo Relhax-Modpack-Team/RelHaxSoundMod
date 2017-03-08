@@ -1,2 +1,0 @@
-vo_engine_functional
-excluded enemy_killed_by_player

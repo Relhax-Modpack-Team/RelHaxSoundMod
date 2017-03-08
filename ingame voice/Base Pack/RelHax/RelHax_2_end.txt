@@ -1,3 +1,0 @@
-include enemy_killed_by_player
-include start_battle
-vo_gun_damaged
