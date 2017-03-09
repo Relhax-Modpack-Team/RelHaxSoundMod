@@ -1,0 +1,23 @@
+<audio_mods.xml>
+	<loadBanks>
+    <bank>RelHaxSixthSense.bnk</bank>
+	</loadBanks>
+  <events>				
+    <event>
+			<name>lightbulb</name>
+			<mod>mod_lightbulb</mod>
+		</event>
+	</events>
+	<!-- Switches -->
+	<switches>
+
+	</switches>
+	<!-- RTPC -->
+	<RTPCs>
+		
+	</RTPCs>
+	<!-- STATES -->
+	<states>
+		
+	</states>
+</audio_mods.xml>

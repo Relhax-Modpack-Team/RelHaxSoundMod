@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows_LowRes" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\.cache\Windows_LowRes\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\GeneratedSoundBanks\WinLowRes\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\GeneratedSoundBanks\Windows_LowRes</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank>
+		<File Id="32993886" Language="SFX">
+			<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_34D50ECD.wem</Path>
+		</File>
+		<File Id="185301197" Language="SFX">
+			<ShortName>AK_Factory_IR\Large Spaces\AK Stair Way Hall.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_50E00A69.wem</Path>
+		</File>
+		<File Id="554205954" Language="SFX">
+			<ShortName>Map_Zone\Deep forest.WAV</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_FDC58AA1.wem</Path>
+		</File>
+		<File Id="684936451" Language="SFX">
+			<ShortName>Map_Zone\Canyons.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_DB22B795.wem</Path>
+		</File>
+		<File Id="689379105" Language="SFX">
+			<ShortName>AK_Factory_IR\Halls\AK Berlin Teldex.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_18EB8774.wem</Path>
+		</File>
+		<File Id="765520478" Language="SFX">
+			<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_980A8FC2.wem</Path>
+		</File>
+		<File Id="823230670" Language="SFX">
+			<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_DEC3CAFB.wem</Path>
+		</File>
+	</MediaFilesNotInAnyBank>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<ExcludedMemoryFiles>
+				<File Id="32993886" Language="SFX">
+					<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_34D50ECD.wem</Path>
+				</File>
+				<File Id="185301197" Language="SFX">
+					<ShortName>AK_Factory_IR\Large Spaces\AK Stair Way Hall.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_50E00A69.wem</Path>
+				</File>
+				<File Id="554205954" Language="SFX">
+					<ShortName>Map_Zone\Deep forest.WAV</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_FDC58AA1.wem</Path>
+				</File>
+				<File Id="684936451" Language="SFX">
+					<ShortName>Map_Zone\Canyons.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_DB22B795.wem</Path>
+				</File>
+				<File Id="689379105" Language="SFX">
+					<ShortName>AK_Factory_IR\Halls\AK Berlin Teldex.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_18EB8774.wem</Path>
+				</File>
+				<File Id="765520478" Language="SFX">
+					<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_980A8FC2.wem</Path>
+				</File>
+				<File Id="823230670" Language="SFX">
+					<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_DEC3CAFB.wem</Path>
+				</File>
+			</ExcludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2378126911" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\utility</ObjectPath>
+			<ShortName>utility</ShortName>
+			<Path>utility.bnk</Path>
+			<IncludedEvents>
+				<Event Id="712817794" Name="ue_01_loginscreen_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_01_loginscreen_enter" MaxAttenuation="0.000000"/>
+				<Event Id="2766017104" Name="ue_01_loginscreen_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_01_loginscreen_exit" MaxAttenuation="0.000000"/>
+				<Event Id="2888579641" Name="ue_02_hangar_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_02_hangar_enter" MaxAttenuation="0.000000"/>
+				<Event Id="601736949" Name="ue_02_hangar_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_02_hangar_exit" MaxAttenuation="0.000000"/>
+				<Event Id="3218275239" Name="ue_03_lobby_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_03_lobby_enter" MaxAttenuation="0.000000"/>
+				<Event Id="3481742671" Name="ue_03_lobby_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_03_lobby_exit" MaxAttenuation="0.000000"/>
+				<Event Id="1274044980" Name="ue_04_loadingscreen_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_04_loadingscreen_enter" MaxAttenuation="0.000000"/>
+				<Event Id="1143708950" Name="ue_04_loadingscreen_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_04_loadingscreen_exit" MaxAttenuation="0.000000"/>
+				<Event Id="3077324080" Name="ue_05_arena_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_05_arena_enter" MaxAttenuation="0.000000"/>
+				<Event Id="3822102714" Name="ue_05_arena_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_05_arena_exit" MaxAttenuation="0.000000"/>
+				<Event Id="2313191547" Name="ue_06_result_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_06_result_enter" MaxAttenuation="0.000000"/>
+				<Event Id="412589435" Name="ue_06_result_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_06_result_exit" MaxAttenuation="0.000000"/>
+				<Event Id="197868276" Name="ue_events_arena_stop_except_music" ObjectPath="\Events\Utilite_events\ue_events_arena_stop_except_music" MaxAttenuation="0.000000"/>
+				<Event Id="637773918" Name="ue_events_hangar_stop_afterBattleMusic" ObjectPath="\Events\Utilite_events\ue_events_hangar_stop_afterBattleMusic" MaxAttenuation="0.000000"/>
+				<Event Id="346023504" Name="ue_ext_multichanel_off" ObjectPath="\Events\Utilite_events\multichanel\ue_ext_multichanel_off" MaxAttenuation="0.000000"/>
+				<Event Id="1826536122" Name="ue_ext_multichanel_on" ObjectPath="\Events\Utilite_events\multichanel\ue_ext_multichanel_on" MaxAttenuation="0.000000"/>
+				<Event Id="951643454" Name="ue_init_inside_arena_1stapril" ObjectPath="\Events\Utilite_events\ue_init_inside_arena_1stapril" MaxAttenuation="0.000000"/>
+				<Event Id="1465638626" Name="ue_init_outside_arena_universal" ObjectPath="\Events\Utilite_events\ue_init_outside_arena_universal" MaxAttenuation="0.000000"/>
+				<Event Id="343201978" Name="ue_key_backward_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_backward_pressed" MaxAttenuation="0.000000"/>
+				<Event Id="856829473" Name="ue_key_backward_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_backward_released" MaxAttenuation="0.000000"/>
+				<Event Id="2744457402" Name="ue_key_forward_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_forward_pressed" MaxAttenuation="0.000000"/>
+				<Event Id="2195123745" Name="ue_key_forward_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_forward_released" MaxAttenuation="0.000000"/>
+				<Event Id="3415466906" Name="ue_key_left_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_left_pressed" MaxAttenuation="0.000000"/>
+				<Event Id="3400491905" Name="ue_key_left_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_left_released" MaxAttenuation="0.000000"/>
+				<Event Id="229356423" Name="ue_key_right_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_right_pressed" MaxAttenuation="0.000000"/>
+				<Event Id="3981580730" Name="ue_key_right_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_right_released" MaxAttenuation="0.000000"/>
+				<Event Id="166345957" Name="ue_key_stop_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_stop_pressed" MaxAttenuation="0.000000"/>
+				<Event Id="3224179688" Name="ue_key_stop_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_stop_released" MaxAttenuation="0.000000"/>
+				<Event Id="3941727767" Name="ue_music_volume_fade_30db" ObjectPath="\Events\Utilite_events\ue_music_volume_fade_30db" MaxAttenuation="0.000000"/>
+				<Event Id="864029140" Name="ue_music_volume_reset" ObjectPath="\Events\Utilite_events\ue_music_volume_reset" MaxAttenuation="0.000000"/>
+				<Event Id="3208127490" Name="ue_set_preset_acoustic_device_laptop" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_acoustic_device_laptop" MaxAttenuation="0.000000"/>
+				<Event Id="2668288691" Name="ue_set_preset_acoustic_device_reset" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_acoustic_device_reset" MaxAttenuation="0.000000"/>
+				<Event Id="3051703358" Name="ue_set_preset_audiosystem20" ObjectPath="\Events\Utilite_events\multichanel\ue_set_preset_audiosystem20" MaxAttenuation="0.000000"/>
+				<Event Id="3102036214" Name="ue_set_preset_audiosystem51" ObjectPath="\Events\Utilite_events\multichanel\ue_set_preset_audiosystem51" MaxAttenuation="0.000000"/>
+				<Event Id="3135591388" Name="ue_set_preset_audiosystem71" ObjectPath="\Events\Utilite_events\multichanel\ue_set_preset_audiosystem71" MaxAttenuation="0.000000"/>
+				<Event Id="783021765" Name="ue_set_preset_bassboost_off" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_bassboost_off" MaxAttenuation="0.000000"/>
+				<Event Id="4193624249" Name="ue_set_preset_bassboost_on" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_bassboost_on" MaxAttenuation="0.000000"/>
+				<Event Id="2405738403" Name="ue_set_preset_high_dynamic_range" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_high_dynamic_range" MaxAttenuation="0.000000"/>
+				<Event Id="380007007" Name="ue_set_preset_low_dynamic_range" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_low_dynamic_range" MaxAttenuation="0.000000"/>
+				<Event Id="2589335931" Name="ue_stop_all_voices_except_combat_music" ObjectPath="\Events\Utilite_events\ue_stop_all_voices_except_combat_music" MaxAttenuation="0.000000"/>
+				<Event Id="206862725" Name="ue_stop_loadscreen_music" ObjectPath="\Events\Utilite_events\ue_stop_loadscreen_music" MaxAttenuation="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2444814319" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\RelHaxVoiceover</ObjectPath>
+			<ShortName>RelHaxVoiceover</ShortName>
+			<Path>RelHaxVoiceover.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2301863335" Name="vo_ally_killed_by_player" ObjectPath="\Events\RelHax_reg\vo_ally_killed_by_player"/>
+				<Event Id="3166122996" Name="vo_ammo_bay_damaged" ObjectPath="\Events\RelHax_reg\vo_ammo_bay_damaged"/>
+				<Event Id="1332081395" Name="vo_armor_not_pierced_by_player" ObjectPath="\Events\RelHax_reg\vo_armor_not_pierced_by_player"/>
+				<Event Id="2655350512" Name="vo_armor_ricochet_by_player" ObjectPath="\Events\RelHax_reg\vo_armor_ricochet_by_player"/>
+				<Event Id="1946435397" Name="vo_commander_killed" ObjectPath="\Events\RelHax_reg\vo_commander_killed"/>
+				<Event Id="1988695347" Name="vo_crew_deactivated" ObjectPath="\Events\RelHax_reg\vo_crew_deactivated"/>
+				<Event Id="3716823038" Name="vo_damage_by_near_explosion_by_enemy" ObjectPath="\Events\RelHax_reg\vo_damage_by_near_explosion_by_enemy"/>
+				<Event Id="2509625173" Name="vo_damage_by_near_explosion_by_player" ObjectPath="\Events\RelHax_reg\vo_damage_by_near_explosion_by_player"/>
+				<Event Id="2921316646" Name="vo_dp_assistance_been_requested" ObjectPath="\Events\RelHax_reg\vo_dp_assistance_been_requested"/>
+				<Event Id="831761693" Name="vo_dp_been_excluded_platoon" ObjectPath="\Events\RelHax_reg\vo_dp_been_excluded_platoon"/>
+				<Event Id="605448325" Name="vo_dp_left_platoon" ObjectPath="\Events\RelHax_reg\vo_dp_left_platoon"/>
+				<Event Id="2717569914" Name="vo_dp_platoon_created" ObjectPath="\Events\RelHax_reg\vo_dp_platoon_created"/>
+				<Event Id="1736989749" Name="vo_dp_platoon_dismissed" ObjectPath="\Events\RelHax_reg\vo_dp_platoon_dismissed"/>
+				<Event Id="1193243693" Name="vo_dp_platoon_joined" ObjectPath="\Events\RelHax_reg\vo_dp_platoon_joined"/>
+				<Event Id="2524427447" Name="vo_dp_player_joined_platoon" ObjectPath="\Events\RelHax_reg\vo_dp_player_joined_platoon"/>
+				<Event Id="664892591" Name="vo_driver_killed" ObjectPath="\Events\RelHax_reg\vo_driver_killed"/>
+				<Event Id="2979380528" Name="vo_enemies_sighted" ObjectPath="\Events\RelHax_reg\vo_enemies_sighted"/>
+				<Event Id="3563950026" Name="vo_enemy_fire_started_by_player" ObjectPath="\Events\RelHax_reg\vo_enemy_fire_started_by_player"/>
+				<Event Id="4209631318" Name="vo_enemy_hp_damaged_by_explosion_at_direct_hit_by_player" ObjectPath="\Events\RelHax_reg\vo_enemy_hp_damaged_by_explosion_at_direct_hit_by_player"/>
+				<Event Id="136522141" Name="vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player" ObjectPath="\Events\RelHax_reg\vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player"/>
+				<Event Id="102434383" Name="vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player" ObjectPath="\Events\RelHax_reg\vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player"/>
+				<Event Id="1057290642" Name="vo_enemy_hp_damaged_by_projectile_by_player" ObjectPath="\Events\RelHax_reg\vo_enemy_hp_damaged_by_projectile_by_player"/>
+				<Event Id="1316861587" Name="vo_enemy_killed" ObjectPath="\Events\RelHax_reg\vo_enemy_killed"/>
+				<Event Id="1122640859" Name="vo_enemy_killed_by_player" ObjectPath="\Events\RelHax_reg\vo_enemy_killed_by_player"/>
+				<Event Id="3406769" Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" ObjectPath="\Events\RelHax_reg\vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player"/>
+				<Event Id="3175172091" Name="vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player" ObjectPath="\Events\RelHax_reg\vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player"/>
+				<Event Id="730352367" Name="vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player" ObjectPath="\Events\RelHax_reg\vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player"/>
+				<Event Id="1713814001" Name="vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player" ObjectPath="\Events\RelHax_reg\vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player"/>
+				<Event Id="40924856" Name="vo_enemy_sighted" ObjectPath="\Events\RelHax_reg\vo_enemy_sighted"/>
+				<Event Id="1702267773" Name="vo_engine_damaged" ObjectPath="\Events\RelHax_reg\vo_engine_damaged"/>
+				<Event Id="1302422561" Name="vo_engine_destroyed" ObjectPath="\Events\RelHax_reg\vo_engine_destroyed"/>
+				<Event Id="4148607935" Name="vo_engine_functional" ObjectPath="\Events\RelHax_reg\vo_engine_functional"/>
+				<Event Id="1396083645" Name="vo_fire_started" ObjectPath="\Events\RelHax_reg\vo_fire_started"/>
+				<Event Id="3616464105" Name="vo_fire_stopped" ObjectPath="\Events\RelHax_reg\vo_fire_stopped"/>
+				<Event Id="1641781602" Name="vo_fuel_tank_damaged" ObjectPath="\Events\RelHax_reg\vo_fuel_tank_damaged"/>
+				<Event Id="693799259" Name="vo_gun_damaged" ObjectPath="\Events\RelHax_reg\vo_gun_damaged"/>
+				<Event Id="825236543" Name="vo_gun_destroyed" ObjectPath="\Events\RelHax_reg\vo_gun_destroyed"/>
+				<Event Id="4011208105" Name="vo_gun_functional" ObjectPath="\Events\RelHax_reg\vo_gun_functional"/>
+				<Event Id="1107412350" Name="vo_gunner_killed" ObjectPath="\Events\RelHax_reg\vo_gunner_killed"/>
+				<Event Id="1781671118" Name="vo_loader_killed" ObjectPath="\Events\RelHax_reg\vo_loader_killed"/>
+				<Event Id="575170028" Name="vo_radio_damaged" ObjectPath="\Events\RelHax_reg\vo_radio_damaged"/>
+				<Event Id="3928775652" Name="vo_radioman_killed" ObjectPath="\Events\RelHax_reg\vo_radioman_killed"/>
+				<Event Id="590598450" Name="vo_start_battle" ObjectPath="\Events\RelHax_reg\vo_start_battle"/>
+				<Event Id="2775977275" Name="vo_surveying_devices_damaged" ObjectPath="\Events\RelHax_reg\vo_surveying_devices_damaged"/>
+				<Event Id="1112395295" Name="vo_surveying_devices_destroyed" ObjectPath="\Events\RelHax_reg\vo_surveying_devices_destroyed"/>
+				<Event Id="998311689" Name="vo_surveying_devices_functional" ObjectPath="\Events\RelHax_reg\vo_surveying_devices_functional"/>
+				<Event Id="1491984609" Name="vo_target_captured" ObjectPath="\Events\RelHax_reg\vo_target_captured"/>
+				<Event Id="2836359293" Name="vo_target_lost" ObjectPath="\Events\RelHax_reg\vo_target_lost"/>
+				<Event Id="85617264" Name="vo_target_unlocked" ObjectPath="\Events\RelHax_reg\vo_target_unlocked"/>
+				<Event Id="766987452" Name="vo_track_damaged" ObjectPath="\Events\RelHax_reg\vo_track_damaged"/>
+				<Event Id="1244332268" Name="vo_track_destroyed" ObjectPath="\Events\RelHax_reg\vo_track_destroyed"/>
+				<Event Id="3498324732" Name="vo_track_functional" ObjectPath="\Events\RelHax_reg\vo_track_functional"/>
+				<Event Id="311966861" Name="vo_track_functional_can_move" ObjectPath="\Events\RelHax_reg\vo_track_functional_can_move"/>
+				<Event Id="47755571" Name="vo_turret_rotator_damaged" ObjectPath="\Events\RelHax_reg\vo_turret_rotator_damaged"/>
+				<Event Id="1630212423" Name="vo_turret_rotator_destroyed" ObjectPath="\Events\RelHax_reg\vo_turret_rotator_destroyed"/>
+				<Event Id="257621937" Name="vo_turret_rotator_functional" ObjectPath="\Events\RelHax_reg\vo_turret_rotator_functional"/>
+				<Event Id="3917054405" Name="vo_vehicle_destroyed" ObjectPath="\Events\RelHax_reg\vo_vehicle_destroyed"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2605445723" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\RelHaxSixthSense</ObjectPath>
+			<ShortName>RelHaxSixthSense</ShortName>
+			<Path>RelHaxSixthSense.bnk</Path>
+			<IncludedEvents>
+				<Event Id="793834579" Name="mod_lightbulb" ObjectPath="\Events\GUI\modes\lightbulb\mod_lightbulb"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2802364914" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\RelHaxGui</ObjectPath>
+			<ShortName>RelHaxGui</ShortName>
+			<Path>RelHaxGui.bnk</Path>
+			<IncludedEvents>
+				<Event Id="739261698" Name="mod_base_capture_1" ObjectPath="\Events\GUI\notificationFX\mod_base_capture_1"/>
+				<Event Id="3089635245" Name="mod_enemy_sighted_for_team" ObjectPath="\Events\GUI\notificationFX\mod_enemy_sighted_for_team"/>
+				<Event Id="3792988895" Name="mod_music_defeat" ObjectPath="\Events\Music\Arena\mod_music_defeat"/>
+				<Event Id="3142828263" Name="mod_music_drawn_game" ObjectPath="\Events\Music\Arena\mod_music_drawn_game"/>
+				<Event Id="3835730880" Name="mod_music_victory" ObjectPath="\Events\Music\Arena\mod_music_victory"/>
+				<Event Id="3096903476" Name="mod_time_buzzer_01" ObjectPath="\Events\GUI\notificationFX\mod_time_buzzer_01"/>
+				<Event Id="4087023837" Name="mod_timer" ObjectPath="\Events\GUI\notificationFX\mod_timer"/>
+				<Event Id="1611658743" Name="mod_vo_chat_shotcuts_attack" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_attack"/>
+				<Event Id="1210881942" Name="mod_vo_chat_shotcuts_attack_the_enemy" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_attack_the_enemy"/>
+				<Event Id="223798550" Name="mod_vo_chat_shotcuts_back_to_base" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_back_to_base"/>
+				<Event Id="2964625917" Name="mod_vo_chat_shotcuts_follow_me" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_follow_me"/>
+				<Event Id="1638847515" Name="mod_vo_chat_shotcuts_help_me" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_help_me"/>
+				<Event Id="1857100278" Name="mod_vo_chat_shotcuts_negative" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_negative"/>
+				<Event Id="778388262" Name="mod_vo_chat_shotcuts_positive" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_positive"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

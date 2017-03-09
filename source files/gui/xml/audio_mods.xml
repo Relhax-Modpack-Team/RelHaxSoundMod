@@ -1,0 +1,75 @@
+<audio_mods.xml>
+	<loadBanks>
+    <bank>RelHaxGui.bnk</bank>
+	</loadBanks>
+  <events>				
+		<event>
+			<name>vo_chat_shotcuts_attack</name>
+			<mod>mod_vo_chat_shotcuts_attack</mod>
+		</event>
+    <event>
+			<name>vo_chat_shotcuts_attack_the_enemy</name>
+			<mod>mod_vo_chat_shotcuts_attack_the_enemy</mod>
+		</event>
+    <event>
+			<name>vo_chat_shotcuts_back_to_base</name>
+			<mod>mod_vo_chat_shotcuts_back_to_base</mod>
+		</event>
+    <event>
+			<name>vo_chat_shotcuts_follow_me</name>
+			<mod>mod_vo_chat_shotcuts_follow_me</mod>
+		</event>
+    <event>
+			<name>vo_chat_shotcuts_help_me</name>
+			<mod>mod_vo_chat_shotcuts_help_me</mod>
+		</event>
+    <event>
+			<name>vo_chat_shotcuts_negative</name>
+			<mod>mod_vo_chat_shotcuts_negative</mod>
+		</event>
+    <event>
+			<name>vo_chat_shotcuts_positive</name>
+			<mod>mod_vo_chat_shotcuts_positive</mod>
+		</event>
+    <event>
+			<name>base_capture_1</name>
+			<mod>mod_base_capture_1</mod>
+		</event>
+    <event>
+			<name>enemy_sighted_for_team</name>
+			<mod>mod_enemy_sighted_for_team</mod>
+		</event>
+    <event>
+			<name>time_buzzer_01</name>
+			<mod>mod_time_buzzer_01</mod>
+		</event>
+    <event>
+			<name>timer</name>
+			<mod>mod_timer</mod>
+		</event>
+    <event>
+			<name>music_victory</name>
+			<mod>mod_music_victory</mod>
+		</event>
+    <event>
+			<name>music_defeat</name>
+			<mod>mod_music_defeat</mod>
+		</event>
+    <event>
+			<name>music_drawn_game</name>
+			<mod>mod_music_drawn_game</mod>
+		</event>
+	</events>
+	<!-- Switches -->
+	<switches>
+
+	</switches>
+	<!-- RTPC -->
+	<RTPCs>
+		
+	</RTPCs>
+	<!-- STATES -->
+	<states>
+		
+	</states>
+</audio_mods.xml>
