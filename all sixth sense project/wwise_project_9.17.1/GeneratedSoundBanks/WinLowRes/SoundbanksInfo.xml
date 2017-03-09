@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows_LowRes" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\.cache\Windows_LowRes\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\GeneratedSoundBanks\WinLowRes\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\GeneratedSoundBanks\Windows_LowRes</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank>
+		<File Id="32993886" Language="SFX">
+			<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_34D50ECD.wem</Path>
+		</File>
+		<File Id="185301197" Language="SFX">
+			<ShortName>AK_Factory_IR\Large Spaces\AK Stair Way Hall.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_50E00A69.wem</Path>
+		</File>
+		<File Id="554205954" Language="SFX">
+			<ShortName>Map_Zone\Deep forest.WAV</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_FDC58AA1.wem</Path>
+		</File>
+		<File Id="684936451" Language="SFX">
+			<ShortName>Map_Zone\Canyons.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_DB22B795.wem</Path>
+		</File>
+		<File Id="689379105" Language="SFX">
+			<ShortName>AK_Factory_IR\Halls\AK Berlin Teldex.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_18EB8774.wem</Path>
+		</File>
+		<File Id="765520478" Language="SFX">
+			<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_980A8FC2.wem</Path>
+		</File>
+		<File Id="823230670" Language="SFX">
+			<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_DEC3CAFB.wem</Path>
+		</File>
+	</MediaFilesNotInAnyBank>
+	<SoundBanks>
+		<SoundBank Id="309474831" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_countdown_10_sec</ObjectPath>
+			<ShortName>sixthsense_countdown_10_sec</ShortName>
+			<Path>sixthsense_countdown_10_sec.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2630273700" Name="lightbulb_countdown_10_sec" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_countdown_10_sec"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="656212693" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_suprise</ObjectPath>
+			<ShortName>sixthsense_suprise</ShortName>
+			<Path>sixthsense_suprise.bnk</Path>
+			<IncludedEvents>
+				<Event Id="890815120" Name="lightbulb_suprise" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_suprise"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1008084913" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_timer_8_sec_soft</ObjectPath>
+			<ShortName>sixthsense_timer_8_sec_soft</ShortName>
+			<Path>sixthsense_timer_8_sec_soft.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3925217966" Name="lightbulb_timer_8_sec_soft" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_timer_8_sec_soft"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1097896522" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_admiral_akbar</ObjectPath>
+			<ShortName>sixthsense_admiral_akbar</ShortName>
+			<Path>sixthsense_admiral_akbar.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1497440411" Name="lightbulb_admiral_akbar" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_admiral_akbar"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<ExcludedMemoryFiles>
+				<File Id="32993886" Language="SFX">
+					<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_34D50ECD.wem</Path>
+				</File>
+				<File Id="185301197" Language="SFX">
+					<ShortName>AK_Factory_IR\Large Spaces\AK Stair Way Hall.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_50E00A69.wem</Path>
+				</File>
+				<File Id="554205954" Language="SFX">
+					<ShortName>Map_Zone\Deep forest.WAV</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_FDC58AA1.wem</Path>
+				</File>
+				<File Id="684936451" Language="SFX">
+					<ShortName>Map_Zone\Canyons.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_DB22B795.wem</Path>
+				</File>
+				<File Id="689379105" Language="SFX">
+					<ShortName>AK_Factory_IR\Halls\AK Berlin Teldex.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_18EB8774.wem</Path>
+				</File>
+				<File Id="765520478" Language="SFX">
+					<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_980A8FC2.wem</Path>
+				</File>
+				<File Id="823230670" Language="SFX">
+					<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_DEC3CAFB.wem</Path>
+				</File>
+			</ExcludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1618322204" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_german</ObjectPath>
+			<ShortName>sixthsense_german</ShortName>
+			<Path>sixthsense_german.bnk</Path>
+			<IncludedEvents>
+				<Event Id="885284655" Name="lightbulb_german" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_german"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2329902760" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_sauron</ObjectPath>
+			<ShortName>sixthsense_sauron</ShortName>
+			<Path>sixthsense_sauron.bnk</Path>
+			<IncludedEvents>
+				<Event Id="424170523" Name="lightbulb_sauron" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_sauron"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2378126911" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\utility</ObjectPath>
+			<ShortName>utility</ShortName>
+			<Path>utility.bnk</Path>
+			<IncludedEvents>
+				<Event Id="712817794" Name="ue_01_loginscreen_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_01_loginscreen_enter" MaxAttenuation="0.000000"/>
+				<Event Id="2766017104" Name="ue_01_loginscreen_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_01_loginscreen_exit" MaxAttenuation="0.000000"/>
+				<Event Id="2888579641" Name="ue_02_hangar_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_02_hangar_enter" MaxAttenuation="0.000000"/>
+				<Event Id="601736949" Name="ue_02_hangar_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_02_hangar_exit" MaxAttenuation="0.000000"/>
+				<Event Id="3218275239" Name="ue_03_lobby_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_03_lobby_enter" MaxAttenuation="0.000000"/>
+				<Event Id="3481742671" Name="ue_03_lobby_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_03_lobby_exit" MaxAttenuation="0.000000"/>
+				<Event Id="1274044980" Name="ue_04_loadingscreen_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_04_loadingscreen_enter" MaxAttenuation="0.000000"/>
+				<Event Id="1143708950" Name="ue_04_loadingscreen_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_04_loadingscreen_exit" MaxAttenuation="0.000000"/>
+				<Event Id="3077324080" Name="ue_05_arena_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_05_arena_enter" MaxAttenuation="0.000000"/>
+				<Event Id="3822102714" Name="ue_05_arena_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_05_arena_exit" MaxAttenuation="0.000000"/>
+				<Event Id="2313191547" Name="ue_06_result_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_06_result_enter" MaxAttenuation="0.000000"/>
+				<Event Id="412589435" Name="ue_06_result_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_06_result_exit" MaxAttenuation="0.000000"/>
+				<Event Id="197868276" Name="ue_events_arena_stop_except_music" ObjectPath="\Events\Utilite_events\ue_events_arena_stop_except_music" MaxAttenuation="0.000000"/>
+				<Event Id="637773918" Name="ue_events_hangar_stop_afterBattleMusic" ObjectPath="\Events\Utilite_events\ue_events_hangar_stop_afterBattleMusic" MaxAttenuation="0.000000"/>
+				<Event Id="346023504" Name="ue_ext_multichanel_off" ObjectPath="\Events\Utilite_events\multichanel\ue_ext_multichanel_off" MaxAttenuation="0.000000"/>
+				<Event Id="1826536122" Name="ue_ext_multichanel_on" ObjectPath="\Events\Utilite_events\multichanel\ue_ext_multichanel_on" MaxAttenuation="0.000000"/>
+				<Event Id="951643454" Name="ue_init_inside_arena_1stapril" ObjectPath="\Events\Utilite_events\ue_init_inside_arena_1stapril" MaxAttenuation="0.000000"/>
+				<Event Id="1465638626" Name="ue_init_outside_arena_universal" ObjectPath="\Events\Utilite_events\ue_init_outside_arena_universal" MaxAttenuation="0.000000"/>
+				<Event Id="343201978" Name="ue_key_backward_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_backward_pressed" MaxAttenuation="0.000000"/>
+				<Event Id="856829473" Name="ue_key_backward_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_backward_released" MaxAttenuation="0.000000"/>
+				<Event Id="2744457402" Name="ue_key_forward_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_forward_pressed" MaxAttenuation="0.000000"/>
+				<Event Id="2195123745" Name="ue_key_forward_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_forward_released" MaxAttenuation="0.000000"/>
+				<Event Id="3415466906" Name="ue_key_left_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_left_pressed" MaxAttenuation="0.000000"/>
+				<Event Id="3400491905" Name="ue_key_left_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_left_released" MaxAttenuation="0.000000"/>
+				<Event Id="229356423" Name="ue_key_right_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_right_pressed" MaxAttenuation="0.000000"/>
+				<Event Id="3981580730" Name="ue_key_right_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_right_released" MaxAttenuation="0.000000"/>
+				<Event Id="166345957" Name="ue_key_stop_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_stop_pressed" MaxAttenuation="0.000000"/>
+				<Event Id="3224179688" Name="ue_key_stop_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_stop_released" MaxAttenuation="0.000000"/>
+				<Event Id="3941727767" Name="ue_music_volume_fade_30db" ObjectPath="\Events\Utilite_events\ue_music_volume_fade_30db" MaxAttenuation="0.000000"/>
+				<Event Id="864029140" Name="ue_music_volume_reset" ObjectPath="\Events\Utilite_events\ue_music_volume_reset" MaxAttenuation="0.000000"/>
+				<Event Id="3208127490" Name="ue_set_preset_acoustic_device_laptop" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_acoustic_device_laptop" MaxAttenuation="0.000000"/>
+				<Event Id="2668288691" Name="ue_set_preset_acoustic_device_reset" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_acoustic_device_reset" MaxAttenuation="0.000000"/>
+				<Event Id="3051703358" Name="ue_set_preset_audiosystem20" ObjectPath="\Events\Utilite_events\multichanel\ue_set_preset_audiosystem20" MaxAttenuation="0.000000"/>
+				<Event Id="3102036214" Name="ue_set_preset_audiosystem51" ObjectPath="\Events\Utilite_events\multichanel\ue_set_preset_audiosystem51" MaxAttenuation="0.000000"/>
+				<Event Id="3135591388" Name="ue_set_preset_audiosystem71" ObjectPath="\Events\Utilite_events\multichanel\ue_set_preset_audiosystem71" MaxAttenuation="0.000000"/>
+				<Event Id="783021765" Name="ue_set_preset_bassboost_off" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_bassboost_off" MaxAttenuation="0.000000"/>
+				<Event Id="4193624249" Name="ue_set_preset_bassboost_on" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_bassboost_on" MaxAttenuation="0.000000"/>
+				<Event Id="2405738403" Name="ue_set_preset_high_dynamic_range" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_high_dynamic_range" MaxAttenuation="0.000000"/>
+				<Event Id="380007007" Name="ue_set_preset_low_dynamic_range" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_low_dynamic_range" MaxAttenuation="0.000000"/>
+				<Event Id="2589335931" Name="ue_stop_all_voices_except_combat_music" ObjectPath="\Events\Utilite_events\ue_stop_all_voices_except_combat_music" MaxAttenuation="0.000000"/>
+				<Event Id="206862725" Name="ue_stop_loadscreen_music" ObjectPath="\Events\Utilite_events\ue_stop_loadscreen_music" MaxAttenuation="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2677459209" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_timer_10_sec</ObjectPath>
+			<ShortName>sixthsense_timer_10_sec</ShortName>
+			<Path>sixthsense_timer_10_sec.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1734253026" Name="lightbulb_timer_10_sec" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_timer_10_sec"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2849411409" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_timer_8_sec_loud</ObjectPath>
+			<ShortName>sixthsense_timer_8_sec_loud</ShortName>
+			<Path>sixthsense_timer_8_sec_loud.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1621478942" Name="lightbulb_timer_8_sec_loud" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_timer_8_sec_loud"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2930551839" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_minions</ObjectPath>
+			<ShortName>sixthsense_minions</ShortName>
+			<Path>sixthsense_minions.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4095789686" Name="lightbulb_minions" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_minions"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

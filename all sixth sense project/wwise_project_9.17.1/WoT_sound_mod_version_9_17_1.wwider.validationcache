@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="75">
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3112740834" DateHigh="30578728"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Ambient.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Collision.wwu" DateLow="687366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Combat_atmosphere.wwu" DateLow="687366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Damage.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Default Work Unit.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Explosions.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Explosive_objects.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\GUI.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Hangar.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Impacts.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Impacts_Alternative.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Objects.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Pass_By.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Plane.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Roughness.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Turret.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Vehicles.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Attenuations\Weapons.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Audio Devices\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Control Surface Sessions\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Conversion Settings\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Conversion Settings\Factory Conversion Settings.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Dynamic Dialogue\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Explosive_objects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory Altiverb - Outdoor and More.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory Auro Headphone.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory Convolution Reverb Effects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory Effects.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory iZotope Box Modeler.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory iZotope Delay.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory iZotope Dynamics.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory iZotope Filters.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Factory McDSP Effects.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Hangar.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Impacts.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Main Mix.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Maps_Zone_Effects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Plane.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Vehicles.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Effects\Weapons.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Ambient.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Combat_atmosphere.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Damage.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Engine.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Explosions.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Explosive_objects.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Fortified_Area.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\GUI.wwu" DateLow="2816258944" DateHigh="30578561"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Gun Reload.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Hangar.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Impacts.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Mechanisms.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Modules.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Music.wwu" DateLow="416258944" DateHigh="30578561"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Objects.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Pass_By.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Physical_Collision.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Plane.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\RelHax_reg.wwu" DateLow="3113100870" DateHigh="30578728"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Treads.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Turret.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Tutorial_voice.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Utilite_events.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Events\Weapons.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Ambient.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Common.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Damage.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Default Work Unit.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Explosions.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Fortifierd_Area.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\GUI.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Gun_Reload.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Hangar.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Impacts.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Interactive_music.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Multichanel.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Music.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Pass_By.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Physical_Collision.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Plane.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Settings.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Turret.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Vehicles.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Game Parameters\Weapons.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="10768384" DateHigh="30578546"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Mixing Sessions\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Mixing Sessions\Main Mix.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Mixing Sessions\Weapons.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Modulators\ambient.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Modulators\Damage.wwu" DateLow="547366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Modulators\Default Work Unit.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Modulators\Explosive_objects_burn.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Modulators\Hangar.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Modulators\Impacts.wwu" DateLow="547366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Modulators\Physical_Collision.wwu" DateLow="547366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Modulators\Plane.wwu" DateLow="507366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Modulators\Vehicles.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Modulators\Weapons.wwu" DateLow="507366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Presets\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Queries\Build_queries.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Queries\Default Work Unit.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Queries\Factory Queries.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\SoundBanks\Default Work Unit.wwu" DateLow="4121521702" DateHigh="30578728"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\States\Common.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\States\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\States\Interactive_music.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Switches\Common.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Switches\Damage.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Switches\Default Work Unit.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Switches\Gun_Reload.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Switches\Impacts.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Switches\Pass_By.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Switches\Roughness.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Switches\Turret.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Switches\Vehicles.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Switches\Weapons.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\Triggers\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.wproj" DateLow="1258516322" DateHigh="30578728"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.wwider.wsettings" DateLow="1821723903" DateHigh="30578729"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2721030016" DateHigh="30578554"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Actor-Mixer Hierarchy\RelHax_reg.wwu" DateLow="3203233618" DateHigh="30578727"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Ambient.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Collision.wwu" DateLow="687366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Combat_atmosphere.wwu" DateLow="687366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Damage.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Default Work Unit.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Explosions.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Explosive_objects.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\GUI.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Hangar.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Impacts.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Impacts_Alternative.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Objects.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Pass_By.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Plane.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Roughness.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Turret.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Vehicles.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Attenuations\Weapons.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Audio Devices\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Control Surface Sessions\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Conversion Settings\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Conversion Settings\Factory Conversion Settings.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Dynamic Dialogue\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Explosive_objects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory Altiverb - Outdoor and More.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory Auro Headphone.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory Convolution Reverb Effects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory Effects.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory iZotope Box Modeler.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory iZotope Delay.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory iZotope Dynamics.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory iZotope Filters.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Factory McDSP Effects.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Hangar.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Impacts.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Main Mix.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Maps_Zone_Effects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Plane.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Vehicles.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Effects\Weapons.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Ambient.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Combat_atmosphere.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Damage.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Engine.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Explosions.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Explosive_objects.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Fortified_Area.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\GUI.wwu" DateLow="2816258944" DateHigh="30578561"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Gun Reload.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Hangar.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Impacts.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Mechanisms.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Modules.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Music.wwu" DateLow="416258944" DateHigh="30578561"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Objects.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Pass_By.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Physical_Collision.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Plane.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\RelHax_reg.wwu" DateLow="3266667206" DateHigh="30578719"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Treads.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Turret.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Tutorial_voice.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Utilite_events.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Events\Weapons.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Ambient.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Common.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Damage.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Default Work Unit.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Explosions.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Fortifierd_Area.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\GUI.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Gun_Reload.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Hangar.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Impacts.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Interactive_music.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Multichanel.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Music.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Pass_By.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Physical_Collision.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Plane.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Settings.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Turret.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Vehicles.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Game Parameters\Weapons.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="10768384" DateHigh="30578546"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Mixing Sessions\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Mixing Sessions\Main Mix.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Mixing Sessions\Weapons.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Modulators\ambient.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Modulators\Damage.wwu" DateLow="547366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Modulators\Default Work Unit.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Modulators\Explosive_objects_burn.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Modulators\Hangar.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Modulators\Impacts.wwu" DateLow="547366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Modulators\Physical_Collision.wwu" DateLow="547366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Modulators\Plane.wwu" DateLow="507366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Modulators\Vehicles.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Modulators\Weapons.wwu" DateLow="507366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Presets\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Queries\Build_queries.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Queries\Default Work Unit.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Queries\Factory Queries.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\SoundBanks\Default Work Unit.wwu" DateLow="4182468992" DateHigh="30578598"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\States\Common.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\States\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\States\Interactive_music.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Switches\Common.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Switches\Damage.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Switches\Default Work Unit.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Switches\Gun_Reload.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Switches\Impacts.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Switches\Pass_By.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Switches\Roughness.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Switches\Turret.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Switches\Vehicles.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Switches\Weapons.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\Triggers\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.wproj" DateLow="1258516322" DateHigh="30578728"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\source files\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.wwider.wsettings" DateLow="1312396322" DateHigh="30578728"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3277432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Ambient.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Collision.wwu" DateLow="687366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Combat_atmosphere.wwu" DateLow="687366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Damage.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Default Work Unit.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Explosions.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Explosive_objects.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\GUI.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Hangar.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Impacts.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Impacts_Alternative.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Objects.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Pass_By.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Plane.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Roughness.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Turret.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Vehicles.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Attenuations\Weapons.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Audio Devices\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Control Surface Sessions\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Conversion Settings\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Conversion Settings\Factory Conversion Settings.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Dynamic Dialogue\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Explosive_objects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory Altiverb - Outdoor and More.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory Auro Headphone.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory Convolution Reverb Effects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory Effects.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory iZotope Box Modeler.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory iZotope Delay.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory iZotope Dynamics.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory iZotope Filters.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Factory McDSP Effects.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Hangar.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Impacts.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Main Mix.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Maps_Zone_Effects.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Plane.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Vehicles.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Effects\Weapons.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Ambient.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Combat_atmosphere.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Damage.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Engine.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Explosions.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Explosive_objects.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Fortified_Area.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\GUI.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Gun Reload.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Hangar.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Impacts.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Mechanisms.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Modules.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Music.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Objects.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Pass_By.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Physical_Collision.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Plane.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Treads.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Turret.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Tutorial_voice.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Utilite_events.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Voiceover_old.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Events\Weapons.wwu" DateLow="1257432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Ambient.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Common.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Damage.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Default Work Unit.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Explosions.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Fortifierd_Area.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\GUI.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Gun_Reload.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Hangar.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Impacts.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Interactive_music.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Multichanel.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Music.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Pass_By.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Physical_Collision.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Plane.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Settings.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Turret.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Vehicles.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Game Parameters\Weapons.wwu" DateLow="607366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Mixing Sessions\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Mixing Sessions\Main Mix.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Mixing Sessions\Weapons.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Modulators\ambient.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Modulators\Damage.wwu" DateLow="547366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Modulators\Default Work Unit.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Modulators\Explosive_objects_burn.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Modulators\Hangar.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Modulators\Impacts.wwu" DateLow="547366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Modulators\Physical_Collision.wwu" DateLow="547366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Modulators\Plane.wwu" DateLow="507366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Modulators\Vehicles.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Modulators\Weapons.wwu" DateLow="507366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Presets\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Queries\Build_queries.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Queries\Default Work Unit.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Queries\Factory Queries.wwu" DateLow="647366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\SoundBanks\Default Work Unit.wwu" DateLow="2928697088" DateHigh="30571297"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3097432064" DateHigh="30570341"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\States\Common.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\States\Default Work Unit.wwu" DateLow="627366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\States\Interactive_music.wwu" DateLow="707366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Switches\Common.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Switches\Damage.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Switches\Default Work Unit.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Switches\Gun_Reload.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Switches\Impacts.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Switches\Pass_By.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Switches\Roughness.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Switches\Turret.wwu" DateLow="467366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Switches\Vehicles.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Switches\Weapons.wwu" DateLow="447366656" DateHigh="30570339"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\Triggers\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
+	<ValidationCacheItem File="C:\Users\wwider\Desktop\New folder\WWISE\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.wproj" DateLow="1315613184" DateHigh="30573496"/>
+</ValidationCache>
