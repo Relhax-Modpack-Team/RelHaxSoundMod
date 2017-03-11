@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="75">
-	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3112740834" DateHigh="30578728"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1229089871" DateHigh="30579015"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\Attenuations\Ambient.wwu" DateLow="707366656" DateHigh="30570339"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\Attenuations\Collision.wwu" DateLow="687366656" DateHigh="30570339"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\Attenuations\Combat_atmosphere.wwu" DateLow="687366656" DateHigh="30570339"/>
@@ -125,7 +125,7 @@
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\Switches\Vehicles.wwu" DateLow="447366656" DateHigh="30570339"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\Switches\Weapons.wwu" DateLow="447366656" DateHigh="30570339"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\Triggers\Default Work Unit.wwu" DateLow="4277301248" DateHigh="30570337"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.widerw.wsettings" DateLow="594251730" DateHigh="30578814"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.widerw.wsettings" DateLow="1904291350" DateHigh="30579038"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\source files\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.wproj" DateLow="1258516322" DateHigh="30578728"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\WWISE\wwise_project_9.17.1\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2723138504" DateHigh="30578554"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\WWISE\wwise_project_9.17.1\Attenuations\Ambient.wwu" DateLow="707366656" DateHigh="30570339"/>

@@ -121,6 +121,13 @@
 				<Folder Name="GUI" ID="{F6742E00-BE3A-4893-B7E5-27DAD7F50D17}" ShortID="442510310">
 					<ChildrenList>
 						<RandomSequenceContainer Name="timer" ID="{9FAE66BF-45C9-4288-BD97-3F2DFAF3844A}" ShortID="495946519">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-7</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -844,6 +851,13 @@
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<Sound Name="base_capture_1" ID="{678C352C-5DD4-4931-B315-535F9101D31E}" ShortID="380780521" Type="SoundFX">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-7</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -863,12 +877,19 @@
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="music_defeat" ID="{AB540490-DAC7-48D2-88FF-521A77A8AACA}" ShortID="166985520" Type="SoundFX">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-7</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="LOBBY_MUSIC_RESULT" ID="{5DDDAA70-5A93-4EAB-8C32-6680943C43AC}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+									<ObjectRef Name="020_gui_simple" ID="{AC03A99D-ED85-4C59-AA89-7D65EA672C8B}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -882,12 +903,19 @@
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="music_drawn_game" ID="{6CB21147-F1D1-47B0-8577-E8BF850D241C}" ShortID="302876830" Type="SoundFX">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-7</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="LOBBY_MUSIC_RESULT" ID="{5DDDAA70-5A93-4EAB-8C32-6680943C43AC}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+									<ObjectRef Name="020_gui_simple" ID="{AC03A99D-ED85-4C59-AA89-7D65EA672C8B}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -901,12 +929,19 @@
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="music_victory" ID="{B0A99B3D-C713-462D-A58C-5B1A2D5AB2F0}" ShortID="356900045" Type="SoundFX">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-7</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="LOBBY_MUSIC_RESULT" ID="{5DDDAA70-5A93-4EAB-8C32-6680943C43AC}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+									<ObjectRef Name="020_gui_simple" ID="{AC03A99D-ED85-4C59-AA89-7D65EA672C8B}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -920,6 +955,13 @@
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="time_buzzer_01" ID="{506AF453-378F-4F0A-96C8-A725111AEB19}" ShortID="786891302" Type="SoundFX">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-7</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>

@@ -4,7 +4,7 @@
 		<Banks>
 			<Language ID="0">
 				<File Name="Init" Hash="1214174244" Timestamp="131334641136171324"/>
-				<File Name="RelHaxGui" Hash="2041768426" Timestamp="131334641125840291"/>
+				<File Name="RelHaxGui" Hash="3342822301" Timestamp="131337306023347424"/>
 				<File Name="RelHaxSixthSense" Hash="3408932044" Timestamp="131334641126150322"/>
 				<File Name="gui" Hash="1474073370" Timestamp="131333922032010541"/>
 				<File Name="sixthSense" Hash="982054161" Timestamp="131333922031370477"/>
@@ -127,7 +127,7 @@
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="3045611789" Timestamp="131335007621847974"/>
+				<File Name="" Hash="3045611789" Timestamp="131337306027109362"/>
 			</Language>
 		</XMLInfo>
 	</Platform>
