@@ -195,6 +195,15 @@
 				<Event Id="793834579" Name="mod_lightbulb" ObjectPath="\Events\GUI\modes\lightbulb\mod_lightbulb"/>
 			</IncludedEvents>
 		</SoundBank>
+		<SoundBank Id="2714595756" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\RelHaxAprilUpdate</ObjectPath>
+			<ShortName>RelHaxAprilUpdate</ShortName>
+			<Path>RelHaxAprilUpdate.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1165943309" Name="mod_loginscreen_ambient_start" ObjectPath="\Events\Music\Loginscreen\mod_loginscreen_ambient_start"/>
+				<Event Id="41918968" Name="mod_loginscreen_music_start" ObjectPath="\Events\Music\Loginscreen\mod_loginscreen_music_start"/>
+			</IncludedEvents>
+		</SoundBank>
 		<SoundBank Id="2802364914" Language="SFX">
 			<ObjectPath>\SoundBanks\Default Work Unit\RelHaxGui</ObjectPath>
 			<ShortName>RelHaxGui</ShortName>

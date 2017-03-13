@@ -74,11 +74,31 @@
 				</Folder>
 				<Folder Name="Loginscreen" ID="{8AE7808A-2004-41B1-8DBA-FC387D01CD4A}" ShortID="128475641">
 					<ChildrenList>
-						<Event Name="loginscreen_music_start" ID="{662732CA-6574-4B1E-872B-D378DC303B36}"/>
+						<Event Name="mod_loginscreen_music_start" ID="{662732CA-6574-4B1E-872B-D378DC303B36}">
+							<ChildrenList>
+								<Action Name="Play" ID="{66C45EBE-A2CA-427D-B183-FA0E7B54E6B3}" ShortID="701328362" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{20045658-A80A-46B6-8048-F1716F0AE4F7}" Global="false">
+											<ObjectRef Name="New Sound SFX" ID="{151661CA-90CD-448B-A309-DA0670746000}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
 						<Event Name="loginscreen_mute" ID="{39054800-30C4-4DD3-8D95-7C8FA6E712D8}"/>
 						<Event Name="loginscreen_unmute" ID="{20C025B9-CADA-454C-B3CA-00CC5898649D}"/>
 						<Event Name="loginscreen_music_stop_longfade" ID="{B55CB314-24F7-4C5E-8E43-A72010ED2785}"/>
-						<Event Name="loginscreen_ambient_start" ID="{DCA68B0B-40B9-4CBB-B188-CC7F57FF0CBB}"/>
+						<Event Name="mod_loginscreen_ambient_start" ID="{DCA68B0B-40B9-4CBB-B188-CC7F57FF0CBB}">
+							<ChildrenList>
+								<Action Name="Play" ID="{2B843678-6301-497C-BEF7-0F912A192194}" ShortID="528936813" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{77B0A51C-33A2-42CD-BD3B-68F90F50379E}" Global="false">
+											<ObjectRef Name="New Sound SFX" ID="{151661CA-90CD-448B-A309-DA0670746000}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
 						<Event Name="loginscreen_ambient_stop" ID="{E339DF54-75C5-4EEF-A869-0485D2448A6C}"/>
 						<Event Name="loginscreen_music_pause" ID="{DB63054C-21CE-4447-9AD9-8BC5E678DD25}"/>
 						<Event Name="loginscreen_music_resume" ID="{D3137202-65F3-4699-9D5F-B0984C043CEF}"/>

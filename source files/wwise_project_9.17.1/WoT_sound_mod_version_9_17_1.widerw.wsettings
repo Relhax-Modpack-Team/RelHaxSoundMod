@@ -3,6 +3,7 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{110F67DC-062D-4ED8-9C01-9EB32124B8F2}">
 			<PropertyList>
+				<Property Name="AudioFilesImporter\Path" Type="string" Value="F:\Tanks Stuff\mods"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
 						<Value Platform="Windows_HighRes"></Value>
@@ -19,7 +20,7 @@
 				<Property Name="General\LatestPlatform" Type="string" Value="Windows_HighRes"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="KQAAAAsAAAAMAAAA"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="V7IMbsjGXEyDZidA38RB7AxtbEfLXtZNuTAsZZSw+i8="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="Dti02q73wEmxSrKplPLJTAFtn7A+2t9PvKFwQK5sIhlpa3DSbfrlSKqMq2LkpV8i"/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="vsBvPqJio0qpMC5Oc1mIIw=="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
@@ -29,8 +30,8 @@
 				<Property Name="MonitoringManager\WatchMgr\x64_Watches" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\FirstVisible_10_1" Type="string" Value="{4C96B38B-3DB4-40C7-91C9-665510E38993}"/>
 				<Property Name="ProjectExplorer\FirstVisible_11_1" Type="string" Value="{23EC2DE3-3ED8-4B82-AC99-92E25F2E4C6B}"/>
-				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{5DDDAA70-5A93-4EAB-8C32-6680943C43AC}"/>
-				<Property Name="ProjectExplorer\FirstVisible_3_1" Type="string" Value="{F1E58D3E-BC3C-4012-877F-50D4CCE8B517}"/>
+				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{2388DAEA-9775-46C6-A2ED-C5222A397756}"/>
+				<Property Name="ProjectExplorer\FirstVisible_3_1" Type="string" Value="{8EAC0794-05DC-4623-99F5-37C046413696}"/>
 				<Property Name="ProjectExplorer\FirstVisible_4_1" Type="string" Value="{CB6175F1-6080-4A23-92EF-0807E304D0C1}"/>
 				<Property Name="ProjectExplorer\FirstVisible_6_1" Type="string" Value="{C98E673F-A24C-48A8-960F-10565FFE70A0}"/>
 				<Property Name="ProjectExplorer\FirstVisible_8_1" Type="string" Value="{41093F77-829F-4D88-8601-E8B25F3D4781}"/>
@@ -46,8 +47,8 @@
 				<Property Name="ProjectExplorer\x64_Expanded_19_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value="2KQUFaYdKkGhfnXKDCFJ88ztNCIekS1Er39KOaaBZkI="/>
 				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="VA4ZZRMtNkK5KmjuzmGoQgAudPY6vpNIt+Un2tf1DRc="/>
-				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="tsciWcIXBkKPMwoP++S10ieRGaC12lJCnzqok8rFgNTpNWwtXTrmQpJ8qzWrycuu/jRb8+hGK0SUmF7Kw9RuiiCAHmmgfb5KgqhMImo6mQMN64g50k/kSqo+kcmrWIHmoxYysGsQNE2rYm5GBv3vlFt18t+PmrlPo1bzrIG90Wc="/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="VA4ZZRMtNkK5KmjuzmGoQt7W7QCQy7FKo4nRFrBV8LE="/>
+				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="ioDnigQgsUGNuvw4fQHNSrbHIlnCFwZCjzMKD/vktdInkRmgtdpSQp86qJPKxYDU6TVsLV065kKSfKs1q8nLrv40W/PoRitElJheysPUboorUug6GPkNRaS47Jfy5Em2T8tRu5NN7keyJ7j75KfWSjh3g4Vd5ENIiQrbsyjGswPRJF7iaXn4SIVs44L5GDmlIIAeaaB9vkqCqEwiajqZAw3riDnST+RKqj6RyatYgeajFjKwaxA0TatibkYG/e+U41JF9n3Ivk6NadNAsLAzej8usd0sQulOrEu5voeZlwRbdfLfj5q5T6NW86yBvdFn"/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value="TaTLqetToES0uYDOpylIiQ=="/>

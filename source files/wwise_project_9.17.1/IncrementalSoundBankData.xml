@@ -4,6 +4,7 @@
 		<Banks>
 			<Language ID="0">
 				<File Name="Init" Hash="1214174244" Timestamp="131334641136171324"/>
+				<File Name="RelHaxAprilUpdate" Hash="1692780010" Timestamp="131337739391805901"/>
 				<File Name="RelHaxGui" Hash="3342822301" Timestamp="131337306023347424"/>
 				<File Name="RelHaxSixthSense" Hash="3408932044" Timestamp="131334641126150322"/>
 				<File Name="gui" Hash="1474073370" Timestamp="131333922032010541"/>
@@ -127,7 +128,7 @@
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="3045611789" Timestamp="131337306027109362"/>
+				<File Name="" Hash="813363938" Timestamp="131337739392360945"/>
 			</Language>
 		</XMLInfo>
 	</Platform>
@@ -135,6 +136,7 @@
 		<Banks>
 			<Language ID="0">
 				<File Name="Init" Hash="1739161131" Timestamp="131334641141301837"/>
+				<File Name="RelHaxAprilUpdate" Hash="1058360335" Timestamp="131337739393730918"/>
 				<File Name="RelHaxGui" Hash="2124861961" Timestamp="131334641140711778"/>
 				<File Name="RelHaxSixthSense" Hash="4211626085" Timestamp="131334641140891796"/>
 				<File Name="RelHaxVoiceover" Hash="3956774549" Timestamp="131334982580689283"/>
@@ -145,7 +147,7 @@
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="1066536211" Timestamp="131334982581009283"/>
+				<File Name="" Hash="1004931719" Timestamp="131337739394020925"/>
 			</Language>
 		</XMLInfo>
 	</Platform>

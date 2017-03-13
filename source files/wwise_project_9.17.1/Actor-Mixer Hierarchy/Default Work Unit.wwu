@@ -11416,6 +11416,29 @@
 						</RandomSequenceContainer>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="rick_roll" ID="{00EDD6DE-CB90-4AB1-A389-D116B055F0B1}" ShortID="851815136">
+					<ChildrenList>
+						<Sound Name="New Sound SFX" ID="{151661CA-90CD-448B-A309-DA0670746000}" ShortID="793153478" Type="SoundFX">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Rick Astley - Never Gonna Give You Up" ID="{27A8A9DC-0AC0-408F-962C-AEDA617790FB}" ShortID="158540605">
+									<Language>SFX</Language>
+									<AudioFile>Rick Astley - Never Gonna Give You Up.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Rick Astley - Never Gonna Give You Up" ID="{27A8A9DC-0AC0-408F-962C-AEDA617790FB}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

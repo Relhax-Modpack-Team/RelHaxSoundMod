@@ -100,6 +100,13 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="RelHaxAprilUpdate" ID="{3E6FC0BE-62A2-4AA3-A930-2E4E73598823}">
+					<ObjectInclusionList>
+						<ObjectRef Name="mod_loginscreen_music_start" ID="{662732CA-6574-4B1E-872B-D378DC303B36}" WorkUnitID="{2D6C35E9-3A5D-42E6-927C-AB35ABC9CBAE}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>
