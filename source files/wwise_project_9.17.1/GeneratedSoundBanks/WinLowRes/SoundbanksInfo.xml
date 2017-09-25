@@ -128,6 +128,13 @@
 			<ShortName>RelHaxVoiceover</ShortName>
 			<Path>RelHaxVoiceover.bnk</Path>
 			<IncludedEvents>
+				<Event Id="1611658743" Name="mod_vo_chat_shotcuts_attack" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_attack"/>
+				<Event Id="1210881942" Name="mod_vo_chat_shotcuts_attack_the_enemy" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_attack_the_enemy"/>
+				<Event Id="223798550" Name="mod_vo_chat_shotcuts_back_to_base" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_back_to_base"/>
+				<Event Id="2964625917" Name="mod_vo_chat_shotcuts_follow_me" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_follow_me"/>
+				<Event Id="1638847515" Name="mod_vo_chat_shotcuts_help_me" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_help_me"/>
+				<Event Id="1857100278" Name="mod_vo_chat_shotcuts_negative" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_negative"/>
+				<Event Id="778388262" Name="mod_vo_chat_shotcuts_positive" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_positive"/>
 				<Event Id="2301863335" Name="vo_ally_killed_by_player" ObjectPath="\Events\RelHax_reg\vo_ally_killed_by_player"/>
 				<Event Id="3166122996" Name="vo_ammo_bay_damaged" ObjectPath="\Events\RelHax_reg\vo_ammo_bay_damaged"/>
 				<Event Id="1332081395" Name="vo_armor_not_pierced_by_player" ObjectPath="\Events\RelHax_reg\vo_armor_not_pierced_by_player"/>
@@ -200,7 +207,6 @@
 			<ShortName>RelHaxAprilUpdate</ShortName>
 			<Path>RelHaxAprilUpdate.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1165943309" Name="mod_loginscreen_ambient_start" ObjectPath="\Events\Music\Loginscreen\mod_loginscreen_ambient_start"/>
 				<Event Id="41918968" Name="mod_loginscreen_music_start" ObjectPath="\Events\Music\Loginscreen\mod_loginscreen_music_start"/>
 			</IncludedEvents>
 		</SoundBank>
@@ -216,13 +222,6 @@
 				<Event Id="3835730880" Name="mod_music_victory" ObjectPath="\Events\Music\Arena\mod_music_victory"/>
 				<Event Id="3096903476" Name="mod_time_buzzer_01" ObjectPath="\Events\GUI\notificationFX\mod_time_buzzer_01"/>
 				<Event Id="4087023837" Name="mod_timer" ObjectPath="\Events\GUI\notificationFX\mod_timer"/>
-				<Event Id="1611658743" Name="mod_vo_chat_shotcuts_attack" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_attack"/>
-				<Event Id="1210881942" Name="mod_vo_chat_shotcuts_attack_the_enemy" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_attack_the_enemy"/>
-				<Event Id="223798550" Name="mod_vo_chat_shotcuts_back_to_base" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_back_to_base"/>
-				<Event Id="2964625917" Name="mod_vo_chat_shotcuts_follow_me" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_follow_me"/>
-				<Event Id="1638847515" Name="mod_vo_chat_shotcuts_help_me" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_help_me"/>
-				<Event Id="1857100278" Name="mod_vo_chat_shotcuts_negative" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_negative"/>
-				<Event Id="778388262" Name="mod_vo_chat_shotcuts_positive" ObjectPath="\Events\GUI\chat_shotcuts\mod_vo_chat_shotcuts_positive"/>
 			</IncludedEvents>
 		</SoundBank>
 	</SoundBanks>

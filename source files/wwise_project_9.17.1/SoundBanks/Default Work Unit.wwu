@@ -19,10 +19,6 @@
 				</SoundBank>
 				<SoundBank Name="RelHaxGui" ID="{DAB4D80E-F7AE-49C0-B14A-B2A994F2C94C}">
 					<ObjectInclusionList>
-						<ObjectRef Name="mod_vo_chat_shotcuts_attack" ID="{A45D381A-66B2-4089-B211-4993DB1F0D08}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_vo_chat_shotcuts_negative" ID="{0623F8E2-A9F0-4181-8608-65ACE127EAA7}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_vo_chat_shotcuts_attack_the_enemy" ID="{DFFCDE73-01AB-42A9-A60D-E31E3C2BF3E5}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_vo_chat_shotcuts_positive" ID="{EB83A393-DB60-44F8-98FB-5ED5141CAB7C}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="mod_music_defeat" ID="{D5DBBEB6-ECF5-451B-A72F-84F6E7F77E5A}" WorkUnitID="{2D6C35E9-3A5D-42E6-927C-AB35ABC9CBAE}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="mod_base_capture_1" ID="{44DF7378-1285-46B5-A919-80F5CFF533CF}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="mod_timer" ID="{920B742E-AC9B-4967-AE08-41B7EEE1365B}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
@@ -30,9 +26,6 @@
 						<ObjectRef Name="mod_enemy_sighted_for_team" ID="{EA161AFE-D188-4AAF-A0D9-155A0F1B709D}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="mod_music_victory" ID="{4AF3980C-71EB-4B10-958A-E408A503F966}" WorkUnitID="{2D6C35E9-3A5D-42E6-927C-AB35ABC9CBAE}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="mod_music_drawn_game" ID="{06B47DDD-D3D1-4B10-8763-89E8C9E21754}" WorkUnitID="{2D6C35E9-3A5D-42E6-927C-AB35ABC9CBAE}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_vo_chat_shotcuts_back_to_base" ID="{93CD3529-DC2F-4B90-AC29-D98757EC220E}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_vo_chat_shotcuts_help_me" ID="{7C456942-6BEC-4BCA-B23E-BA5E21F40EE8}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_vo_chat_shotcuts_follow_me" ID="{2963AEFD-4085-4EDC-8047-5E736D289B6E}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
@@ -42,13 +35,16 @@
 						<ObjectRef Name="vo_ammo_bay_damaged" ID="{681D379E-92A0-4001-A46F-B28F1B744F7B}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player" ID="{3DEB3323-ABC0-4038-92A2-186E98A3C376}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_target_lost" ID="{30AB9957-9172-4069-8395-C5F5BF236003}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="mod_vo_chat_shotcuts_attack" ID="{A45D381A-66B2-4089-B211-4993DB1F0D08}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_target_unlocked" ID="{042A3720-0307-4116-BBFB-DF4F12CC913A}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_armor_ricochet_by_player" ID="{8C319396-3488-4156-B4CC-859B7ADB6E99}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_gunner_killed" ID="{E99BA461-13F5-4173-B223-2C9189E4E7A8}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="mod_vo_chat_shotcuts_negative" ID="{0623F8E2-A9F0-4181-8608-65ACE127EAA7}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_armor_not_pierced_by_player" ID="{5729F112-24F1-41AF-BD8D-C53FA84FC2B4}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player" ID="{7227985F-9223-4207-809B-53CC593A7475}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_enemy_killed_by_player" ID="{638B56FC-7D7D-4219-8CB8-222BACF4FB4B}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_fire_stopped" ID="{B6D9BC57-7475-425C-AA1D-338CEDBA2591}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="mod_vo_chat_shotcuts_attack_the_enemy" ID="{DFFCDE73-01AB-42A9-A60D-E31E3C2BF3E5}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_enemy_killed" ID="{8332FD48-2DB6-431B-A348-8CE0B80F0E34}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_track_damaged" ID="{D1E7D21A-97D9-432E-87AF-EB28635F7337}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_dp_platoon_created" ID="{303050B0-F2A2-4353-B00B-3C5D459287E5}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
@@ -59,6 +55,7 @@
 						<ObjectRef Name="vo_engine_damaged" ID="{C6DC9BD0-6720-444F-B55B-2A99E28DAE3A}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_loader_killed" ID="{BE78D2AB-09A2-44C1-83D3-80D1878AD058}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_dp_left_platoon" ID="{AF5EEE7A-D62A-44EC-A6EA-332163A017B3}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="mod_vo_chat_shotcuts_positive" ID="{EB83A393-DB60-44F8-98FB-5ED5141CAB7C}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_engine_functional" ID="{9E37836A-D830-4519-A0CD-D85C1B6FFFA9}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_fire_started" ID="{679E623A-FB6A-4596-88B7-B83BA7B985E2}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_dp_assistance_been_requested" ID="{962939FB-01B1-45C4-BF61-B561F51E4794}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
@@ -80,6 +77,8 @@
 						<ObjectRef Name="vo_target_captured" ID="{06F2F8EE-1BD9-4AA8-B63C-4ABD405B770C}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player" ID="{B3B90FD4-90CA-4AFE-A5A5-4851C782FABF}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_radio_damaged" ID="{0148DCD8-F70C-4B61-9BDA-35DDC2767241}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="mod_vo_chat_shotcuts_back_to_base" ID="{93CD3529-DC2F-4B90-AC29-D98757EC220E}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="mod_vo_chat_shotcuts_help_me" ID="{7C456942-6BEC-4BCA-B23E-BA5E21F40EE8}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_turret_rotator_damaged" ID="{01F05AF6-BA92-4BEB-A958-132D57E0DC13}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_damage_by_near_explosion_by_enemy" ID="{4AE0EF72-9E6A-4C3F-8E77-4BBF9A0859A2}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_engine_destroyed" ID="{E91B115A-042B-4C49-89EF-4EE843764264}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
@@ -90,6 +89,7 @@
 						<ObjectRef Name="vo_gun_destroyed" ID="{36F1B280-4CE8-4D6C-841B-03F2C7AAA101}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player" ID="{AA4B91EC-9640-4E9C-828A-DB1F486844DD}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_damage_by_near_explosion_by_player" ID="{2DECFC9D-E580-4ECE-9127-0BD0B203EAFC}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="mod_vo_chat_shotcuts_follow_me" ID="{2963AEFD-4085-4EDC-8047-5E736D289B6E}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_fuel_tank_damaged" ID="{93732547-7D72-4F36-84F4-7B9416BD3CDD}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_enemy_fire_started_by_player" ID="{345E1E8D-3E95-4F48-A66C-F2A558AEADEB}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="vo_crew_deactivated" ID="{C3511F85-FDFD-4F5E-91AE-4CE3E1A6C42F}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
