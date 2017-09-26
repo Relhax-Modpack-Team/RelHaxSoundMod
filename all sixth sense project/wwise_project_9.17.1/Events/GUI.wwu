@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" SchemaVersion="75">
+<WwiseDocument Type="WorkUnit" ID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" SchemaVersion="80">
 	<Events>
 		<WorkUnit Name="GUI" ID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" PersistMode="Standalone">
 			<Comment>Звуки интерфейса </Comment>
@@ -13,12 +13,15 @@
 						<Event Name="mod_enemy_sighted_for_team" ID="{EA161AFE-D188-4AAF-A0D9-155A0F1B709D}">
 							<Comment>Ивент - Звук засвета игрока</Comment>
 							<ChildrenList>
-								<Action Name="Play" ID="{E8E8D45A-4603-4DBE-B047-51F90350E44F}" ShortID="886448076" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{3F782154-EDEE-4247-AF2E-645ADE255FB8}" Global="false">
+								<Action Name="" ID="{E8E8D45A-4603-4DBE-B047-51F90350E44F}" ShortID="886448076">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="enemy_sighted_for_team" ID="{9044F0D8-5F81-4D69-A594-673D23944CF4}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
@@ -46,12 +49,15 @@
 						<Event Name="mod_timer" ID="{920B742E-AC9B-4967-AE08-41B7EEE1365B}">
 							<Comment>Ивент - Звук отсчета таймера</Comment>
 							<ChildrenList>
-								<Action Name="Play" ID="{D73C220F-6B28-4073-9E00-0C5A5346C0BA}" ShortID="51434951" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{F0D3772F-55AB-4719-8FD6-A2884F8A1AAB}" Global="false">
+								<Action Name="" ID="{D73C220F-6B28-4073-9E00-0C5A5346C0BA}" ShortID="51434951">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="timer" ID="{9FAE66BF-45C9-4288-BD97-3F2DFAF3844A}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
@@ -96,12 +102,15 @@
 						</Event>
 						<Event Name="mod_time_buzzer_01" ID="{45418D79-4984-49A7-8D49-452E25E0CC98}">
 							<ChildrenList>
-								<Action Name="Play" ID="{3622A57A-A54A-4BCC-B9D7-CD14B9F20988}" ShortID="182350967" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{0C9041BB-582A-4A47-A3CA-617720744F1F}" Global="false">
+								<Action Name="" ID="{3622A57A-A54A-4BCC-B9D7-CD14B9F20988}" ShortID="182350967">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="time_buzzer_01" ID="{506AF453-378F-4F0A-96C8-A725111AEB19}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
@@ -123,12 +132,15 @@
 						<Event Name="mod_base_capture_1" ID="{44DF7378-1285-46B5-A919-80F5CFF533CF}">
 							<Comment>Ивент - Звук захвата базы</Comment>
 							<ChildrenList>
-								<Action Name="Play" ID="{AEF7B25E-B983-47BC-BB8B-0B691F3C86AA}" ShortID="370506468" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{33787E78-579A-4F84-BE7C-015095F89FEB}" Global="false">
+								<Action Name="" ID="{AEF7B25E-B983-47BC-BB8B-0B691F3C86AA}" ShortID="370506468">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="base_capture_1" ID="{678C352C-5DD4-4931-B315-535F9101D31E}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
@@ -223,23 +235,29 @@ _________________________________________________________
 								</Event>
 								<Event Name="sixthSense" ID="{88652502-B881-42D3-AD43-2FF36ADCB712}">
 									<ChildrenList>
-										<Action Name="Play" ID="{06C01723-E6E6-482A-BCEF-FE707DF2E7BE}" ShortID="299411600" Type="Play" Scope="One" Global="false">
-											<ElementList>
-												<Element ID="{A0DA16FD-70F8-46A0-9CD9-8577D6580B30}" Global="false">
+										<Action Name="" ID="{06C01723-E6E6-482A-BCEF-FE707DF2E7BE}" ShortID="299411600">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
 													<ObjectRef Name="sixthSense" ID="{CB7BA84A-496C-4CA2-BF03-8D09AA28E3EC}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-												</Element>
-											</ElementList>
+												</Reference>
+											</ReferenceList>
 										</Action>
 									</ChildrenList>
 								</Event>
 								<Event Name="lightbulb_admiral_akbar" ID="{C5236D3F-FCF5-4DBC-B3BF-58B0963119C5}">
 									<ChildrenList>
-										<Action Name="Play" ID="{8421F475-ED11-49A4-8D3C-DD8B4043A7CF}" ShortID="870065660" Type="Play" Scope="One" Global="false">
-											<ElementList>
-												<Element ID="{EA29C0BE-6C12-4925-804B-1BBAEB99F6E0}" Global="false">
+										<Action Name="" ID="{8421F475-ED11-49A4-8D3C-DD8B4043A7CF}" ShortID="870065660">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
 													<ObjectRef Name="admiral_akbar_1" ID="{4A6F420E-C578-4BCD-BDA3-0EDFB29F5F63}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-												</Element>
-											</ElementList>
+												</Reference>
+											</ReferenceList>
 										</Action>
 									</ChildrenList>
 								</Event>
@@ -249,96 +267,134 @@ _________________________________________________________
 								<Event Name="lightbulb_countdown_10_sec" ID="{445CCEFA-5ED3-43AE-8293-BF56F02D30A5}">
 									<Comment>Ивент - Звук "Лампочки"</Comment>
 									<ChildrenList>
-										<Action Name="Play" ID="{A27A9BB7-9150-44C5-AAF6-A05E4DE5014D}" ShortID="984870015" Type="Play" Scope="One" Global="false">
-											<ElementList>
-												<Element ID="{FF921633-5FD1-470F-BA1A-F39E5CB4FC9F}" Global="false">
+										<Action Name="" ID="{A27A9BB7-9150-44C5-AAF6-A05E4DE5014D}" ShortID="984870015">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
 													<ObjectRef Name="countdown_10_sec" ID="{4224F4D1-33F5-4574-BE62-141A30BCE8A1}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-												</Element>
-											</ElementList>
+												</Reference>
+											</ReferenceList>
 										</Action>
 									</ChildrenList>
 								</Event>
 								<Event Name="lightbulb_german" ID="{9F98504F-FA92-4422-934A-2AC8A5445EC4}">
 									<Comment>Ивент - Звук "Лампочки"</Comment>
 									<ChildrenList>
-										<Action Name="Play" ID="{15B1A758-826A-4269-8A58-76D556DD5C02}" ShortID="499446518" Type="Play" Scope="One" Global="false">
-											<ElementList>
-												<Element ID="{24975520-5115-48C6-AD46-13AF19721287}" Global="false">
+										<Action Name="" ID="{15B1A758-826A-4269-8A58-76D556DD5C02}" ShortID="499446518">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
 													<ObjectRef Name="german" ID="{213C35CB-ADAB-46F6-ADA6-499B7E9F791B}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-												</Element>
-											</ElementList>
+												</Reference>
+											</ReferenceList>
 										</Action>
 									</ChildrenList>
 								</Event>
 								<Event Name="lightbulb_minions" ID="{D50A6320-E2A9-409C-B07C-C517030F9BE2}">
 									<Comment>Ивент - Звук "Лампочки"</Comment>
 									<ChildrenList>
-										<Action Name="Play" ID="{AF7FB80A-C329-4EC9-8AFE-30D3F9060CDD}" ShortID="494454953" Type="Play" Scope="One" Global="false">
-											<ElementList>
-												<Element ID="{0A9D76BE-8F96-4AAD-9C2C-96B01F582829}" Global="false">
+										<Action Name="" ID="{AF7FB80A-C329-4EC9-8AFE-30D3F9060CDD}" ShortID="494454953">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
 													<ObjectRef Name="minions_1" ID="{73E50E12-18C6-47A9-ACAF-5FC0463C97DC}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-												</Element>
-											</ElementList>
+												</Reference>
+											</ReferenceList>
 										</Action>
 									</ChildrenList>
 								</Event>
 								<Event Name="lightbulb_sauron" ID="{42564A06-18BD-4FF6-8DED-162943E21224}">
 									<Comment>Ивент - Звук "Лампочки"</Comment>
 									<ChildrenList>
-										<Action Name="Play" ID="{0B682609-69EA-4696-AC37-EC4274CBEC72}" ShortID="53340455" Type="Play" Scope="One" Global="false">
-											<ElementList>
-												<Element ID="{5C3282B4-E5AA-4757-AD97-C8AF4392601B}" Global="false">
+										<Action Name="" ID="{0B682609-69EA-4696-AC37-EC4274CBEC72}" ShortID="53340455">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
 													<ObjectRef Name="sauron" ID="{F52AE58A-60C8-464A-9ED8-A7F6BE360ABB}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-												</Element>
-											</ElementList>
+												</Reference>
+											</ReferenceList>
 										</Action>
 									</ChildrenList>
 								</Event>
 								<Event Name="lightbulb_suprise" ID="{60A9A9AE-7E18-4F1F-827D-5D61B046FCFF}">
 									<Comment>Ивент - Звук "Лампочки"</Comment>
 									<ChildrenList>
-										<Action Name="Play" ID="{299FE3AF-0BB0-475C-A47B-7B54726397A0}" ShortID="283193671" Type="Play" Scope="One" Global="false">
-											<ElementList>
-												<Element ID="{C97C344A-EB2E-4E96-B9FC-CBB939DC16FC}" Global="false">
+										<Action Name="" ID="{299FE3AF-0BB0-475C-A47B-7B54726397A0}" ShortID="283193671">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
 													<ObjectRef Name="suprise_sound_1" ID="{6A9109D2-49A7-4E21-9DBB-D83643C35B6D}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-												</Element>
-											</ElementList>
+												</Reference>
+											</ReferenceList>
 										</Action>
 									</ChildrenList>
 								</Event>
 								<Event Name="lightbulb_timer_8_sec_soft" ID="{C15B62E0-7457-4176-A106-27E4C5DF9C59}">
 									<Comment>Ивент - Звук "Лампочки"</Comment>
 									<ChildrenList>
-										<Action Name="Play" ID="{1F3A6115-2672-4FCF-8682-784F04E8C552}" ShortID="787737681" Type="Play" Scope="One" Global="false">
-											<ElementList>
-												<Element ID="{2874191B-54A8-43F0-BC90-CA4A1FA386BE}" Global="false">
+										<Action Name="" ID="{1F3A6115-2672-4FCF-8682-784F04E8C552}" ShortID="787737681">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
 													<ObjectRef Name="timer_8_sec_soft" ID="{DCAC1086-769B-4C22-9B86-BA03F71D0302}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-												</Element>
-											</ElementList>
+												</Reference>
+											</ReferenceList>
 										</Action>
 									</ChildrenList>
 								</Event>
 								<Event Name="lightbulb_timer_8_sec_loud" ID="{1E7FC673-D81B-4767-882F-7B98B45E05A9}">
 									<Comment>Ивент - Звук "Лампочки"</Comment>
 									<ChildrenList>
-										<Action Name="Play" ID="{2EEA95A9-CB50-417E-9EF3-187B9A691CB6}" ShortID="657834068" Type="Play" Scope="One" Global="false">
-											<ElementList>
-												<Element ID="{60C1EB16-8F5D-4E6D-A186-CE642F62CA44}" Global="false">
+										<Action Name="" ID="{2EEA95A9-CB50-417E-9EF3-187B9A691CB6}" ShortID="657834068">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
 													<ObjectRef Name="timer_8_sec_loud" ID="{1A752A55-626D-410D-9D11-1CABD121BED3}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-												</Element>
-											</ElementList>
+												</Reference>
+											</ReferenceList>
 										</Action>
 									</ChildrenList>
 								</Event>
 								<Event Name="lightbulb_timer_10_sec" ID="{0D6E2D66-26EA-49C9-879D-9E2AD88BA0CF}">
 									<Comment>Ивент - Звук "Лампочки"</Comment>
 									<ChildrenList>
-										<Action Name="Play" ID="{D444B5A6-1CDC-40FD-814F-2F4A748CEFA6}" ShortID="1028903151" Type="Play" Scope="One" Global="false">
-											<ElementList>
-												<Element ID="{DCFE7D76-2A4D-4F69-ADF9-F1ED1C4BE0EE}" Global="false">
+										<Action Name="" ID="{D444B5A6-1CDC-40FD-814F-2F4A748CEFA6}" ShortID="1028903151">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
 													<ObjectRef Name="timer_10_sec" ID="{3962D51C-4E63-4E8C-8CD6-D0C39E5FE2D7}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-												</Element>
-											</ElementList>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="lightbulb_die_zwei" ID="{9172F0F3-7D57-457F-BA72-E295626A2195}">
+									<ChildrenList>
+										<Action Name="" ID="{BA128B69-55A5-4434-B09B-49FBA0823C0D}" ShortID="339183974">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="die_zwei" ID="{4EF52B15-C500-47B0-A79C-9EAEB1742404}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+												</Reference>
+											</ReferenceList>
 										</Action>
 									</ChildrenList>
 								</Event>
@@ -400,78 +456,99 @@ _________________________________________________________
 					<ChildrenList>
 						<Event Name="mod_vo_chat_shotcuts_help_me" ID="{7C456942-6BEC-4BCA-B23E-BA5E21F40EE8}">
 							<ChildrenList>
-								<Action Name="Play" ID="{E8086372-5134-42B9-B4A4-64C0453CAF9F}" ShortID="56942030" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{01246B21-A822-4896-88DE-21A3C42B19EE}" Global="false">
+								<Action Name="" ID="{E8086372-5134-42B9-B4A4-64C0453CAF9F}" ShortID="56942030">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="shotcuts_help_me" ID="{59C1D59B-FBEB-4772-8D6F-A1DBD117F454}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="mod_vo_chat_shotcuts_attack" ID="{A45D381A-66B2-4089-B211-4993DB1F0D08}">
 							<ChildrenList>
-								<Action Name="Play" ID="{B1D6777A-FD9D-4B97-8944-91DDC5DD29DE}" ShortID="868240590" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{394DADFC-67D7-4994-9D8E-41DCDEFAA4E3}" Global="false">
+								<Action Name="" ID="{B1D6777A-FD9D-4B97-8944-91DDC5DD29DE}" ShortID="868240590">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="shotcuts_attack" ID="{7104D7F1-E082-42E3-B1E5-630BE791DD54}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="mod_vo_chat_shotcuts_back_to_base" ID="{93CD3529-DC2F-4B90-AC29-D98757EC220E}">
 							<ChildrenList>
-								<Action Name="Play" ID="{9A86BAC0-82A5-4B38-B7E5-8453B3C839CF}" ShortID="386609057" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{5CD6EAEF-F1A4-4131-8FCA-5C29642C975E}" Global="false">
+								<Action Name="" ID="{9A86BAC0-82A5-4B38-B7E5-8453B3C839CF}" ShortID="386609057">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="shotcuts_defend_base" ID="{76069D9B-9EBE-49C3-8AB6-6DEBD189937B}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="mod_vo_chat_shotcuts_follow_me" ID="{2963AEFD-4085-4EDC-8047-5E736D289B6E}">
 							<ChildrenList>
-								<Action Name="Play" ID="{606F586C-1C31-4540-BAA9-6929165AB55C}" ShortID="102370058" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{AC7D2ADD-4D2C-4799-979D-ABF00044A7E7}" Global="false">
+								<Action Name="" ID="{606F586C-1C31-4540-BAA9-6929165AB55C}" ShortID="102370058">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="shotcuts_follow_me" ID="{321859A4-654C-4FB5-95B0-6A19E2E52BA0}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="mod_vo_chat_shotcuts_attack_the_enemy" ID="{DFFCDE73-01AB-42A9-A60D-E31E3C2BF3E5}">
 							<ChildrenList>
-								<Action Name="Play" ID="{AC35B314-6E43-4879-8C0A-2B1BE25FA5C6}" ShortID="833174994" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{9E97A1AE-F4F5-4994-9E26-1449D421E68E}" Global="false">
+								<Action Name="" ID="{AC35B314-6E43-4879-8C0A-2B1BE25FA5C6}" ShortID="833174994">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="shotcuts_attack" ID="{7104D7F1-E082-42E3-B1E5-630BE791DD54}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="mod_vo_chat_shotcuts_negative" ID="{0623F8E2-A9F0-4181-8608-65ACE127EAA7}">
 							<ChildrenList>
-								<Action Name="Play" ID="{1E182A11-FBC4-44D6-8E79-807B28AF9A25}" ShortID="461261411" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{185F2DF2-BBAA-41F3-95AE-9C6CAFABAB30}" Global="false">
+								<Action Name="" ID="{1E182A11-FBC4-44D6-8E79-807B28AF9A25}" ShortID="461261411">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="shotcuts_negative" ID="{080C0AE5-2BCC-44E0-BE1B-F548D8085F13}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="mod_vo_chat_shotcuts_positive" ID="{EB83A393-DB60-44F8-98FB-5ED5141CAB7C}">
 							<ChildrenList>
-								<Action Name="Play" ID="{68EB4155-1590-4B3B-AA98-EF03E8E1B5B1}" ShortID="975960756" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{E6812DC2-2793-4E68-A554-5C2D06376114}" Global="false">
+								<Action Name="" ID="{68EB4155-1590-4B3B-AA98-EF03E8E1B5B1}" ShortID="975960756">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="shotcuts_affirmative" ID="{D58502E0-DEF4-4B88-8C6D-F3D66EB409CD}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>

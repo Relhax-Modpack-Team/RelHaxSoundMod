@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{2D6C35E9-3A5D-42E6-927C-AB35ABC9CBAE}" SchemaVersion="75">
+<WwiseDocument Type="WorkUnit" ID="{2D6C35E9-3A5D-42E6-927C-AB35ABC9CBAE}" SchemaVersion="80">
 	<Events>
 		<WorkUnit Name="Music" ID="{2D6C35E9-3A5D-42E6-927C-AB35ABC9CBAE}" PersistMode="Standalone">
 			<Comment>Музыка</Comment>
@@ -9,24 +9,30 @@
 						<Event Name="mod_music_victory" ID="{4AF3980C-71EB-4B10-958A-E408A503F966}">
 							<Comment>Ивент - Музыка после боя "Победа"</Comment>
 							<ChildrenList>
-								<Action Name="Play" ID="{3E51F22A-E327-4D3A-9EB4-38427DB52E17}" ShortID="281848892" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{1A19B78D-C85C-464F-BD21-8D7DC47FCC9D}" Global="false">
+								<Action Name="" ID="{3E51F22A-E327-4D3A-9EB4-38427DB52E17}" ShortID="281848892">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="music_victory" ID="{B0A99B3D-C713-462D-A58C-5B1A2D5AB2F0}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="mod_music_drawn_game" ID="{06B47DDD-D3D1-4B10-8763-89E8C9E21754}">
 							<Comment>Ивент - Музыка после боя "Ничья"</Comment>
 							<ChildrenList>
-								<Action Name="Play" ID="{D6533FE4-3E9F-4614-8EB4-EC5E454061EC}" ShortID="208070457" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{5FFB4E66-8033-49A0-827E-165DB19C2F39}" Global="false">
+								<Action Name="" ID="{D6533FE4-3E9F-4614-8EB4-EC5E454061EC}" ShortID="208070457">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="music_drawn_game" ID="{6CB21147-F1D1-47B0-8577-E8BF850D241C}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
@@ -39,12 +45,15 @@
 						<Event Name="mod_music_defeat" ID="{D5DBBEB6-ECF5-451B-A72F-84F6E7F77E5A}">
 							<Comment>Ивент - Музыка после боя "Поражение"</Comment>
 							<ChildrenList>
-								<Action Name="Play" ID="{BC23A81A-6B3A-45B4-9852-CDE2EA51092E}" ShortID="93588358" Type="Play" Scope="One" Global="false">
-									<ElementList>
-										<Element ID="{1AB349EC-1456-49BF-8F9B-DC1C81F8E9E9}" Global="false">
+								<Action Name="" ID="{BC23A81A-6B3A-45B4-9852-CDE2EA51092E}" ShortID="93588358">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
 											<ObjectRef Name="music_defeat" ID="{AB540490-DAC7-48D2-88FF-521A77A8AACA}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
-										</Element>
-									</ElementList>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>

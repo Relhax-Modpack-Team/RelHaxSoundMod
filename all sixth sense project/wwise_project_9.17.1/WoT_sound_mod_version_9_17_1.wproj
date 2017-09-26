@@ -1,13 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="Project" SchemaVersion="75" WwiseVersion="v2016.2.0" WwiseBuild="5972">
+<WwiseDocument Type="Project" SchemaVersion="80" WwiseVersion="v2017.1.1" WwiseBuild="6340">
 	<ProjectInfo>
 		<Project Name="WoT_sound_mod_version_9_17_1" ID="{655ED899-8C41-4BD4-9799-A8885909500D}">
 			<Platforms>
 				<Platform Name="Windows_HighRes" ReferencePlatform="Windows" ID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EC}"/>
 				<Platform Name="Windows_LowRes" ReferencePlatform="Windows" ID="{476C6D0C-5ECB-4DD6-B930-2C6594B0FA2F}"/>
 			</Platforms>
+			<LanguageList>
+				<Language Name="Arabic" ID="{D530B3CA-287A-4694-B8B0-5375A23DDC1D}"/>
+				<Language Name="Bulgarian" ID="{48CB1759-B657-49CC-821B-689308A1815F}"/>
+				<Language Name="Chinese(HK)" ID="{4C291579-05EF-4CC1-96A8-45762E6176CA}"/>
+				<Language Name="Chinese(Malaysia)" ID="{6EACBC80-F059-4524-887F-A310C1660FB1}"/>
+				<Language Name="Chinese(PRC)" ID="{FFD1C754-DF91-42A0-BD8B-9ED847CAFCC2}"/>
+				<Language Name="Czech" ID="{72EB056E-6B1D-4C51-8B47-31D36468FFD7}"/>
+				<Language Name="Danish" ID="{B3032DB6-8D60-4AB0-8A32-4A5BABFD55EF}"/>
+				<Language Name="Dutch" ID="{3387834E-42E9-4E1E-8AF0-2B46A496287E}"/>
+				<Language Name="English(Australia)" ID="{DE1CE64F-EDDA-476B-8586-EA959DA105AA}"/>
+				<Language Name="English(Canada)" ID="{EF38C75F-42EF-4E32-AFDA-E816129EED91}"/>
+				<Language Name="English(UK)" ID="{F945528C-82E7-4BCA-A6C4-BB42801C32EA}"/>
+				<Language Name="English(US)" ID="{18C43CFB-BAC6-4E39-A4F7-D83B11F0DE23}"/>
+				<Language Name="External" ID="{09CAF36C-DDF0-41DE-BE5D-902335632DBA}"/>
+				<Language Name="Finnish" ID="{139F1494-456D-4CBE-9C5D-EF5A1CD7465C}"/>
+				<Language Name="French(Canada)" ID="{1E55B667-E2D0-4E9E-841C-89B36BF5138E}"/>
+				<Language Name="French(France)" ID="{C353B493-793E-4DE8-9AF8-067E64286D1E}"/>
+				<Language Name="German" ID="{C62DEABA-1717-4DD7-BA3C-FB87CEBE98A7}"/>
+				<Language Name="Greek" ID="{6060F956-1D05-4184-BF41-CB2C9015FDE2}"/>
+				<Language Name="Hebrew" ID="{64F0716B-FF79-4999-8837-059702CABB87}"/>
+				<Language Name="Hungarian" ID="{D8558FDE-A264-44DC-B1DB-280A3E26AA4B}"/>
+				<Language Name="Indonesian" ID="{EBA2BF55-B6B2-4D91-82B0-43CDD90E849E}"/>
+				<Language Name="Italian" ID="{3BB2F630-5F8C-4D6A-AE72-8E6D758C5112}"/>
+				<Language Name="Japanese" ID="{FDCC7C4A-AB88-47DE-9AAE-15F4E3FCBE9E}"/>
+				<Language Name="Korean" ID="{D1454F1C-4D7E-4B98-80ED-4045349133AF}"/>
+				<Language Name="Latin" ID="{8BAB381C-5274-4BDA-B0AD-A1FBE00BB126}"/>
+				<Language Name="Mixed" ID="{8D628F7B-524F-401F-8773-CE037D285557}"/>
+				<Language Name="Norwegian" ID="{3C394FD1-8171-4AD4-A4EB-F541B54AB6DC}"/>
+				<Language Name="Polish" ID="{735741AA-17FA-4B3B-80CD-131BA91B397D}"/>
+				<Language Name="Portuguese(Brazil)" ID="{26A9413C-A62A-4F87-8C4F-708B00112C9D}"/>
+				<Language Name="Romanian" ID="{B11F1594-516F-4B61-9E20-8A4B31CA6344}"/>
+				<Language Name="Russian" ID="{CAA644E7-0DF8-4EF7-88CC-6F206BB99D9C}"/>
+				<Language Name="SFX" ID="{91BD54E9-5271-4653-B6FA-7E6846BC7C1E}"/>
+				<Language Name="Slovenian" ID="{3638B38E-B1B1-4F37-83BD-85841058DABC}"/>
+				<Language Name="Spanish(Mexico)" ID="{CE17F6DA-354F-4C0F-8223-1D1A2701AEFC}"/>
+				<Language Name="Spanish(Spain)" ID="{DDCD0CA0-0E0F-40C7-B991-ABFFE42B80EB}"/>
+				<Language Name="Spanish(US)" ID="{154A3CF5-BED3-4E98-901F-607DD2A69A66}"/>
+				<Language Name="Swedish" ID="{15F91D86-84CA-401F-BED7-4C0DFD89B8D4}"/>
+				<Language Name="Thai" ID="{389D3FD5-6311-4B17-A566-3BAFA580BD4F}"/>
+				<Language Name="Turkish" ID="{CAEF26C0-9FD4-49DF-A862-AAD5970587F1}"/>
+				<Language Name="Ukrainian" ID="{9D9DFEB9-3DEB-4F11-BDCA-B76603D73D05}"/>
+				<Language Name="Vietnamese" ID="{35E2C166-0192-4E4F-B46F-E24E61F10481}"/>
+			</LanguageList>
 			<PropertyList>
-				<Property Name="DefaultLanguage" Type="int32" Value="30"/>
+				<Property Name="DefaultLanguage" Type="string" Value="Russian"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
 						<Value Platform="Windows_HighRes"></Value>
@@ -166,6 +209,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 			<SharedValues>
 				<SharedPropertyList ClassName="AudioSource" PluginType="0" CompanyID="1" PluginID="0">
 					<PropertyList>
+						<Property Name="ChannelConfigOverride" Type="int64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
 						<Property Name="CrossfadeDuration" Type="Real64">
 							<ValueList>
 								<Value>0</Value>
@@ -370,6 +418,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>False</Value>
 							</ValueList>
 						</Property>
+						<Property Name="EnablePositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
 						<Property Name="FollowListenerOrientation" Type="bool">
 							<ValueList>
 								<Value>True</Value>
@@ -435,12 +488,12 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>False</Value>
 							</ValueList>
 						</Property>
-						<Property Name="IsRSXStreamingEnabled" Type="bool">
+						<Property Name="IsStreamingEnabled" Type="bool">
 							<ValueList>
 								<Value>False</Value>
 							</ValueList>
 						</Property>
-						<Property Name="IsStreamingEnabled" Type="bool">
+						<Property Name="IsVoice" Type="bool">
 							<ValueList>
 								<Value>False</Value>
 							</ValueList>
@@ -448,11 +501,6 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="IsZeroLantency" Type="bool">
 							<ValueList>
 								<Value>False</Value>
-							</ValueList>
-						</Property>
-						<Property Name="LanguageExclusion" Type="int64">
-							<ValueList>
-								<Value>0</Value>
 							</ValueList>
 						</Property>
 						<Property Name="LoopCount" Type="int32">
@@ -741,7 +789,7 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="IOSONO Proximity" PluginType="6" CompanyID="262" PluginID="1">
+				<SharedPropertyList ClassName="" PluginType="6" CompanyID="262" PluginID="1">
 					<PropertyList>
 						<Property Name="Bypass" Type="bool">
 							<ValueList>
@@ -769,7 +817,7 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="VirtualFolder" PluginType="0" CompanyID="1" PluginID="2">
+				<SharedPropertyList ClassName="Folder" PluginType="0" CompanyID="1" PluginID="2">
 					<PropertyList>
 						<Property Name="Inclusion" Type="bool">
 							<ValueList>
@@ -896,7 +944,7 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="AttachableMixerInput" PluginType="3" CompanyID="262" PluginID="2">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="262" PluginID="2">
 					<PropertyList>
 						<Property Name="ProximityGain" Type="Real32">
 							<ValueList>
@@ -947,9 +995,9 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>8</Value>
 							</ValueList>
 						</Property>
-						<Property Name="DefaultLanguage" Type="int32">
+						<Property Name="DefaultLanguage" Type="string">
 							<ValueList>
-								<Value>0</Value>
+								<Value>English(US)</Value>
 							</ValueList>
 						</Property>
 						<Property Name="EventActionNamePosition" Type="int16">
@@ -1437,7 +1485,22 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 				</SharedPropertyList>
 				<SharedPropertyList ClassName="Action" PluginType="0" CompanyID="1" PluginID="5">
 					<PropertyList>
-						<Property Name="Absolute" Type="bool">
+						<Property Name="AbsoluteOrRelative" Type="int16">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="ActionType" Type="int16">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="ApplyToDynamicSequence" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="ApplyToStateTransition" Type="bool">
 							<ValueList>
 								<Value>True</Value>
 							</ValueList>
@@ -1527,6 +1590,16 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>100</Value>
 							</ValueList>
 						</Property>
+						<Property Name="ResumeStateTransition" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Scope" Type="int16">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
 						<Property Name="SeekPercent" Type="Real64">
 							<ValueList>
 								<Value>0</Value>
@@ -1613,40 +1686,7 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="State" PluginType="0" CompanyID="1" PluginID="6">
-					<PropertyList>
-						<Property Name="BusVolume" Type="Real64">
-							<ValueList>
-								<Value>0</Value>
-							</ValueList>
-						</Property>
-						<Property Name="Highpass" Type="int16">
-							<ValueList>
-								<Value>0</Value>
-							</ValueList>
-						</Property>
-						<Property Name="Lowpass" Type="int16">
-							<ValueList>
-								<Value>0</Value>
-							</ValueList>
-						</Property>
-						<Property Name="MakeUpGain" Type="Real64">
-							<ValueList>
-								<Value>0</Value>
-							</ValueList>
-						</Property>
-						<Property Name="Pitch" Type="int32">
-							<ValueList>
-								<Value>0</Value>
-							</ValueList>
-						</Property>
-						<Property Name="Volume" Type="Real64">
-							<ValueList>
-								<Value>0</Value>
-							</ValueList>
-						</Property>
-					</PropertyList>
-				</SharedPropertyList>
+				<SharedPropertyList ClassName="State" PluginType="0" CompanyID="1" PluginID="6"/>
 				<SharedPropertyList ClassName="iZotope Trash Filters" PluginType="3" CompanyID="259" PluginID="6">
 					<PropertyList>
 						<Property Name="Filter1Frequency" Type="Real32">
@@ -1949,6 +1989,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="EnablePanner" Type="bool">
 							<ValueList>
 								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="EnablePositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
 							</ValueList>
 						</Property>
 						<Property Name="FollowListenerOrientation" Type="bool">
@@ -2258,7 +2303,7 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="RndSeqContainer" PluginType="0" CompanyID="1" PluginID="9">
+				<SharedPropertyList ClassName="RandomSequenceContainer" PluginType="0" CompanyID="1" PluginID="9">
 					<PropertyList>
 						<Property Name="3DPositionSource" Type="int16">
 							<ValueList>
@@ -2318,6 +2363,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="EnablePanner" Type="bool">
 							<ValueList>
 								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="EnablePositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
 							</ValueList>
 						</Property>
 						<Property Name="FollowListenerOrientation" Type="bool">
@@ -2992,6 +3042,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>False</Value>
 							</ValueList>
 						</Property>
+						<Property Name="EnablePositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
 						<Property Name="FollowListenerOrientation" Type="bool">
 							<ValueList>
 								<Value>True</Value>
@@ -3462,8 +3517,14 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
+				<SharedPropertyList ClassName="Switch" PluginType="0" CompanyID="1" PluginID="20"/>
 				<SharedPropertyList ClassName="Bus" PluginType="0" CompanyID="1" PluginID="21">
 					<PropertyList>
+						<Property Name="3DPositionSource" Type="int16">
+							<ValueList>
+								<Value>1</Value>
+							</ValueList>
+						</Property>
 						<Property Name="BusChannelConfig" Type="int32">
 							<ValueList>
 								<Value>0</Value>
@@ -3504,6 +3565,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>0</Value>
 							</ValueList>
 						</Property>
+						<Property Name="DynamicPositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
 						<Property Name="EnablePanner" Type="bool">
 							<ValueList>
 								<Value>False</Value>
@@ -3514,9 +3580,14 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>False</Value>
 							</ValueList>
 						</Property>
-						<Property Name="EnableWiiCompressor" Type="bool">
+						<Property Name="FollowListenerOrientation" Type="bool">
 							<ValueList>
-								<Value>False</Value>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="GameAuxSendVolume" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
 							</ValueList>
 						</Property>
 						<Property Name="HdrEnable" Type="bool">
@@ -3569,6 +3640,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>0</Value>
 							</ValueList>
 						</Property>
+						<Property Name="MakeUpGain" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
 						<Property Name="MaxDuckVolume" Type="Real64">
 							<ValueList>
 								<Value>-96</Value>
@@ -3609,6 +3685,16 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>1</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Spatialization" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UseGameAuxSends" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
 						<Property Name="UseMaxSoundPerInstance" Type="bool">
 							<ValueList>
 								<Value>False</Value>
@@ -3617,6 +3703,26 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="UsedForBackgroundMusic" Type="bool">
 							<ValueList>
 								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume0" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume1" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume2" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume3" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
 							</ValueList>
 						</Property>
 						<Property Name="Volume" Type="Real64">
@@ -3774,6 +3880,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="EnablePanner" Type="bool">
 							<ValueList>
 								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="EnablePositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
 							</ValueList>
 						</Property>
 						<Property Name="EndPosition" Type="Real64">
@@ -4135,6 +4246,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>False</Value>
 							</ValueList>
 						</Property>
+						<Property Name="EnablePositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
 						<Property Name="FollowListenerOrientation" Type="bool">
 							<ValueList>
 								<Value>True</Value>
@@ -4181,11 +4297,6 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 							</ValueList>
 						</Property>
 						<Property Name="IsNonCachable" Type="bool">
-							<ValueList>
-								<Value>False</Value>
-							</ValueList>
-						</Property>
-						<Property Name="IsRSXStreamingEnabled" Type="bool">
 							<ValueList>
 								<Value>False</Value>
 							</ValueList>
@@ -4492,6 +4603,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="EnablePanner" Type="bool">
 							<ValueList>
 								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="EnablePositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
 							</ValueList>
 						</Property>
 						<Property Name="FollowListenerOrientation" Type="bool">
@@ -4828,6 +4944,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>0</Value>
 							</ValueList>
 						</Property>
+						<Property Name="MakeUpGain" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
 						<Property Name="Pitch" Type="int32">
 							<ValueList>
 								<Value>0</Value>
@@ -4919,6 +5040,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="HasEmptyAssignation" Type="bool">
 							<ValueList>
 								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Inclusion" Type="bool">
+							<ValueList>
+								<Value>False</Value>
 							</ValueList>
 						</Property>
 						<Property Name="IsChecked" Type="bool">
@@ -5098,7 +5224,7 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="MusicRndSeqContainer" PluginType="0" CompanyID="1" PluginID="34">
+				<SharedPropertyList ClassName="MusicPlaylistContainer" PluginType="0" CompanyID="1" PluginID="34">
 					<PropertyList>
 						<Property Name="3DPositionSource" Type="int16">
 							<ValueList>
@@ -5153,6 +5279,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="EnablePanner" Type="bool">
 							<ValueList>
 								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="EnablePositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
 							</ValueList>
 						</Property>
 						<Property Name="FollowListenerOrientation" Type="bool">
@@ -5512,6 +5643,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="EnablePanner" Type="bool">
 							<ValueList>
 								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="EnablePositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
 							</ValueList>
 						</Property>
 						<Property Name="FollowListenerOrientation" Type="bool">
@@ -6082,9 +6218,9 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>False</Value>
 							</ValueList>
 						</Property>
-						<Property Name="EnableWiiCompressor" Type="bool">
+						<Property Name="GameAuxSendVolume" Type="Real64">
 							<ValueList>
-								<Value>False</Value>
+								<Value>0</Value>
 							</ValueList>
 						</Property>
 						<Property Name="IgnoreParentMaxSoundInstance" Type="bool">
@@ -6122,6 +6258,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>1</Value>
 							</ValueList>
 						</Property>
+						<Property Name="UseGameAuxSends" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
 						<Property Name="UseMaxSoundPerInstance" Type="bool">
 							<ValueList>
 								<Value>False</Value>
@@ -6130,6 +6271,26 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="UsedForBackgroundMusic" Type="bool">
 							<ValueList>
 								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume0" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume1" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume2" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume3" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
 							</ValueList>
 						</Property>
 						<Property Name="Volume" Type="Real64">
@@ -6189,6 +6350,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="EnablePanner" Type="bool">
 							<ValueList>
 								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="EnablePositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
 							</ValueList>
 						</Property>
 						<Property Name="FollowListenerOrientation" Type="bool">
@@ -6693,6 +6859,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 				</SharedPropertyList>
 				<SharedPropertyList ClassName="AuxBus" PluginType="0" CompanyID="1" PluginID="61">
 					<PropertyList>
+						<Property Name="3DPositionSource" Type="int16">
+							<ValueList>
+								<Value>1</Value>
+							</ValueList>
+						</Property>
 						<Property Name="BusChannelConfig" Type="int32">
 							<ValueList>
 								<Value>0</Value>
@@ -6733,6 +6904,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>0</Value>
 							</ValueList>
 						</Property>
+						<Property Name="DynamicPositioning" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
 						<Property Name="EnablePanner" Type="bool">
 							<ValueList>
 								<Value>False</Value>
@@ -6741,6 +6917,16 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="EnablePositioning" Type="bool">
 							<ValueList>
 								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="FollowListenerOrientation" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="GameAuxSendVolume" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
 							</ValueList>
 						</Property>
 						<Property Name="Highpass" Type="int16">
@@ -6759,6 +6945,36 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 							</ValueList>
 						</Property>
 						<Property Name="PositioningType" Type="int16">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Spatialization" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UseGameAuxSends" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume0" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume1" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume2" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UserAuxSendVolume3" Type="Real64">
 							<ValueList>
 								<Value>0</Value>
 							</ValueList>
@@ -6977,94 +7193,39 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 				</SharedPropertyList>
 				<SharedPropertyList ClassName="AcousticTexture" PluginType="0" CompanyID="1" PluginID="72">
 					<PropertyList>
-						<Property Name="AbsorptionCoefficient" Type="Real32">
-							<ValueList>
-								<Value>1</Value>
-							</ValueList>
-						</Property>
-						<Property Name="FilterTypeBand1" Type="int32">
-							<ValueList>
-								<Value>4</Value>
-							</ValueList>
-						</Property>
-						<Property Name="FilterTypeBand2" Type="int32">
-							<ValueList>
-								<Value>6</Value>
-							</ValueList>
-						</Property>
-						<Property Name="FilterTypeBand3" Type="int32">
-							<ValueList>
-								<Value>5</Value>
-							</ValueList>
-						</Property>
-						<Property Name="FrequencyBand1" Type="Real32">
-							<ValueList>
-								<Value>100</Value>
-							</ValueList>
-						</Property>
-						<Property Name="FrequencyBand2" Type="Real32">
-							<ValueList>
-								<Value>1000</Value>
-							</ValueList>
-						</Property>
-						<Property Name="FrequencyBand3" Type="Real32">
-							<ValueList>
-								<Value>12000</Value>
-							</ValueList>
-						</Property>
-						<Property Name="GainBand1" Type="Real32">
+						<Property Name="AbsorptionHigh" Type="Real32">
 							<ValueList>
 								<Value>0</Value>
 							</ValueList>
 						</Property>
-						<Property Name="GainBand2" Type="Real32">
+						<Property Name="AbsorptionLow" Type="Real32">
 							<ValueList>
 								<Value>0</Value>
 							</ValueList>
 						</Property>
-						<Property Name="GainBand3" Type="Real32">
+						<Property Name="AbsorptionMidHigh" Type="Real32">
 							<ValueList>
 								<Value>0</Value>
 							</ValueList>
 						</Property>
-						<Property Name="OnOffBand1" Type="bool">
-							<ValueList>
-								<Value>True</Value>
-							</ValueList>
-						</Property>
-						<Property Name="OnOffBand2" Type="bool">
-							<ValueList>
-								<Value>True</Value>
-							</ValueList>
-						</Property>
-						<Property Name="OnOffBand3" Type="bool">
-							<ValueList>
-								<Value>True</Value>
-							</ValueList>
-						</Property>
-						<Property Name="OutputGain" Type="Real32">
+						<Property Name="AbsorptionMidLow" Type="Real32">
 							<ValueList>
 								<Value>0</Value>
 							</ValueList>
 						</Property>
-						<Property Name="QFactorBand1" Type="Real32">
+						<Property Name="AbsorptionOffset" Type="Real32">
 							<ValueList>
-								<Value>1</Value>
+								<Value>0</Value>
 							</ValueList>
 						</Property>
-						<Property Name="QFactorBand2" Type="Real32">
+						<Property Name="Scattering" Type="Real32">
 							<ValueList>
-								<Value>1</Value>
-							</ValueList>
-						</Property>
-						<Property Name="QFactorBand3" Type="Real32">
-							<ValueList>
-								<Value>1</Value>
+								<Value>0</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="DiffuseReverberator" PluginType="0" CompanyID="1" PluginID="73">
+				<SharedPropertyList ClassName="" PluginType="0" CompanyID="1" PluginID="73">
 					<PropertyList>
 						<Property Name="DecayTime" Type="Real32">
 							<ValueList>
@@ -7113,6 +7274,16 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
+				<SharedPropertyList ClassName="Language" PluginType="0" CompanyID="1" PluginID="75">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</SharedPropertyList>
+				<SharedPropertyList ClassName="ActionException" PluginType="0" CompanyID="1" PluginID="76"/>
 				<SharedPropertyList ClassName="Wwise Sine" PluginType="2" CompanyID="0" PluginID="100">
 					<PropertyList>
 						<Property Name="ChannelMask" Type="int32">
@@ -8826,6 +8997,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>0</Value>
 							</ValueList>
 						</Property>
+						<Property Name="ChannelConfigOverride" Type="int64">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
 						<Property Name="DryLevel" Type="Real32">
 							<ValueList>
 								<Value>0</Value>
@@ -8956,11 +9132,6 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 								<Value>48000</Value>
 							</ValueList>
 						</Property>
-						<Property Name="SoundEngineSampleRateWiiUSW" Type="int32">
-							<ValueList>
-								<Value>32000</Value>
-							</ValueList>
-						</Property>
 						<Property Name="SoundEngineSampleRateiOS" Type="int32">
 							<ValueList>
 								<Value>48000</Value>
@@ -9006,6 +9177,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 							</ValueList>
 						</Property>
 						<Property Name="MeterMode" Type="int32">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="MeterScope" Type="int32">
 							<ValueList>
 								<Value>0</Value>
 							</ValueList>
@@ -9568,6 +9744,60 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
+				<SharedPropertyList ClassName="Wwise Reflect" PluginType="3" CompanyID="0" PluginID="171">
+					<PropertyList>
+						<Property Name="BaseTextureFrequency" Type="Real32">
+							<ValueList>
+								<Value>250</Value>
+							</ValueList>
+						</Property>
+						<Property Name="CenterPerc" Type="Real32">
+							<ValueList>
+								<Value>100</Value>
+							</ValueList>
+						</Property>
+						<Property Name="CursorNameCategory" Type="int32">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Dry" Type="Real32">
+							<ValueList>
+								<Value>-96</Value>
+							</ValueList>
+						</Property>
+						<Property Name="FadeOutNbFrames" Type="int32">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Inclusion" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="MaxDistance" Type="Real32">
+							<ValueList>
+								<Value>100</Value>
+							</ValueList>
+						</Property>
+						<Property Name="MaxReflections" Type="Real32">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="SpeedOfSound" Type="Real32">
+							<ValueList>
+								<Value>345</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Wet" Type="Real32">
+							<ValueList>
+								<Value>0</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</SharedPropertyList>
 				<SharedPropertyList ClassName="Wwise Audio Input" PluginType="2" CompanyID="0" PluginID="200">
 					<PropertyList>
 						<Property Name="AudioInputGain" Type="Real32">
@@ -9749,7 +9979,7 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 					</PropertyList>
 				</SharedPropertyList>
 				<SharedPropertyList ClassName="Controller" PluginType="4" CompanyID="0" PluginID="406"/>
-				<SharedPropertyList ClassName="" PluginType="2" CompanyID="261" PluginID="416">
+				<SharedPropertyList ClassName="CrankcaseAudio REV" PluginType="2" CompanyID="261" PluginID="416">
 					<PropertyList>
 						<Property Name="EnableShifting" Type="int32">
 							<ValueList>
@@ -9788,7 +10018,7 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="" PluginType="0" CompanyID="261" PluginID="417">
+				<SharedPropertyList ClassName="EngineSimulationControlData" PluginType="0" CompanyID="261" PluginID="417">
 					<PropertyList>
 						<Property Name="ClutchRPMMergeTime" Type="Real32">
 							<ValueList>
@@ -9872,7 +10102,7 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="" PluginType="0" CompanyID="261" PluginID="418">
+				<SharedPropertyList ClassName="AccelDecelModelControlData" PluginType="0" CompanyID="261" PluginID="418">
 					<PropertyList>
 						<Property Name="AccelVolume_Off" Type="Real32">
 							<ValueList>
@@ -9882,6 +10112,11 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 						<Property Name="AccelVolume_On" Type="Real32">
 							<ValueList>
 								<Value>1</Value>
+							</ValueList>
+						</Property>
+						<Property Name="CrossfadeDuration" Type="int32">
+							<ValueList>
+								<Value>20</Value>
 							</ValueList>
 						</Property>
 						<Property Name="DecelVolume_Off" Type="Real32">
@@ -10292,46 +10527,6 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 					</PropertyList>
 				</SharedPropertyList>
 			</SharedValues>
-			<UsedLanguageList>
-				<Language VolumeOffset="0">English(US)</Language>
-				<Language VolumeOffset="0">Russian</Language>
-				<Language VolumeOffset="0">Chinese(HK)</Language>
-				<Language VolumeOffset="0">Chinese(PRC)</Language>
-				<Language VolumeOffset="0">Czech</Language>
-				<Language VolumeOffset="0">English(UK)</Language>
-				<Language VolumeOffset="0">French(France)</Language>
-				<Language VolumeOffset="0">German</Language>
-				<Language VolumeOffset="0">Japanese</Language>
-				<Language VolumeOffset="0">Korean</Language>
-				<Language VolumeOffset="0">Latin</Language>
-				<Language VolumeOffset="0">Polish</Language>
-				<Language VolumeOffset="0">Portuguese(Brazil)</Language>
-				<Language VolumeOffset="0">Romanian</Language>
-				<Language VolumeOffset="0">Slovenian</Language>
-				<Language VolumeOffset="0">Spanish(Spain)</Language>
-				<Language VolumeOffset="0">Turkish</Language>
-				<Language VolumeOffset="0">Ukrainian</Language>
-				<Language VolumeOffset="0">Vietnamese</Language>
-				<Language VolumeOffset="0">Thai</Language>
-				<Language VolumeOffset="0">Chinese(Malaysia)</Language>
-				<Language VolumeOffset="0">Finnish</Language>
-				<Language VolumeOffset="0">Indonesian</Language>
-				<Language VolumeOffset="0">Bulgarian</Language>
-				<Language VolumeOffset="0">Greek</Language>
-				<Language VolumeOffset="0">Hungarian</Language>
-				<Language VolumeOffset="0">Arabic</Language>
-				<Language VolumeOffset="0">Danish</Language>
-				<Language VolumeOffset="0">Dutch</Language>
-				<Language VolumeOffset="0">Hebrew</Language>
-				<Language VolumeOffset="0">Italian</Language>
-				<Language VolumeOffset="0">Norwegian</Language>
-				<Language VolumeOffset="0">Swedish</Language>
-				<Language VolumeOffset="0">French(Canada)</Language>
-				<Language VolumeOffset="0">Spanish(US)</Language>
-				<Language VolumeOffset="0">Spanish(Mexico)</Language>
-				<Language VolumeOffset="0">English(Australia)</Language>
-				<Language VolumeOffset="0">English(Canada)</Language>
-			</UsedLanguageList>
 			<EnvironmentalSettings>
 				<ObsOccCurves>
 					<Comment></Comment>
@@ -10528,6 +10723,9 @@ cmd /c del /q "$(WwiseProjectPath)\GeneratedSoundBanks\WinHighRes\*.wem"</Value>
 				</PhysicalFolder>
 				<PhysicalFolder Path="Triggers">
 					<WorkUnit Name="Triggers" ID="{6C7657FC-4758-4D41-BD4C-68B09F91DB29}" PersistMode="Standalone"/>
+				</PhysicalFolder>
+				<PhysicalFolder Path="Virtual Acoustics">
+					<WorkUnit Name="Virtual Acoustics" ID="{32CD8547-A946-4547-BBB1-69F44E796139}" PersistMode="Standalone"/>
 				</PhysicalFolder>
 			</PhysicalFolderList>
 		</Project>

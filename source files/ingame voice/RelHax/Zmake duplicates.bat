@@ -14,12 +14,13 @@ copy armor_not_pierced_by_player_12.wav armor_ricochet_by_player_12.wav
 copy armor_not_pierced_by_player_13.wav armor_ricochet_by_player_13.wav
 copy armor_not_pierced_by_player_14.wav armor_ricochet_by_player_14.wav
 copy armor_not_pierced_by_player_15.wav armor_ricochet_by_player_15.wav
+copy armor_not_pierced_by_player_16.wav armor_ricochet_by_player_16.wav
+copy armor_not_pierced_by_player_17.wav armor_ricochet_by_player_17.wav
+copy armor_not_pierced_by_player_18.wav armor_ricochet_by_player_18.wav
 
 copy crew_deactivated_01.wav crew_deactivated_03.wav
 copy crew_deactivated_02.wav crew_deactivated_04.wav
 copy crew_deactivated_03.wav crew_deactivated_05.wav
-
-copy damage_by_near_explosion_by_enemy_01.wav damage_by_near_explosion_by_enemy_02.wav
 
 copy driver_killed_01.wav driver_killed_03.wav
 copy driver_killed_02.wav driver_killed_04.wav

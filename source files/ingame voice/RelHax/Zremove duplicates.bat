@@ -14,12 +14,13 @@ del armor_ricochet_by_player_12.wav
 del armor_ricochet_by_player_13.wav
 del armor_ricochet_by_player_14.wav
 del armor_ricochet_by_player_15.wav
+del armor_ricochet_by_player_16.wav
+del armor_ricochet_by_player_17.wav
+del armor_ricochet_by_player_18.wav
 
 del crew_deactivated_03.wav
 del crew_deactivated_04.wav
 del crew_deactivated_05.wav
-
-del damage_by_near_explosion_by_enemy_02.wav
 
 del driver_killed_03.wav
 del driver_killed_04.wav
@@ -79,7 +80,6 @@ del surveying_devices_damaged_04.wav
 del surveying_devices_damaged_05.wav
 del surveying_devices_damaged_06.wav
 del surveying_devices_damaged_07.wav
-del surveying_devices_damaged_08.wav
 
 del surveying_devices_destroyed_02.wav
 del surveying_devices_destroyed_03.wav

@@ -1,11 +1,14 @@
 
+copy ally_killed_by_player_01.wav ally_killed_by_player_05.wav
+
 copy armor_pierced_by_player_01.wav armor_pierced_by_player_13.wav
 copy armor_pierced_by_player_02.wav armor_pierced_by_player_14.wav
 
-copy armor_not_pierced_by_player_01.wav armor_not_pierced_by_player_12.wav
-copy armor_not_pierced_by_player_02.wav armor_not_pierced_by_player_13.wav
-copy armor_not_pierced_by_player_03.wav armor_not_pierced_by_player_14.wav
-copy armor_not_pierced_by_player_04.wav armor_not_pierced_by_player_15.wav
+copy armor_not_pierced_by_player_01.wav armor_not_pierced_by_player_14.wav
+copy armor_not_pierced_by_player_02.wav armor_not_pierced_by_player_15.wav
+copy armor_not_pierced_by_player_03.wav armor_not_pierced_by_player_16.wav
+copy armor_not_pierced_by_player_04.wav armor_not_pierced_by_player_17.wav
+copy armor_not_pierced_by_player_05.wav armor_not_pierced_by_player_18.wav
 
 copy armor_not_pierced_by_player_01.wav armor_ricochet_by_player_01.wav
 copy armor_not_pierced_by_player_02.wav armor_ricochet_by_player_02.wav
@@ -22,6 +25,9 @@ copy armor_not_pierced_by_player_12.wav armor_ricochet_by_player_12.wav
 copy armor_not_pierced_by_player_13.wav armor_ricochet_by_player_13.wav
 copy armor_not_pierced_by_player_14.wav armor_ricochet_by_player_14.wav
 copy armor_not_pierced_by_player_15.wav armor_ricochet_by_player_15.wav
+copy armor_not_pierced_by_player_16.wav armor_ricochet_by_player_16.wav
+copy armor_not_pierced_by_player_17.wav armor_ricochet_by_player_17.wav
+copy armor_not_pierced_by_player_18.wav armor_ricochet_by_player_18.wav
 
 copy crew_deactivated_01.wav crew_deactivated_03.wav
 copy crew_deactivated_02.wav crew_deactivated_04.wav
@@ -84,9 +90,13 @@ copy radio_damaged_03.wav radio_damaged_06.wav
 
 copy radioman_killed_01.wav radioman_killed_04.wav
 
-copy start_battle_01.wav start_battle_54.wav
-copy start_battle_02.wav start_battle_55.wav
-copy start_battle_03.wav start_battle_56.wav
+copy start_battle_01.wav start_battle_46.wav
+copy start_battle_02.wav start_battle_47.wav
+copy start_battle_03.wav start_battle_48.wav
+copy start_battle_04.wav start_battle_49.wav
+copy start_battle_05.wav start_battle_50.wav
+copy start_battle_06.wav start_battle_51.wav
+copy start_battle_07.wav start_battle_52.wav
 
 copy surveying_devices_damaged_01.wav surveying_devices_damaged_02.wav
 copy surveying_devices_damaged_02.wav surveying_devices_damaged_03.wav
@@ -109,7 +119,7 @@ copy surveying_devices_functional_04.wav surveying_devices_functional_05.wav
 copy surveying_devices_functional_05.wav surveying_devices_functional_06.wav
 copy surveying_devices_functional_06.wav surveying_devices_functional_07.wav
 
-copy target_lost_01.wav target_lost_06.wav
+copy target_lost_01.wav target_lost_04.wav
 
 copy track_damaged_01.wav track_damaged_04.wav
 
@@ -133,3 +143,4 @@ copy turret_rotator_destroyed_03.wav turret_rotator_destroyed_04.wav
 copy vehicle_destroyed_01.wav vehicle_destroyed_26.wav
 copy vehicle_destroyed_02.wav vehicle_destroyed_27.wav
 copy vehicle_destroyed_03.wav vehicle_destroyed_28.wav
+copy vehicle_destroyed_04.wav vehicle_destroyed_29.wav

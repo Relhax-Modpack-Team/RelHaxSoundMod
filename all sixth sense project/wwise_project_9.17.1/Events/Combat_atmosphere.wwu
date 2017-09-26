@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{89181590-26F2-45C9-8504-23D2FD1ED437}" SchemaVersion="75">
+<WwiseDocument Type="WorkUnit" ID="{89181590-26F2-45C9-8504-23D2FD1ED437}" SchemaVersion="80">
 	<Events>
 		<WorkUnit Name="Combat_atmosphere" ID="{89181590-26F2-45C9-8504-23D2FD1ED437}" PersistMode="Standalone">
 			<Comment>Боевой атмосфера</Comment>
@@ -8,11 +8,9 @@
 					<ChildrenList>
 						<Event Name="fau2_tracer" ID="{C22C907D-4038-480D-9BA3-D1DEB2F79FAC}">
 							<Comment>Ивент - Трасера перед взрывом</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="fau2_expl" ID="{475969A4-416A-40EE-97B9-10CC9C5E7EAB}">
 							<Comment>Ивент - Взрыва </Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 					</ChildrenList>
 				</Folder>
@@ -20,58 +18,44 @@
 					<ChildrenList>
 						<Event Name="tracer_far" ID="{247675EF-734E-4EE4-AD88-C979FA1249D9}">
 							<Comment>Ивент - НЕ ИСПОЛЬЗУЕТСЯ</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="tracer_close" ID="{8173A9D4-BBB7-4536-A050-00F256A402ED}">
 							<Comment>Ивент - НЕ ИСПОЛЬЗУЕТСЯ</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="tracer_comb" ID="{FCE44EA8-0F1A-4D64-8D18-A6515B2AF458}">
 							<Comment>Ивент - Трасеры артподготовка</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="shot" ID="{6148B6A2-0286-4A12-9904-3A110FC254B6}">
 							<Comment>Ивент - НЕ ИСПОЛЬЗУЕТСЯ</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
-						<Event Name="artilleryStrike_tracer" ID="{49A074EC-B35D-4932-A011-891BD203579C}">
-							<ChildrenList></ChildrenList>
-						</Event>
+						<Event Name="artilleryStrike_tracer" ID="{49A074EC-B35D-4932-A011-891BD203579C}"/>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="hits_surface_barrage" ID="{BF3A065C-45A4-4BEF-8909-7EAF24CB3F2F}" ShortID="527653785">
 					<ChildrenList>
 						<Event Name="hit_barrage_expl_close_water" ID="{C8DEB1EC-295C-4E89-9920-4AEC16E1D274}">
 							<Comment>Ивент - Осыпаний при взрыве ВОДА</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="hit_barrage_expl_close_metal" ID="{81500A83-F1CD-42DC-AF21-1AD32544FC11}">
 							<Comment>Ивент - Осыпаний при взрыве МЕТАЛ</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="hit_barrage_expl_close_stone" ID="{53408A0F-9F77-4331-ADDD-3D8EE2556A63}">
 							<Comment>Ивент - Осыпаний при взрыве КАМНИ</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="hit_barrage_expl_close_snow" ID="{4977520D-E22A-45E1-9223-98A2FB697CA4}">
 							<Comment>Ивент - Осыпаний при взрыве СНЕГ</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="hit_barrage_expl_close_sand" ID="{052141C3-3246-46B0-80BE-CFB671F5C937}">
 							<Comment>Ивент - Осыпаний при взрыве ПЕСОК</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="hit_barrage_expl_close_ground" ID="{D66F1BA4-448E-46A8-ACCE-6C5D70CF8A1D}">
 							<Comment>Ивент - Осыпаний при взрыве ЗЕМЛЯ</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="hit_barrage_expl_close_wood" ID="{09DAA21E-FB90-42CD-8F24-C731AF315D84}">
 							<Comment>Ивент - Осыпаний при взрыве ДЕРЕВО</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="hit_barrage_expl_far" ID="{318AC36B-498B-45E9-B5F2-5D93CA30D46B}">
 							<Comment>Ивент - Осыпаний при взрыве в дали</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 					</ChildrenList>
 				</Folder>
@@ -81,7 +65,6 @@
 							<ChildrenList>
 								<Event Name="bm_13" ID="{2512A5D2-14F7-4B75-B759-3AF387BB0295}">
 									<Comment>Ивент - Катюша ВМ-13</Comment>
-									<ChildrenList></ChildrenList>
 								</Event>
 							</ChildrenList>
 						</Folder>
@@ -89,11 +72,9 @@
 							<ChildrenList>
 								<Event Name="antiaircraft_gun_25mm" ID="{C51841CC-AF81-4D9E-857E-697D73289C9B}">
 									<Comment>Ивент - Противовоздушные установки 25 мм</Comment>
-									<ChildrenList></ChildrenList>
 								</Event>
 								<Event Name="antiaircraft_gun_88mm" ID="{D56B293B-8195-4127-A98C-DB5F0BACD220}">
 									<Comment>Ивент - Противовоздушные установки 88 мм</Comment>
-									<ChildrenList></ChildrenList>
 								</Event>
 							</ChildrenList>
 						</Folder>
@@ -101,7 +82,6 @@
 							<ChildrenList>
 								<Event Name="ussr_m_30_combined_distance" ID="{06327264-EFA2-4707-834F-9C72ADDCFB19}">
 									<Comment>Ивент - Гаубица</Comment>
-									<ChildrenList></ChildrenList>
 								</Event>
 							</ChildrenList>
 						</Folder>
@@ -109,15 +89,12 @@
 							<ChildrenList>
 								<Event Name="mg_34_random_01" ID="{C6C5FBF5-767C-4E72-A0B7-BA9AE6DCFC07}">
 									<Comment>Ивент - Пулемёт MG 34 </Comment>
-									<ChildrenList></ChildrenList>
 								</Event>
 								<Event Name="mg_34_random_02" ID="{2C3897A9-7EBD-4381-BAA3-26A0CC062EBC}">
 									<Comment>Ивент - Пулемёт MG 34 </Comment>
-									<ChildrenList></ChildrenList>
 								</Event>
 								<Event Name="mg_34_random_03" ID="{AE675AB5-CA0D-4865-B4B7-CBEFBB889ADD}">
 									<Comment>Ивент - Пулемёт MG 34 </Comment>
-									<ChildrenList></ChildrenList>
 								</Event>
 							</ChildrenList>
 						</Folder>
@@ -125,11 +102,9 @@
 							<ChildrenList>
 								<Event Name="nebelwerfer_shots" ID="{AF8BEBA8-6926-4F4B-BF29-4A43195E3023}">
 									<Comment>Ивент - Реактивный миномет</Comment>
-									<ChildrenList></ChildrenList>
 								</Event>
 								<Event Name="nebelwerfer_expl" ID="{FAEB5D37-0FA9-47F0-A937-BD321BC7154F}">
 									<Comment>Ивент - Реактивный миномет</Comment>
-									<ChildrenList></ChildrenList>
 								</Event>
 							</ChildrenList>
 						</Folder>
@@ -139,7 +114,6 @@
 					<ChildrenList>
 						<Event Name="combat_atmosphere" ID="{52A75454-6EA4-4F8A-9192-8E10CBAFC617}">
 							<Comment>Ивент - Боевой атмосферы</Comment>
-							<ChildrenList></ChildrenList>
 						</Event>
 					</ChildrenList>
 				</Folder>

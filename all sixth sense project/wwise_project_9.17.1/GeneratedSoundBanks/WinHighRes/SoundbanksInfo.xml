@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SoundBanksInfo Platform="Windows_HighRes" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+<SoundBanksInfo Platform="Windows_HighRes" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="125">
 	<RootPaths>
-		<ProjectRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\.cache\Windows_HighRes\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\GeneratedSoundBanks\WinHighRes\</SoundBanksRoot>
+		<ProjectRoot>F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\.cache\Windows_HighRes\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\GeneratedSoundBanks\WinHighRes\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\GeneratedSoundBanks\Windows_HighRes</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\GeneratedSoundBanks\Windows_HighRes</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank>
 		<File Id="32993886" Language="SFX">
 			<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_34D50ECD.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_C6ADE4AD.wem</Path>
 		</File>
 		<File Id="185301197" Language="SFX">
 			<ShortName>AK_Factory_IR\Large Spaces\AK Stair Way Hall.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_50E00A69.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_35160669.wem</Path>
 		</File>
 		<File Id="554205954" Language="SFX">
 			<ShortName>Map_Zone\Deep forest.WAV</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_FDC58AA1.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_C3E20BE1.wem</Path>
 		</File>
 		<File Id="684936451" Language="SFX">
 			<ShortName>Map_Zone\Canyons.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_DB22B795.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_92818435.wem</Path>
 		</File>
 		<File Id="689379105" Language="SFX">
 			<ShortName>AK_Factory_IR\Halls\AK Berlin Teldex.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_18EB8774.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_E8624D94.wem</Path>
 		</File>
 		<File Id="765520478" Language="SFX">
 			<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_980A8FC2.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_3368B642.wem</Path>
 		</File>
 		<File Id="823230670" Language="SFX">
 			<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_DEC3CAFB.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_77771CFB.wem</Path>
 		</File>
 	</MediaFilesNotInAnyBank>
 	<SoundBanks>
@@ -50,7 +50,7 @@
 			<IncludedMemoryFiles>
 				<File Id="920916149" Language="SFX">
 					<ShortName>countdown_10_sec.wav</ShortName>
-					<Path>SFX\countdown_10_sec_DF290DBA.wem</Path>
+					<Path>SFX\countdown_10_sec_C5DCCAFA.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
@@ -64,7 +64,21 @@
 			<IncludedMemoryFiles>
 				<File Id="514088020" Language="SFX">
 					<ShortName>suprise_sound_1.wav</ShortName>
-					<Path>SFX\suprise_sound_1_DF290DBA.wem</Path>
+					<Path>SFX\suprise_sound_1_C5DCCAFA.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="815031624" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_die_zwei</ObjectPath>
+			<ShortName>sixthsense_die_zwei</ShortName>
+			<Path>sixthsense_die_zwei.bnk</Path>
+			<IncludedEvents>
+				<Event Id="96822391" Name="lightbulb_die_zwei" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_die_zwei"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="882647014" Language="SFX">
+					<ShortName>die_zwei.wav</ShortName>
+					<Path>SFX\die_zwei_C8E51BD1.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
@@ -78,7 +92,7 @@
 			<IncludedMemoryFiles>
 				<File Id="634788724" Language="SFX">
 					<ShortName>timer_8_sec_soft.wav</ShortName>
-					<Path>SFX\timer_8_sec_soft_DF290DBA.wem</Path>
+					<Path>SFX\timer_8_sec_soft_C5DCCAFA.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
@@ -92,7 +106,7 @@
 			<IncludedMemoryFiles>
 				<File Id="56150732" Language="SFX">
 					<ShortName>admiral_akbar_1.wav</ShortName>
-					<Path>SFX\admiral_akbar_1_DF290DBA.wem</Path>
+					<Path>SFX\admiral_akbar_1_C5DCCAFA.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
@@ -103,31 +117,31 @@
 			<ExcludedMemoryFiles>
 				<File Id="32993886" Language="SFX">
 					<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_34D50ECD.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_C6ADE4AD.wem</Path>
 				</File>
 				<File Id="185301197" Language="SFX">
 					<ShortName>AK_Factory_IR\Large Spaces\AK Stair Way Hall.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_50E00A69.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_35160669.wem</Path>
 				</File>
 				<File Id="554205954" Language="SFX">
 					<ShortName>Map_Zone\Deep forest.WAV</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_FDC58AA1.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_C3E20BE1.wem</Path>
 				</File>
 				<File Id="684936451" Language="SFX">
 					<ShortName>Map_Zone\Canyons.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_DB22B795.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_92818435.wem</Path>
 				</File>
 				<File Id="689379105" Language="SFX">
 					<ShortName>AK_Factory_IR\Halls\AK Berlin Teldex.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_18EB8774.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_E8624D94.wem</Path>
 				</File>
 				<File Id="765520478" Language="SFX">
 					<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_980A8FC2.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_3368B642.wem</Path>
 				</File>
 				<File Id="823230670" Language="SFX">
 					<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_DEC3CAFB.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_77771CFB.wem</Path>
 				</File>
 			</ExcludedMemoryFiles>
 		</SoundBank>
@@ -141,23 +155,23 @@
 			<IncludedMemoryFiles>
 				<File Id="25302839" Language="SFX">
 					<ShortName>german_4.wav</ShortName>
-					<Path>SFX\german_4_DF290DBA.wem</Path>
+					<Path>SFX\german_4_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="139030348" Language="SFX">
 					<ShortName>german_2.wav</ShortName>
-					<Path>SFX\german_2_DF290DBA.wem</Path>
+					<Path>SFX\german_2_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="545812755" Language="SFX">
 					<ShortName>german_1.wav</ShortName>
-					<Path>SFX\german_1_DF290DBA.wem</Path>
+					<Path>SFX\german_1_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="729550964" Language="SFX">
 					<ShortName>german_3.wav</ShortName>
-					<Path>SFX\german_3_DF290DBA.wem</Path>
+					<Path>SFX\german_3_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="735747772" Language="SFX">
 					<ShortName>german_5.wav</ShortName>
-					<Path>SFX\german_5_DF290DBA.wem</Path>
+					<Path>SFX\german_5_C5DCCAFA.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
@@ -171,11 +185,11 @@
 			<IncludedMemoryFiles>
 				<File Id="769756070" Language="SFX">
 					<ShortName>sauron_2.wav</ShortName>
-					<Path>SFX\sauron_2_DF290DBA.wem</Path>
+					<Path>SFX\sauron_2_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="877893592" Language="SFX">
 					<ShortName>sauron_1.wav</ShortName>
-					<Path>SFX\sauron_1_DF290DBA.wem</Path>
+					<Path>SFX\sauron_1_C5DCCAFA.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
@@ -237,7 +251,7 @@
 			<IncludedMemoryFiles>
 				<File Id="583623869" Language="SFX">
 					<ShortName>timer_10_sec.wav</ShortName>
-					<Path>SFX\timer_10_sec_DF290DBA.wem</Path>
+					<Path>SFX\timer_10_sec_C5DCCAFA.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
@@ -251,7 +265,7 @@
 			<IncludedMemoryFiles>
 				<File Id="909511877" Language="SFX">
 					<ShortName>timer_8_sec_loud.wav</ShortName>
-					<Path>SFX\timer_8_sec_loud_DF290DBA.wem</Path>
+					<Path>SFX\timer_8_sec_loud_C5DCCAFA.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
@@ -265,7 +279,7 @@
 			<IncludedMemoryFiles>
 				<File Id="759615291" Language="SFX">
 					<ShortName>minions_1.wav</ShortName>
-					<Path>SFX\minions_1_DF290DBA.wem</Path>
+					<Path>SFX\minions_1_C5DCCAFA.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

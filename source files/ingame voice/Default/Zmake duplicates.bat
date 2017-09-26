@@ -9,6 +9,9 @@ copy armor_not_pierced_by_player_07.wav armor_not_pierced_by_player_12.wav
 copy armor_not_pierced_by_player_08.wav armor_not_pierced_by_player_13.wav
 copy armor_not_pierced_by_player_09.wav armor_not_pierced_by_player_14.wav
 copy armor_not_pierced_by_player_10.wav armor_not_pierced_by_player_15.wav
+copy armor_not_pierced_by_player_11.wav armor_not_pierced_by_player_16.wav
+copy armor_not_pierced_by_player_12.wav armor_not_pierced_by_player_17.wav
+copy armor_not_pierced_by_player_13.wav armor_not_pierced_by_player_18.wav
 
 copy armor_pierced_by_player_01.wav armor_pierced_by_player_06.wav
 copy armor_pierced_by_player_02.wav armor_pierced_by_player_07.wav
@@ -23,11 +26,13 @@ copy armor_pierced_by_player_09.wav armor_pierced_by_player_14.wav
 copy armor_ricochet_by_player_01.wav armor_ricochet_by_player_13.wav
 copy armor_ricochet_by_player_02.wav armor_ricochet_by_player_14.wav
 copy armor_ricochet_by_player_03.wav armor_ricochet_by_player_15.wav
+copy armor_ricochet_by_player_04.wav armor_ricochet_by_player_16.wav
+copy armor_ricochet_by_player_05.wav armor_ricochet_by_player_17.wav
+copy armor_ricochet_by_player_06.wav armor_ricochet_by_player_18.wav
 
 copy damage_by_near_explosion_by_player_01.wav damage_by_near_explosion_by_player_06.wav
 copy damage_by_near_explosion_by_player_02.wav damage_by_near_explosion_by_player_07.wav
 copy damage_by_near_explosion_by_player_03.wav damage_by_near_explosion_by_player_08.wav
-copy damage_by_near_explosion_by_player_04.wav damage_by_near_explosion_by_player_09.wav
 
 copy enemy_killed_by_player_01.wav enemy_killed_by_player_11.wav
 copy enemy_killed_by_player_02.wav enemy_killed_by_player_12.wav
@@ -68,16 +73,6 @@ copy start_battle_29.wav start_battle_49.wav
 copy start_battle_30.wav start_battle_50.wav
 copy start_battle_31.wav start_battle_51.wav
 copy start_battle_32.wav start_battle_52.wav
-copy start_battle_33.wav start_battle_53.wav
-copy start_battle_34.wav start_battle_54.wav
-copy start_battle_35.wav start_battle_55.wav
-copy start_battle_36.wav start_battle_56.wav
-
-copy target_lost_01.wav target_lost_05.wav
-copy target_lost_02.wav target_lost_06.wav
-
-copy track_destroyed_01.wav track_destroyed_05.wav
-copy track_destroyed_02.wav track_destroyed_06.wav
 
 copy vehicle_destroyed_01.wav vehicle_destroyed_06.wav
 copy vehicle_destroyed_02.wav vehicle_destroyed_07.wav
@@ -102,3 +97,4 @@ copy vehicle_destroyed_20.wav vehicle_destroyed_25.wav
 copy vehicle_destroyed_21.wav vehicle_destroyed_26.wav
 copy vehicle_destroyed_22.wav vehicle_destroyed_27.wav
 copy vehicle_destroyed_23.wav vehicle_destroyed_28.wav
+copy vehicle_destroyed_24.wav vehicle_destroyed_29.wav

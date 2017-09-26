@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SoundBanksInfo Platform="Windows_LowRes" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+<SoundBanksInfo Platform="Windows_LowRes" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="125">
 	<RootPaths>
-		<ProjectRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\.cache\Windows_LowRes\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\GeneratedSoundBanks\WinLowRes\</SoundBanksRoot>
+		<ProjectRoot>F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\.cache\Windows_LowRes\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\GeneratedSoundBanks\WinLowRes\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\wwise_project_9.17.1\GeneratedSoundBanks\Windows_LowRes</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\GeneratedSoundBanks\Windows_LowRes</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank>
 		<File Id="32993886" Language="SFX">
 			<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_34D50ECD.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_C6ADE4AD.wem</Path>
 		</File>
 		<File Id="185301197" Language="SFX">
 			<ShortName>AK_Factory_IR\Large Spaces\AK Stair Way Hall.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_50E00A69.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_35160669.wem</Path>
 		</File>
 		<File Id="554205954" Language="SFX">
 			<ShortName>Map_Zone\Deep forest.WAV</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_FDC58AA1.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_C3E20BE1.wem</Path>
 		</File>
 		<File Id="684936451" Language="SFX">
 			<ShortName>Map_Zone\Canyons.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_DB22B795.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_92818435.wem</Path>
 		</File>
 		<File Id="689379105" Language="SFX">
 			<ShortName>AK_Factory_IR\Halls\AK Berlin Teldex.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_18EB8774.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_E8624D94.wem</Path>
 		</File>
 		<File Id="765520478" Language="SFX">
 			<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_980A8FC2.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_3368B642.wem</Path>
 		</File>
 		<File Id="823230670" Language="SFX">
 			<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
-			<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_DEC3CAFB.wem</Path>
+			<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_77771CFB.wem</Path>
 		</File>
 	</MediaFilesNotInAnyBank>
 	<SoundBanks>
@@ -54,6 +54,14 @@
 			<Path>sixthsense_suprise.bnk</Path>
 			<IncludedEvents>
 				<Event Id="890815120" Name="lightbulb_suprise" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_suprise"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="815031624" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_die_zwei</ObjectPath>
+			<ShortName>sixthsense_die_zwei</ShortName>
+			<Path>sixthsense_die_zwei.bnk</Path>
+			<IncludedEvents>
+				<Event Id="96822391" Name="lightbulb_die_zwei" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_die_zwei"/>
 			</IncludedEvents>
 		</SoundBank>
 		<SoundBank Id="1008084913" Language="SFX">
@@ -79,31 +87,31 @@
 			<ExcludedMemoryFiles>
 				<File Id="32993886" Language="SFX">
 					<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_34D50ECD.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_C6ADE4AD.wem</Path>
 				</File>
 				<File Id="185301197" Language="SFX">
 					<ShortName>AK_Factory_IR\Large Spaces\AK Stair Way Hall.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_50E00A69.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Stair Way Hall_35160669.wem</Path>
 				</File>
 				<File Id="554205954" Language="SFX">
 					<ShortName>Map_Zone\Deep forest.WAV</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_FDC58AA1.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_C3E20BE1.wem</Path>
 				</File>
 				<File Id="684936451" Language="SFX">
 					<ShortName>Map_Zone\Canyons.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_DB22B795.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_92818435.wem</Path>
 				</File>
 				<File Id="689379105" Language="SFX">
 					<ShortName>AK_Factory_IR\Halls\AK Berlin Teldex.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_18EB8774.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_E8624D94.wem</Path>
 				</File>
 				<File Id="765520478" Language="SFX">
 					<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_980A8FC2.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_3368B642.wem</Path>
 				</File>
 				<File Id="823230670" Language="SFX">
 					<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
-					<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_DEC3CAFB.wem</Path>
+					<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_77771CFB.wem</Path>
 				</File>
 			</ExcludedMemoryFiles>
 		</SoundBank>
