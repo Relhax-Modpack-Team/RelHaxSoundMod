@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <ExplorerConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <General>
-    <LastOpenDir>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\Sixth_Sense_Audio_less_10db_softer_2017-02-06\res_mods\versiondir\audioww</LastOpenDir>
+    <LastOpenDir>F:\Tanks Stuff\RelHaxSoundMod\other files\RavioliGameTools_v2.9</LastOpenDir>
     <StartupBehaviour>DoNothing</StartupBehaviour>
   </General>
   <Extract>
-    <LastExtractDir>C:\Users\wwider\Desktop\New folder\WWISE\all sixth sense project\extracted</LastExtractDir>
+    <LastExtractDir>C:\Users\widerw\Desktop</LastExtractDir>
     <CreateSubDirectory>false</CreateSubDirectory>
     <ConvertImages>false</ConvertImages>
     <TargetImageFormat>.gif</TargetImageFormat>
@@ -24,8 +24,8 @@
   </Viewer>
   <Browser>
     <WindowSettings>
-      <Left>44</Left>
-      <Top>44</Top>
+      <Left>510</Left>
+      <Top>357</Top>
       <Width>640</Width>
       <Height>473</Height>
       <State>Normal</State>

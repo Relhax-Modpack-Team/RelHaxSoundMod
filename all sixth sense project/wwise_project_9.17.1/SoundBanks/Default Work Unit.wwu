@@ -80,6 +80,20 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="sixthsense_jingles" ID="{0D752BE7-EA01-49D5-9E64-F7C8F86B720C}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lightbulb_jingles" ID="{D6C07188-A34D-4FE8-9973-CFD8237A2745}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="sixthsense_monty_python" ID="{D8790C77-6750-444F-A43F-7DE1D193A95E}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lightbulb_monty_python" ID="{29E13891-4B7D-434D-829C-43CBBE7B0B02}" WorkUnitID="{DFF2755B-9A8F-4FB9-A356-F3AC81BDD167}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

@@ -145,6 +145,20 @@
 				</File>
 			</ExcludedMemoryFiles>
 		</SoundBank>
+		<SoundBank Id="1383694724" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_jingles</ObjectPath>
+			<ShortName>sixthsense_jingles</ShortName>
+			<Path>sixthsense_jingles.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2917348121" Name="lightbulb_jingles" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_jingles"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="802807596" Language="SFX">
+					<ShortName>jingles.wav</ShortName>
+					<Path>SFX\jingles_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="1618322204" Language="SFX">
 			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_german</ObjectPath>
 			<ShortName>sixthsense_german</ShortName>
@@ -280,6 +294,20 @@
 				<File Id="759615291" Language="SFX">
 					<ShortName>minions_1.wav</ShortName>
 					<Path>SFX\minions_1_C5DCCAFA.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="4168723090" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\sixthsense_monty_python</ObjectPath>
+			<ShortName>sixthsense_monty_python</ShortName>
+			<Path>sixthsense_monty_python.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3701369009" Name="lightbulb_monty_python" ObjectPath="\Events\GUI\modes\lightbulb\lightbulb_monty_python"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="758196921" Language="SFX">
+					<ShortName>monty_python.wav</ShortName>
+					<Path>SFX\monty_python_C8E51BD1.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

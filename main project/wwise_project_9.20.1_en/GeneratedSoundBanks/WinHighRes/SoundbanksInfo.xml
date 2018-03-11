@@ -233,13 +233,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Finnish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Finnish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Finnish" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -252,10 +252,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Finnish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -285,6 +281,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Finnish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -301,6 +301,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -308,6 +312,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Finnish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -344,10 +352,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Finnish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Finnish" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -438,13 +442,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="English(Australia)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="English(Australia)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="English(Australia)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -457,10 +461,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="English(Australia)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -490,6 +490,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="English(Australia)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -506,6 +510,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -513,6 +521,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="English(Australia)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -549,10 +561,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="English(Australia)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="English(Australia)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -643,13 +651,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Chinese(HK)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Chinese(HK)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Chinese(HK)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -662,10 +670,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Chinese(HK)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -695,6 +699,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Chinese(HK)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -711,6 +719,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -718,6 +730,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Chinese(HK)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -754,10 +770,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Chinese(HK)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Chinese(HK)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -848,13 +860,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Spanish(Spain)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Spanish(Spain)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Spanish(Spain)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -867,10 +879,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Spanish(Spain)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -900,6 +908,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Spanish(Spain)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -916,6 +928,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -923,6 +939,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Spanish(Spain)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -959,10 +979,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Spanish(Spain)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Spanish(Spain)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -1053,13 +1069,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="French(France)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="French(France)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="French(France)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -1072,10 +1088,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="French(France)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -1105,6 +1117,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="French(France)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -1121,6 +1137,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -1128,6 +1148,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="French(France)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -1164,10 +1188,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="French(France)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="French(France)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -1258,13 +1278,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Dutch" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Dutch" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Dutch" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -1277,10 +1297,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Dutch" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -1310,6 +1326,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Dutch" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -1326,6 +1346,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -1333,6 +1357,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Dutch" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -1369,10 +1397,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Dutch" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Dutch" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -1463,13 +1487,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Hungarian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Hungarian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Hungarian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -1482,10 +1506,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Hungarian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -1515,6 +1535,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Hungarian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -1531,6 +1555,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -1538,6 +1566,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Hungarian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -1574,10 +1606,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Hungarian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Hungarian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -1864,10 +1892,6 @@
 					<ShortName>platoon_created_01.wav</ShortName>
 					<Path>SFX\platoon_created_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="159889439" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_08.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_08_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="163065978" Language="English(UK)">
 					<ShortName>gunner_killed_02.wav</ShortName>
 					<Path>Voices\English(UK)\gunner_killed_02_C5DCCAFA.wem</Path>
@@ -1919,10 +1943,6 @@
 				<File Id="181578495" Language="English(UK)">
 					<ShortName>radioman_killed_01.wav</ShortName>
 					<Path>Voices\English(UK)\radioman_killed_01_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="182755671" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_02.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="182916704" Language="English(UK)">
 					<ShortName>enemy_killed_by_player_02.wav</ShortName>
@@ -2008,14 +2028,6 @@
 					<ShortName>ally_killed_by_player_01.wav</ShortName>
 					<Path>Voices\English(UK)\ally_killed_by_player_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="240414504" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_07.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_07_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="241314963" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
 					<Path>SFX\shotcuts_negative_02_C8E51BD1.wem</Path>
@@ -2043,10 +2055,6 @@
 				<File Id="257174305" Language="English(UK)">
 					<ShortName>surveying_devices_damaged_02.wav</ShortName>
 					<Path>Voices\English(UK)\surveying_devices_damaged_02_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="267425759" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_01.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="268435501" Language="English(UK)">
 					<ShortName>armor_pierced_by_player_14.wav</ShortName>
@@ -2107,10 +2115,6 @@
 				<File Id="318451038" Language="English(UK)">
 					<ShortName>start_battle_46.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_46_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="320401629" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_14.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_14_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="324738469" Language="English(UK)">
 					<ShortName>fire_stopped_03.wav</ShortName>
@@ -2220,10 +2224,6 @@
 					<ShortName>start_battle_25.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_25_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="415118790" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="415130879" Language="English(UK)">
 					<ShortName>track_functional_can_move_03.wav</ShortName>
 					<Path>Voices\English(UK)\track_functional_can_move_03_C5DCCAFA.wem</Path>
@@ -2303,10 +2303,6 @@
 				<File Id="467157231" Language="English(UK)">
 					<ShortName>start_battle_12.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_12_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="469178083" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_13.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_13_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="469315261" Language="English(UK)">
 					<ShortName>armor_not_pierced_by_player_11.wav</ShortName>
@@ -2500,10 +2496,6 @@
 					<ShortName>vehicle_destroyed_29.wav</ShortName>
 					<Path>Voices\English(UK)\vehicle_destroyed_29_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="638175140" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_12.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_12_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="641366230" Language="English(UK)">
 					<ShortName>start_battle_41.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_41_C5DCCAFA.wem</Path>
@@ -2515,10 +2507,6 @@
 				<File Id="645039627" Language="English(UK)">
 					<ShortName>surveying_devices_functional_04.wav</ShortName>
 					<Path>Voices\English(UK)\surveying_devices_functional_04_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="659023651" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_05.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_05_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="660050851" Language="SFX">
 					<ShortName>shotcuts_negative_01.wav</ShortName>
@@ -2547,10 +2535,6 @@
 				<File Id="677046459" Language="English(UK)">
 					<ShortName>crew_deactivated_05.wav</ShortName>
 					<Path>Voices\English(UK)\crew_deactivated_05_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="677856468" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="681359148" Language="English(UK)">
 					<ShortName>armor_not_pierced_by_player_08.wav</ShortName>
@@ -2600,13 +2584,13 @@
 					<ShortName>track_damaged_03.wav</ShortName>
 					<Path>Voices\English(UK)\track_damaged_03_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="739050429" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_04.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_04_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="740503844" Language="English(UK)">
 					<ShortName>turret_rotator_destroyed_02.wav</ShortName>
@@ -2640,9 +2624,9 @@
 					<ShortName>track_destroyed_01.wav</ShortName>
 					<Path>Voices\English(UK)\track_destroyed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="772786733" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_03.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_03_C5DCCAFA.wem</Path>
+				<File Id="770848012" Language="English(UK)">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\English(UK)\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="773165737" Language="English(UK)">
 					<ShortName>start_battle_20.wav</ShortName>
@@ -2720,13 +2704,13 @@
 					<ShortName>shotcuts_defend_base_01.wav</ShortName>
 					<Path>SFX\shotcuts_defend_base_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="835097670" Language="English(UK)">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\English(UK)\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="837728258" Language="English(UK)">
 					<ShortName>track_functional_can_move_01.wav</ShortName>
 					<Path>Voices\English(UK)\track_functional_can_move_01_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="838211470" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_10.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_10_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="842006770" Language="English(UK)">
 					<ShortName>armor_not_pierced_by_player_15.wav</ShortName>
@@ -2768,14 +2752,6 @@
 					<ShortName>start_battle_48.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_48_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="881906223" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_09.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_09_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="890836345" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_06.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_06_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="898814309" Language="English(UK)">
 					<ShortName>start_battle_17.wav</ShortName>
 					<Path>Voices\English(UK)\start_battle_17_C5DCCAFA.wem</Path>
@@ -2799,10 +2775,6 @@
 				<File Id="916283972" Language="English(UK)">
 					<ShortName>engine_destroyed_03.wav</ShortName>
 					<Path>Voices\English(UK)\engine_destroyed_03_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="918453365" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_15.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_15_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="919289864" Language="English(UK)">
 					<ShortName>damage_by_near_explosion_by_player_05.wav</ShortName>
@@ -2860,6 +2832,10 @@
 					<ShortName>enemy_killed_04.wav</ShortName>
 					<Path>Voices\English(UK)\enemy_killed_04_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="980718231" Language="English(UK)">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\English(UK)\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="985073302" Language="English(UK)">
 					<ShortName>crew_deactivated_02.wav</ShortName>
 					<Path>Voices\English(UK)\crew_deactivated_02_C5DCCAFA.wem</Path>
@@ -2899,10 +2875,6 @@
 				<File Id="1005525853" Language="English(UK)">
 					<ShortName>enemy_fire_started_by_player_01.wav</ShortName>
 					<Path>Voices\English(UK)\enemy_fire_started_by_player_01_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="1006269058" Language="English(UK)">
-					<ShortName>armor_ricochet_by_player_11.wav</ShortName>
-					<Path>Voices\English(UK)\armor_ricochet_by_player_11_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="1007876272" Language="English(UK)">
 					<ShortName>damage_by_near_explosion_by_player_03.wav</ShortName>
@@ -3077,13 +3049,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Polish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Polish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Polish" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -3096,10 +3068,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Polish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -3129,6 +3097,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Polish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -3145,6 +3117,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -3152,6 +3128,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Polish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -3188,10 +3168,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Polish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Polish" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -3318,10 +3294,6 @@
 					<ShortName>fire_started_04.wav</ShortName>
 					<Path>Voices\English(US)\fire_started_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="27829749" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_12.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_12_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="29118875" Language="SFX">
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
@@ -3349,10 +3321,6 @@
 				<File Id="52119806" Language="English(US)">
 					<ShortName>enemy_killed_by_player_04.wav</ShortName>
 					<Path>Voices\English(US)\enemy_killed_by_player_04_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="59473055" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_01.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="61496263" Language="English(US)">
 					<ShortName>start_battle_26.wav</ShortName>
@@ -3602,14 +3570,6 @@
 					<ShortName>armor_not_pierced_by_player_07.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="294466108" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="296276392" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_07.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_07_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="305531114" Language="English(US)">
 					<ShortName>vehicle_destroyed_03.wav</ShortName>
 					<Path>Voices\English(US)\vehicle_destroyed_03_C5DCCAFA.wem</Path>
@@ -3630,10 +3590,6 @@
 					<ShortName>engine_damaged_06.wav</ShortName>
 					<Path>Voices\English(US)\engine_damaged_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="333225108" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_02.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_02_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="342082510" Language="English(US)">
 					<ShortName>armor_not_pierced_by_player_04.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_04_C5DCCAFA.wem</Path>
@@ -3649,6 +3605,10 @@
 				<File Id="349630752" Language="English(US)">
 					<ShortName>vehicle_destroyed_23.wav</ShortName>
 					<Path>Voices\English(US)\vehicle_destroyed_23_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="350779033" Language="English(US)">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\English(US)\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="353076716" Language="English(US)">
 					<ShortName>start_battle_46.wav</ShortName>
@@ -3846,6 +3806,10 @@
 					<ShortName>enemy_killed_02.wav</ShortName>
 					<Path>Voices\English(US)\enemy_killed_02_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="519048676" Language="English(US)">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\English(US)\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="521641112" Language="English(US)">
 					<ShortName>surveying_devices_damaged_01.wav</ShortName>
 					<Path>Voices\English(US)\surveying_devices_damaged_01_C5DCCAFA.wem</Path>
@@ -3889,10 +3853,6 @@
 				<File Id="556068767" Language="English(US)">
 					<ShortName>target_unlocked_01.wav</ShortName>
 					<Path>Voices\English(US)\target_unlocked_01_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="568839297" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_08.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_08_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="570971557" Language="English(US)">
 					<ShortName>track_damaged_03.wav</ShortName>
@@ -3982,10 +3942,6 @@
 					<ShortName>start_battle_12.wav</ShortName>
 					<Path>Voices\English(US)\start_battle_12_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="637503253" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_09.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_09_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="638578269" Language="English(US)">
 					<ShortName>radioman_killed_03.wav</ShortName>
 					<Path>Voices\English(US)\radioman_killed_03_C5DCCAFA.wem</Path>
@@ -4046,10 +4002,6 @@
 					<ShortName>armor_pierced_by_player_11.wav</ShortName>
 					<Path>Voices\English(US)\armor_pierced_by_player_11_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="691571619" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_10.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_10_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="692025607" Language="English(US)">
 					<ShortName>gunner_killed_04.wav</ShortName>
 					<Path>Voices\English(US)\gunner_killed_04_C5DCCAFA.wem</Path>
@@ -4074,10 +4026,6 @@
 					<ShortName>armor_not_pierced_by_player_16.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_16_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="710912392" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="714246690" Language="English(US)">
 					<ShortName>engine_damaged_01.wav</ShortName>
 					<Path>Voices\English(US)\engine_damaged_01_C5DCCAFA.wem</Path>
@@ -4093,6 +4041,10 @@
 				<File Id="726862494" Language="English(US)">
 					<ShortName>surveying_devices_functional_01.wav</ShortName>
 					<Path>Voices\English(US)\surveying_devices_functional_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
 				</File>
 				<File Id="730078987" Language="English(US)">
 					<ShortName>radio_damaged_02.wav</ShortName>
@@ -4129,10 +4081,6 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
-				</File>
-				<File Id="746606865" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_04.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_04_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="753346479" Language="English(US)">
 					<ShortName>surveying_devices_destroyed_05.wav</ShortName>
@@ -4394,14 +4342,6 @@
 					<ShortName>armor_not_pierced_by_player_08.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_08_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="897290960" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_05.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_05_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="901196327" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_06.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_06_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="903883433" Language="English(US)">
 					<ShortName>target_unlocked_02.wav</ShortName>
 					<Path>Voices\English(US)\target_unlocked_02_C5DCCAFA.wem</Path>
@@ -4442,10 +4382,6 @@
 					<ShortName>radio_damaged_06.wav</ShortName>
 					<Path>Voices\English(US)\radio_damaged_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="933905000" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_03.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_03_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="949660087" Language="English(US)">
 					<ShortName>enemy_killed_by_player_11.wav</ShortName>
 					<Path>Voices\English(US)\enemy_killed_by_player_11_C5DCCAFA.wem</Path>
@@ -4462,10 +4398,6 @@
 					<ShortName>armor_not_pierced_by_player_12.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_12_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="961338568" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="962220196" Language="English(US)">
 					<ShortName>armor_pierced_by_player_13.wav</ShortName>
 					<Path>Voices\English(US)\armor_pierced_by_player_13_C5DCCAFA.wem</Path>
@@ -4474,10 +4406,6 @@
 					<ShortName>start_battle_43.wav</ShortName>
 					<Path>Voices\English(US)\start_battle_43_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="987534357" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_14.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_14_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="991270266" Language="English(US)">
 					<ShortName>enemy_killed_by_player_07.wav</ShortName>
 					<Path>Voices\English(US)\enemy_killed_by_player_07_C5DCCAFA.wem</Path>
@@ -4485,6 +4413,10 @@
 				<File Id="996169827" Language="English(US)">
 					<ShortName>enemy_killed_by_player_10.wav</ShortName>
 					<Path>Voices\English(US)\enemy_killed_by_player_10_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="996782967" Language="English(US)">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\English(US)\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="998442541" Language="English(US)">
 					<ShortName>engine_damaged_05.wav</ShortName>
@@ -4546,14 +4478,6 @@
 					<ShortName>armor_not_pierced_by_player_02.wav</ShortName>
 					<Path>Voices\English(US)\armor_not_pierced_by_player_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1027194010" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_15.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_15_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="1031423750" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_11.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_11_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="1033235947" Language="English(US)">
 					<ShortName>turret_rotator_damaged_03.wav</ShortName>
 					<Path>Voices\English(US)\turret_rotator_damaged_03_C5DCCAFA.wem</Path>
@@ -4589,10 +4513,6 @@
 				<File Id="1039848926" Language="English(US)">
 					<ShortName>start_battle_14.wav</ShortName>
 					<Path>Voices\English(US)\start_battle_14_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="1047527397" Language="English(US)">
-					<ShortName>armor_ricochet_by_player_13.wav</ShortName>
-					<Path>Voices\English(US)\armor_ricochet_by_player_13_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="1048761365" Language="English(US)">
 					<ShortName>enemy_fire_started_by_player_04.wav</ShortName>
@@ -4691,13 +4611,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Norwegian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Norwegian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Norwegian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -4710,10 +4630,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Norwegian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -4743,6 +4659,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Norwegian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -4759,6 +4679,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -4766,6 +4690,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Norwegian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -4802,10 +4730,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Norwegian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Norwegian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -4896,13 +4820,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Swedish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Swedish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Swedish" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -4915,10 +4839,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Swedish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -4948,6 +4868,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Swedish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -4964,6 +4888,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -4971,6 +4899,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Swedish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -5007,10 +4939,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Swedish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Swedish" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -5101,13 +5029,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Czech" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Czech" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Czech" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -5120,10 +5048,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Czech" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -5153,6 +5077,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Czech" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -5169,6 +5097,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -5176,6 +5108,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Czech" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -5212,10 +5148,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Czech" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Czech" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -5306,13 +5238,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Hebrew" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Hebrew" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Hebrew" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -5325,10 +5257,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Hebrew" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -5358,6 +5286,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Hebrew" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -5374,6 +5306,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -5381,6 +5317,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Hebrew" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -5417,10 +5357,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Hebrew" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Hebrew" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -5511,13 +5447,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Portuguese(Brazil)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Portuguese(Brazil)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Portuguese(Brazil)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -5530,10 +5466,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Portuguese(Brazil)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -5563,6 +5495,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Portuguese(Brazil)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -5579,6 +5515,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -5586,6 +5526,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Portuguese(Brazil)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -5622,10 +5566,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Portuguese(Brazil)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Portuguese(Brazil)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -5716,13 +5656,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="French(Canada)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="French(Canada)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="French(Canada)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -5735,10 +5675,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="French(Canada)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -5768,6 +5704,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="French(Canada)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -5784,6 +5724,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -5791,6 +5735,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="French(Canada)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -5827,10 +5775,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="French(Canada)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="French(Canada)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -5921,13 +5865,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Indonesian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Indonesian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Indonesian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -5940,10 +5884,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Indonesian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -5973,6 +5913,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Indonesian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -5989,6 +5933,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -5996,6 +5944,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Indonesian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -6032,10 +5984,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Indonesian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Indonesian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -6126,13 +6074,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="English(India)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="English(India)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="English(India)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -6145,10 +6093,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="English(India)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -6178,6 +6122,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="English(India)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -6194,6 +6142,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -6201,6 +6153,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="English(India)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -6237,10 +6193,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="English(India)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="English(India)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -6423,10 +6375,6 @@
 					<ShortName>enemy_killed_by_player_06.wav</ShortName>
 					<Path>Voices\English(Canada)\enemy_killed_by_player_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="61685217" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_07.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_07_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="62287198" Language="English(Canada)">
 					<ShortName>track_destroyed_02.wav</ShortName>
 					<Path>Voices\English(Canada)\track_destroyed_02_C5DCCAFA.wem</Path>
@@ -6519,10 +6467,6 @@
 					<ShortName>track_functional_can_move_07.wav</ShortName>
 					<Path>Voices\English(Canada)\track_functional_can_move_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="146395026" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="153389668" Language="English(Canada)">
 					<ShortName>vehicle_destroyed_24.wav</ShortName>
 					<Path>Voices\English(Canada)\vehicle_destroyed_24_C5DCCAFA.wem</Path>
@@ -6538,10 +6482,6 @@
 				<File Id="173094227" Language="English(Canada)">
 					<ShortName>armor_not_pierced_by_player_03.wav</ShortName>
 					<Path>Voices\English(Canada)\armor_not_pierced_by_player_03_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="175543054" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_11.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_11_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="176680348" Language="English(Canada)">
 					<ShortName>start_battle_25.wav</ShortName>
@@ -6591,10 +6531,6 @@
 					<ShortName>vehicle_destroyed_23.wav</ShortName>
 					<Path>Voices\English(Canada)\vehicle_destroyed_23_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="203691294" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_13.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_13_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="205891423" Language="English(Canada)">
 					<ShortName>engine_destroyed_02.wav</ShortName>
 					<Path>Voices\English(Canada)\engine_destroyed_02_C5DCCAFA.wem</Path>
@@ -6631,6 +6567,10 @@
 					<ShortName>track_functional_04.wav</ShortName>
 					<Path>Voices\English(Canada)\track_functional_04_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="233256650" Language="English(Canada)">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\English(Canada)\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="234564461" Language="English(Canada)">
 					<ShortName>target_lost_04.wav</ShortName>
 					<Path>Voices\English(Canada)\target_lost_04_C5DCCAFA.wem</Path>
@@ -6646,10 +6586,6 @@
 				<File Id="237585025" Language="English(Canada)">
 					<ShortName>start_battle_39.wav</ShortName>
 					<Path>Voices\English(Canada)\start_battle_39_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="242285454" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_05.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_05_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -6715,10 +6651,6 @@
 					<ShortName>start_battle_17.wav</ShortName>
 					<Path>Voices\English(Canada)\start_battle_17_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="281979786" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="290681374" Language="English(Canada)">
 					<ShortName>vehicle_destroyed_18.wav</ShortName>
 					<Path>Voices\English(Canada)\vehicle_destroyed_18_C5DCCAFA.wem</Path>
@@ -6770,10 +6702,6 @@
 				<File Id="335708006" Language="English(Canada)">
 					<ShortName>ally_killed_by_player_03.wav</ShortName>
 					<Path>Voices\English(Canada)\ally_killed_by_player_03_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="339015542" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_14.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_14_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="339455773" Language="English(Canada)">
 					<ShortName>start_battle_18.wav</ShortName>
@@ -6835,10 +6763,6 @@
 					<ShortName>vehicle_destroyed_19.wav</ShortName>
 					<Path>Voices\English(Canada)\vehicle_destroyed_19_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="378926055" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_12.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_12_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="379304527" Language="English(Canada)">
 					<ShortName>start_battle_43.wav</ShortName>
 					<Path>Voices\English(Canada)\start_battle_43_C5DCCAFA.wem</Path>
@@ -6895,17 +6819,9 @@
 					<ShortName>fire_started_08.wav</ShortName>
 					<Path>Voices\English(Canada)\fire_started_08_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="415923390" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_08.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_08_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="416077725" Language="English(Canada)">
 					<ShortName>armor_not_pierced_by_player_09.wav</ShortName>
 					<Path>Voices\English(Canada)\armor_not_pierced_by_player_09_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="416394385" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_02.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="417461772" Language="English(Canada)">
 					<ShortName>surveying_devices_damaged_03.wav</ShortName>
@@ -6943,6 +6859,10 @@
 					<ShortName>gunner_killed_04.wav</ShortName>
 					<Path>Voices\English(Canada)\gunner_killed_04_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="446109837" Language="English(Canada)">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\English(Canada)\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="446602612" Language="English(Canada)">
 					<ShortName>armor_pierced_by_player_09.wav</ShortName>
 					<Path>Voices\English(Canada)\armor_pierced_by_player_09_C5DCCAFA.wem</Path>
@@ -6963,10 +6883,6 @@
 					<ShortName>start_battle_21.wav</ShortName>
 					<Path>Voices\English(Canada)\start_battle_21_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="482823007" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_06.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_06_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="484558036" Language="English(Canada)">
 					<ShortName>start_battle_07.wav</ShortName>
 					<Path>Voices\English(Canada)\start_battle_07_C5DCCAFA.wem</Path>
@@ -6975,10 +6891,6 @@
 					<ShortName>crew_deactivated_02.wav</ShortName>
 					<Path>Voices\English(Canada)\crew_deactivated_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="493276852" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_09.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_09_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="499928165" Language="English(Canada)">
 					<ShortName>enemy_killed_by_player_09.wav</ShortName>
 					<Path>Voices\English(Canada)\enemy_killed_by_player_09_C5DCCAFA.wem</Path>
@@ -6986,6 +6898,10 @@
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
+				</File>
+				<File Id="503168439" Language="English(Canada)">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\English(Canada)\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="504743406" Language="SFX">
 					<ShortName>shotcuts_negative_03.wav</ShortName>
@@ -7003,10 +6919,6 @@
 					<ShortName>armor_pierced_by_player_06.wav</ShortName>
 					<Path>Voices\English(Canada)\armor_pierced_by_player_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="519545016" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_01.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_01_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="519590206" Language="English(Canada)">
 					<ShortName>armor_pierced_by_player_08.wav</ShortName>
 					<Path>Voices\English(Canada)\armor_pierced_by_player_08_C5DCCAFA.wem</Path>
@@ -7022,10 +6934,6 @@
 				<File Id="531356530" Language="English(Canada)">
 					<ShortName>radio_damaged_03.wav</ShortName>
 					<Path>Voices\English(Canada)\radio_damaged_03_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="531577759" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_10.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_10_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="537333326" Language="English(Canada)">
 					<ShortName>engine_damaged_02.wav</ShortName>
@@ -7214,6 +7122,10 @@
 				<File Id="719687969" Language="English(Canada)">
 					<ShortName>damage_by_near_explosion_by_player_04.wav</ShortName>
 					<Path>Voices\English(Canada)\damage_by_near_explosion_by_player_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
 				</File>
 				<File Id="729705197" Language="English(Canada)">
 					<ShortName>surveying_devices_functional_06.wav</ShortName>
@@ -7515,17 +7427,9 @@
 					<ShortName>start_battle_10.wav</ShortName>
 					<Path>Voices\English(Canada)\start_battle_10_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="950098592" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_15.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_15_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="958003606" Language="English(Canada)">
 					<ShortName>enemy_fire_started_by_player_01.wav</ShortName>
 					<Path>Voices\English(Canada)\enemy_fire_started_by_player_01_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="961855880" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="964214664" Language="English(Canada)">
 					<ShortName>target_captured_01.wav</ShortName>
@@ -7562,14 +7466,6 @@
 				<File Id="990772945" Language="English(Canada)">
 					<ShortName>start_battle_31.wav</ShortName>
 					<Path>Voices\English(Canada)\start_battle_31_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="996026592" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_04.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_04_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="1000303323" Language="English(Canada)">
-					<ShortName>armor_ricochet_by_player_03.wav</ShortName>
-					<Path>Voices\English(Canada)\armor_ricochet_by_player_03_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="1001871972" Language="English(Canada)">
 					<ShortName>turret_rotator_functional_02.wav</ShortName>
@@ -7740,13 +7636,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Italian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Italian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Italian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -7759,10 +7655,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Italian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -7792,6 +7684,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Italian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -7808,6 +7704,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -7815,6 +7715,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Italian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -7851,10 +7755,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Italian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Italian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -7945,13 +7845,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Japanese" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Japanese" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Japanese" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -7964,10 +7864,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Japanese" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -7997,6 +7893,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Japanese" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -8013,6 +7913,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -8020,6 +7924,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Japanese" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -8056,10 +7964,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Japanese" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Japanese" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -8150,13 +8054,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Chinese(Malaysia)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Chinese(Malaysia)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Chinese(Malaysia)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -8169,10 +8073,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Chinese(Malaysia)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -8202,6 +8102,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Chinese(Malaysia)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -8218,6 +8122,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -8225,6 +8133,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Chinese(Malaysia)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -8261,10 +8173,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Chinese(Malaysia)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Chinese(Malaysia)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -8355,13 +8263,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Russian">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Russian">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Russian">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -8374,10 +8282,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Russian">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -8407,6 +8311,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Russian">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -8423,6 +8331,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -8430,6 +8342,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Russian">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -8466,10 +8382,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Russian">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Russian">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -8560,13 +8472,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Vietnamese" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Vietnamese" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Vietnamese" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -8579,10 +8491,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Vietnamese" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -8612,6 +8520,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Vietnamese" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -8628,6 +8540,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -8635,6 +8551,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Vietnamese" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -8671,10 +8591,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Vietnamese" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Vietnamese" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -8765,13 +8681,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Chinese(Taiwan)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Chinese(Taiwan)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Chinese(Taiwan)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -8784,10 +8700,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Chinese(Taiwan)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -8817,6 +8729,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Chinese(Taiwan)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -8833,6 +8749,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -8840,6 +8760,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Chinese(Taiwan)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -8876,10 +8800,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Chinese(Taiwan)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Chinese(Taiwan)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -8970,13 +8890,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Arabic" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Arabic" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Arabic" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -8989,10 +8909,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Arabic" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -9022,6 +8938,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Arabic" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -9038,6 +8958,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -9045,6 +8969,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Arabic" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -9081,10 +9009,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Arabic" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Arabic" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -9175,13 +9099,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Thai" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Thai" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Thai" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -9194,10 +9118,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Thai" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -9227,6 +9147,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Thai" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -9243,6 +9167,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -9250,6 +9178,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Thai" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -9286,10 +9218,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Thai" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Thai" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -9380,13 +9308,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Korean" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Korean" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Korean" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -9399,10 +9327,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Korean" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -9432,6 +9356,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Korean" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -9448,6 +9376,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -9455,6 +9387,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Korean" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -9491,10 +9427,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Korean" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Korean" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -9585,13 +9517,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Slovenian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Slovenian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Slovenian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -9604,10 +9536,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Slovenian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -9637,6 +9565,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Slovenian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -9653,6 +9585,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -9660,6 +9596,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Slovenian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -9696,10 +9636,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Slovenian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Slovenian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -9790,13 +9726,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Latin" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Latin" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Latin" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -9809,10 +9745,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Latin" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -9842,6 +9774,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Latin" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -9858,6 +9794,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -9865,6 +9805,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Latin" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -9901,10 +9845,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Latin" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Latin" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -9995,13 +9935,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Spanish(Mexico)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Spanish(Mexico)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Spanish(Mexico)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -10014,10 +9954,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Spanish(Mexico)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -10047,6 +9983,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Spanish(Mexico)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -10063,6 +10003,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -10070,6 +10014,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Spanish(Mexico)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -10106,10 +10054,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Spanish(Mexico)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Spanish(Mexico)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -10200,13 +10144,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Portuguese(Portugal)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Portuguese(Portugal)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Portuguese(Portugal)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -10219,10 +10163,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Portuguese(Portugal)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -10252,6 +10192,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Portuguese(Portugal)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -10268,6 +10212,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -10275,6 +10223,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Portuguese(Portugal)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -10311,10 +10263,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Portuguese(Portugal)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Portuguese(Portugal)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -10405,13 +10353,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Chinese(PRC)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Chinese(PRC)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Chinese(PRC)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -10424,10 +10372,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Chinese(PRC)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -10457,6 +10401,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Chinese(PRC)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -10473,6 +10421,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -10480,6 +10432,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Chinese(PRC)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -10516,10 +10472,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Chinese(PRC)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Chinese(PRC)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -10610,13 +10562,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Turkish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Turkish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Turkish" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -10629,10 +10581,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Turkish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -10662,6 +10610,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Turkish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -10678,6 +10630,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -10685,6 +10641,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Turkish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -10721,10 +10681,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Turkish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Turkish" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -10815,13 +10771,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Ukrainian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Ukrainian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Ukrainian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -10834,10 +10790,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Ukrainian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -10867,6 +10819,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Ukrainian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -10883,6 +10839,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -10890,6 +10850,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Ukrainian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -10926,10 +10890,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Ukrainian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Ukrainian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -11020,13 +10980,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Danish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Danish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Danish" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -11039,10 +10999,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Danish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -11072,6 +11028,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Danish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -11088,6 +11048,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -11095,6 +11059,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Danish" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -11131,10 +11099,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Danish" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Danish" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -11225,13 +11189,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Romanian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Romanian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Romanian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -11244,10 +11208,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Romanian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -11277,6 +11237,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Romanian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -11293,6 +11257,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -11300,6 +11268,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Romanian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -11336,10 +11308,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Romanian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Romanian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -11430,13 +11398,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Greek" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Greek" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Greek" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -11449,10 +11417,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Greek" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -11482,6 +11446,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Greek" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -11498,6 +11466,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -11505,6 +11477,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Greek" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -11541,10 +11517,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Greek" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Greek" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -11635,13 +11607,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Spanish(US)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Spanish(US)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Spanish(US)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -11654,10 +11626,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Spanish(US)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -11687,6 +11655,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Spanish(US)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -11703,6 +11675,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -11710,6 +11686,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Spanish(US)" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -11746,10 +11726,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Spanish(US)" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Spanish(US)" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -11840,13 +11816,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="Bulgarian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="Bulgarian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="Bulgarian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -11859,10 +11835,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="Bulgarian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -11892,6 +11864,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="Bulgarian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -11908,6 +11884,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -11915,6 +11895,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="Bulgarian" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -11951,10 +11935,6 @@
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="899136324" Language="Bulgarian" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="922892358" Language="Bulgarian" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
@@ -12045,13 +12025,13 @@
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35749170" Language="German" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_16.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_16_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="46694724" Language="German" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="154742640" Language="German" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_01.wav</ShortName>
@@ -12064,10 +12044,6 @@
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="226478858" Language="German" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_18.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_18_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
@@ -12097,6 +12073,10 @@
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="439522846" Language="German" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
@@ -12113,6 +12093,10 @@
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -12120,6 +12104,10 @@
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="797181122" Language="German" UsingReferenceLanguageAsStandIn="true">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>Voices\Russian\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
@@ -12157,10 +12145,6 @@
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
 				</File>
-				<File Id="899136324" Language="German" UsingReferenceLanguageAsStandIn="true">
-					<ShortName>armor_ricochet_by_player_17.wav</ShortName>
-					<Path>Voices\Russian\armor_ricochet_by_player_17_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="922892358" Language="German" UsingReferenceLanguageAsStandIn="true">
 					<ShortName>enemy_killed_04.wav</ShortName>
 					<Path>Voices\Russian\enemy_killed_04_C5DCCAFA.wem</Path>
@@ -12190,10 +12174,6 @@
 				<File Id="474347102" Language="SFX">
 					<ShortName>spotted_3.wav</ShortName>
 					<Path>SFX\spotted_3_C8E51BD1.wem</Path>
-				</File>
-				<File Id="737753964" Language="SFX">
-					<ShortName>spotted_6.wav</ShortName>
-					<Path>SFX\spotted_6_C8E51BD1.wem</Path>
 				</File>
 				<File Id="823492759" Language="SFX">
 					<ShortName>spotted_5.wav</ShortName>

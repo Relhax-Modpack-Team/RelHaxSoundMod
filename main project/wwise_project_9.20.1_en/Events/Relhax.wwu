@@ -69,7 +69,7 @@
 									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="vo_armor_ricochet_by_player" ID="{EDD1758E-F377-4E51-8D2D-C55DD8999D41}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+											<ObjectRef Name="vo_armor_not_pierced_by_player" ID="{3342C47E-D692-42F8-BDD0-E95CFEBCBD36}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>

@@ -398,6 +398,34 @@ _________________________________________________________
 										</Action>
 									</ChildrenList>
 								</Event>
+								<Event Name="lightbulb_jingles" ID="{D6C07188-A34D-4FE8-9973-CFD8237A2745}">
+									<ChildrenList>
+										<Action Name="" ID="{60608301-3306-4E4D-9ED0-9CD6E792FB34}" ShortID="675621727">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="jingles" ID="{6999251A-74FC-4C26-86CF-E69CA7A79B3F}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="lightbulb_monty_python" ID="{29E13891-4B7D-434D-829C-43CBBE7B0B02}">
+									<ChildrenList>
+										<Action Name="" ID="{E7406534-859C-42DA-8949-6EBE3B492661}" ShortID="521022263">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="monty_python" ID="{83E2CDE4-63E0-497D-A75D-59E33E2A38FE}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
 							</ChildrenList>
 						</Folder>
 					</ChildrenList>

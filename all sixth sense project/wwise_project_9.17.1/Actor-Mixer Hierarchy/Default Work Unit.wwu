@@ -323,6 +323,44 @@
 						<ActiveSource Name="die_zwei" ID="{CE81D0F9-F29D-41AA-954D-FEBC7208EEA6}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="monty_python" ID="{83E2CDE4-63E0-497D-A75D-59E33E2A38FE}" ShortID="57770182">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="monty_python" ID="{4888A5DE-F0DC-4B22-9750-6315B2AD7BF5}" ShortID="758196921">
+							<Language>SFX</Language>
+							<AudioFile>monty_python.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="monty_python" ID="{4888A5DE-F0DC-4B22-9750-6315B2AD7BF5}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="jingles" ID="{6999251A-74FC-4C26-86CF-E69CA7A79B3F}" ShortID="711805773">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="jingles" ID="{2186893C-D8B0-463A-AD69-A54A229A3E43}" ShortID="802807596">
+							<Language>SFX</Language>
+							<AudioFile>jingles.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="jingles" ID="{2186893C-D8B0-463A-AD69-A54A229A3E43}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

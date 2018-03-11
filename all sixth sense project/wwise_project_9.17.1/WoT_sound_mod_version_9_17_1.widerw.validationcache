@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="80">
-	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4138075199" DateHigh="30619167"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3524506638" DateHigh="30652613"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Attenuations\Ambient.wwu" DateLow="666561727" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Attenuations\Collision.wwu" DateLow="667594234" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Attenuations\Combat_atmosphere.wwu" DateLow="666792350" DateHigh="30619158"/>
@@ -48,12 +48,12 @@
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Ambient.wwu" DateLow="662111785" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Combat_atmosphere.wwu" DateLow="662520823" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Damage.wwu" DateLow="662596785" DateHigh="30619158"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Default Work Unit.wwu" DateLow="662162287" DateHigh="30619158"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Default Work Unit.wwu" DateLow="461072433" DateHigh="30652614"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Engine.wwu" DateLow="661750418" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Explosions.wwu" DateLow="661830620" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Explosive_objects.wwu" DateLow="663363418" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Fortified_Area.wwu" DateLow="663658898" DateHigh="30619158"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\GUI.wwu" DateLow="34283072" DateHigh="30619168"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\GUI.wwu" DateLow="461192798" DateHigh="30652614"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Gun Reload.wwu" DateLow="663803070" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Hangar.wwu" DateLow="662751903" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Events\Impacts.wwu" DateLow="663893312" DateHigh="30619158"/>
@@ -109,7 +109,7 @@
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Queries\Build_queries.wwu" DateLow="666481495" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Queries\Default Work Unit.wwu" DateLow="667484743" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Queries\Factory Queries.wwu" DateLow="666431673" DateHigh="30619158"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\SoundBanks\Default Work Unit.wwu" DateLow="889230967" DateHigh="30619168"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\SoundBanks\Default Work Unit.wwu" DateLow="1026760823" DateHigh="30652614"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Soundcaster Sessions\Default Work Unit.wwu" DateLow="667449568" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\States\Common.wwu" DateLow="666312754" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\States\Default Work Unit.wwu" DateLow="665326500" DateHigh="30619158"/>
@@ -126,6 +126,6 @@
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Switches\Weapons.wwu" DateLow="666088123" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Triggers\Default Work Unit.wwu" DateLow="667831181" DateHigh="30619158"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\Virtual Acoustics\Default Work Unit.wwu" DateLow="668280254" DateHigh="30619158"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.widerw.wsettings" DateLow="1411981831" DateHigh="30619168"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.widerw.wsettings" DateLow="1348463829" DateHigh="30652614"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\all sixth sense project\wwise_project_9.17.1\WoT_sound_mod_version_9_17_1.wproj" DateLow="660583114" DateHigh="30619158"/>
 </ValidationCache>

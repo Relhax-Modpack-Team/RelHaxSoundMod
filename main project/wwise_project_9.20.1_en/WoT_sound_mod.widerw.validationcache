@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="80">
-	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2678773025" DateHigh="30619236"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4169935386" DateHigh="30619623"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\Actor-Mixer Hierarchy\Relhax.wwu" DateLow="3357963398" DateHigh="30619163"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\Attenuations\Ambient.wwu" DateLow="1948586496" DateHigh="30617924"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\Attenuations\Collision.wwu" DateLow="1928586496" DateHigh="30617924"/>
@@ -137,6 +137,6 @@
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\Switches\Weapons.wwu" DateLow="1848586496" DateHigh="30617924"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\Triggers\Default Work Unit.wwu" DateLow="2977134340" DateHigh="30618563"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\Virtual Acoustics\Default Work Unit.wwu" DateLow="1908586496" DateHigh="30617924"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\WoT_sound_mod.widerw.wsettings" DateLow="2268555232" DateHigh="30619239"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\WoT_sound_mod.widerw.wsettings" DateLow="4041759574" DateHigh="30619632"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelHaxSoundMod\main project\wwise_project_9.20.1_en\WoT_sound_mod.wproj" DateLow="1721675501" DateHigh="30619163"/>
 </ValidationCache>
