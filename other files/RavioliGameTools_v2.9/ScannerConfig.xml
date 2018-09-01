@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ScannerConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Directories>
+    <LastScanSourceDir>F:\Tanks Stuff\RelHaxSoundMod\other files\RavioliGameTools_v2.9</LastScanSourceDir>
+    <LastLoadSaveDir />
+    <LastExtractDir />
+  </Directories>
+  <MainWindowSettings>
+    <Left>156</Left>
+    <Top>156</Top>
+    <Width>615</Width>
+    <Height>414</Height>
+    <State>Normal</State>
+  </MainWindowSettings>
+  <ViewerWindowSettings>
+    <Left>0</Left>
+    <Top>0</Top>
+    <Width>0</Width>
+    <Height>0</Height>
+    <State>Normal</State>
+  </ViewerWindowSettings>
+  <Options>
+    <Unknowns>true</Unknowns>
+    <Hex>false</Hex>
+    <Log>false</Log>
+    <Range>false</Range>
+  </Options>
+</ScannerConfig>
