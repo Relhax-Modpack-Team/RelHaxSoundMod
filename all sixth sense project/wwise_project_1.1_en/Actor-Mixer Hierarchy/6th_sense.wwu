@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" SchemaVersion="85">
+	<AudioObjects>
+		<WorkUnit Name="6th_sense" ID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" PersistMode="Standalone">
+			<ChildrenList>
+				<RandomSequenceContainer Name="sauron" ID="{F52AE58A-60C8-464A-9ED8-A7F6BE360ABB}" ShortID="244503636">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="sauron_1" ID="{DD211AFD-5294-40E0-8BE9-96CDAF988574}" ShortID="321983724">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="sauron_1" ID="{1E3F3007-AFEF-49DA-AE80-7A6F1735E3CC}" ShortID="877893592">
+									<Language>SFX</Language>
+									<AudioFile>sauron_1.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="sauron_1" ID="{1E3F3007-AFEF-49DA-AE80-7A6F1735E3CC}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="sauron_2" ID="{5C661FFC-0B74-4938-A96B-FA7A7F1F5C67}" ShortID="770513505">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="sauron_2" ID="{D385201B-58B2-41B1-B0AB-7CEBA7C88AEC}" ShortID="769756070">
+									<Language>SFX</Language>
+									<AudioFile>sauron_2.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="sauron_2" ID="{D385201B-58B2-41B1-B0AB-7CEBA7C88AEC}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<Sound Name="admiral_akbar_1" ID="{4A6F420E-C578-4BCD-BDA3-0EDFB29F5F63}" ShortID="873262323">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="admiral_akbar_1" ID="{792CFF6D-D8C5-4D20-8A0B-DC7E6FEB857C}" ShortID="56150732">
+							<Language>SFX</Language>
+							<AudioFile>admiral_akbar_1.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="admiral_akbar_1" ID="{792CFF6D-D8C5-4D20-8A0B-DC7E6FEB857C}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="countdown_10_sec" ID="{4224F4D1-33F5-4574-BE62-141A30BCE8A1}" ShortID="222039856">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="countdown_10_sec" ID="{BFB8F8FB-F895-400D-AE76-568D546972DB}" ShortID="920916149">
+							<Language>SFX</Language>
+							<AudioFile>countdown_10_sec.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="countdown_10_sec" ID="{BFB8F8FB-F895-400D-AE76-568D546972DB}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="minions_1" ID="{73E50E12-18C6-47A9-ACAF-5FC0463C97DC}" ShortID="1065294875">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="minions_1" ID="{F0CD4200-D1A5-4DA6-8A14-B1D535CF1FAA}" ShortID="759615291">
+							<Language>SFX</Language>
+							<AudioFile>minions_1.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="minions_1" ID="{F0CD4200-D1A5-4DA6-8A14-B1D535CF1FAA}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="suprise_sound_1" ID="{6A9109D2-49A7-4E21-9DBB-D83643C35B6D}" ShortID="499937921">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="suprise_sound_1" ID="{7E026C86-C4BD-4903-A75D-2DB955310180}" ShortID="514088020">
+							<Language>SFX</Language>
+							<AudioFile>suprise_sound_1.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="suprise_sound_1" ID="{7E026C86-C4BD-4903-A75D-2DB955310180}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<RandomSequenceContainer Name="german" ID="{213C35CB-ADAB-46F6-ADA6-499B7E9F791B}" ShortID="821037144">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="german_1" ID="{C322FD59-2944-4353-9A70-336B4535523D}" ShortID="998396672">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="german_1" ID="{44D4925C-7180-470E-870F-8CEA1CA81A8A}" ShortID="545812755">
+									<Language>SFX</Language>
+									<AudioFile>german_1.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="german_1" ID="{44D4925C-7180-470E-870F-8CEA1CA81A8A}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="german_2" ID="{CD5E6CA0-FBC7-4D25-8DD1-C9A7098B6BF4}" ShortID="449663608">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="german_2" ID="{69C4A02D-298B-4315-8B32-A726D8D9DCEE}" ShortID="139030348">
+									<Language>SFX</Language>
+									<AudioFile>german_2.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="german_2" ID="{69C4A02D-298B-4315-8B32-A726D8D9DCEE}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="german_3" ID="{A44E49B9-6C19-4794-80CE-2802873EA35D}" ShortID="815715700">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="german_3" ID="{C0BC4459-286A-4CE7-AF3D-86459250468F}" ShortID="729550964">
+									<Language>SFX</Language>
+									<AudioFile>german_3.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="german_3" ID="{C0BC4459-286A-4CE7-AF3D-86459250468F}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="german_4" ID="{A618FD71-22B1-4EA2-A5E6-573E7570212D}" ShortID="391249949">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="german_4" ID="{F0A58003-1F7C-4E27-A877-325D39D46614}" ShortID="25302839">
+									<Language>SFX</Language>
+									<AudioFile>german_4.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="german_4" ID="{F0A58003-1F7C-4E27-A877-325D39D46614}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="german_5" ID="{271276EF-D03A-458C-993C-F5549DB75B10}" ShortID="100964531">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="german_5" ID="{8B85B0E4-8C7D-4F6F-95B0-203933896CB0}" ShortID="735747772">
+									<Language>SFX</Language>
+									<AudioFile>german_5.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="german_5" ID="{8B85B0E4-8C7D-4F6F-95B0-203933896CB0}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<Sound Name="timer_10_sec" ID="{3962D51C-4E63-4E8C-8CD6-D0C39E5FE2D7}" ShortID="215274313">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="timer_10_sec" ID="{B55AD1D0-8BB5-4716-8456-E58A38A94188}" ShortID="583623869">
+							<Language>SFX</Language>
+							<AudioFile>timer_10_sec.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="timer_10_sec" ID="{B55AD1D0-8BB5-4716-8456-E58A38A94188}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="die_zwei" ID="{4EF52B15-C500-47B0-A79C-9EAEB1742404}" ShortID="719870698">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="die_zwei" ID="{CE81D0F9-F29D-41AA-954D-FEBC7208EEA6}" ShortID="679782327">
+							<Language>SFX</Language>
+							<AudioFile>die_zwei.wav</AudioFile>
+							<ConvertedFileIDList>
+								<File ID="882647014"/>
+							</ConvertedFileIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="die_zwei" ID="{CE81D0F9-F29D-41AA-954D-FEBC7208EEA6}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="timer_8_sec_soft" ID="{DCAC1086-769B-4C22-9B86-BA03F71D0302}" ShortID="582086762">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="timer_8_sec_soft" ID="{84072458-2CEA-4756-869D-541480E0E389}" ShortID="634788724">
+							<Language>SFX</Language>
+							<AudioFile>timer_8_sec_soft.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="timer_8_sec_soft" ID="{84072458-2CEA-4756-869D-541480E0E389}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="miqts_sheep" ID="{F75F4CE9-8DC7-42CE-AF96-B79A5D43323B}" ShortID="674799840">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="miqts_sheep" ID="{83CE39DC-4058-46F1-9378-37B3A7C8F4DD}" ShortID="685520101">
+							<Language>SFX</Language>
+							<AudioFile>miqts_sheep.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="miqts_sheep" ID="{83CE39DC-4058-46F1-9378-37B3A7C8F4DD}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="jingles" ID="{6999251A-74FC-4C26-86CF-E69CA7A79B3F}" ShortID="711805773">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="jingles" ID="{2186893C-D8B0-463A-AD69-A54A229A3E43}" ShortID="802807596">
+							<Language>SFX</Language>
+							<AudioFile>jingles.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="jingles" ID="{2186893C-D8B0-463A-AD69-A54A229A3E43}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="timer_8_sec_loud" ID="{1A752A55-626D-410D-9D11-1CABD121BED3}" ShortID="419833303">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="timer_8_sec_loud" ID="{2DA70C46-4CDF-464B-98C4-F981B43E3B30}" ShortID="909511877">
+							<Language>SFX</Language>
+							<AudioFile>timer_8_sec_loud.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="timer_8_sec_loud" ID="{2DA70C46-4CDF-464B-98C4-F981B43E3B30}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="monty_python" ID="{83E2CDE4-63E0-497D-A75D-59E33E2A38FE}" ShortID="57770182">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="monty_python" ID="{4888A5DE-F0DC-4B22-9750-6315B2AD7BF5}" ShortID="758196921">
+							<Language>SFX</Language>
+							<AudioFile>monty_python.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="monty_python" ID="{4888A5DE-F0DC-4B22-9750-6315B2AD7BF5}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<RandomSequenceContainer Name="relhax" ID="{08B67252-286D-400D-B8A0-8ED840DF7B30}" ShortID="957319484">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="relhax_spotted_1" ID="{CEC493AE-5EF4-474D-91E7-D7F53C47A1CE}" ShortID="1063846264">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="relhax_spotted_1" ID="{757566A6-010A-4977-ACA5-70B5F6A262ED}" ShortID="408718608">
+									<Language>SFX</Language>
+									<AudioFile>relhax_spotted_1.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="relhax_spotted_1" ID="{757566A6-010A-4977-ACA5-70B5F6A262ED}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="relhax_spotted_2" ID="{DB2CBAE3-49EF-4D5C-A639-EF4F39E7CDC1}" ShortID="580336131">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="relhax_spotted_2" ID="{96F17C63-A99C-4652-9B9C-EB4212FF739C}" ShortID="582298540">
+									<Language>SFX</Language>
+									<AudioFile>relhax_spotted_2.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="relhax_spotted_2" ID="{96F17C63-A99C-4652-9B9C-EB4212FF739C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="relhax_spotted_3" ID="{57E88F8C-6855-4FC3-A3B3-389812DFA599}" ShortID="544149191">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="relhax_spotted_3" ID="{005D0F52-66BA-40B2-B39D-E0AE819F24B4}" ShortID="284834397">
+									<Language>SFX</Language>
+									<AudioFile>relhax_spotted_3.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="relhax_spotted_3" ID="{005D0F52-66BA-40B2-B39D-E0AE819F24B4}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="relhax_spotted_4" ID="{D75357F3-BD47-43A2-8349-C3164F2D0EA8}" ShortID="590098716">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="relhax_spotted_4" ID="{9F44B30D-FA64-42DA-BB76-93CF63DFC361}" ShortID="19983457">
+									<Language>SFX</Language>
+									<AudioFile>relhax_spotted_4.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="relhax_spotted_4" ID="{9F44B30D-FA64-42DA-BB76-93CF63DFC361}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="relhax_spotted_5" ID="{C042B30F-71EC-45DD-B0EA-44C7243514F3}" ShortID="1018811864">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="relhax_spotted_5" ID="{6C217187-DCAB-4D51-B2CA-06A45791302F}" ShortID="405624697">
+									<Language>SFX</Language>
+									<AudioFile>relhax_spotted_5.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="relhax_spotted_5" ID="{6C217187-DCAB-4D51-B2CA-06A45791302F}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="relhax_spotted_6" ID="{3953A1DC-84BF-40E1-B1E9-55CA73378FB9}" ShortID="543741113">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="relhax_spotted_6" ID="{E17039AF-A1CC-42E1-8035-96D4EE70FD19}" ShortID="358064880">
+									<Language>SFX</Language>
+									<AudioFile>relhax_spotted_6.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="relhax_spotted_6" ID="{E17039AF-A1CC-42E1-8035-96D4EE70FD19}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

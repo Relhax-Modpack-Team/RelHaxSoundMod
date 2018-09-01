@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" SchemaVersion="85">
+	<Events>
+		<WorkUnit Name="6th_sense" ID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="lightbulb" ID="{3988EB0D-4FD2-4AE4-AA3E-91C9AB5881E6}" ShortID="582566105">
+					<ChildrenList>
+						<Event Name="lightbulb_admiral_akbar" ID="{C5236D3F-FCF5-4DBC-B3BF-58B0963119C5}">
+							<ChildrenList>
+								<Action Name="" ID="{8421F475-ED11-49A4-8D3C-DD8B4043A7CF}" ShortID="870065660">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="admiral_akbar_1" ID="{4A6F420E-C578-4BCD-BDA3-0EDFB29F5F63}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_countdown_10_sec" ID="{445CCEFA-5ED3-43AE-8293-BF56F02D30A5}">
+							<Comment>Ивент - Звук "Лампочки"</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{A27A9BB7-9150-44C5-AAF6-A05E4DE5014D}" ShortID="984870015">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="countdown_10_sec" ID="{4224F4D1-33F5-4574-BE62-141A30BCE8A1}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_german" ID="{9F98504F-FA92-4422-934A-2AC8A5445EC4}">
+							<Comment>Ивент - Звук "Лампочки"</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{15B1A758-826A-4269-8A58-76D556DD5C02}" ShortID="499446518">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="german" ID="{213C35CB-ADAB-46F6-ADA6-499B7E9F791B}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_minions" ID="{D50A6320-E2A9-409C-B07C-C517030F9BE2}">
+							<Comment>Ивент - Звук "Лампочки"</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{AF7FB80A-C329-4EC9-8AFE-30D3F9060CDD}" ShortID="494454953">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="minions_1" ID="{73E50E12-18C6-47A9-ACAF-5FC0463C97DC}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_sauron" ID="{42564A06-18BD-4FF6-8DED-162943E21224}">
+							<Comment>Ивент - Звук "Лампочки"</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{0B682609-69EA-4696-AC37-EC4274CBEC72}" ShortID="53340455">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="sauron" ID="{F52AE58A-60C8-464A-9ED8-A7F6BE360ABB}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_suprise" ID="{60A9A9AE-7E18-4F1F-827D-5D61B046FCFF}">
+							<Comment>Ивент - Звук "Лампочки"</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{299FE3AF-0BB0-475C-A47B-7B54726397A0}" ShortID="283193671">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="suprise_sound_1" ID="{6A9109D2-49A7-4E21-9DBB-D83643C35B6D}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_timer_8_sec_soft" ID="{C15B62E0-7457-4176-A106-27E4C5DF9C59}">
+							<Comment>Ивент - Звук "Лампочки"</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{1F3A6115-2672-4FCF-8682-784F04E8C552}" ShortID="787737681">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="timer_8_sec_soft" ID="{DCAC1086-769B-4C22-9B86-BA03F71D0302}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_timer_8_sec_loud" ID="{1E7FC673-D81B-4767-882F-7B98B45E05A9}">
+							<Comment>Ивент - Звук "Лампочки"</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{2EEA95A9-CB50-417E-9EF3-187B9A691CB6}" ShortID="657834068">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="timer_8_sec_loud" ID="{1A752A55-626D-410D-9D11-1CABD121BED3}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_timer_10_sec" ID="{0D6E2D66-26EA-49C9-879D-9E2AD88BA0CF}">
+							<Comment>Ивент - Звук "Лампочки"</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{D444B5A6-1CDC-40FD-814F-2F4A748CEFA6}" ShortID="1028903151">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="timer_10_sec" ID="{3962D51C-4E63-4E8C-8CD6-D0C39E5FE2D7}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_die_zwei" ID="{9172F0F3-7D57-457F-BA72-E295626A2195}">
+							<ChildrenList>
+								<Action Name="" ID="{BA128B69-55A5-4434-B09B-49FBA0823C0D}" ShortID="339183974">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="die_zwei" ID="{4EF52B15-C500-47B0-A79C-9EAEB1742404}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_jingles" ID="{D6C07188-A34D-4FE8-9973-CFD8237A2745}">
+							<ChildrenList>
+								<Action Name="" ID="{60608301-3306-4E4D-9ED0-9CD6E792FB34}" ShortID="675621727">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="jingles" ID="{6999251A-74FC-4C26-86CF-E69CA7A79B3F}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_monty_python" ID="{29E13891-4B7D-434D-829C-43CBBE7B0B02}">
+							<ChildrenList>
+								<Action Name="" ID="{E7406534-859C-42DA-8949-6EBE3B492661}" ShortID="521022263">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="monty_python" ID="{83E2CDE4-63E0-497D-A75D-59E33E2A38FE}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_miqts_sheep" ID="{CC609858-1D28-4005-8E21-E33400D40CAB}">
+							<Comment>Ивент - Звук "Лампочки"</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{E60EDF49-67A8-4C76-9F14-C248EAE91BF9}" ShortID="113151196">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="miqts_sheep" ID="{F75F4CE9-8DC7-42CE-AF96-B79A5D43323B}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_relhax" ID="{BDDEC860-5C22-4271-9037-B4671A48E6AA}">
+							<ChildrenList>
+								<Action Name="" ID="{8479224A-7377-45C3-8BE7-4F40C7D710DF}" ShortID="488037565">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="relhax" ID="{08B67252-286D-400D-B8A0-8ED840DF7B30}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
