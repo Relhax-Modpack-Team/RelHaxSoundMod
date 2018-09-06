@@ -210,6 +210,20 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="lightbulb_i_am_groot" ID="{15437483-CC30-4388-8480-D2D3038E9103}">
+							<ChildrenList>
+								<Action Name="" ID="{D47122C4-9E1D-4C05-A921-68E05515793A}" ShortID="140161282">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="i_am_groot" ID="{D3F77BA6-8BB4-4D23-B118-402D54E68AB6}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>

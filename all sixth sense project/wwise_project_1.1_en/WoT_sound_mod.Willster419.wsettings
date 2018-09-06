@@ -4,6 +4,7 @@
 		<UserProjectSettings Name="" ID="{59ECB9D8-FD46-4A92-827C-1DD5D23F85A6}">
 			<PropertyList>
 				<Property Name="Event Action List\{0D6E2D66-26EA-49C9-879D-9E2AD88BA0CF}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{15437483-CC30-4388-8480-D2D3038E9103}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{445CCEFA-5ED3-43AE-8293-BF56F02D30A5}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{511FE419-73B9-4C40-B67B-7AE942E805FD}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{6D2D73A7-F3A6-421A-AF4F-8B39F62AE0E9}\x64_Expand States" Type="string" Value=""/>
@@ -27,7 +28,7 @@
 				<Property Name="General\LatestPlatform" Type="string" Value="Windows_HighRes"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="dTH2wUhZDXQM9KD86poFDbQ2Ooswi1jry6vbsVJwTjSWM7nyhSiHUAnBChV+0ZcI36vJQb7jzCAG8Mwo3lwGA/LxDj2zlUcTG+e5/7Mm5oK3lzL3fP7INgCwDxZhASVAh0jYSROokdxQZ7p3l2rkmPn2HspZ22PZ+1fNKYoFWiERlz45yfso6iShCfW8v6WZIq6vz/lU0to9pAcOhvRL9yAa+C0n5zjG35CV8ElzUfLAUL+p"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="V7IMbsjGXEyDZidA38RB7A=="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="akrV8d900kGgtwes7uwvtjdyiqNtNwNCgGmAiI9Db+fNTOpZzXvBQKDtj94dRWNn9q5FyppGbUWUk19yyh7oNecrdQ0B6tVJnmT3yPhrcgzbq3CSlcU9SJpP9lzq6rmXblBTMRzsk0OoOqobKDMA03cMedhQZ09EpD994dGTqV4pvz5VqtYGQYgpxeCSK6GMLjRaPFZvM0Cnsq3wycaUqfskgGVI9U9OqOe2lv+tT4tv/dehTP0YQ4eTaT+P72Vgc6e9xlQ8u0eOfeFxZwEJVAcGwDOMPI5Bn/8FQOSsWVM="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="akrV8d900kGgtwes7uwvtjdyiqNtNwNCgGmAiI9Db+fNTOpZzXvBQKDtj94dRWNn9q5FyppGbUWUk19yyh7oNecrdQ0B6tVJnmT3yPhrcgzbq3CSlcU9SJpP9lzq6rmXblBTMRzsk0OoOqobKDMA03cMedhQZ09EpD994dGTqV4HBsAzjDyOQZ//BUDkrFlTKb8+VarWBkGIKcXgkiuhjC40WjxWbzNAp7Kt8MnGlKn7JIBlSPVPTqjntpb/rU+Lb/3XoUz9GEOHk2k/j+9lYHOnvcZUPLtHjn3hcWcBCVRok1GrgHCKTYlZ741faQsj"/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>

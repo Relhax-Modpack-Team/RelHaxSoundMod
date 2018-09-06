@@ -101,6 +101,13 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="sixthsense_i_am_groot" ID="{AB519368-7080-4D8A-8959-EF8D5F690B23}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lightbulb_i_am_groot" ID="{15437483-CC30-4388-8480-D2D3038E9103}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

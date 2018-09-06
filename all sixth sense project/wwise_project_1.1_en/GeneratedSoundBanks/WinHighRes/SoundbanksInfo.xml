@@ -54,6 +54,20 @@
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
+		<SoundBank Id="487391974" Language="SFX">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_i_am_groot</ObjectPath>
+			<ShortName>sixthsense_i_am_groot</ShortName>
+			<Path>sixthsense_i_am_groot.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3387022945" Name="lightbulb_i_am_groot" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_i_am_groot" DurationType="OneShot" DurationMin="5.064376" DurationMax="5.064376"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="330504322" Language="SFX">
+					<ShortName>i_am_groot.wav</ShortName>
+					<Path>SFX\i_am_groot_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="656212693" Language="SFX">
 			<ObjectPath>\SoundBanks\6th_sense\sixthsense_suprise</ObjectPath>
 			<ShortName>sixthsense_suprise</ShortName>
