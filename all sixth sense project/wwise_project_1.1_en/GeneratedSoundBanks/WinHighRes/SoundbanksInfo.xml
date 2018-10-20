@@ -40,6 +40,20 @@
 		</File>
 	</MediaFilesNotInAnyBank>
 	<SoundBanks>
+		<SoundBank Id="122127475" Language="SFX">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_star_trek</ObjectPath>
+			<ShortName>sixthsense_star_trek</ShortName>
+			<Path>sixthsense_star_trek.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3888414238" Name="lightbulb_star_trek" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_star_trek" DurationType="OneShot" DurationMin="3.600000" DurationMax="3.600000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="985227019" Language="SFX">
+					<ShortName>star_trek.wav</ShortName>
+					<Path>SFX\star_trek_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="309474831" Language="SFX">
 			<ObjectPath>\SoundBanks\6th_sense\sixthsense_countdown_10_sec</ObjectPath>
 			<ShortName>sixthsense_countdown_10_sec</ShortName>

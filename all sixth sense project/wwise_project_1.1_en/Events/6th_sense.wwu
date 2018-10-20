@@ -224,6 +224,20 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="lightbulb_star_trek" ID="{198485DD-4A36-4542-9696-7B6656EC8F59}">
+							<ChildrenList>
+								<Action Name="" ID="{F7CBCAF5-2630-49C2-84A2-48FFD4FCD2D2}" ShortID="550949549">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="star_trek" ID="{A6A943FB-4C28-43EB-953D-A15FAABDDD4F}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>

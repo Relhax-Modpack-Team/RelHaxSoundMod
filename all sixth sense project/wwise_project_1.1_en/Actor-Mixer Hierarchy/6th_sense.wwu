@@ -524,6 +524,25 @@
 						<ActiveSource Name="i_am_groot" ID="{44868229-BC10-43B1-8562-C2F959C4843C}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="star_trek" ID="{A6A943FB-4C28-43EB-953D-A15FAABDDD4F}" ShortID="256663814">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="star_trek" ID="{51881A9C-8B39-4BD5-BCB8-1B673F3AA560}" ShortID="985227019">
+							<Language>SFX</Language>
+							<AudioFile>star_trek.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="star_trek" ID="{51881A9C-8B39-4BD5-BCB8-1B673F3AA560}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

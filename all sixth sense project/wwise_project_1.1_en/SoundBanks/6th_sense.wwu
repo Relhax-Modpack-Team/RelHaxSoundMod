@@ -108,6 +108,13 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="sixthsense_star_trek" ID="{4BBEEA25-027F-4697-B549-52946FBCADBE}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lightbulb_star_trek" ID="{198485DD-4A36-4542-9696-7B6656EC8F59}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

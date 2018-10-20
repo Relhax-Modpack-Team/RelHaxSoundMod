@@ -5,6 +5,7 @@
 			<PropertyList>
 				<Property Name="Event Action List\{0D6E2D66-26EA-49C9-879D-9E2AD88BA0CF}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{15437483-CC30-4388-8480-D2D3038E9103}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{198485DD-4A36-4542-9696-7B6656EC8F59}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{445CCEFA-5ED3-43AE-8293-BF56F02D30A5}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{511FE419-73B9-4C40-B67B-7AE942E805FD}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{6D2D73A7-F3A6-421A-AF4F-8B39F62AE0E9}\x64_Expand States" Type="string" Value=""/>
@@ -28,7 +29,7 @@
 				<Property Name="General\LatestPlatform" Type="string" Value="Windows_HighRes"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="dTH2wUhZDXQM9KD86poFDbQ2Ooswi1jry6vbsVJwTjSWM7nyhSiHUAnBChV+0ZcI36vJQb7jzCAG8Mwo3lwGA/LxDj2zlUcTG+e5/7Mm5oK3lzL3fP7INgCwDxZhASVAh0jYSROokdxQZ7p3l2rkmPn2HspZ22PZ+1fNKYoFWiERlz45yfso6iShCfW8v6WZIq6vz/lU0to9pAcOhvRL9yAa+C0n5zjG35CV8ElzUfLAUL+p"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="V7IMbsjGXEyDZidA38RB7A=="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="akrV8d900kGgtwes7uwvtjdyiqNtNwNCgGmAiI9Db+fNTOpZzXvBQKDtj94dRWNn9q5FyppGbUWUk19yyh7oNecrdQ0B6tVJnmT3yPhrcgzbq3CSlcU9SJpP9lzq6rmXblBTMRzsk0OoOqobKDMA03cMedhQZ09EpD994dGTqV4HBsAzjDyOQZ//BUDkrFlTKb8+VarWBkGIKcXgkiuhjC40WjxWbzNAp7Kt8MnGlKn7JIBlSPVPTqjntpb/rU+Lb/3XoUz9GEOHk2k/j+9lYHOnvcZUPLtHjn3hcWcBCVRok1GrgHCKTYlZ741faQsj"/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="akrV8d900kGgtwes7uwvtjdyiqNtNwNCgGmAiI9Db+fNTOpZzXvBQKDtj94dRWNn9q5FyppGbUWUk19yyh7oNWiTUauAcIpNiVnvjV9pCyPnK3UNAerVSZ5k98j4a3IM26twkpXFPUiaT/Zc6uq5l25QUzEc7JNDqDqqGygzANN3DHnYUGdPRKQ/feHRk6leBwbAM4w8jkGf/wVA5KxZUym/PlWq1gZBiCnF4JIroYwuNFo8Vm8zQKeyrfDJxpSp+ySAZUj1T06o57aW/61Pi2/916FM/RhDh5NpP4/vZWBzp73GVDy7R4594XFnAQlUJeq+S38Cl0a1SVKUb7ytvg=="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
