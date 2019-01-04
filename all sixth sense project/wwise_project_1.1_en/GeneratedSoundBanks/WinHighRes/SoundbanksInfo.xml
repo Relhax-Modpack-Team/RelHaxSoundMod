@@ -124,6 +124,20 @@
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
+		<SoundBank Id="1056566808" Language="SFX">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_szarik</ObjectPath>
+			<ShortName>sixthsense_szarik</ShortName>
+			<Path>sixthsense_szarik.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2757498159" Name="lightbulb_szarik" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_szarik" DurationType="OneShot" DurationMin="0.978667" DurationMax="0.978667"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="438049905" Language="SFX">
+					<ShortName>szarik.wav</ShortName>
+					<Path>SFX\szarik_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="1097896522" Language="SFX">
 			<ObjectPath>\SoundBanks\6th_sense\sixthsense_admiral_akbar</ObjectPath>
 			<ShortName>sixthsense_admiral_akbar</ShortName>

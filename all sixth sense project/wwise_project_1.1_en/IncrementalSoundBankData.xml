@@ -17,6 +17,7 @@
 				<File Name="sixthsense_sauron" Hash="814690453" Timestamp="1535828716"/>
 				<File Name="sixthsense_star_trek" Hash="4225427838" Timestamp="1540064270"/>
 				<File Name="sixthsense_suprise" Hash="296631253" Timestamp="1535828716"/>
+				<File Name="sixthsense_szarik" Hash="2210144127" Timestamp="1546634121"/>
 				<File Name="sixthsense_timer_10_sec" Hash="756210444" Timestamp="1535828716"/>
 				<File Name="sixthsense_timer_8_sec_loud" Hash="3867043332" Timestamp="1535828716"/>
 				<File Name="sixthsense_timer_8_sec_soft" Hash="612056918" Timestamp="1535828716"/>
@@ -24,7 +25,7 @@
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="2276599498" Timestamp="1540064271"/>
+				<File Name="" Hash="1924302221" Timestamp="1546634121"/>
 			</Language>
 		</XMLInfo>
 	</Platform>
