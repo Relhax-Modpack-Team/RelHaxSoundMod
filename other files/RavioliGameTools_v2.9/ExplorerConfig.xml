@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ExplorerConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <General>
-    <LastOpenDir>F:\Tanks Stuff\RelHaxSoundMod\other files\RavioliGameTools_v2.9</LastOpenDir>
+    <LastOpenDir>F:\Tanks Stuff\RelhaxSoundMod\other files</LastOpenDir>
     <StartupBehaviour>DoNothing</StartupBehaviour>
   </General>
   <Extract>
@@ -24,8 +24,8 @@
   </Viewer>
   <Browser>
     <WindowSettings>
-      <Left>510</Left>
-      <Top>357</Top>
+      <Left>365</Left>
+      <Top>249</Top>
       <Width>640</Width>
       <Height>473</Height>
       <State>Normal</State>
