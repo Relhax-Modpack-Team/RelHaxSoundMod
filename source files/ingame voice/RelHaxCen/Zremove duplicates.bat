@@ -1,33 +1,16 @@
 
 del ally_killed_by_player_05.wav
 
-del armor_pierced_by_player_13.wav
-del armor_pierced_by_player_14.wav
-
-del armor_not_pierced_by_player_14.wav
-del armor_not_pierced_by_player_15.wav
 del armor_not_pierced_by_player_16.wav
 del armor_not_pierced_by_player_17.wav
 del armor_not_pierced_by_player_18.wav
+del armor_not_pierced_by_player_19.wav
+del armor_not_pierced_by_player_20.wav
 
-del armor_ricochet_by_player_01.wav
-del armor_ricochet_by_player_02.wav
-del armor_ricochet_by_player_03.wav
-del armor_ricochet_by_player_04.wav
-del armor_ricochet_by_player_05.wav
-del armor_ricochet_by_player_06.wav
-del armor_ricochet_by_player_07.wav
-del armor_ricochet_by_player_08.wav
-del armor_ricochet_by_player_09.wav
-del armor_ricochet_by_player_10.wav
-del armor_ricochet_by_player_11.wav
-del armor_ricochet_by_player_12.wav
-del armor_ricochet_by_player_13.wav
-del armor_ricochet_by_player_14.wav
-del armor_ricochet_by_player_15.wav
-del armor_ricochet_by_player_16.wav
-del armor_ricochet_by_player_17.wav
-del armor_ricochet_by_player_18.wav
+del armor_pierced_by_player_13.wav
+del armor_pierced_by_player_14.wav
+del armor_pierced_by_player_15.wav
+del armor_pierced_by_player_16.wav
 
 del crew_deactivated_03.wav
 del crew_deactivated_04.wav
@@ -42,8 +25,6 @@ del enemy_fire_started_by_player_03.wav
 del enemy_fire_started_by_player_04.wav
 del enemy_fire_started_by_player_05.wav
 
-del enemy_killed_by_player_16.wav
-
 del engine_damaged_03.wav
 del engine_damaged_04.wav
 del engine_damaged_05.wav
@@ -55,7 +36,6 @@ del engine_destroyed_03.wav
 del engine_functional_03.wav
 del engine_functional_04.wav
 
-del fire_started_04.wav
 del fire_started_05.wav
 del fire_started_06.wav
 del fire_started_07.wav
@@ -88,15 +68,12 @@ del radio_damaged_04.wav
 del radio_damaged_05.wav
 del radio_damaged_06.wav
 
-del radioman_killed_04.wav
-
-del start_battle_46.wav
-del start_battle_47.wav
-del start_battle_48.wav
-del start_battle_49.wav
-del start_battle_50.wav
-del start_battle_51.wav
-del start_battle_52.wav
+del start_battle_36.wav
+del start_battle_37.wav
+del start_battle_38.wav
+del start_battle_39.wav
+del start_battle_40.wav
+del start_battle_41.wav
 
 del surveying_devices_damaged_02.wav
 del surveying_devices_damaged_03.wav
@@ -140,7 +117,10 @@ del turret_rotator_destroyed_02.wav
 del turret_rotator_destroyed_03.wav
 del turret_rotator_destroyed_04.wav
 
-del vehicle_destroyed_26.wav
-del vehicle_destroyed_27.wav
-del vehicle_destroyed_28.wav
-del vehicle_destroyed_29.wav
+del vehicle_destroyed_19.wav
+del vehicle_destroyed_20.wav
+del vehicle_destroyed_21.wav
+del vehicle_destroyed_22.wav
+del vehicle_destroyed_23.wav
+del vehicle_destroyed_24.wav
+del vehicle_destroyed_25.wav

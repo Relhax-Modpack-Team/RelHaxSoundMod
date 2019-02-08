@@ -1,23 +1,4 @@
 
-copy armor_not_pierced_by_player_01.wav armor_ricochet_by_player_01.wav
-copy armor_not_pierced_by_player_02.wav armor_ricochet_by_player_02.wav
-copy armor_not_pierced_by_player_03.wav armor_ricochet_by_player_03.wav
-copy armor_not_pierced_by_player_04.wav armor_ricochet_by_player_04.wav
-copy armor_not_pierced_by_player_05.wav armor_ricochet_by_player_05.wav
-copy armor_not_pierced_by_player_06.wav armor_ricochet_by_player_06.wav
-copy armor_not_pierced_by_player_07.wav armor_ricochet_by_player_07.wav
-copy armor_not_pierced_by_player_08.wav armor_ricochet_by_player_08.wav
-copy armor_not_pierced_by_player_09.wav armor_ricochet_by_player_09.wav
-copy armor_not_pierced_by_player_10.wav armor_ricochet_by_player_10.wav
-copy armor_not_pierced_by_player_11.wav armor_ricochet_by_player_11.wav
-copy armor_not_pierced_by_player_12.wav armor_ricochet_by_player_12.wav
-copy armor_not_pierced_by_player_13.wav armor_ricochet_by_player_13.wav
-copy armor_not_pierced_by_player_14.wav armor_ricochet_by_player_14.wav
-copy armor_not_pierced_by_player_15.wav armor_ricochet_by_player_15.wav
-copy armor_not_pierced_by_player_16.wav armor_ricochet_by_player_16.wav
-copy armor_not_pierced_by_player_17.wav armor_ricochet_by_player_17.wav
-copy armor_not_pierced_by_player_18.wav armor_ricochet_by_player_18.wav
-
 copy crew_deactivated_01.wav crew_deactivated_03.wav
 copy crew_deactivated_02.wav crew_deactivated_04.wav
 copy crew_deactivated_03.wav crew_deactivated_05.wav
@@ -40,10 +21,9 @@ copy engine_destroyed_01.wav engine_destroyed_03.wav
 copy engine_functional_01.wav engine_functional_03.wav
 copy engine_functional_02.wav engine_functional_04.wav
 
-copy fire_started_01.wav fire_started_05.wav
-copy fire_started_02.wav fire_started_06.wav
-copy fire_started_03.wav fire_started_07.wav
-copy fire_started_04.wav fire_started_08.wav
+copy fire_started_01.wav fire_started_06.wav
+copy fire_started_02.wav fire_started_07.wav
+copy fire_started_03.wav fire_started_08.wav
 
 copy fire_stopped_01.wav fire_stopped_03.wav
 copy fire_stopped_02.wav fire_stopped_04.wav
@@ -71,8 +51,6 @@ copy loader_killed_02.wav loader_killed_04.wav
 copy radio_damaged_01.wav radio_damaged_04.wav
 copy radio_damaged_02.wav radio_damaged_05.wav
 copy radio_damaged_03.wav radio_damaged_06.wav
-
-copy radioman_killed_01.wav radioman_killed_04.wav
 
 copy surveying_devices_damaged_01.wav surveying_devices_damaged_02.wav
 copy surveying_devices_damaged_02.wav surveying_devices_damaged_03.wav

@@ -9,36 +9,10 @@ del armor_not_pierced_by_player_13.wav
 del armor_not_pierced_by_player_14.wav
 del armor_not_pierced_by_player_15.wav
 del armor_not_pierced_by_player_16.wav
-del armor_not_pierced_by_player_17.wav
-del armor_not_pierced_by_player_18.wav
-
-del armor_pierced_by_player_06.wav
-del armor_pierced_by_player_07.wav
-del armor_pierced_by_player_08.wav
-del armor_pierced_by_player_09.wav
-del armor_pierced_by_player_10.wav
-del armor_pierced_by_player_11.wav
-del armor_pierced_by_player_12.wav
-del armor_pierced_by_player_13.wav
-del armor_pierced_by_player_14.wav
-
-del armor_ricochet_by_player_13.wav
-del armor_ricochet_by_player_14.wav
-del armor_ricochet_by_player_15.wav
-del armor_ricochet_by_player_16.wav
-del armor_ricochet_by_player_17.wav
-del armor_ricochet_by_player_18.wav
 
 del damage_by_near_explosion_by_player_06.wav
 del damage_by_near_explosion_by_player_07.wav
 del damage_by_near_explosion_by_player_08.wav
-
-del enemy_killed_by_player_11.wav
-del enemy_killed_by_player_12.wav
-del enemy_killed_by_player_13.wav
-del enemy_killed_by_player_14.wav
-del enemy_killed_by_player_15.wav
-del enemy_killed_by_player_16.wav
 
 del start_battle_21.wav
 del start_battle_22.wav
@@ -61,17 +35,6 @@ del start_battle_38.wav
 del start_battle_39.wav
 del start_battle_40.wav
 del start_battle_41.wav
-del start_battle_42.wav
-del start_battle_43.wav
-del start_battle_44.wav
-del start_battle_45.wav
-del start_battle_46.wav
-del start_battle_47.wav
-del start_battle_48.wav
-del start_battle_49.wav
-del start_battle_50.wav
-del start_battle_51.wav
-del start_battle_52.wav
 
 del vehicle_destroyed_06.wav
 del vehicle_destroyed_07.wav
@@ -93,7 +56,3 @@ del vehicle_destroyed_22.wav
 del vehicle_destroyed_23.wav
 del vehicle_destroyed_24.wav
 del vehicle_destroyed_25.wav
-del vehicle_destroyed_26.wav
-del vehicle_destroyed_27.wav
-del vehicle_destroyed_28.wav
-del vehicle_destroyed_29.wav
