@@ -1,14 +1,24 @@
 
-del armor_not_pierced_by_player_06.wav
-del armor_not_pierced_by_player_07.wav
-del armor_not_pierced_by_player_08.wavdel armor_not_pierced_by_player_09.wav
-del armor_not_pierced_by_player_10.wav
-del armor_not_pierced_by_player_11.wav
 del armor_not_pierced_by_player_12.wav
 del armor_not_pierced_by_player_13.wav
 del armor_not_pierced_by_player_14.wav
 del armor_not_pierced_by_player_15.wav
 del armor_not_pierced_by_player_16.wav
+del armor_not_pierced_by_player_17.wav
+del armor_not_pierced_by_player_18.wav
+del armor_not_pierced_by_player_19.wav
+del armor_not_pierced_by_player_20.wav
+
+del armor_pierced_by_player_06.wav
+del armor_pierced_by_player_07.wav
+del armor_pierced_by_player_08.wavdel armor_pierced_by_player_09.wav
+del armor_pierced_by_player_10.wav
+del armor_pierced_by_player_11.wav
+del armor_pierced_by_player_12.wav
+del armor_pierced_by_player_13.wav
+del armor_pierced_by_player_14.wav
+del armor_pierced_by_player_15.wav
+del armor_pierced_by_player_16.wav
 
 del damage_by_near_explosion_by_player_06.wav
 del damage_by_near_explosion_by_player_07.wav
