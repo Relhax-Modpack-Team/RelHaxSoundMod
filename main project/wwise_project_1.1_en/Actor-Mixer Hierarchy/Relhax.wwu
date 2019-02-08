@@ -1532,139 +1532,6 @@
 										<ActiveSource Name="vehicle_destroyed_25" ID="{D89522E0-E240-4728-A3C3-0A34179134F8}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
-								<Sound Name="vehicle_destroyed_26" ID="{FBD06C3B-5786-4760-A594-66A479A91578}" ShortID="668758423">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_26" ID="{573EEE31-D350-471C-B804-343A34B9AC7F}" ShortID="577700756">
-											<Language>English(US)</Language>
-											<AudioFile>vehicle_destroyed_26.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="vehicle_destroyed_26" ID="{CC13B248-46AF-44B6-BFFC-BDB787FA1165}" ShortID="762816730">
-											<Language>English(UK)</Language>
-											<AudioFile>vehicle_destroyed_26.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="vehicle_destroyed_26" ID="{C92963EF-53BD-4A6A-B17A-7525DCFEC083}" ShortID="893283686">
-											<Language>English(Canada)</Language>
-											<AudioFile>vehicle_destroyed_26.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="vehicle_destroyed_26" ID="{573EEE31-D350-471C-B804-343A34B9AC7F}" Platform="Linked"/>
-										<ActiveSource Name="vehicle_destroyed_26" ID="{CC13B248-46AF-44B6-BFFC-BDB787FA1165}" Platform="Linked"/>
-										<ActiveSource Name="vehicle_destroyed_26" ID="{C92963EF-53BD-4A6A-B17A-7525DCFEC083}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="vehicle_destroyed_27" ID="{28C6E05D-81B3-466F-A8BD-E6895E9DA9D2}" ShortID="1050188070">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_27" ID="{643FE181-313D-4F2F-B166-661FC14F804C}" ShortID="356437058">
-											<Language>English(US)</Language>
-											<AudioFile>vehicle_destroyed_27.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="vehicle_destroyed_27" ID="{64A3ECCD-E31F-4DEC-BB54-9FA78B23CFDA}" ShortID="470417607">
-											<Language>English(UK)</Language>
-											<AudioFile>vehicle_destroyed_27.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="vehicle_destroyed_27" ID="{60F9CAA1-378B-4210-9FA3-F8F2DD6CFF15}" ShortID="813412442">
-											<Language>English(Canada)</Language>
-											<AudioFile>vehicle_destroyed_27.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="vehicle_destroyed_27" ID="{643FE181-313D-4F2F-B166-661FC14F804C}" Platform="Linked"/>
-										<ActiveSource Name="vehicle_destroyed_27" ID="{60F9CAA1-378B-4210-9FA3-F8F2DD6CFF15}" Platform="Linked"/>
-										<ActiveSource Name="vehicle_destroyed_27" ID="{64A3ECCD-E31F-4DEC-BB54-9FA78B23CFDA}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="vehicle_destroyed_28" ID="{45918369-F282-4590-BD27-321E8B380329}" ShortID="786374386">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_28" ID="{93F036E2-004D-47E4-9BF7-2056F8D41233}" ShortID="859778494">
-											<Language>English(US)</Language>
-											<AudioFile>vehicle_destroyed_28.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="vehicle_destroyed_28" ID="{671C2362-2296-40FA-AAD9-F6082E0A84DB}" ShortID="798035101">
-											<Language>English(UK)</Language>
-											<AudioFile>vehicle_destroyed_28.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="vehicle_destroyed_28" ID="{2AA53BAD-6F77-4CAF-B608-DAA6E95F602E}" ShortID="881721525">
-											<Language>English(Canada)</Language>
-											<AudioFile>vehicle_destroyed_28.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="vehicle_destroyed_28" ID="{671C2362-2296-40FA-AAD9-F6082E0A84DB}" Platform="Linked"/>
-										<ActiveSource Name="vehicle_destroyed_28" ID="{2AA53BAD-6F77-4CAF-B608-DAA6E95F602E}" Platform="Linked"/>
-										<ActiveSource Name="vehicle_destroyed_28" ID="{93F036E2-004D-47E4-9BF7-2056F8D41233}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="vehicle_destroyed_29" ID="{94A38294-ED12-4890-9AB7-DD615008FE5B}" ShortID="435076459">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_29" ID="{4DD2ACEC-9535-431E-87A0-04E8B8EF2318}" ShortID="828807692">
-											<Language>Russian</Language>
-											<AudioFile>vehicle_destroyed_29.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="vehicle_destroyed_29" ID="{8116E81F-3586-492F-B94E-A1F571849D08}" ShortID="230245138">
-											<Language>English(US)</Language>
-											<AudioFile>vehicle_destroyed_29.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="vehicle_destroyed_29" ID="{5B1487FA-DA0A-49E8-B402-E8F7326BF016}" ShortID="619376466">
-											<Language>English(UK)</Language>
-											<AudioFile>vehicle_destroyed_29.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="vehicle_destroyed_29" ID="{ECCFFD89-007B-4627-82C1-8A1523751B40}" ShortID="182648124">
-											<Language>English(Canada)</Language>
-											<AudioFile>vehicle_destroyed_29.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="vehicle_destroyed_29" ID="{8116E81F-3586-492F-B94E-A1F571849D08}" Platform="Linked"/>
-										<ActiveSource Name="vehicle_destroyed_29" ID="{ECCFFD89-007B-4627-82C1-8A1523751B40}" Platform="Linked"/>
-										<ActiveSource Name="vehicle_destroyed_29" ID="{4DD2ACEC-9535-431E-87A0-04E8B8EF2318}" Platform="Linked"/>
-										<ActiveSource Name="vehicle_destroyed_29" ID="{5B1487FA-DA0A-49E8-B402-E8F7326BF016}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="vo_dp_left_platoon" ID="{16016722-498C-42FD-B498-7C898B9E1371}" ShortID="993659516">
@@ -4112,358 +3979,6 @@
 										<ActiveSource Name="start_battle_41" ID="{9568F0D9-32FD-45C9-A4B3-ECAE8ABE57D6}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
-								<Sound Name="start_battle_42" ID="{68C34C25-F02B-4382-A930-BCC7D74ED651}" ShortID="358701466">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_42" ID="{88A8CE62-9A02-4164-9B2D-3B125D5B6A3B}" ShortID="760627348">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_42.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_42" ID="{7A4DD56A-FD36-427F-ADED-9BA402E7F80A}" ShortID="282368329">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_42.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_42" ID="{EB728848-CB01-4E48-A419-16F718E70733}" ShortID="177531501">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_42.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_42" ID="{EB728848-CB01-4E48-A419-16F718E70733}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_42" ID="{88A8CE62-9A02-4164-9B2D-3B125D5B6A3B}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_42" ID="{7A4DD56A-FD36-427F-ADED-9BA402E7F80A}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_43" ID="{5F05D270-1394-4FF2-A5A2-1126560E715C}" ShortID="481864684">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_43" ID="{AD2452C3-4B8A-4973-93FB-D1EA2B81EBAA}" ShortID="983315764">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_43.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_43" ID="{2FF0F090-2788-45F8-BC0E-4E6B46DE4C15}" ShortID="351778611">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_43.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_43" ID="{831C97DA-5817-4964-97AC-A31D51B4CD23}" ShortID="379304527">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_43.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_43" ID="{2FF0F090-2788-45F8-BC0E-4E6B46DE4C15}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_43" ID="{AD2452C3-4B8A-4973-93FB-D1EA2B81EBAA}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_43" ID="{831C97DA-5817-4964-97AC-A31D51B4CD23}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_44" ID="{2B18C79C-AC1D-4BBD-B1F5-89DEE4EF0D96}" ShortID="1013002969">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_44" ID="{374F3E00-969D-4D31-9A88-01FE6D3BB42E}" ShortID="783870646">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_44.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_44" ID="{CDD5C8E2-3F15-43E9-8019-04957B66A10B}" ShortID="915917319">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_44.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_44" ID="{5EAA3865-F315-4052-9B06-9908A9D09072}" ShortID="855056412">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_44.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_44" ID="{374F3E00-969D-4D31-9A88-01FE6D3BB42E}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_44" ID="{5EAA3865-F315-4052-9B06-9908A9D09072}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_44" ID="{CDD5C8E2-3F15-43E9-8019-04957B66A10B}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_45" ID="{556CD06D-7813-4C27-ACDE-BB7E75BA0C43}" ShortID="79044743">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_45" ID="{E1080EAC-9E12-41EF-891F-C4C0E15A53CB}" ShortID="454008035">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_45.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_45" ID="{4B11217E-C975-469F-8FB7-68B1166F40A4}" ShortID="278921024">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_45.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_45" ID="{868223FC-6619-44EB-A915-D7AB3BAEFD44}" ShortID="665187721">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_45.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_45" ID="{4B11217E-C975-469F-8FB7-68B1166F40A4}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_45" ID="{E1080EAC-9E12-41EF-891F-C4C0E15A53CB}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_45" ID="{868223FC-6619-44EB-A915-D7AB3BAEFD44}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_46" ID="{2B6F5C2C-ED89-4415-A869-95D89A9A8BA5}" ShortID="58280990">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_46" ID="{BEECE938-651C-402F-BA5A-FBBE7D7C4416}" ShortID="353076716">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_46.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_46" ID="{F5844FFF-ECE2-4ACB-BFD8-71C843FFB072}" ShortID="318451038">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_46.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_46" ID="{486A31AE-B580-4C65-BE7A-34E24434648C}" ShortID="302681857">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_46.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_46" ID="{BEECE938-651C-402F-BA5A-FBBE7D7C4416}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_46" ID="{486A31AE-B580-4C65-BE7A-34E24434648C}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_46" ID="{F5844FFF-ECE2-4ACB-BFD8-71C843FFB072}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_47" ID="{00F8DDE0-E107-46B0-AF6C-98C2FB2E4B54}" ShortID="119535049">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_47" ID="{164C30B8-A05B-4963-8402-024AD99DDB60}" ShortID="610866861">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_47.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_47" ID="{E3DE50D2-4716-4B4F-A041-7E8323F38645}" ShortID="432135941">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_47.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_47" ID="{1DFB4F20-DE4D-4736-A2D4-104CD19DA3B0}" ShortID="1003365755">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_47.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_47" ID="{1DFB4F20-DE4D-4736-A2D4-104CD19DA3B0}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_47" ID="{164C30B8-A05B-4963-8402-024AD99DDB60}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_47" ID="{E3DE50D2-4716-4B4F-A041-7E8323F38645}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_48" ID="{BFE5D2F8-DE6D-453D-87F6-E64FCECBB543}" ShortID="439965300">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_48" ID="{C73554A8-3DFB-42DA-A039-1198B5834743}" ShortID="951536117">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_48.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_48" ID="{A8B98A87-6FC7-42A8-8087-4A9CC81130DB}" ShortID="878327465">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_48.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_48" ID="{64531EE4-E39D-4FBD-B297-D3B1F2DA1288}" ShortID="890669238">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_48.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_48" ID="{A8B98A87-6FC7-42A8-8087-4A9CC81130DB}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_48" ID="{C73554A8-3DFB-42DA-A039-1198B5834743}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_48" ID="{64531EE4-E39D-4FBD-B297-D3B1F2DA1288}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_49" ID="{E3CEF6EF-5156-48A6-92FE-D84FB041704C}" ShortID="690095619">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_49" ID="{07397EEE-0E59-4557-90F7-EF2D34FDBB85}" ShortID="384965516">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_49.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_49" ID="{F1679379-9799-4028-B5C0-01BB0115880D}" ShortID="593410150">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_49.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_49" ID="{7B831384-7440-4188-AFCD-858A3037FFC4}" ShortID="436646769">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_49.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_49" ID="{F1679379-9799-4028-B5C0-01BB0115880D}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_49" ID="{7B831384-7440-4188-AFCD-858A3037FFC4}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_49" ID="{07397EEE-0E59-4557-90F7-EF2D34FDBB85}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_50" ID="{AC9DCE52-C59E-4F4B-A566-D8948C5C97C6}" ShortID="661088197">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_50" ID="{665DD7DC-57D0-4343-A9DF-955ADA65D586}" ShortID="704022739">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_50.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_50" ID="{E6E0FF56-5054-4D49-AE3E-394C650148FB}" ShortID="590114360">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_50.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_50" ID="{76BC4565-D24D-40DF-B339-3A60BCC22B2C}" ShortID="616019132">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_50.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_50" ID="{E6E0FF56-5054-4D49-AE3E-394C650148FB}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_50" ID="{76BC4565-D24D-40DF-B339-3A60BCC22B2C}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_50" ID="{665DD7DC-57D0-4343-A9DF-955ADA65D586}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_51" ID="{DCF7BABE-5EEE-45AE-919E-152A847B1E03}" ShortID="680436321">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_51" ID="{33E52425-AE64-4D2A-820E-E7F980B4ED39}" ShortID="795479813">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_51.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_51" ID="{6F514E09-3529-4AA9-B958-B44086853A66}" ShortID="306292629">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_51.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_51" ID="{31D670FE-383D-410C-9698-6301FF5E1807}" ShortID="1056209491">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_51.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_51" ID="{6F514E09-3529-4AA9-B958-B44086853A66}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_51" ID="{33E52425-AE64-4D2A-820E-E7F980B4ED39}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_51" ID="{31D670FE-383D-410C-9698-6301FF5E1807}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_52" ID="{46292EDC-E573-46F6-BB7B-7B18E1059C4A}" ShortID="828466101">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_52" ID="{008A26F9-037A-4C12-A9CD-1A7657D24F1B}" ShortID="924838754">
-											<Language>English(US)</Language>
-											<AudioFile>start_battle_52.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_52" ID="{BC563E18-1FC9-4321-843A-98C09EE21495}" ShortID="784839412">
-											<Language>English(UK)</Language>
-											<AudioFile>start_battle_52.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="start_battle_52" ID="{87C32804-9CCF-4738-85E1-E67574FA3673}" ShortID="821787488">
-											<Language>English(Canada)</Language>
-											<AudioFile>start_battle_52.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_52" ID="{87C32804-9CCF-4738-85E1-E67574FA3673}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_52" ID="{BC563E18-1FC9-4321-843A-98C09EE21495}" Platform="Linked"/>
-										<ActiveSource Name="start_battle_52" ID="{008A26F9-037A-4C12-A9CD-1A7657D24F1B}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="vo_target_lost" ID="{13EAF2B9-0E05-4CA9-B8A2-C35D56FA4C2A}" ShortID="341826113">
@@ -6218,6 +5733,70 @@
 										<ActiveSource Name="armor_not_pierced_by_player_18" ID="{2D0B13EC-1609-4F38-9C6C-8C5814BD1685}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<Sound Name="armor_not_pierced_by_player_19" ID="{53A73DB2-4A29-42E3-97C9-229C248FB503}" ShortID="1053000806">
+									<PropertyList>
+										<Property Name="IsVoice" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="armor_not_pierced_by_player_19" ID="{5043783F-D0D0-43DE-98EF-AA412B291BDF}" ShortID="125152038">
+											<Language>English(UK)</Language>
+											<AudioFile>armor_not_pierced_by_player_19.wav</AudioFile>
+										</AudioFileSource>
+										<AudioFileSource Name="armor_not_pierced_by_player_19" ID="{675458CB-B442-4EEE-A6CF-AE917F3E12BB}" ShortID="296452961">
+											<Language>English(US)</Language>
+											<AudioFile>armor_not_pierced_by_player_19.wav</AudioFile>
+										</AudioFileSource>
+										<AudioFileSource Name="armor_not_pierced_by_player_19" ID="{A4E6E97F-7AAF-422E-A745-91965B32BC73}" ShortID="179252307">
+											<Language>English(Canada)</Language>
+											<AudioFile>armor_not_pierced_by_player_19.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="armor_not_pierced_by_player_19" ID="{5043783F-D0D0-43DE-98EF-AA412B291BDF}" Platform="Linked"/>
+										<ActiveSource Name="armor_not_pierced_by_player_19" ID="{A4E6E97F-7AAF-422E-A745-91965B32BC73}" Platform="Linked"/>
+										<ActiveSource Name="armor_not_pierced_by_player_19" ID="{675458CB-B442-4EEE-A6CF-AE917F3E12BB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="armor_not_pierced_by_player_20" ID="{706D575C-5F67-4BCB-A7EA-6DBE3740F71A}" ShortID="945922609">
+									<PropertyList>
+										<Property Name="IsVoice" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="armor_not_pierced_by_player_20" ID="{8BCF1F5F-EDC7-4CF0-BF91-EE2AB255F797}" ShortID="135384616">
+											<Language>English(UK)</Language>
+											<AudioFile>armor_not_pierced_by_player_20.wav</AudioFile>
+										</AudioFileSource>
+										<AudioFileSource Name="armor_not_pierced_by_player_20" ID="{181BD156-8A48-457F-A478-2B5FA78E90D3}" ShortID="451227705">
+											<Language>English(US)</Language>
+											<AudioFile>armor_not_pierced_by_player_20.wav</AudioFile>
+										</AudioFileSource>
+										<AudioFileSource Name="armor_not_pierced_by_player_20" ID="{57D8657C-0A96-4768-A352-A00FAE21AC8D}" ShortID="435259308">
+											<Language>English(Canada)</Language>
+											<AudioFile>armor_not_pierced_by_player_20.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="armor_not_pierced_by_player_20" ID="{181BD156-8A48-457F-A478-2B5FA78E90D3}" Platform="Linked"/>
+										<ActiveSource Name="armor_not_pierced_by_player_20" ID="{8BCF1F5F-EDC7-4CF0-BF91-EE2AB255F797}" Platform="Linked"/>
+										<ActiveSource Name="armor_not_pierced_by_player_20" ID="{57D8657C-0A96-4768-A352-A00FAE21AC8D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="vo_armor_ricochet_by_player" ID="{EDD1758E-F377-4E51-8D2D-C55DD8999D41}" ShortID="96319046">
@@ -7440,198 +7019,6 @@
 										<ActiveSource Name="enemy_killed_by_player_10" ID="{07BDC680-B8B8-4A1D-A1F3-EBB4D43CD4A0}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
-								<Sound Name="enemy_killed_by_player_11" ID="{C2199154-62C9-4AD4-BE8C-CBFAC3236B33}" ShortID="322120289">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_11" ID="{7B3B0949-35AB-4BB5-9F40-D717E7E6D39C}" ShortID="949660087">
-											<Language>English(US)</Language>
-											<AudioFile>enemy_killed_by_player_11.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_11" ID="{606A25B0-DF9C-486C-B5F4-EDF67AD0911E}" ShortID="697659483">
-											<Language>English(UK)</Language>
-											<AudioFile>enemy_killed_by_player_11.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_11" ID="{1191D187-62B6-4A31-8CBB-7958537116CE}" ShortID="878425987">
-											<Language>English(Canada)</Language>
-											<AudioFile>enemy_killed_by_player_11.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_killed_by_player_11" ID="{7B3B0949-35AB-4BB5-9F40-D717E7E6D39C}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_11" ID="{1191D187-62B6-4A31-8CBB-7958537116CE}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_11" ID="{606A25B0-DF9C-486C-B5F4-EDF67AD0911E}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_killed_by_player_12" ID="{F8CCB61E-BAB5-4717-9FF5-48E431FC7D26}" ShortID="927014030">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_12" ID="{E20E33EC-5853-4B5A-8069-18E1EF4E80DE}" ShortID="269348757">
-											<Language>English(US)</Language>
-											<AudioFile>enemy_killed_by_player_12.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_12" ID="{296FD864-9E65-4700-AB0F-D32E8EFBE779}" ShortID="843437755">
-											<Language>English(UK)</Language>
-											<AudioFile>enemy_killed_by_player_12.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_12" ID="{81A949A9-9E1D-4EBE-8197-6B19AD79FBBD}" ShortID="626944843">
-											<Language>English(Canada)</Language>
-											<AudioFile>enemy_killed_by_player_12.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_killed_by_player_12" ID="{296FD864-9E65-4700-AB0F-D32E8EFBE779}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_12" ID="{81A949A9-9E1D-4EBE-8197-6B19AD79FBBD}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_12" ID="{E20E33EC-5853-4B5A-8069-18E1EF4E80DE}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_killed_by_player_13" ID="{C4A5FE5B-F29A-448E-BE97-D89D157D683E}" ShortID="658736997">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_13" ID="{3F60807A-DC7F-4178-A2EF-0BFFA76A47BE}" ShortID="535040998">
-											<Language>English(US)</Language>
-											<AudioFile>enemy_killed_by_player_13.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_13" ID="{6DC9A66E-04E1-4161-A2AF-0B3CED79EDF2}" ShortID="643972564">
-											<Language>English(UK)</Language>
-											<AudioFile>enemy_killed_by_player_13.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_13" ID="{8203979E-DA0E-43EE-BE5E-64E1185AB6EA}" ShortID="116843618">
-											<Language>English(Canada)</Language>
-											<AudioFile>enemy_killed_by_player_13.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_killed_by_player_13" ID="{6DC9A66E-04E1-4161-A2AF-0B3CED79EDF2}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_13" ID="{3F60807A-DC7F-4178-A2EF-0BFFA76A47BE}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_13" ID="{8203979E-DA0E-43EE-BE5E-64E1185AB6EA}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_killed_by_player_14" ID="{75364856-845E-456F-9AAC-790C926888C9}" ShortID="209979453">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_14" ID="{B0E3CE28-C9EB-4BF2-AE20-B9C20C6A3223}" ShortID="414372413">
-											<Language>English(US)</Language>
-											<AudioFile>enemy_killed_by_player_14.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_14" ID="{4E98DB9F-C412-4D4A-AF07-AC0C394888E3}" ShortID="212406051">
-											<Language>English(UK)</Language>
-											<AudioFile>enemy_killed_by_player_14.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_14" ID="{0A024FDE-F1A8-4C5D-A05B-5642DF9F44C2}" ShortID="769414189">
-											<Language>English(Canada)</Language>
-											<AudioFile>enemy_killed_by_player_14.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_killed_by_player_14" ID="{B0E3CE28-C9EB-4BF2-AE20-B9C20C6A3223}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_14" ID="{4E98DB9F-C412-4D4A-AF07-AC0C394888E3}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_14" ID="{0A024FDE-F1A8-4C5D-A05B-5642DF9F44C2}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_killed_by_player_15" ID="{86A5495B-C1B2-4D7F-A74B-B813D1F331EE}" ShortID="634267694">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_15" ID="{E79BDAB2-69CB-4ADF-BC59-BB7F96564ACB}" ShortID="429616110">
-											<Language>English(US)</Language>
-											<AudioFile>enemy_killed_by_player_15.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_15" ID="{EB8331DE-CF2C-4DD4-8E77-D491DD416479}" ShortID="369670011">
-											<Language>English(UK)</Language>
-											<AudioFile>enemy_killed_by_player_15.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_15" ID="{066F1E35-6337-478E-9C0D-9F4BA1082952}" ShortID="846328751">
-											<Language>English(Canada)</Language>
-											<AudioFile>enemy_killed_by_player_15.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_killed_by_player_15" ID="{066F1E35-6337-478E-9C0D-9F4BA1082952}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_15" ID="{E79BDAB2-69CB-4ADF-BC59-BB7F96564ACB}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_15" ID="{EB8331DE-CF2C-4DD4-8E77-D491DD416479}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_killed_by_player_16" ID="{7589C38D-FE6F-4BDD-8BDD-DBC12F5D0E36}" ShortID="193509567">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="True"/>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_16" ID="{C6F7F570-357B-4696-9608-C5B29F2694DB}" ShortID="345117386">
-											<Language>English(US)</Language>
-											<AudioFile>enemy_killed_by_player_16.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_16" ID="{36DAD362-518C-4AF5-9398-97D8B7FF53E0}" ShortID="486438912">
-											<Language>English(UK)</Language>
-											<AudioFile>enemy_killed_by_player_16.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="enemy_killed_by_player_16" ID="{E0310ECB-3626-43A8-86B5-5B4C1B786775}" ShortID="185291684">
-											<Language>English(Canada)</Language>
-											<AudioFile>enemy_killed_by_player_16.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_killed_by_player_16" ID="{36DAD362-518C-4AF5-9398-97D8B7FF53E0}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_16" ID="{C6F7F570-357B-4696-9608-C5B29F2694DB}" Platform="Linked"/>
-										<ActiveSource Name="enemy_killed_by_player_16" ID="{E0310ECB-3626-43A8-86B5-5B4C1B786775}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="vo_enemy_hp_damaged_by_projectile_by_player" ID="{B006C078-D06A-4B6B-9F18-37926083C8FB}" ShortID="1034252352">
@@ -8134,6 +7521,38 @@
 										<ActiveSource Name="armor_pierced_by_player_15" ID="{5F51FA70-B472-4641-A864-418967212A1A}" Platform="Linked"/>
 										<ActiveSource Name="armor_pierced_by_player_15" ID="{15D781B3-A843-432F-A5D1-3338C5F763AA}" Platform="Linked"/>
 										<ActiveSource Name="armor_pierced_by_player_15" ID="{64171DDE-42DC-4EA5-A85B-CDA498F1D9E0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="armor_pierced_by_player_16" ID="{E5084200-2662-4211-9BB7-9731CEA1D6C7}" ShortID="945104475">
+									<PropertyList>
+										<Property Name="IsVoice" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="armor_pierced_by_player_16" ID="{B774F614-5160-47C8-8C71-9165C8BC1F93}" ShortID="102144106">
+											<Language>English(UK)</Language>
+											<AudioFile>armor_pierced_by_player_16.wav</AudioFile>
+										</AudioFileSource>
+										<AudioFileSource Name="armor_pierced_by_player_16" ID="{2ED4BD53-08E4-4A28-862E-43CEA7815FCD}" ShortID="690602876">
+											<Language>English(US)</Language>
+											<AudioFile>armor_pierced_by_player_16.wav</AudioFile>
+										</AudioFileSource>
+										<AudioFileSource Name="armor_pierced_by_player_16" ID="{C398242F-3F72-4542-9A71-9EA79436FAE5}" ShortID="22496049">
+											<Language>English(Canada)</Language>
+											<AudioFile>armor_pierced_by_player_16.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="armor_pierced_by_player_16" ID="{B774F614-5160-47C8-8C71-9165C8BC1F93}" Platform="Linked"/>
+										<ActiveSource Name="armor_pierced_by_player_16" ID="{C398242F-3F72-4542-9A71-9EA79436FAE5}" Platform="Linked"/>
+										<ActiveSource Name="armor_pierced_by_player_16" ID="{2ED4BD53-08E4-4A28-862E-43CEA7815FCD}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
