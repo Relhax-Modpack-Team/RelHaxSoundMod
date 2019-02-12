@@ -1204,10 +1204,6 @@
 					<ShortName>turret_rotator_damaged_01.wav</ShortName>
 					<Path>SFX\turret_rotator_damaged_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="684623874" Language="SFX">
-					<ShortName>start_battle_42.wav</ShortName>
-					<Path>SFX\start_battle_42_C5DCCAFA.wem</Path>
-				</File>
 				<File Id="685745183" Language="SFX">
 					<ShortName>vehicle_destroyed_06.wav</ShortName>
 					<Path>SFX\vehicle_destroyed_06_C5DCCAFA.wem</Path>
@@ -1343,10 +1339,6 @@
 				<File Id="798944412" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_11.wav</ShortName>
 					<Path>SFX\armor_not_pierced_by_player_11_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="803006434" Language="SFX">
-					<ShortName>armor_pierced_by_player_17.wav</ShortName>
-					<Path>SFX\armor_pierced_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="817668882" Language="SFX">
 					<ShortName>gun_destroyed_01.wav</ShortName>

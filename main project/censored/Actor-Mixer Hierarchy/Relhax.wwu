@@ -2474,26 +2474,7 @@
 										<ActiveSource Name="start_battle_41" ID="{D1706F74-C2CD-4E6C-A8CB-7DBA9A9DC271}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
-								<Sound Name="start_battle_42" ID="{A6D59FCF-87CF-4B64-B741-F821507FF550}" ShortID="340282211">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_42" ID="{A52D7825-B072-459F-818E-92AA90C10DA3}" ShortID="684623874">
-											<Language>SFX</Language>
-											<AudioFile>start_battle_42.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_42" ID="{A52D7825-B072-459F-818E-92AA90C10DA3}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_43" ID="{85748A79-F74E-48D3-AE38-471EA7FEB4AB}" ShortID="345593350">
+								<Sound Name="start_battle_42" ID="{85748A79-F74E-48D3-AE38-471EA7FEB4AB}" ShortID="345593350">
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -4806,25 +4787,6 @@
 									</ChildrenList>
 									<ActiveSourceList>
 										<ActiveSource Name="armor_pierced_by_player_16" ID="{C398242F-3F72-4542-9A71-9EA79436FAE5}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="armor_pierced_by_player_17" ID="{AA43EC4A-AF22-4819-B4E2-D1F27466410B}" ShortID="210438015">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_17" ID="{0BDF60DF-CA47-41CF-B43D-4B4153DF02D9}" ShortID="803006434">
-											<Language>SFX</Language>
-											<AudioFile>armor_pierced_by_player_17.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="armor_pierced_by_player_17" ID="{0BDF60DF-CA47-41CF-B43D-4B4153DF02D9}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
