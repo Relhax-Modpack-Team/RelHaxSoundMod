@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="85">
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\Actor-Mixer Hierarchy\Relhax.wwu" DateLow="1549939064" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\Actor-Mixer Hierarchy\Relhax.wwu" DateLow="1549940127" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\Attenuations\Ambient.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\Attenuations\Collision.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\Attenuations\Combat_atmosphere.wwu" DateLow="1533726944" DateHigh="0"/>
@@ -140,7 +140,7 @@
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\Switches\Weapons.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\Triggers\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\Virtual Acoustics\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\WoT_sound_mod.Willster419.wsettings" DateLow="1549939328" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\WoT_sound_mod.Willster419.wsettings" DateLow="1549940209" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\WoT_sound_mod.wproj" DateLow="1549938398" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\wwise_project_1.1_en\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\wwise_project_1.1_en\Actor-Mixer Hierarchy\Relhax.wwu" DateLow="1535827640" DateHigh="0"/>
