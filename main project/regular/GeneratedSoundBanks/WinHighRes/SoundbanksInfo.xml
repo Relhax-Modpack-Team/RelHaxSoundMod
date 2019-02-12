@@ -365,10 +365,10 @@
 				<Event Id="206862725" Name="ue_stop_loadscreen_music" ObjectPath="\Events\Utilite_events\ue_stop_loadscreen_music" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
 			</IncludedEvents>
 		</SoundBank>
-		<SoundBank Id="2444814319" Language="English(US)">
+		<SoundBank Id="2444814319" Language="SFX">
 			<ObjectPath>\SoundBanks\Relhax\RelHaxVoiceover</ObjectPath>
 			<ShortName>RelHaxVoiceover</ShortName>
-			<Path>English(US)\RelHaxVoiceover.bnk</Path>
+			<Path>RelHaxVoiceover.bnk</Path>
 			<IncludedEvents>
 				<Event Id="1611658743" Name="mod_vo_chat_shotcuts_attack" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_attack" DurationType="OneShot" DurationMin="1.114558" DurationMax="1.358367"/>
 				<Event Id="1210881942" Name="mod_vo_chat_shotcuts_attack_the_enemy" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_attack_the_enemy" DurationType="OneShot" DurationMin="1.114558" DurationMax="1.358367"/>
@@ -436,1217 +436,1217 @@
 				<Event Id="3917054405" Name="vo_vehicle_destroyed" ObjectPath="\Events\Relhax\voiceover\vo_vehicle_destroyed" DurationType="OneShot" DurationMin="0.998458" DurationMax="3.917875"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
-				<File Id="7033953" Language="English(US)">
+				<File Id="7033953" Language="SFX">
 					<ShortName>start_battle_23.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_23_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_23_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="7804888" Language="English(US)">
+				<File Id="7804888" Language="SFX">
 					<ShortName>engine_damaged_03.wav</ShortName>
-					<Path>Voices\English(US)\engine_damaged_03_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_damaged_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="8852526" Language="English(US)">
+				<File Id="8852526" Language="SFX">
 					<ShortName>engine_damaged_07.wav</ShortName>
-					<Path>Voices\English(US)\engine_damaged_07_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_damaged_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="14781253" Language="English(US)">
+				<File Id="14781253" Language="SFX">
 					<ShortName>loader_killed_02.wav</ShortName>
-					<Path>Voices\English(US)\loader_killed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\loader_killed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="16508028" Language="English(US)">
+				<File Id="16508028" Language="SFX">
 					<ShortName>vehicle_destroyed_07.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_07_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="16551894" Language="English(US)">
+				<File Id="16551894" Language="SFX">
 					<ShortName>start_battle_34.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_34_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_34_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="17765699" Language="English(US)">
+				<File Id="17765699" Language="SFX">
 					<ShortName>vehicle_destroyed_17.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_17_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_17_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="19369136" Language="English(US)">
+				<File Id="19369136" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_player_08.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_player_08_C5DCCAFA.wem</Path>
+					<Path>SFX\damage_by_near_explosion_by_player_08_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="23305868" Language="English(US)">
+				<File Id="23305868" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_05.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_05_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="26123656" Language="English(US)">
+				<File Id="26123656" Language="SFX">
 					<ShortName>fire_started_04.wav</ShortName>
-					<Path>Voices\English(US)\fire_started_04_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_started_04_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="29118875" Language="SFX">
 					<ShortName>left_platoon_01.wav</ShortName>
 					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="32761682" Language="English(US)">
+				<File Id="32761682" Language="SFX">
 					<ShortName>vehicle_destroyed_04.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_04_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="35899331" Language="English(US)">
+				<File Id="35899331" Language="SFX">
 					<ShortName>surveying_devices_damaged_06.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_damaged_06_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_damaged_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="37667814" Language="English(US)">
+				<File Id="37667814" Language="SFX">
 					<ShortName>start_battle_18.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_18_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_18_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="41771467" Language="English(US)">
+				<File Id="41771467" Language="SFX">
 					<ShortName>start_battle_06.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_06_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_06_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="44525118" Language="SFX">
 					<ShortName>shotcuts_help_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
 				</File>
-				<File Id="52119806" Language="English(US)">
+				<File Id="52119806" Language="SFX">
 					<ShortName>enemy_killed_by_player_04.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_04_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_by_player_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="61496263" Language="English(US)">
+				<File Id="61496263" Language="SFX">
 					<ShortName>start_battle_26.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_26_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_26_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="64109528" Language="English(US)">
+				<File Id="64109528" Language="SFX">
 					<ShortName>radioman_killed_04.wav</ShortName>
-					<Path>Voices\English(US)\radioman_killed_04_C5DCCAFA.wem</Path>
+					<Path>SFX\radioman_killed_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="65228016" Language="English(US)">
+				<File Id="65228016" Language="SFX">
 					<ShortName>ally_killed_by_player_03.wav</ShortName>
-					<Path>Voices\English(US)\ally_killed_by_player_03_C5DCCAFA.wem</Path>
+					<Path>SFX\ally_killed_by_player_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="67021641" Language="English(US)">
+				<File Id="67021641" Language="SFX">
 					<ShortName>enemy_killed_by_player_08.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_08_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_by_player_08_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="72005758" Language="English(US)">
+				<File Id="72005758" Language="SFX">
 					<ShortName>start_battle_17.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_17_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_17_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="80842302" Language="English(US)">
+				<File Id="80842302" Language="SFX">
 					<ShortName>surveying_devices_destroyed_04.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_destroyed_04_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_destroyed_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="81782830" Language="English(US)">
+				<File Id="81782830" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_player_06.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_player_06_C5DCCAFA.wem</Path>
+					<Path>SFX\damage_by_near_explosion_by_player_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="84482796" Language="English(US)">
+				<File Id="84482796" Language="SFX">
 					<ShortName>armor_pierced_by_player_08.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_08_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_08_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="84774779" Language="English(US)">
+				<File Id="84774779" Language="SFX">
 					<ShortName>radioman_killed_02.wav</ShortName>
-					<Path>Voices\English(US)\radioman_killed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\radioman_killed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="85398390" Language="English(US)">
+				<File Id="85398390" Language="SFX">
 					<ShortName>armor_pierced_by_player_10.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_10_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_10_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="85804853" Language="English(US)">
+				<File Id="85804853" Language="SFX">
 					<ShortName>armor_pierced_by_player_07.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_07_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="85833158" Language="English(US)">
+				<File Id="85833158" Language="SFX">
 					<ShortName>armor_pierced_by_player_05.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_05_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="88223102" Language="English(US)">
+				<File Id="88223102" Language="SFX">
 					<ShortName>enemy_killed_by_player_01.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_01_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_by_player_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="89732810" Language="English(US)">
+				<File Id="89732810" Language="SFX">
 					<ShortName>engine_destroyed_01.wav</ShortName>
-					<Path>Voices\English(US)\engine_destroyed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_destroyed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="92727954" Language="English(US)">
+				<File Id="92727954" Language="SFX">
 					<ShortName>driver_killed_03.wav</ShortName>
-					<Path>Voices\English(US)\driver_killed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\driver_killed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="105961107" Language="English(US)">
+				<File Id="105961107" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_player_02.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_player_02_C5DCCAFA.wem</Path>
+					<Path>SFX\damage_by_near_explosion_by_player_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="109876944" Language="English(US)">
+				<File Id="109876944" Language="SFX">
 					<ShortName>ally_killed_by_player_04.wav</ShortName>
-					<Path>Voices\English(US)\ally_killed_by_player_04_C5DCCAFA.wem</Path>
+					<Path>SFX\ally_killed_by_player_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="118287030" Language="English(US)">
+				<File Id="118287030" Language="SFX">
 					<ShortName>vehicle_destroyed_22.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_22_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_22_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="118468904" Language="English(US)">
+				<File Id="118468904" Language="SFX">
 					<ShortName>vehicle_destroyed_18.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_18_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_18_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="120162871" Language="English(US)">
+				<File Id="120162871" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_01.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_01_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="123653975" Language="English(US)">
+				<File Id="123653975" Language="SFX">
 					<ShortName>fire_stopped_02.wav</ShortName>
-					<Path>Voices\English(US)\fire_stopped_02_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_stopped_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="127529839" Language="English(US)">
+				<File Id="127529839" Language="SFX">
 					<ShortName>ammo_bay_damaged_04.wav</ShortName>
-					<Path>Voices\English(US)\ammo_bay_damaged_04_C5DCCAFA.wem</Path>
+					<Path>SFX\ammo_bay_damaged_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="128285174" Language="English(US)">
+				<File Id="128285174" Language="SFX">
 					<ShortName>radioman_killed_01.wav</ShortName>
-					<Path>Voices\English(US)\radioman_killed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\radioman_killed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="137948623" Language="English(US)">
+				<File Id="137948623" Language="SFX">
 					<ShortName>target_captured_01.wav</ShortName>
-					<Path>Voices\English(US)\target_captured_01_C5DCCAFA.wem</Path>
+					<Path>SFX\target_captured_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="138787502" Language="English(US)">
+				<File Id="138787502" Language="SFX">
 					<ShortName>fire_stopped_04.wav</ShortName>
-					<Path>Voices\English(US)\fire_stopped_04_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_stopped_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="139266316" Language="English(US)">
+				<File Id="139266316" Language="SFX">
 					<ShortName>start_battle_27.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_27_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_27_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="143894057" Language="English(US)">
+				<File Id="143894057" Language="SFX">
 					<ShortName>target_lost_01.wav</ShortName>
-					<Path>Voices\English(US)\target_lost_01_C5DCCAFA.wem</Path>
+					<Path>SFX\target_lost_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="146719936" Language="English(US)">
+				<File Id="146719936" Language="SFX">
 					<ShortName>commander_killed_03.wav</ShortName>
-					<Path>Voices\English(US)\commander_killed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\commander_killed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="148722355" Language="English(US)">
+				<File Id="148722355" Language="SFX">
 					<ShortName>enemy_killed_01.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="151319473" Language="English(US)">
+				<File Id="151319473" Language="SFX">
 					<ShortName>start_battle_33.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_33_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_33_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="152689816" Language="English(US)">
+				<File Id="152689816" Language="SFX">
 					<ShortName>track_functional_04.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_04_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_04_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="156362035" Language="SFX">
 					<ShortName>platoon_created_01.wav</ShortName>
 					<Path>SFX\platoon_created_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="157689790" Language="English(US)">
+				<File Id="157689790" Language="SFX">
 					<ShortName>track_functional_03.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_03_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="160644770" Language="English(US)">
+				<File Id="160644770" Language="SFX">
 					<ShortName>gunner_killed_01.wav</ShortName>
-					<Path>Voices\English(US)\gunner_killed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\gunner_killed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="169074058" Language="English(US)">
+				<File Id="169074058" Language="SFX">
 					<ShortName>driver_killed_04.wav</ShortName>
-					<Path>Voices\English(US)\driver_killed_04_C5DCCAFA.wem</Path>
+					<Path>SFX\driver_killed_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="175593056" Language="English(US)">
+				<File Id="175593056" Language="SFX">
 					<ShortName>enemy_fire_started_by_player_05.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_05_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_fire_started_by_player_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="176223431" Language="English(US)">
+				<File Id="176223431" Language="SFX">
 					<ShortName>fire_started_07.wav</ShortName>
-					<Path>Voices\English(US)\fire_started_07_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_started_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="176652493" Language="English(US)">
+				<File Id="176652493" Language="SFX">
 					<ShortName>turret_rotator_functional_02.wav</ShortName>
-					<Path>Voices\English(US)\turret_rotator_functional_02_C5DCCAFA.wem</Path>
+					<Path>SFX\turret_rotator_functional_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="179590556" Language="English(US)">
+				<File Id="179590556" Language="SFX">
 					<ShortName>gun_functional_02.wav</ShortName>
-					<Path>Voices\English(US)\gun_functional_02_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_functional_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="180608267" Language="English(US)">
+				<File Id="180608267" Language="SFX">
 					<ShortName>enemy_killed_by_player_05.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_05_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_by_player_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="190309945" Language="English(US)">
+				<File Id="190309945" Language="SFX">
 					<ShortName>fuel_tank_damaged_05.wav</ShortName>
-					<Path>Voices\English(US)\fuel_tank_damaged_05_C5DCCAFA.wem</Path>
+					<Path>SFX\fuel_tank_damaged_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="196031182" Language="English(US)">
+				<File Id="196031182" Language="SFX">
 					<ShortName>enemy_killed_by_player_02.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_02_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_by_player_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="200027179" Language="English(US)">
+				<File Id="200027179" Language="SFX">
 					<ShortName>target_lost_04.wav</ShortName>
-					<Path>Voices\English(US)\target_lost_04_C5DCCAFA.wem</Path>
+					<Path>SFX\target_lost_04_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="208895145" Language="SFX">
 					<ShortName>shotcuts_attack_02.wav</ShortName>
 					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
 				</File>
-				<File Id="213539998" Language="English(US)">
+				<File Id="213539998" Language="SFX">
 					<ShortName>armor_pierced_by_player_01.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_01_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="217569460" Language="English(US)">
+				<File Id="217569460" Language="SFX">
 					<ShortName>engine_destroyed_03.wav</ShortName>
-					<Path>Voices\English(US)\engine_destroyed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_destroyed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="234829988" Language="English(US)">
+				<File Id="234829988" Language="SFX">
 					<ShortName>vehicle_destroyed_16.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_16_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_16_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="236540601" Language="English(US)">
+				<File Id="236540601" Language="SFX">
 					<ShortName>gun_functional_04.wav</ShortName>
-					<Path>Voices\English(US)\gun_functional_04_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_functional_04_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="242740349" Language="SFX">
 					<ShortName>shotcuts_negative_02.wav</ShortName>
 					<Path>SFX\shotcuts_negative_02_C8E51BD1.wem</Path>
 				</File>
-				<File Id="246890909" Language="English(US)">
+				<File Id="246890909" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_player_07.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_player_07_C5DCCAFA.wem</Path>
+					<Path>SFX\damage_by_near_explosion_by_player_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="247335799" Language="English(US)">
+				<File Id="247335799" Language="SFX">
 					<ShortName>commander_killed_04.wav</ShortName>
-					<Path>Voices\English(US)\commander_killed_04_C5DCCAFA.wem</Path>
+					<Path>SFX\commander_killed_04_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="248105007" Language="SFX">
 					<ShortName>shotcuts_follow_me_01.wav</ShortName>
 					<Path>SFX\shotcuts_follow_me_01_C8E51BD1.wem</Path>
 				</File>
-				<File Id="258186197" Language="English(US)">
+				<File Id="258186197" Language="SFX">
 					<ShortName>engine_functional_03.wav</ShortName>
-					<Path>Voices\English(US)\engine_functional_03_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_functional_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="260841946" Language="English(US)">
+				<File Id="260841946" Language="SFX">
 					<ShortName>fuel_tank_damaged_01.wav</ShortName>
-					<Path>Voices\English(US)\fuel_tank_damaged_01_C5DCCAFA.wem</Path>
+					<Path>SFX\fuel_tank_damaged_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="264678110" Language="English(US)">
+				<File Id="264678110" Language="SFX">
 					<ShortName>engine_damaged_04.wav</ShortName>
-					<Path>Voices\English(US)\engine_damaged_04_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_damaged_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="267502938" Language="English(US)">
+				<File Id="267502938" Language="SFX">
 					<ShortName>gun_damaged_02.wav</ShortName>
-					<Path>Voices\English(US)\gun_damaged_02_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_damaged_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="269323657" Language="English(US)">
+				<File Id="269323657" Language="SFX">
 					<ShortName>start_battle_38.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_38_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_38_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="281935057" Language="English(US)">
+				<File Id="281935057" Language="SFX">
 					<ShortName>track_functional_01.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_01_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="283522379" Language="English(US)">
+				<File Id="283522379" Language="SFX">
 					<ShortName>track_functional_can_move_02.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_can_move_02_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_can_move_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="285259681" Language="English(US)">
+				<File Id="285259681" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_07.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_07_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="296452961" Language="English(US)">
+				<File Id="296452961" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_19.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_19_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_19_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="305531114" Language="English(US)">
+				<File Id="305531114" Language="SFX">
 					<ShortName>vehicle_destroyed_03.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="306580125" Language="English(US)">
+				<File Id="306580125" Language="SFX">
 					<ShortName>turret_rotator_destroyed_04.wav</ShortName>
-					<Path>Voices\English(US)\turret_rotator_destroyed_04_C5DCCAFA.wem</Path>
+					<Path>SFX\turret_rotator_destroyed_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="325962462" Language="English(US)">
+				<File Id="325962462" Language="SFX">
 					<ShortName>surveying_devices_damaged_03.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_damaged_03_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_damaged_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="327732899" Language="English(US)">
+				<File Id="327732899" Language="SFX">
 					<ShortName>armor_pierced_by_player_09.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_09_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_09_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="332399221" Language="English(US)">
+				<File Id="332399221" Language="SFX">
 					<ShortName>engine_damaged_06.wav</ShortName>
-					<Path>Voices\English(US)\engine_damaged_06_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_damaged_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="342082510" Language="English(US)">
+				<File Id="342082510" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_04.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_04_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="346457463" Language="English(US)">
+				<File Id="346457463" Language="SFX">
 					<ShortName>target_captured_07.wav</ShortName>
-					<Path>Voices\English(US)\target_captured_07_C5DCCAFA.wem</Path>
+					<Path>SFX\target_captured_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="349630752" Language="English(US)">
+				<File Id="349630752" Language="SFX">
 					<ShortName>vehicle_destroyed_23.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_23_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_23_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="350779033" Language="English(US)">
+				<File Id="350779033" Language="SFX">
 					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="354044161" Language="English(US)">
+				<File Id="354044161" Language="SFX">
 					<ShortName>start_battle_25.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_25_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_25_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="361306481" Language="English(US)">
+				<File Id="361306481" Language="SFX">
 					<ShortName>crew_deactivated_04.wav</ShortName>
-					<Path>Voices\English(US)\crew_deactivated_04_C5DCCAFA.wem</Path>
+					<Path>SFX\crew_deactivated_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="367381372" Language="English(US)">
+				<File Id="367381372" Language="SFX">
 					<ShortName>start_battle_13.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_13_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_13_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="368248332" Language="English(US)">
+				<File Id="368248332" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_player_03.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_player_03_C5DCCAFA.wem</Path>
+					<Path>SFX\damage_by_near_explosion_by_player_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="373132093" Language="English(US)">
+				<File Id="373132093" Language="SFX">
 					<ShortName>engine_destroyed_02.wav</ShortName>
-					<Path>Voices\English(US)\engine_destroyed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_destroyed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="373270785" Language="English(US)">
+				<File Id="373270785" Language="SFX">
 					<ShortName>start_battle_37.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_37_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_37_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="381449952" Language="English(US)">
+				<File Id="381449952" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_18.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_18_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_18_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="384155786" Language="English(US)">
+				<File Id="384155786" Language="SFX">
 					<ShortName>enemy_killed_03.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="391592367" Language="English(US)">
+				<File Id="391592367" Language="SFX">
 					<ShortName>track_damaged_01.wav</ShortName>
-					<Path>Voices\English(US)\track_damaged_01_C5DCCAFA.wem</Path>
+					<Path>SFX\track_damaged_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="392029424" Language="English(US)">
+				<File Id="392029424" Language="SFX">
 					<ShortName>gun_damaged_03.wav</ShortName>
-					<Path>Voices\English(US)\gun_damaged_03_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_damaged_03_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="399888103" Language="SFX">
 					<ShortName>shotcuts_follow_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_follow_me_02_C8E51BD1.wem</Path>
 				</File>
-				<File Id="400136120" Language="English(US)">
+				<File Id="400136120" Language="SFX">
 					<ShortName>armor_pierced_by_player_04.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_04_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="400438866" Language="English(US)">
+				<File Id="400438866" Language="SFX">
 					<ShortName>track_destroyed_03.wav</ShortName>
-					<Path>Voices\English(US)\track_destroyed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\track_destroyed_03_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="404127349" Language="SFX">
 					<ShortName>been_excluded_platoon_01.wav</ShortName>
 					<Path>SFX\been_excluded_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="407542772" Language="English(US)">
+				<File Id="407542772" Language="SFX">
 					<ShortName>target_lost_02.wav</ShortName>
-					<Path>Voices\English(US)\target_lost_02_C5DCCAFA.wem</Path>
+					<Path>SFX\target_lost_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="418711586" Language="English(US)">
+				<File Id="418711586" Language="SFX">
 					<ShortName>ally_killed_by_player_02.wav</ShortName>
-					<Path>Voices\English(US)\ally_killed_by_player_02_C5DCCAFA.wem</Path>
+					<Path>SFX\ally_killed_by_player_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="421258775" Language="English(US)">
+				<File Id="421258775" Language="SFX">
 					<ShortName>turret_rotator_functional_01.wav</ShortName>
-					<Path>Voices\English(US)\turret_rotator_functional_01_C5DCCAFA.wem</Path>
+					<Path>SFX\turret_rotator_functional_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="427410163" Language="English(US)">
+				<File Id="427410163" Language="SFX">
 					<ShortName>track_functional_can_move_01.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_can_move_01_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_can_move_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="430048523" Language="English(US)">
+				<File Id="430048523" Language="SFX">
 					<ShortName>target_captured_02.wav</ShortName>
-					<Path>Voices\English(US)\target_captured_02_C5DCCAFA.wem</Path>
+					<Path>SFX\target_captured_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="431760227" Language="SFX">
 					<ShortName>platoon_joined_01.wav</ShortName>
 					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="432604550" Language="English(US)">
+				<File Id="432604550" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_13.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_13_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_13_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="434774581" Language="English(US)">
+				<File Id="434774581" Language="SFX">
 					<ShortName>start_battle_29.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_29_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_29_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="449936304" Language="English(US)">
+				<File Id="449936304" Language="SFX">
 					<ShortName>start_battle_22.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_22_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_22_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="451227705" Language="English(US)">
+				<File Id="451227705" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_20.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_20_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_20_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="451502154" Language="English(US)">
+				<File Id="451502154" Language="SFX">
 					<ShortName>start_battle_02.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_02_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="464580469" Language="English(US)">
+				<File Id="464580469" Language="SFX">
 					<ShortName>track_functional_can_move_07.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_can_move_07_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_can_move_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="465213817" Language="English(US)">
+				<File Id="465213817" Language="SFX">
 					<ShortName>fire_stopped_01.wav</ShortName>
-					<Path>Voices\English(US)\fire_stopped_01_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_stopped_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="474754890" Language="English(US)">
+				<File Id="474754890" Language="SFX">
 					<ShortName>gun_destroyed_03.wav</ShortName>
-					<Path>Voices\English(US)\gun_destroyed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_destroyed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="478879818" Language="English(US)">
+				<File Id="478879818" Language="SFX">
 					<ShortName>vehicle_destroyed_13.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_13_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_13_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="482360668" Language="English(US)">
+				<File Id="482360668" Language="SFX">
 					<ShortName>radio_damaged_05.wav</ShortName>
-					<Path>Voices\English(US)\radio_damaged_05_C5DCCAFA.wem</Path>
+					<Path>SFX\radio_damaged_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="482497564" Language="English(US)">
+				<File Id="482497564" Language="SFX">
 					<ShortName>vehicle_destroyed_19.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_19_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_19_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="487090317" Language="English(US)">
+				<File Id="487090317" Language="SFX">
 					<ShortName>fuel_tank_damaged_04.wav</ShortName>
-					<Path>Voices\English(US)\fuel_tank_damaged_04_C5DCCAFA.wem</Path>
+					<Path>SFX\fuel_tank_damaged_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="487101416" Language="English(US)">
+				<File Id="487101416" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_enemy_02.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_enemy_02_C5DCCAFA.wem</Path>
+					<Path>SFX\damage_by_near_explosion_by_enemy_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="487224471" Language="English(US)">
+				<File Id="487224471" Language="SFX">
 					<ShortName>turret_rotator_damaged_02.wav</ShortName>
-					<Path>Voices\English(US)\turret_rotator_damaged_02_C5DCCAFA.wem</Path>
+					<Path>SFX\turret_rotator_damaged_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="487389301" Language="English(US)">
+				<File Id="487389301" Language="SFX">
 					<ShortName>fire_started_02.wav</ShortName>
-					<Path>Voices\English(US)\fire_started_02_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_started_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="487491464" Language="English(US)">
+				<File Id="487491464" Language="SFX">
 					<ShortName>fire_started_03.wav</ShortName>
-					<Path>Voices\English(US)\fire_started_03_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_started_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="491276398" Language="English(US)">
+				<File Id="491276398" Language="SFX">
 					<ShortName>engine_functional_04.wav</ShortName>
-					<Path>Voices\English(US)\engine_functional_04_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_functional_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="491411735" Language="English(US)">
+				<File Id="491411735" Language="SFX">
 					<ShortName>engine_functional_02.wav</ShortName>
-					<Path>Voices\English(US)\engine_functional_02_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_functional_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="492655691" Language="English(US)">
+				<File Id="492655691" Language="SFX">
 					<ShortName>track_functional_02.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_02_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="502029609" Language="SFX">
 					<ShortName>shotcuts_affirmative_02.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
 				</File>
-				<File Id="503764963" Language="English(US)">
+				<File Id="503764963" Language="SFX">
 					<ShortName>surveying_devices_damaged_04.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_damaged_04_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_damaged_04_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="504743406" Language="SFX">
 					<ShortName>shotcuts_negative_03.wav</ShortName>
 					<Path>SFX\shotcuts_negative_03_C8E51BD1.wem</Path>
 				</File>
-				<File Id="505724404" Language="English(US)">
+				<File Id="505724404" Language="SFX">
 					<ShortName>driver_killed_01.wav</ShortName>
-					<Path>Voices\English(US)\driver_killed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\driver_killed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="511674462" Language="English(US)">
+				<File Id="511674462" Language="SFX">
 					<ShortName>enemy_killed_02.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="519048676" Language="English(US)">
+				<File Id="519048676" Language="SFX">
 					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="521641112" Language="English(US)">
+				<File Id="521641112" Language="SFX">
 					<ShortName>surveying_devices_damaged_01.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_damaged_01_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_damaged_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="527466366" Language="English(US)">
+				<File Id="527466366" Language="SFX">
 					<ShortName>enemy_fire_started_by_player_01.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_01_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_fire_started_by_player_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="530168340" Language="English(US)">
+				<File Id="530168340" Language="SFX">
 					<ShortName>loader_killed_04.wav</ShortName>
-					<Path>Voices\English(US)\loader_killed_04_C5DCCAFA.wem</Path>
+					<Path>SFX\loader_killed_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="533162270" Language="English(US)">
+				<File Id="533162270" Language="SFX">
 					<ShortName>vehicle_destroyed_15.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_15_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_15_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="541381540" Language="English(US)">
+				<File Id="541381540" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_11.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_11_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_11_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="542358087" Language="English(US)">
+				<File Id="542358087" Language="SFX">
 					<ShortName>surveying_devices_destroyed_02.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_destroyed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_destroyed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="545313643" Language="English(US)">
+				<File Id="545313643" Language="SFX">
 					<ShortName>start_battle_04.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_04_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="547129249" Language="English(US)">
+				<File Id="547129249" Language="SFX">
 					<ShortName>start_battle_03.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_03_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="552990002" Language="English(US)">
+				<File Id="552990002" Language="SFX">
 					<ShortName>start_battle_40.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_40_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_40_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="556068767" Language="English(US)">
+				<File Id="556068767" Language="SFX">
 					<ShortName>target_unlocked_01.wav</ShortName>
-					<Path>Voices\English(US)\target_unlocked_01_C5DCCAFA.wem</Path>
+					<Path>SFX\target_unlocked_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="570971557" Language="English(US)">
+				<File Id="570971557" Language="SFX">
 					<ShortName>track_damaged_03.wav</ShortName>
-					<Path>Voices\English(US)\track_damaged_03_C5DCCAFA.wem</Path>
+					<Path>SFX\track_damaged_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="574925235" Language="English(US)">
+				<File Id="574925235" Language="SFX">
 					<ShortName>surveying_devices_functional_02.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_functional_02_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_functional_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="575848313" Language="English(US)">
+				<File Id="575848313" Language="SFX">
 					<ShortName>track_damaged_04.wav</ShortName>
-					<Path>Voices\English(US)\track_damaged_04_C5DCCAFA.wem</Path>
+					<Path>SFX\track_damaged_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="578306558" Language="English(US)">
+				<File Id="578306558" Language="SFX">
 					<ShortName>armor_pierced_by_player_02.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_02_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="582081375" Language="English(US)">
+				<File Id="582081375" Language="SFX">
 					<ShortName>armor_pierced_by_player_14.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_14_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_14_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="587306635" Language="English(US)">
+				<File Id="587306635" Language="SFX">
 					<ShortName>ally_killed_by_player_01.wav</ShortName>
-					<Path>Voices\English(US)\ally_killed_by_player_01_C5DCCAFA.wem</Path>
+					<Path>SFX\ally_killed_by_player_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="599509874" Language="English(US)">
+				<File Id="599509874" Language="SFX">
 					<ShortName>fire_started_05.wav</ShortName>
-					<Path>Voices\English(US)\fire_started_05_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_started_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="600787797" Language="English(US)">
+				<File Id="600787797" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_player_01.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_player_01_C5DCCAFA.wem</Path>
+					<Path>SFX\damage_by_near_explosion_by_player_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="601958797" Language="English(US)">
+				<File Id="601958797" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_06.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_06_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="605994666" Language="English(US)">
+				<File Id="605994666" Language="SFX">
 					<ShortName>vehicle_destroyed_01.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="613135343" Language="English(US)">
+				<File Id="613135343" Language="SFX">
 					<ShortName>surveying_devices_functional_07.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_functional_07_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_functional_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="617623914" Language="English(US)">
+				<File Id="617623914" Language="SFX">
 					<ShortName>track_functional_can_move_06.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_can_move_06_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_can_move_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="619480903" Language="English(US)">
+				<File Id="619480903" Language="SFX">
 					<ShortName>radio_damaged_01.wav</ShortName>
-					<Path>Voices\English(US)\radio_damaged_01_C5DCCAFA.wem</Path>
+					<Path>SFX\radio_damaged_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="623969336" Language="English(US)">
+				<File Id="623969336" Language="SFX">
 					<ShortName>start_battle_21.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_21_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_21_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="624849274" Language="English(US)">
+				<File Id="624849274" Language="SFX">
 					<ShortName>start_battle_41.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_41_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_41_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="625410069" Language="English(US)">
+				<File Id="625410069" Language="SFX">
 					<ShortName>start_battle_10.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_10_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_10_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="625983824" Language="English(US)">
+				<File Id="625983824" Language="SFX">
 					<ShortName>crew_deactivated_05.wav</ShortName>
-					<Path>Voices\English(US)\crew_deactivated_05_C5DCCAFA.wem</Path>
+					<Path>SFX\crew_deactivated_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="628203462" Language="English(US)">
+				<File Id="628203462" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_player_05.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_player_05_C5DCCAFA.wem</Path>
+					<Path>SFX\damage_by_near_explosion_by_player_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="628941678" Language="English(US)">
+				<File Id="628941678" Language="SFX">
 					<ShortName>radio_damaged_03.wav</ShortName>
-					<Path>Voices\English(US)\radio_damaged_03_C5DCCAFA.wem</Path>
+					<Path>SFX\radio_damaged_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="633462547" Language="English(US)">
+				<File Id="633462547" Language="SFX">
 					<ShortName>start_battle_12.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_12_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_12_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="638578269" Language="English(US)">
+				<File Id="638578269" Language="SFX">
 					<ShortName>radioman_killed_03.wav</ShortName>
-					<Path>Voices\English(US)\radioman_killed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\radioman_killed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="641066183" Language="English(US)">
+				<File Id="641066183" Language="SFX">
 					<ShortName>enemy_killed_by_player_09.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_09_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_by_player_09_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="641950699" Language="English(US)">
+				<File Id="641950699" Language="SFX">
 					<ShortName>fuel_tank_damaged_02.wav</ShortName>
-					<Path>Voices\English(US)\fuel_tank_damaged_02_C5DCCAFA.wem</Path>
+					<Path>SFX\fuel_tank_damaged_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="646810651" Language="English(US)">
+				<File Id="646810651" Language="SFX">
 					<ShortName>turret_rotator_destroyed_03.wav</ShortName>
-					<Path>Voices\English(US)\turret_rotator_destroyed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\turret_rotator_destroyed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="649705620" Language="English(US)">
+				<File Id="649705620" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_player_04.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_player_04_C5DCCAFA.wem</Path>
+					<Path>SFX\damage_by_near_explosion_by_player_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="652209596" Language="English(US)">
+				<File Id="652209596" Language="SFX">
 					<ShortName>gunner_killed_02.wav</ShortName>
-					<Path>Voices\English(US)\gunner_killed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\gunner_killed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="658757184" Language="English(US)">
+				<File Id="658757184" Language="SFX">
 					<ShortName>gun_functional_01.wav</ShortName>
-					<Path>Voices\English(US)\gun_functional_01_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_functional_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="660050851" Language="SFX">
 					<ShortName>shotcuts_negative_01.wav</ShortName>
 					<Path>SFX\shotcuts_negative_01_C8E51BD1.wem</Path>
 				</File>
-				<File Id="664076776" Language="English(US)">
+				<File Id="664076776" Language="SFX">
 					<ShortName>vehicle_destroyed_24.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_24_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_24_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="664638246" Language="English(US)">
+				<File Id="664638246" Language="SFX">
 					<ShortName>start_battle_01.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_01_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="671049011" Language="English(US)">
+				<File Id="671049011" Language="SFX">
 					<ShortName>commander_killed_02.wav</ShortName>
-					<Path>Voices\English(US)\commander_killed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\commander_killed_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="671194276" Language="SFX">
 					<ShortName>shotcuts_affirmative_01.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
-				<File Id="675719907" Language="English(US)">
+				<File Id="675719907" Language="SFX">
 					<ShortName>target_captured_05.wav</ShortName>
-					<Path>Voices\English(US)\target_captured_05_C5DCCAFA.wem</Path>
+					<Path>SFX\target_captured_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="684738324" Language="English(US)">
+				<File Id="684738324" Language="SFX">
 					<ShortName>start_battle_36.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_36_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_36_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="686954790" Language="English(US)">
+				<File Id="686954790" Language="SFX">
 					<ShortName>armor_pierced_by_player_11.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_11_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_11_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="690602876" Language="English(US)">
+				<File Id="690602876" Language="SFX">
 					<ShortName>armor_pierced_by_player_16.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_16_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_16_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="692025607" Language="English(US)">
+				<File Id="692025607" Language="SFX">
 					<ShortName>gunner_killed_04.wav</ShortName>
-					<Path>Voices\English(US)\gunner_killed_04_C5DCCAFA.wem</Path>
+					<Path>SFX\gunner_killed_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="696994192" Language="English(US)">
+				<File Id="696994192" Language="SFX">
 					<ShortName>armor_pierced_by_player_12.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_12_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_12_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="700931911" Language="English(US)">
+				<File Id="700931911" Language="SFX">
 					<ShortName>start_battle_07.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_07_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="702275075" Language="English(US)">
+				<File Id="702275075" Language="SFX">
 					<ShortName>track_destroyed_02.wav</ShortName>
-					<Path>Voices\English(US)\track_destroyed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\track_destroyed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="710803927" Language="English(US)">
+				<File Id="710803927" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_16.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_16_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_16_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="714246690" Language="English(US)">
+				<File Id="714246690" Language="SFX">
 					<ShortName>engine_damaged_01.wav</ShortName>
-					<Path>Voices\English(US)\engine_damaged_01_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_damaged_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="716087478" Language="English(US)">
+				<File Id="716087478" Language="SFX">
 					<ShortName>engine_damaged_02.wav</ShortName>
-					<Path>Voices\English(US)\engine_damaged_02_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_damaged_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="718315318" Language="English(US)">
+				<File Id="718315318" Language="SFX">
 					<ShortName>armor_pierced_by_player_06.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_06_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="726862494" Language="English(US)">
+				<File Id="726862494" Language="SFX">
 					<ShortName>surveying_devices_functional_01.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_functional_01_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_functional_01_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="726985870" Language="SFX">
 					<ShortName>shotcuts_negative_04.wav</ShortName>
 					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
 				</File>
-				<File Id="730078987" Language="English(US)">
+				<File Id="730078987" Language="SFX">
 					<ShortName>radio_damaged_02.wav</ShortName>
-					<Path>Voices\English(US)\radio_damaged_02_C5DCCAFA.wem</Path>
+					<Path>SFX\radio_damaged_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="730085633" Language="English(US)">
+				<File Id="730085633" Language="SFX">
 					<ShortName>start_battle_09.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_09_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_09_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="731078956" Language="English(US)">
+				<File Id="731078956" Language="SFX">
 					<ShortName>armor_pierced_by_player_15.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_15_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_15_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="738463405" Language="English(US)">
+				<File Id="738463405" Language="SFX">
 					<ShortName>gun_destroyed_02.wav</ShortName>
-					<Path>Voices\English(US)\gun_destroyed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_destroyed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="738793494" Language="English(US)">
+				<File Id="738793494" Language="SFX">
 					<ShortName>start_battle_15.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_15_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_15_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="739064629" Language="English(US)">
+				<File Id="739064629" Language="SFX">
 					<ShortName>start_battle_11.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_11_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_11_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="739579212" Language="English(US)">
+				<File Id="739579212" Language="SFX">
 					<ShortName>start_battle_20.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_20_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_20_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="744898136" Language="English(US)">
+				<File Id="744898136" Language="SFX">
 					<ShortName>target_captured_04.wav</ShortName>
-					<Path>Voices\English(US)\target_captured_04_C5DCCAFA.wem</Path>
+					<Path>SFX\target_captured_04_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="746117316" Language="SFX">
 					<ShortName>shotcuts_attack_01.wav</ShortName>
 					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
 				</File>
-				<File Id="753346479" Language="English(US)">
+				<File Id="753346479" Language="SFX">
 					<ShortName>surveying_devices_destroyed_05.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_destroyed_05_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_destroyed_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="753402074" Language="English(US)">
+				<File Id="753402074" Language="SFX">
 					<ShortName>fire_started_08.wav</ShortName>
-					<Path>Voices\English(US)\fire_started_08_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_started_08_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="755195268" Language="English(US)">
+				<File Id="755195268" Language="SFX">
 					<ShortName>target_lost_03.wav</ShortName>
-					<Path>Voices\English(US)\target_lost_03_C5DCCAFA.wem</Path>
+					<Path>SFX\target_lost_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="757698949" Language="English(US)">
+				<File Id="757698949" Language="SFX">
 					<ShortName>start_battle_30.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_30_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_30_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="760337569" Language="English(US)">
+				<File Id="760337569" Language="SFX">
 					<ShortName>start_battle_05.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_05_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="762000436" Language="English(US)">
+				<File Id="762000436" Language="SFX">
 					<ShortName>commander_killed_01.wav</ShortName>
-					<Path>Voices\English(US)\commander_killed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\commander_killed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="762133535" Language="English(US)">
+				<File Id="762133535" Language="SFX">
 					<ShortName>track_functional_can_move_03.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_can_move_03_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_can_move_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="764062589" Language="English(US)">
+				<File Id="764062589" Language="SFX">
 					<ShortName>vehicle_destroyed_11.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_11_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_11_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="764607030" Language="English(US)">
+				<File Id="764607030" Language="SFX">
 					<ShortName>vehicle_destroyed_02.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="766526953" Language="English(US)">
+				<File Id="766526953" Language="SFX">
 					<ShortName>crew_deactivated_01.wav</ShortName>
-					<Path>Voices\English(US)\crew_deactivated_01_C5DCCAFA.wem</Path>
+					<Path>SFX\crew_deactivated_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="768648927" Language="English(US)">
+				<File Id="768648927" Language="SFX">
 					<ShortName>surveying_devices_destroyed_01.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_destroyed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_destroyed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="769841228" Language="English(US)">
+				<File Id="769841228" Language="SFX">
 					<ShortName>vehicle_destroyed_06.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_06_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="771621818" Language="English(US)">
+				<File Id="771621818" Language="SFX">
 					<ShortName>start_battle_35.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_35_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_35_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="771650940" Language="English(US)">
+				<File Id="771650940" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_14.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_14_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_14_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="774307800" Language="English(US)">
+				<File Id="774307800" Language="SFX">
 					<ShortName>vehicle_destroyed_25.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_25_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_25_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="775774545" Language="English(US)">
+				<File Id="775774545" Language="SFX">
 					<ShortName>surveying_devices_functional_05.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_functional_05_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_functional_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="777029712" Language="English(US)">
+				<File Id="777029712" Language="SFX">
 					<ShortName>surveying_devices_damaged_07.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_damaged_07_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_damaged_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="779734131" Language="English(US)">
+				<File Id="779734131" Language="SFX">
 					<ShortName>gunner_killed_03.wav</ShortName>
-					<Path>Voices\English(US)\gunner_killed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\gunner_killed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="781393392" Language="English(US)">
+				<File Id="781393392" Language="SFX">
 					<ShortName>start_battle_39.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_39_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_39_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="782244064" Language="English(US)">
+				<File Id="782244064" Language="SFX">
 					<ShortName>vehicle_destroyed_10.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_10_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_10_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="784303227" Language="English(US)">
+				<File Id="784303227" Language="SFX">
 					<ShortName>ammo_bay_damaged_01.wav</ShortName>
-					<Path>Voices\English(US)\ammo_bay_damaged_01_C5DCCAFA.wem</Path>
+					<Path>SFX\ammo_bay_damaged_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="785230052" Language="English(US)">
+				<File Id="785230052" Language="SFX">
 					<ShortName>target_captured_06.wav</ShortName>
-					<Path>Voices\English(US)\target_captured_06_C5DCCAFA.wem</Path>
+					<Path>SFX\target_captured_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="786649057" Language="English(US)">
+				<File Id="786649057" Language="SFX">
 					<ShortName>loader_killed_03.wav</ShortName>
-					<Path>Voices\English(US)\loader_killed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\loader_killed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="793317631" Language="English(US)">
+				<File Id="793317631" Language="SFX">
 					<ShortName>turret_rotator_damaged_01.wav</ShortName>
-					<Path>Voices\English(US)\turret_rotator_damaged_01_C5DCCAFA.wem</Path>
+					<Path>SFX\turret_rotator_damaged_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="799347465" Language="English(US)">
+				<File Id="799347465" Language="SFX">
 					<ShortName>ammo_bay_damaged_03.wav</ShortName>
-					<Path>Voices\English(US)\ammo_bay_damaged_03_C5DCCAFA.wem</Path>
+					<Path>SFX\ammo_bay_damaged_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="805759074" Language="English(US)">
+				<File Id="805759074" Language="SFX">
 					<ShortName>start_battle_08.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_08_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_08_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="809009919" Language="English(US)">
+				<File Id="809009919" Language="SFX">
 					<ShortName>start_battle_24.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_24_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_24_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="811028027" Language="English(US)">
+				<File Id="811028027" Language="SFX">
 					<ShortName>vehicle_destroyed_14.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_14_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_14_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="812612622" Language="English(US)">
+				<File Id="812612622" Language="SFX">
 					<ShortName>surveying_devices_functional_06.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_functional_06_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_functional_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="812941987" Language="English(US)">
+				<File Id="812941987" Language="SFX">
 					<ShortName>surveying_devices_destroyed_06.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_destroyed_06_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_destroyed_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="817363947" Language="English(US)">
+				<File Id="817363947" Language="SFX">
 					<ShortName>gun_functional_03.wav</ShortName>
-					<Path>Voices\English(US)\gun_functional_03_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_functional_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="818566916" Language="English(US)">
+				<File Id="818566916" Language="SFX">
 					<ShortName>start_battle_31.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_31_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_31_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="823314785" Language="SFX">
 					<ShortName>shotcuts_affirmative_03.wav</ShortName>
 					<Path>SFX\shotcuts_affirmative_03_C8E51BD1.wem</Path>
 				</File>
-				<File Id="825696448" Language="English(US)">
+				<File Id="825696448" Language="SFX">
 					<ShortName>vehicle_destroyed_09.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_09_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_09_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="829102517" Language="SFX">
 					<ShortName>player_joined_platoon_01.wav</ShortName>
 					<Path>SFX\player_joined_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="829557724" Language="English(US)">
+				<File Id="829557724" Language="SFX">
 					<ShortName>target_unlocked_03.wav</ShortName>
-					<Path>Voices\English(US)\target_unlocked_03_C5DCCAFA.wem</Path>
+					<Path>SFX\target_unlocked_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="831677186" Language="English(US)">
+				<File Id="831677186" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_10.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_10_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_10_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="832928646" Language="SFX">
 					<ShortName>shotcuts_defend_base_01.wav</ShortName>
 					<Path>SFX\shotcuts_defend_base_01_C8E51BD1.wem</Path>
 				</File>
-				<File Id="833324615" Language="English(US)">
+				<File Id="833324615" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_15.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_15_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_15_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="833889473" Language="English(US)">
+				<File Id="833889473" Language="SFX">
 					<ShortName>loader_killed_01.wav</ShortName>
-					<Path>Voices\English(US)\loader_killed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\loader_killed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="836346512" Language="English(US)">
+				<File Id="836346512" Language="SFX">
 					<ShortName>fire_started_01.wav</ShortName>
-					<Path>Voices\English(US)\fire_started_01_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_started_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="841315810" Language="English(US)">
+				<File Id="841315810" Language="SFX">
 					<ShortName>fire_stopped_03.wav</ShortName>
-					<Path>Voices\English(US)\fire_stopped_03_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_stopped_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="843626974" Language="English(US)">
+				<File Id="843626974" Language="SFX">
 					<ShortName>start_battle_28.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_28_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_28_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="845442869" Language="English(US)">
+				<File Id="845442869" Language="SFX">
 					<ShortName>armor_pierced_by_player_03.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_03_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="850034347" Language="English(US)">
+				<File Id="850034347" Language="SFX">
 					<ShortName>start_battle_16.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_16_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_16_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="851906316" Language="English(US)">
+				<File Id="851906316" Language="SFX">
 					<ShortName>enemy_killed_by_player_03.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_03_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_by_player_03_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="851938963" Language="SFX">
 					<ShortName>shotcuts_defend_base_02.wav</ShortName>
 					<Path>SFX\shotcuts_defend_base_02_C8E51BD1.wem</Path>
 				</File>
-				<File Id="852649397" Language="English(US)">
+				<File Id="852649397" Language="SFX">
 					<ShortName>surveying_devices_destroyed_07.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_destroyed_07_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_destroyed_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="853782029" Language="English(US)">
+				<File Id="853782029" Language="SFX">
 					<ShortName>vehicle_destroyed_12.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_12_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_12_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="853834125" Language="English(US)">
+				<File Id="853834125" Language="SFX">
 					<ShortName>driver_killed_02.wav</ShortName>
-					<Path>Voices\English(US)\driver_killed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\driver_killed_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="855736339" Language="SFX">
 					<ShortName>platoon_dismissed_01.wav</ShortName>
 					<Path>SFX\platoon_dismissed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="857163731" Language="English(US)">
+				<File Id="857163731" Language="SFX">
 					<ShortName>vehicle_destroyed_21.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_21_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_21_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="864904082" Language="English(US)">
+				<File Id="864904082" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_17.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_17_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_17_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="867761554" Language="English(US)">
+				<File Id="867761554" Language="SFX">
 					<ShortName>turret_rotator_destroyed_02.wav</ShortName>
-					<Path>Voices\English(US)\turret_rotator_destroyed_02_C5DCCAFA.wem</Path>
+					<Path>SFX\turret_rotator_destroyed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="875486317" Language="English(US)">
+				<File Id="875486317" Language="SFX">
 					<ShortName>enemy_fire_started_by_player_02.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_02_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_fire_started_by_player_02_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="875487878" Language="SFX">
 					<ShortName>shotcuts_help_me_02.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
 				</File>
-				<File Id="886162254" Language="English(US)">
+				<File Id="886162254" Language="SFX">
 					<ShortName>crew_deactivated_03.wav</ShortName>
-					<Path>Voices\English(US)\crew_deactivated_03_C5DCCAFA.wem</Path>
+					<Path>SFX\crew_deactivated_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="886558866" Language="English(US)">
+				<File Id="886558866" Language="SFX">
 					<ShortName>surveying_devices_functional_03.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_functional_03_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_functional_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="892724464" Language="English(US)">
+				<File Id="892724464" Language="SFX">
 					<ShortName>track_destroyed_01.wav</ShortName>
-					<Path>Voices\English(US)\track_destroyed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\track_destroyed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="895400143" Language="English(US)">
+				<File Id="895400143" Language="SFX">
 					<ShortName>target_captured_03.wav</ShortName>
-					<Path>Voices\English(US)\target_captured_03_C5DCCAFA.wem</Path>
+					<Path>SFX\target_captured_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="896023710" Language="English(US)">
+				<File Id="896023710" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_08.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_08_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_08_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="903883433" Language="English(US)">
+				<File Id="903883433" Language="SFX">
 					<ShortName>target_unlocked_02.wav</ShortName>
-					<Path>Voices\English(US)\target_unlocked_02_C5DCCAFA.wem</Path>
+					<Path>SFX\target_unlocked_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="904216559" Language="English(US)">
+				<File Id="904216559" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_09.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_09_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_09_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="906662325" Language="English(US)">
+				<File Id="906662325" Language="SFX">
 					<ShortName>crew_deactivated_02.wav</ShortName>
-					<Path>Voices\English(US)\crew_deactivated_02_C5DCCAFA.wem</Path>
+					<Path>SFX\crew_deactivated_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="910511225" Language="English(US)">
+				<File Id="910511225" Language="SFX">
 					<ShortName>enemy_killed_04.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_04_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="916610720" Language="English(US)">
+				<File Id="916610720" Language="SFX">
 					<ShortName>start_battle_19.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_19_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_19_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="918373617" Language="English(US)">
+				<File Id="918373617" Language="SFX">
 					<ShortName>start_battle_32.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_32_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_32_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="929984195" Language="English(US)">
+				<File Id="929984195" Language="SFX">
 					<ShortName>radio_damaged_04.wav</ShortName>
-					<Path>Voices\English(US)\radio_damaged_04_C5DCCAFA.wem</Path>
+					<Path>SFX\radio_damaged_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="931892923" Language="English(US)">
+				<File Id="931892923" Language="SFX">
 					<ShortName>enemy_fire_started_by_player_03.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_03_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_fire_started_by_player_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="932266564" Language="English(US)">
+				<File Id="932266564" Language="SFX">
 					<ShortName>radio_damaged_06.wav</ShortName>
-					<Path>Voices\English(US)\radio_damaged_06_C5DCCAFA.wem</Path>
+					<Path>SFX\radio_damaged_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="956988426" Language="English(US)">
+				<File Id="956988426" Language="SFX">
 					<ShortName>vehicle_destroyed_08.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_08_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_08_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="957769028" Language="English(US)">
+				<File Id="957769028" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_12.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_12_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_12_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="962220196" Language="English(US)">
+				<File Id="962220196" Language="SFX">
 					<ShortName>armor_pierced_by_player_13.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_by_player_13_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_by_player_13_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="991270266" Language="English(US)">
+				<File Id="991270266" Language="SFX">
 					<ShortName>enemy_killed_by_player_07.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_07_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_by_player_07_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="996169827" Language="English(US)">
+				<File Id="996169827" Language="SFX">
 					<ShortName>enemy_killed_by_player_10.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_10_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_by_player_10_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="996782967" Language="English(US)">
+				<File Id="996782967" Language="SFX">
 					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
-					<Path>Voices\English(US)\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="998442541" Language="English(US)">
+				<File Id="998442541" Language="SFX">
 					<ShortName>engine_damaged_05.wav</ShortName>
-					<Path>Voices\English(US)\engine_damaged_05_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_damaged_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="999123575" Language="English(US)">
+				<File Id="999123575" Language="SFX">
 					<ShortName>vehicle_destroyed_20.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_20_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_20_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1000927984" Language="English(US)">
+				<File Id="1000927984" Language="SFX">
 					<ShortName>vehicle_destroyed_05.wav</ShortName>
-					<Path>Voices\English(US)\vehicle_destroyed_05_C5DCCAFA.wem</Path>
+					<Path>SFX\vehicle_destroyed_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1001936836" Language="English(US)">
+				<File Id="1001936836" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_03.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_03_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1003596770" Language="English(US)">
+				<File Id="1003596770" Language="SFX">
 					<ShortName>fuel_tank_damaged_03.wav</ShortName>
-					<Path>Voices\English(US)\fuel_tank_damaged_03_C5DCCAFA.wem</Path>
+					<Path>SFX\fuel_tank_damaged_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1011078196" Language="English(US)">
+				<File Id="1011078196" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_enemy_01.wav</ShortName>
-					<Path>Voices\English(US)\damage_by_near_explosion_by_enemy_01_C5DCCAFA.wem</Path>
+					<Path>SFX\damage_by_near_explosion_by_enemy_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1014510790" Language="English(US)">
+				<File Id="1014510790" Language="SFX">
 					<ShortName>surveying_devices_functional_04.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_functional_04_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_functional_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1015878524" Language="English(US)">
+				<File Id="1015878524" Language="SFX">
 					<ShortName>ally_killed_by_player_05.wav</ShortName>
-					<Path>Voices\English(US)\ally_killed_by_player_05_C5DCCAFA.wem</Path>
+					<Path>SFX\ally_killed_by_player_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1018102589" Language="English(US)">
+				<File Id="1018102589" Language="SFX">
 					<ShortName>enemy_killed_by_player_06.wav</ShortName>
-					<Path>Voices\English(US)\enemy_killed_by_player_06_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_killed_by_player_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1018518136" Language="English(US)">
+				<File Id="1018518136" Language="SFX">
 					<ShortName>track_destroyed_04.wav</ShortName>
-					<Path>Voices\English(US)\track_destroyed_04_C5DCCAFA.wem</Path>
+					<Path>SFX\track_destroyed_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1019858492" Language="English(US)">
+				<File Id="1019858492" Language="SFX">
 					<ShortName>gun_damaged_01.wav</ShortName>
-					<Path>Voices\English(US)\gun_damaged_01_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_damaged_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1023202474" Language="English(US)">
+				<File Id="1023202474" Language="SFX">
 					<ShortName>gun_destroyed_01.wav</ShortName>
-					<Path>Voices\English(US)\gun_destroyed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_destroyed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1023304144" Language="English(US)">
+				<File Id="1023304144" Language="SFX">
 					<ShortName>turret_rotator_destroyed_01.wav</ShortName>
-					<Path>Voices\English(US)\turret_rotator_destroyed_01_C5DCCAFA.wem</Path>
+					<Path>SFX\turret_rotator_destroyed_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1025552601" Language="English(US)">
+				<File Id="1025552601" Language="SFX">
 					<ShortName>gun_damaged_04.wav</ShortName>
-					<Path>Voices\English(US)\gun_damaged_04_C5DCCAFA.wem</Path>
+					<Path>SFX\gun_damaged_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1027026125" Language="English(US)">
+				<File Id="1027026125" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_02.wav</ShortName>
-					<Path>Voices\English(US)\armor_not_pierced_by_player_02_C5DCCAFA.wem</Path>
+					<Path>SFX\armor_not_pierced_by_player_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1033235947" Language="English(US)">
+				<File Id="1033235947" Language="SFX">
 					<ShortName>turret_rotator_damaged_03.wav</ShortName>
-					<Path>Voices\English(US)\turret_rotator_damaged_03_C5DCCAFA.wem</Path>
+					<Path>SFX\turret_rotator_damaged_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1034372704" Language="English(US)">
+				<File Id="1034372704" Language="SFX">
 					<ShortName>engine_functional_01.wav</ShortName>
-					<Path>Voices\English(US)\engine_functional_01_C5DCCAFA.wem</Path>
+					<Path>SFX\engine_functional_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1035424943" Language="English(US)">
+				<File Id="1035424943" Language="SFX">
 					<ShortName>fire_stopped_05.wav</ShortName>
-					<Path>Voices\English(US)\fire_stopped_05_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_stopped_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1036883974" Language="English(US)">
+				<File Id="1036883974" Language="SFX">
 					<ShortName>fire_started_06.wav</ShortName>
-					<Path>Voices\English(US)\fire_started_06_C5DCCAFA.wem</Path>
+					<Path>SFX\fire_started_06_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1037544457" Language="English(US)">
+				<File Id="1037544457" Language="SFX">
 					<ShortName>surveying_devices_damaged_05.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_damaged_05_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_damaged_05_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1039491588" Language="English(US)">
+				<File Id="1039491588" Language="SFX">
 					<ShortName>ammo_bay_damaged_02.wav</ShortName>
-					<Path>Voices\English(US)\ammo_bay_damaged_02_C5DCCAFA.wem</Path>
+					<Path>SFX\ammo_bay_damaged_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1039650735" Language="English(US)">
+				<File Id="1039650735" Language="SFX">
 					<ShortName>surveying_devices_destroyed_03.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_destroyed_03_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_destroyed_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1039822467" Language="English(US)">
+				<File Id="1039822467" Language="SFX">
 					<ShortName>track_functional_can_move_04.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_can_move_04_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_can_move_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1039848926" Language="English(US)">
+				<File Id="1039848926" Language="SFX">
 					<ShortName>start_battle_14.wav</ShortName>
-					<Path>Voices\English(US)\start_battle_14_C5DCCAFA.wem</Path>
+					<Path>SFX\start_battle_14_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1048761365" Language="English(US)">
+				<File Id="1048761365" Language="SFX">
 					<ShortName>enemy_fire_started_by_player_04.wav</ShortName>
-					<Path>Voices\English(US)\enemy_fire_started_by_player_04_C5DCCAFA.wem</Path>
+					<Path>SFX\enemy_fire_started_by_player_04_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1052857154" Language="English(US)">
+				<File Id="1052857154" Language="SFX">
 					<ShortName>track_functional_can_move_05.wav</ShortName>
-					<Path>Voices\English(US)\track_functional_can_move_05_C5DCCAFA.wem</Path>
+					<Path>SFX\track_functional_can_move_05_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="1055458513" Language="SFX">
 					<ShortName>shotcuts_help_me_03.wav</ShortName>
 					<Path>SFX\shotcuts_help_me_03_C8E51BD1.wem</Path>
 				</File>
-				<File Id="1061309795" Language="English(US)">
+				<File Id="1061309795" Language="SFX">
 					<ShortName>surveying_devices_damaged_02.wav</ShortName>
-					<Path>Voices\English(US)\surveying_devices_damaged_02_C5DCCAFA.wem</Path>
+					<Path>SFX\surveying_devices_damaged_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1068781419" Language="English(US)">
+				<File Id="1068781419" Language="SFX">
 					<ShortName>track_damaged_02.wav</ShortName>
-					<Path>Voices\English(US)\track_damaged_02_C5DCCAFA.wem</Path>
+					<Path>SFX\track_damaged_02_C5DCCAFA.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
