@@ -370,15 +370,15 @@
 			<ShortName>RelHaxVoiceover</ShortName>
 			<Path>RelHaxVoiceover.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1611658743" Name="mod_vo_chat_shotcuts_attack" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_attack" DurationType="OneShot" DurationMin="1.114558" DurationMax="1.358367"/>
-				<Event Id="1210881942" Name="mod_vo_chat_shotcuts_attack_the_enemy" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_attack_the_enemy" DurationType="OneShot" DurationMin="1.114558" DurationMax="1.358367"/>
-				<Event Id="223798550" Name="mod_vo_chat_shotcuts_back_to_base" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_back_to_base" DurationType="OneShot" DurationMin="1.334521" DurationMax="1.927256"/>
-				<Event Id="2964625917" Name="mod_vo_chat_shotcuts_follow_me" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_follow_me" DurationType="OneShot" DurationMin="1.207438" DurationMax="2.108271"/>
-				<Event Id="1638847515" Name="mod_vo_chat_shotcuts_help_me" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_help_me" DurationType="OneShot" DurationMin="1.160998" DurationMax="2.115990"/>
-				<Event Id="1857100278" Name="mod_vo_chat_shotcuts_negative" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_negative" DurationType="OneShot" DurationMin="0.365625" DurationMax="0.998458"/>
-				<Event Id="778388262" Name="mod_vo_chat_shotcuts_positive" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_positive" DurationType="OneShot" DurationMin="0.718729" DurationMax="1.214292"/>
-				<Event Id="2301863335" Name="vo_ally_killed_by_player" ObjectPath="\Events\Relhax\voiceover\vo_ally_killed_by_player" DurationType="OneShot" DurationMin="1.253875" DurationMax="4.832646"/>
-				<Event Id="3166122996" Name="vo_ammo_bay_damaged" ObjectPath="\Events\Relhax\voiceover\vo_ammo_bay_damaged" DurationType="OneShot" DurationMin="1.358354" DurationMax="3.000000"/>
+				<Event Id="1611658743" Name="mod_vo_chat_shotcuts_attack" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_attack" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1210881942" Name="mod_vo_chat_shotcuts_attack_the_enemy" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_attack_the_enemy" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="223798550" Name="mod_vo_chat_shotcuts_back_to_base" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_back_to_base" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2964625917" Name="mod_vo_chat_shotcuts_follow_me" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_follow_me" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1638847515" Name="mod_vo_chat_shotcuts_help_me" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_help_me" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1857100278" Name="mod_vo_chat_shotcuts_negative" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_negative" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="778388262" Name="mod_vo_chat_shotcuts_positive" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_positive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2301863335" Name="vo_ally_killed_by_player" ObjectPath="\Events\Relhax\voiceover\vo_ally_killed_by_player" DurationType="OneShot" DurationMin="0.896054" DurationMax="4.832646"/>
+				<Event Id="3166122996" Name="vo_ammo_bay_damaged" ObjectPath="\Events\Relhax\voiceover\vo_ammo_bay_damaged" DurationType="OneShot" DurationMin="0.957483" DurationMax="3.000000"/>
 				<Event Id="1332081395" Name="vo_armor_not_pierced_by_player" ObjectPath="\Events\Relhax\voiceover\vo_armor_not_pierced_by_player" DurationType="OneShot" DurationMin="0.638542" DurationMax="3.259146"/>
 				<Event Id="2655350512" Name="vo_armor_ricochet_by_player" ObjectPath="\Events\Relhax\voiceover\vo_armor_ricochet_by_player" DurationType="OneShot" DurationMin="0.638542" DurationMax="3.259146"/>
 				<Event Id="1946435397" Name="vo_commander_killed" ObjectPath="\Events\Relhax\voiceover\vo_commander_killed" DurationType="OneShot" DurationMin="1.436729" DurationMax="2.951833"/>
@@ -499,10 +499,6 @@
 				<File Id="42694695" Language="SFX">
 					<ShortName>gun_functional_03.wav</ShortName>
 					<Path>SFX\gun_functional_03_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="44525118" Language="SFX">
-					<ShortName>shotcuts_help_me_01.wav</ShortName>
-					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
 				</File>
 				<File Id="45394316" Language="SFX">
 					<ShortName>gunner_killed_02.wav</ShortName>
@@ -684,10 +680,6 @@
 					<ShortName>engine_destroyed_02.wav</ShortName>
 					<Path>SFX\engine_destroyed_02_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="208895145" Language="SFX">
-					<ShortName>shotcuts_attack_02.wav</ShortName>
-					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
-				</File>
 				<File Id="212234872" Language="SFX">
 					<ShortName>ammo_bay_damaged_03.wav</ShortName>
 					<Path>SFX\ammo_bay_damaged_03_C5DCCAFA.wem</Path>
@@ -736,10 +728,6 @@
 					<ShortName>start_battle_39.wav</ShortName>
 					<Path>SFX\start_battle_39_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="242740349" Language="SFX">
-					<ShortName>shotcuts_negative_02.wav</ShortName>
-					<Path>SFX\shotcuts_negative_02_C8E51BD1.wem</Path>
-				</File>
 				<File Id="243659948" Language="SFX">
 					<ShortName>engine_damaged_01.wav</ShortName>
 					<Path>SFX\engine_damaged_01_C5DCCAFA.wem</Path>
@@ -756,10 +744,6 @@
 					<ShortName>start_battle_24.wav</ShortName>
 					<Path>SFX\start_battle_24_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="248105007" Language="SFX">
-					<ShortName>shotcuts_follow_me_01.wav</ShortName>
-					<Path>SFX\shotcuts_follow_me_01_C8E51BD1.wem</Path>
-				</File>
 				<File Id="252801674" Language="SFX">
 					<ShortName>engine_destroyed_01.wav</ShortName>
 					<Path>SFX\engine_destroyed_01_C5DCCAFA.wem</Path>
@@ -771,6 +755,10 @@
 				<File Id="255538538" Language="SFX">
 					<ShortName>radio_damaged_01.wav</ShortName>
 					<Path>SFX\radio_damaged_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="255910805" Language="SFX">
+					<ShortName>ammo_bay_damaged_05.wav</ShortName>
+					<Path>SFX\ammo_bay_damaged_05_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="256958328" Language="SFX">
 					<ShortName>armor_pierced_by_player_04.wav</ShortName>
@@ -920,10 +908,6 @@
 					<ShortName>start_battle_26.wav</ShortName>
 					<Path>SFX\start_battle_26_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="399888103" Language="SFX">
-					<ShortName>shotcuts_follow_me_02.wav</ShortName>
-					<Path>SFX\shotcuts_follow_me_02_C8E51BD1.wem</Path>
-				</File>
 				<File Id="404127349" Language="SFX">
 					<ShortName>been_excluded_platoon_01.wav</ShortName>
 					<Path>SFX\been_excluded_platoon_01_C5DCCAFA.wem</Path>
@@ -1040,17 +1024,9 @@
 					<ShortName>enemy_killed_by_player_09.wav</ShortName>
 					<Path>SFX\enemy_killed_by_player_09_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="502029609" Language="SFX">
-					<ShortName>shotcuts_affirmative_02.wav</ShortName>
-					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
-				</File>
 				<File Id="503168439" Language="SFX">
 					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
 					<Path>SFX\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="504743406" Language="SFX">
-					<ShortName>shotcuts_negative_03.wav</ShortName>
-					<Path>SFX\shotcuts_negative_03_C8E51BD1.wem</Path>
 				</File>
 				<File Id="511159695" Language="SFX">
 					<ShortName>engine_destroyed_03.wav</ShortName>
@@ -1091,6 +1067,10 @@
 				<File Id="545561457" Language="SFX">
 					<ShortName>driver_killed_04.wav</ShortName>
 					<Path>SFX\driver_killed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="552490312" Language="SFX">
+					<ShortName>target_lost_06.wav</ShortName>
+					<Path>SFX\target_lost_06_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="554254436" Language="SFX">
 					<ShortName>commander_killed_03.wav</ShortName>
@@ -1208,10 +1188,6 @@
 					<ShortName>start_battle_22.wav</ShortName>
 					<Path>SFX\start_battle_22_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="660050851" Language="SFX">
-					<ShortName>shotcuts_negative_01.wav</ShortName>
-					<Path>SFX\shotcuts_negative_01_C8E51BD1.wem</Path>
-				</File>
 				<File Id="661121777" Language="SFX">
 					<ShortName>commander_killed_04.wav</ShortName>
 					<Path>SFX\commander_killed_04_C5DCCAFA.wem</Path>
@@ -1220,10 +1196,6 @@
 					<ShortName>turret_rotator_damaged_03.wav</ShortName>
 					<Path>SFX\turret_rotator_damaged_03_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="671194276" Language="SFX">
-					<ShortName>shotcuts_affirmative_01.wav</ShortName>
-					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
-				</File>
 				<File Id="671199563" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_04.wav</ShortName>
 					<Path>SFX\armor_not_pierced_by_player_04_C5DCCAFA.wem</Path>
@@ -1231,6 +1203,10 @@
 				<File Id="678150094" Language="SFX">
 					<ShortName>turret_rotator_damaged_01.wav</ShortName>
 					<Path>SFX\turret_rotator_damaged_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="684623874" Language="SFX">
+					<ShortName>start_battle_42.wav</ShortName>
+					<Path>SFX\start_battle_42_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="685745183" Language="SFX">
 					<ShortName>vehicle_destroyed_06.wav</ShortName>
@@ -1255,10 +1231,6 @@
 				<File Id="719687969" Language="SFX">
 					<ShortName>damage_by_near_explosion_by_player_04.wav</ShortName>
 					<Path>SFX\damage_by_near_explosion_by_player_04_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="726985870" Language="SFX">
-					<ShortName>shotcuts_negative_04.wav</ShortName>
-					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
 				</File>
 				<File Id="729705197" Language="SFX">
 					<ShortName>surveying_devices_functional_06.wav</ShortName>
@@ -1287,10 +1259,6 @@
 				<File Id="743968679" Language="SFX">
 					<ShortName>turret_rotator_destroyed_04.wav</ShortName>
 					<Path>SFX\turret_rotator_destroyed_04_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="746117316" Language="SFX">
-					<ShortName>shotcuts_attack_01.wav</ShortName>
-					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
 				</File>
 				<File Id="747514814" Language="SFX">
 					<ShortName>start_battle_35.wav</ShortName>
@@ -1360,6 +1328,10 @@
 					<ShortName>damage_by_near_explosion_by_enemy_02.wav</ShortName>
 					<Path>SFX\damage_by_near_explosion_by_enemy_02_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="795322227" Language="SFX">
+					<ShortName>target_lost_05.wav</ShortName>
+					<Path>SFX\target_lost_05_C5DCCAFA.wem</Path>
+				</File>
 				<File Id="796213409" Language="SFX">
 					<ShortName>track_functional_can_move_03.wav</ShortName>
 					<Path>SFX\track_functional_can_move_03_C5DCCAFA.wem</Path>
@@ -1371,6 +1343,10 @@
 				<File Id="798944412" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_11.wav</ShortName>
 					<Path>SFX\armor_not_pierced_by_player_11_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="803006434" Language="SFX">
+					<ShortName>armor_pierced_by_player_17.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_17_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="817668882" Language="SFX">
 					<ShortName>gun_destroyed_01.wav</ShortName>
@@ -1384,10 +1360,6 @@
 					<ShortName>armor_not_pierced_by_player_10.wav</ShortName>
 					<Path>SFX\armor_not_pierced_by_player_10_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="823314785" Language="SFX">
-					<ShortName>shotcuts_affirmative_03.wav</ShortName>
-					<Path>SFX\shotcuts_affirmative_03_C8E51BD1.wem</Path>
-				</File>
 				<File Id="828579084" Language="SFX">
 					<ShortName>vehicle_destroyed_07.wav</ShortName>
 					<Path>SFX\vehicle_destroyed_07_C5DCCAFA.wem</Path>
@@ -1396,17 +1368,9 @@
 					<ShortName>player_joined_platoon_01.wav</ShortName>
 					<Path>SFX\player_joined_platoon_01_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="832928646" Language="SFX">
-					<ShortName>shotcuts_defend_base_01.wav</ShortName>
-					<Path>SFX\shotcuts_defend_base_01_C8E51BD1.wem</Path>
-				</File>
 				<File Id="850848618" Language="SFX">
 					<ShortName>radio_damaged_05.wav</ShortName>
 					<Path>SFX\radio_damaged_05_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="851938963" Language="SFX">
-					<ShortName>shotcuts_defend_base_02.wav</ShortName>
-					<Path>SFX\shotcuts_defend_base_02_C8E51BD1.wem</Path>
 				</File>
 				<File Id="853506866" Language="SFX">
 					<ShortName>fire_stopped_01.wav</ShortName>
@@ -1427,10 +1391,6 @@
 				<File Id="874089584" Language="SFX">
 					<ShortName>fire_started_02.wav</ShortName>
 					<Path>SFX\fire_started_02_C5DCCAFA.wem</Path>
-				</File>
-				<File Id="875487878" Language="SFX">
-					<ShortName>shotcuts_help_me_02.wav</ShortName>
-					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
 				</File>
 				<File Id="878088952" Language="SFX">
 					<ShortName>target_lost_03.wav</ShortName>
@@ -1459,6 +1419,10 @@
 				<File Id="894254166" Language="SFX">
 					<ShortName>enemy_killed_by_player_08.wav</ShortName>
 					<Path>SFX\enemy_killed_by_player_08_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="894813195" Language="SFX">
+					<ShortName>start_battle_43.wav</ShortName>
+					<Path>SFX\start_battle_43_C5DCCAFA.wem</Path>
 				</File>
 				<File Id="896778132" Language="SFX">
 					<ShortName>vehicle_destroyed_14.wav</ShortName>
@@ -1636,10 +1600,6 @@
 					<ShortName>start_battle_41.wav</ShortName>
 					<Path>SFX\start_battle_41_C5DCCAFA.wem</Path>
 				</File>
-				<File Id="1055458513" Language="SFX">
-					<ShortName>shotcuts_help_me_03.wav</ShortName>
-					<Path>SFX\shotcuts_help_me_03_C8E51BD1.wem</Path>
-				</File>
 				<File Id="1061491572" Language="SFX">
 					<ShortName>fire_stopped_05.wav</ShortName>
 					<Path>SFX\fire_stopped_05_C5DCCAFA.wem</Path>
@@ -1647,118 +1607,6 @@
 				<File Id="1070079109" Language="SFX">
 					<ShortName>fire_started_05.wav</ShortName>
 					<Path>SFX\fire_started_05_C5DCCAFA.wem</Path>
-				</File>
-			</IncludedMemoryFiles>
-		</SoundBank>
-		<SoundBank Id="2802364914" Language="SFX">
-			<ObjectPath>\SoundBanks\Relhax\RelHaxGui</ObjectPath>
-			<ShortName>RelHaxGui</ShortName>
-			<Path>RelHaxGui.bnk</Path>
-			<IncludedEvents>
-				<Event Id="739261698" Name="mod_base_capture_1" ObjectPath="\Events\Relhax\gui\mod_base_capture_1" DurationType="OneShot" DurationMin="227.363998" DurationMax="227.363998"/>
-				<Event Id="3089635245" Name="mod_enemy_sighted_for_team" ObjectPath="\Events\Relhax\gui\mod_enemy_sighted_for_team" DurationType="OneShot" DurationMin="0.432000" DurationMax="1.456621"/>
-				<Event Id="3792988895" Name="mod_music_defeat" ObjectPath="\Events\Relhax\gui\mod_music_defeat" DurationType="OneShot" DurationMin="7.431746" DurationMax="7.431746"/>
-				<Event Id="3142828263" Name="mod_music_drawn_game" ObjectPath="\Events\Relhax\gui\mod_music_drawn_game" DurationType="OneShot" DurationMin="7.537120" DurationMax="7.537120"/>
-				<Event Id="3835730880" Name="mod_music_victory" ObjectPath="\Events\Relhax\gui\mod_music_victory" DurationType="OneShot" DurationMin="8.013651" DurationMax="8.013651"/>
-				<Event Id="3096903476" Name="mod_time_buzzer_01" ObjectPath="\Events\Relhax\gui\mod_time_buzzer_01" DurationType="OneShot" DurationMin="120.999252" DurationMax="120.999252"/>
-				<Event Id="4087023837" Name="mod_timer" ObjectPath="\Events\Relhax\gui\mod_timer" DurationType="OneShot" DurationMin="28.999353" DurationMax="29.100409"/>
-			</IncludedEvents>
-			<IncludedMemoryFiles>
-				<File Id="122449326" Language="SFX">
-					<ShortName>timer_08.wav</ShortName>
-					<Path>SFX\timer_08_C8E51BD1.wem</Path>
-				</File>
-				<File Id="167470390" Language="SFX">
-					<ShortName>enemy_sighted_for_team_8.wav</ShortName>
-					<Path>SFX\enemy_sighted_for_team_8_C8E51BD1.wem</Path>
-				</File>
-				<File Id="236539403" Language="SFX">
-					<ShortName>music_drawn_game.wav</ShortName>
-					<Path>SFX\music_drawn_game_C8E51BD1.wem</Path>
-				</File>
-				<File Id="240854626" Language="SFX">
-					<ShortName>timer_03.wav</ShortName>
-					<Path>SFX\timer_03_C8E51BD1.wem</Path>
-				</File>
-				<File Id="288295816" Language="SFX">
-					<ShortName>timer_01.wav</ShortName>
-					<Path>SFX\timer_01_C8E51BD1.wem</Path>
-				</File>
-				<File Id="304197093" Language="SFX">
-					<ShortName>timer_06.wav</ShortName>
-					<Path>SFX\timer_06_C8E51BD1.wem</Path>
-				</File>
-				<File Id="341614345" Language="SFX">
-					<ShortName>timer_02.wav</ShortName>
-					<Path>SFX\timer_02_C8E51BD1.wem</Path>
-				</File>
-				<File Id="377775188" Language="SFX">
-					<ShortName>enemy_sighted_for_team_3.wav</ShortName>
-					<Path>SFX\enemy_sighted_for_team_3_C8E51BD1.wem</Path>
-				</File>
-				<File Id="430890093" Language="SFX">
-					<ShortName>music_victory.wav</ShortName>
-					<Path>SFX\music_victory_C8E51BD1.wem</Path>
-				</File>
-				<File Id="433007518" Language="SFX">
-					<ShortName>timer_09.wav</ShortName>
-					<Path>SFX\timer_09_C8E51BD1.wem</Path>
-				</File>
-				<File Id="453181591" Language="SFX">
-					<ShortName>music_defeat.wav</ShortName>
-					<Path>SFX\music_defeat_C8E51BD1.wem</Path>
-				</File>
-				<File Id="531440842" Language="SFX">
-					<ShortName>enemy_sighted_for_team_6.wav</ShortName>
-					<Path>SFX\enemy_sighted_for_team_6_C8E51BD1.wem</Path>
-				</File>
-				<File Id="589120407" Language="SFX">
-					<ShortName>enemy_sighted_for_team_2.wav</ShortName>
-					<Path>SFX\enemy_sighted_for_team_2_C8E51BD1.wem</Path>
-				</File>
-				<File Id="593160293" Language="SFX">
-					<ShortName>time_buzzer_01.wav</ShortName>
-					<Path>SFX\time_buzzer_01_C8E51BD1.wem</Path>
-				</File>
-				<File Id="676880312" Language="SFX">
-					<ShortName>timer_05.wav</ShortName>
-					<Path>SFX\timer_05_C8E51BD1.wem</Path>
-				</File>
-				<File Id="717327365" Language="SFX">
-					<ShortName>timer_04.wav</ShortName>
-					<Path>SFX\timer_04_C8E51BD1.wem</Path>
-				</File>
-				<File Id="747755971" Language="SFX">
-					<ShortName>enemy_sighted_for_team_1.wav</ShortName>
-					<Path>SFX\enemy_sighted_for_team_1_C8E51BD1.wem</Path>
-				</File>
-				<File Id="764625661" Language="SFX">
-					<ShortName>timer_07.wav</ShortName>
-					<Path>SFX\timer_07_C8E51BD1.wem</Path>
-				</File>
-				<File Id="774902480" Language="SFX">
-					<ShortName>timer_11.wav</ShortName>
-					<Path>SFX\timer_11_C8E51BD1.wem</Path>
-				</File>
-				<File Id="837567587" Language="SFX">
-					<ShortName>enemy_sighted_for_team_7.wav</ShortName>
-					<Path>SFX\enemy_sighted_for_team_7_C8E51BD1.wem</Path>
-				</File>
-				<File Id="844878166" Language="SFX">
-					<ShortName>base_capture_1.wav</ShortName>
-					<Path>SFX\base_capture_1_C8E51BD1.wem</Path>
-				</File>
-				<File Id="928109577" Language="SFX">
-					<ShortName>timer_10.wav</ShortName>
-					<Path>SFX\timer_10_C8E51BD1.wem</Path>
-				</File>
-				<File Id="1013742811" Language="SFX">
-					<ShortName>enemy_sighted_for_team_5.wav</ShortName>
-					<Path>SFX\enemy_sighted_for_team_5_C8E51BD1.wem</Path>
-				</File>
-				<File Id="1041598885" Language="SFX">
-					<ShortName>enemy_sighted_for_team_4.wav</ShortName>
-					<Path>SFX\enemy_sighted_for_team_4_C8E51BD1.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

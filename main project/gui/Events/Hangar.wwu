@@ -1,0 +1,55 @@
+<WwiseDocument Type="WorkUnit" ID="{E25E24D1-7969-48F8-856C-E382F91839A5}" SchemaVersion="85">
+  <Events>
+    <WorkUnit Name="Hangar" ID="{E25E24D1-7969-48F8-856C-E382F91839A5}" PersistMode="Standalone">
+      <Comment>Garages</Comment>
+      <ChildrenList>
+        <Folder Name="hangar_premium_IGR" ID="{FA57AA9C-6081-4A4A-9E39-A3DC17328239}" ShortID="644966072">
+          <ChildrenList>
+            <Event Name="hangar_premium_IGR_waterfall" ID="{B7162196-A715-4EC9-BA12-4EA6A3461161}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_hammer_01" ID="{D6942283-6138-4C3A-B40F-0B7A9B08A595}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_hammer_02" ID="{8936B42F-D1AF-41A2-ABDE-1E5D4BB9567C}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_weld" ID="{0A6A75BD-8D6D-43B6-A61A-E47E8ECA4BC4}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_saw" ID="{1EA26573-91D6-47D9-98BD-F334F2529BE7}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_cave_drip_01" ID="{2F1DAEA7-67D8-4C5E-A2FF-E27FDEFA68EB}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_work" ID="{9BB6B9C4-2098-458F-9A52-327D1EDE7611}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_teletype" ID="{0D52326A-8FF0-4E93-935F-8ED9046AE5D7}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_bats" ID="{4DBBE41C-896F-4173-AE48-A0517A6E2370}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_electric_01" ID="{34B71F81-E36E-446F-A150-EA21B35B1657}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_electric_02" ID="{DB18AA0B-2BE1-4497-A1E2-0BC58567FE26}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_loop_turbine" ID="{1852097E-2157-4ECD-9432-64D800019912}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_silence" ID="{5BC42D5E-BDEA-4F44-A5AE-7743AFECD30C}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="hangar_premium_IGR_drone" ID="{14A73C4F-6E18-477E-9411-47FC1B8EC69D}">
+              <ChildrenList></ChildrenList>
+            </Event>
+          </ChildrenList>
+        </Folder>
+      </ChildrenList>
+    </WorkUnit>
+  </Events>
+</WwiseDocument>

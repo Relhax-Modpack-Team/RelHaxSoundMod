@@ -3,19 +3,6 @@
 	<SoundBanks>
 		<WorkUnit Name="Relhax" ID="{5BC8AED6-90FE-4388-8281-200DFBEDA33D}" PersistMode="Standalone">
 			<ChildrenList>
-				<SoundBank Name="RelHaxGui" ID="{DAB4D80E-F7AE-49C0-B14A-B2A994F2C94C}">
-					<ObjectInclusionList>
-						<ObjectRef Name="mod_music_drawn_game" ID="{1BE011EC-F08A-457C-817C-A4DEA588B431}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_base_capture_1" ID="{44DF7378-1285-46B5-A919-80F5CFF533CF}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_music_victory" ID="{CDD58072-0C30-4872-ACA9-D35C0EDE2CFA}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_enemy_sighted_for_team" ID="{E3A798EB-F175-4909-AF02-0FA92EB77D43}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_timer" ID="{EAAADFF9-DF93-4A52-94DE-5F2E6D3FFB2F}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_time_buzzer_01" ID="{B388B1EF-AED5-4E4C-8D2A-D5E2744490CE}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="mod_music_defeat" ID="{AC4907FB-427D-4F70-801E-729ABDDC4ECD}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-					</ObjectInclusionList>
-					<ObjectExclusionList/>
-					<GameSyncExclusionList/>
-				</SoundBank>
 				<SoundBank Name="RelHaxVoiceover" ID="{D2706B69-FA6D-48E5-AA8C-AB62E4A55F22}">
 					<ObjectInclusionList>
 						<ObjectRef Name="vo_ammo_bay_damaged" ID="{681D379E-92A0-4001-A46F-B28F1B744F7B}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>

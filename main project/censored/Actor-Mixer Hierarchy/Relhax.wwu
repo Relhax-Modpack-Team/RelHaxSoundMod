@@ -19,9 +19,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="enemy_killed_01" ID="{3727F8AE-25BF-4B4B-88B8-DFBADB86B95A}" ShortID="971733954">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -41,9 +38,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_02" ID="{8E4E53B7-B4A0-45E6-8319-89C59C92DE3F}" ShortID="15369449">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -63,9 +57,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_03" ID="{26B9AE8F-7D10-42C9-B041-796FBB7F2407}" ShortID="660504748">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -85,9 +76,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_04" ID="{5B54AD96-832C-47BD-9146-6C393483F4C2}" ShortID="136668941">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -135,9 +123,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="engine_damaged_01" ID="{8CAFD793-C614-42A7-A2FA-8FCF22294022}" ShortID="935243157">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -157,9 +142,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_damaged_02" ID="{AF1C1DBD-9E53-4E5F-86A6-A59F9E933A7E}" ShortID="84028714">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -179,9 +161,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_damaged_03" ID="{09F1397F-43DF-4DFC-A60D-9C98BE50A890}" ShortID="207674219">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -201,9 +180,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_damaged_04" ID="{47C54563-1553-40D3-A0B3-155F4517331B}" ShortID="610127263">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -223,9 +199,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_damaged_05" ID="{7367E49C-A1F9-4C01-9DD4-B26B62319481}" ShortID="698362172">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -245,9 +218,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_damaged_06" ID="{21C3F80A-7D83-4D5B-A189-04B9853070B3}" ShortID="765520305">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -267,9 +237,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_damaged_07" ID="{72B86401-8DAB-4FBE-B2D8-C8B97DB7C13A}" ShortID="522405343">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -317,9 +284,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="engine_destroyed_01" ID="{A8ABEBCB-0D09-4083-BF27-EAB523D421B2}" ShortID="197410911">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -339,9 +303,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_destroyed_02" ID="{01361956-B1B2-4849-8F8C-C5FEBCABB3A7}" ShortID="517677441">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -361,9 +322,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_destroyed_03" ID="{A80175BA-F926-410A-8B9F-9FAA0ECBD7A0}" ShortID="160015335">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -398,9 +356,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="fuel_tank_damaged_01" ID="{65504A52-5919-48DE-9873-27B1FB9B5F92}" ShortID="468289032">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -420,9 +375,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fuel_tank_damaged_02" ID="{216EA0CE-556E-45B9-8EBA-5A5329131AAF}" ShortID="704983801">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -442,9 +394,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fuel_tank_damaged_03" ID="{996C08EF-85C4-4308-AFAB-985DCA09B756}" ShortID="725440690">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -464,9 +413,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fuel_tank_damaged_04" ID="{A9E2B7D8-DFDA-4B21-AEC2-73C992733C9F}" ShortID="573727332">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -486,9 +432,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fuel_tank_damaged_05" ID="{54D38ACE-F8CA-40CE-9C9A-D413C19EEA16}" ShortID="149199299">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -523,9 +466,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="vehicle_destroyed_01" ID="{A1197159-6269-4E76-AEDE-BB31722205DE}" ShortID="115238162">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -545,9 +485,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_02" ID="{17D103DA-A15C-4EC7-BBEF-88683E7FB8BD}" ShortID="657007117">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -567,9 +504,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_03" ID="{54653EC6-3E34-45D9-912A-838E498BD481}" ShortID="147862999">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -589,9 +523,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_04" ID="{5ACD8176-7CE2-461A-B2EA-5356FBE3B25F}" ShortID="590402776">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -611,9 +542,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_05" ID="{506BA860-C888-4EE1-B626-FB4801BC8377}" ShortID="120804564">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -633,9 +561,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_06" ID="{EDBEEB20-9552-464E-B094-1045BEE6E7D5}" ShortID="382126711">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -655,9 +580,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_07" ID="{41CE2D78-818A-49A6-8255-8806D039FA91}" ShortID="999474682">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -677,9 +599,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_08" ID="{2AACB7F1-938F-497D-8874-6EA15D464FDB}" ShortID="187120052">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -699,9 +618,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_09" ID="{769F1674-E731-4E67-8DA4-6FF1A60FD177}" ShortID="330388039">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -721,9 +637,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_10" ID="{A575DC2D-4EB3-490D-8385-CD1AF2F6C9A2}" ShortID="672939641">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -743,9 +656,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_11" ID="{DC2FE5F7-95B8-4729-B9BF-DC6C784D37F4}" ShortID="432070495">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -765,9 +675,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_12" ID="{0FA348B8-4F9E-49F3-B521-FE0AC13DDB62}" ShortID="869330783">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -787,9 +694,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_13" ID="{2E6B5838-5920-492A-BDB7-2A75CE1F85B5}" ShortID="1059478894">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -809,9 +713,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_14" ID="{636E2DC5-A3BA-4610-802B-948EB7D48DE2}" ShortID="971296732">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -831,9 +732,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_15" ID="{E5F639AE-C2DA-44D4-86A4-58A44E7F799B}" ShortID="755513060">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -853,9 +751,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_16" ID="{13717213-68DF-4E6C-8D37-5FADE8623985}" ShortID="781770920">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -875,9 +770,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_17" ID="{4BECA9EE-8FBC-4E68-936A-4079A86E03B3}" ShortID="985997271">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -897,9 +789,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_18" ID="{D67E1F01-2E46-4E9A-9F07-3534DE465625}" ShortID="422155250">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -919,9 +808,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_19" ID="{410E496E-34EB-4F94-9514-0A8781F146E3}" ShortID="6372654">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -941,9 +827,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_20" ID="{DABA02EA-FEFB-4AFC-BC5B-DE49C1F52C00}" ShortID="970629719">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -963,9 +846,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_21" ID="{763676F5-C90C-41C9-A464-0BD3570627DF}" ShortID="258385637">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -985,9 +865,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_22" ID="{AD58B6D5-993C-40FB-8FF0-A35FBC38A3E5}" ShortID="365673711">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1007,9 +884,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_23" ID="{8E210C1C-A336-4363-A461-A8A60D63E7BA}" ShortID="422933902">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1029,9 +903,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_24" ID="{95B184E2-7937-4A29-9E08-14EEB9E19F57}" ShortID="712340544">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1051,9 +922,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="vehicle_destroyed_25" ID="{5F8097B3-D7F8-4492-9F23-467A04F2F511}" ShortID="603864313">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1224,9 +1092,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="damage_by_near_explosion_by_player_01" ID="{08F03770-6CF4-4F48-B1F5-9628EA85CF60}" ShortID="40548030">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1246,9 +1111,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="damage_by_near_explosion_by_player_02" ID="{68A6F7CE-DF47-441A-8F4C-0CA4D944DCCD}" ShortID="180539352">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1268,9 +1130,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="damage_by_near_explosion_by_player_03" ID="{A4A1AB96-2598-4149-AF40-8EC4F59FCBC4}" ShortID="706900521">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1290,9 +1149,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="damage_by_near_explosion_by_player_04" ID="{BC967698-DB31-4855-AE12-93FAB932991C}" ShortID="351788488">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1312,9 +1168,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="damage_by_near_explosion_by_player_05" ID="{20160E25-9CA0-431F-AB90-075E4F4C0ABE}" ShortID="298394439">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1334,9 +1187,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="damage_by_near_explosion_by_player_06" ID="{AB3EE703-0D72-4A38-AA80-EFE0747C20E1}" ShortID="4730386">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1356,9 +1206,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="damage_by_near_explosion_by_player_07" ID="{BEF800C3-8AC3-4FA7-8DB7-7BF43EA72C1F}" ShortID="522765969">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1378,9 +1225,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="damage_by_near_explosion_by_player_08" ID="{4CD32FA2-1C13-4712-B5EF-AAEE885EDEAD}" ShortID="746775404">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1415,9 +1259,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="armor_pierced_crit_by_player_03" ID="{F5F802F0-7B49-4B27-BED5-3C682EDA6998}" ShortID="498911321">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -1440,9 +1281,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_crit_by_player_01" ID="{4FE3081B-A9BA-4E02-8B8A-404D81F9EA07}" ShortID="587378131">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -1465,9 +1303,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_crit_by_player_02" ID="{BD17D65E-AFA1-450D-BA02-65A454EE17AF}" ShortID="622731685">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -1505,9 +1340,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="engine_functional_01" ID="{9691B47B-E1EA-458B-8D67-1E2D4F52E1D1}" ShortID="7515941">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1527,9 +1359,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_functional_02" ID="{1242AF51-FA6B-4D57-864F-00488D1BC902}" ShortID="725902155">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1549,9 +1378,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_functional_03" ID="{E4F2F11F-6E24-4D91-8A52-3BB47222B540}" ShortID="453159921">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1571,9 +1397,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="engine_functional_04" ID="{6AA6515C-086C-46C6-82F0-A6CBACAAAB3C}" ShortID="564345860">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1634,9 +1457,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="loader_killed_01" ID="{4C0999E3-337C-46BD-93CF-922BB767EAD5}" ShortID="682164047">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1656,9 +1476,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="loader_killed_02" ID="{FD80320B-C6A8-4AED-91C7-C60611073723}" ShortID="961247069">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1678,9 +1495,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="loader_killed_03" ID="{6E17BA4A-9E33-4AE7-A76D-D847B7787B1C}" ShortID="436140706">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1700,9 +1514,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="loader_killed_04" ID="{6852C368-8546-49D0-B2D5-B2B706DD1640}" ShortID="179394026">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1737,9 +1548,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="surveying_devices_damaged_01" ID="{2151D6E1-CCBA-4CF7-AECD-261BB31164C6}" ShortID="41993146">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1759,9 +1567,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_damaged_02" ID="{76D386F1-F88C-44EA-B2F4-707C975BDB82}" ShortID="609050162">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1781,9 +1586,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_damaged_03" ID="{D76DB993-BF75-4497-84DE-AAEC1EC6BFA6}" ShortID="921344386">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1803,9 +1605,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_damaged_04" ID="{B52F9020-2C41-49AA-BA4F-E677BB34A416}" ShortID="303800644">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1825,9 +1624,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_damaged_05" ID="{67E0E64F-55D4-44E2-9A6C-CD7F4A4E4B16}" ShortID="363746918">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1847,9 +1643,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_damaged_06" ID="{565298F8-7BA1-41B4-9340-CF0AC64D79C6}" ShortID="161096010">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1869,9 +1662,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_damaged_07" ID="{2405DEBE-FC7D-45EF-BC71-AE1702EFE6C9}" ShortID="214688201">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1906,9 +1696,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="start_battle_01" ID="{00F27BA7-4D51-4C3C-ADF1-6AC29C0CEC48}" ShortID="152605641">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1928,9 +1715,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_02" ID="{ADB410D3-6BC9-4D0C-A463-D6F55A1B1B39}" ShortID="507541491">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1950,9 +1734,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_03" ID="{CA739A74-1B13-4E35-B740-FC67D289129E}" ShortID="617612778">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1972,9 +1753,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_04" ID="{EAE6D1F9-65A8-4F14-9543-95AB3B9A2C27}" ShortID="854581433">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1994,9 +1772,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_05" ID="{2B53602B-5A24-4C4B-93A8-CB51199E7163}" ShortID="829137351">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2016,9 +1791,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_06" ID="{4C049AC9-0EDD-46C7-A7C0-E91B1F09D48D}" ShortID="848433120">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2038,9 +1810,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_07" ID="{7387DC37-A4F9-4212-826D-7D12DF7177C4}" ShortID="1046470898">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2060,9 +1829,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_08" ID="{2CF016BE-2514-4A6F-B76D-C403002B99C9}" ShortID="732801133">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2082,9 +1848,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_09" ID="{AAC80641-E732-4363-8D5E-C511183A304C}" ShortID="910537308">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2104,9 +1867,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_10" ID="{E86F98A0-E056-4E3B-8497-D015D084388C}" ShortID="523559972">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2126,9 +1886,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_11" ID="{8BF0CD6A-541F-426D-A5F0-FEE96A5FA578}" ShortID="774537103">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2148,9 +1905,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_12" ID="{F54439AF-C7A3-4AEE-BFBF-A08C21AE82CF}" ShortID="724400765">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2170,9 +1924,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_13" ID="{BAA9E88A-7561-471D-93DD-A37BC52324DE}" ShortID="188439107">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2192,9 +1943,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_14" ID="{3FB73850-C6F5-49CC-8286-8C1B46582419}" ShortID="861972199">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2214,9 +1962,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_15" ID="{201EB9BD-636F-468B-95F4-CDAA072E230D}" ShortID="141964120">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2236,9 +1981,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_16" ID="{3D5F4396-45C5-4DDD-98E9-DACF161EF5B2}" ShortID="892785483">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2258,9 +2000,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_17" ID="{4B77586E-FDF8-44BE-8764-97337E24324B}" ShortID="1023100797">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2280,9 +2019,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_18" ID="{D75F25C1-6005-4DEA-8DB8-4F523B12B133}" ShortID="831115645">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2302,9 +2038,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_19" ID="{55AD8C15-BF0A-4259-94A8-C74913E6ED17}" ShortID="1043237476">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2324,9 +2057,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_20" ID="{F7100E21-C8C3-4EEE-8E78-61D3FD6C2566}" ShortID="490924226">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2346,9 +2076,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_21" ID="{46DF769C-A2F6-438F-B8B4-3764B6B341EE}" ShortID="496122690">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2368,9 +2095,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_22" ID="{018F4543-3978-4BDF-ADD6-D27D7C7AFD5D}" ShortID="728837035">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2390,9 +2114,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_23" ID="{0C5C4409-6A09-4780-9D81-1D7F40D7AB9D}" ShortID="858962894">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2412,9 +2133,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_24" ID="{56BACFCA-2B62-47EF-937A-0ECFD2D5839C}" ShortID="414633673">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2434,9 +2152,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_25" ID="{CF548520-7145-4EE3-BC19-92E40276D194}" ShortID="750056348">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2456,9 +2171,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_26" ID="{0AA3EED9-B076-4C92-ADE9-B576C3BAB19D}" ShortID="1032482681">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2478,9 +2190,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_27" ID="{76442E1A-6A6C-46A8-A584-E2DCB2A59F8B}" ShortID="1010849900">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2500,9 +2209,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_28" ID="{C0478044-073E-4662-8D13-7704C3C5807E}" ShortID="488883300">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2522,9 +2228,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_29" ID="{5420C0B1-2FA8-4C61-90AC-2C6A21F5E3DA}" ShortID="69049810">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2544,9 +2247,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_30" ID="{5E46875A-C97F-4615-BE6D-4B60BE8DF3E4}" ShortID="1063352432">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2566,9 +2266,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_31" ID="{1C1D9AC3-BCB4-4994-AD41-82125EEBDEA8}" ShortID="335276419">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2588,9 +2285,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_32" ID="{D08B0432-9233-49D8-AE81-7271F030E9E7}" ShortID="1012758316">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2610,9 +2304,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_33" ID="{56C4722C-C0B8-4E06-9D29-52D33F36B531}" ShortID="24084542">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2632,9 +2323,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_34" ID="{A171972F-A719-40E4-BC7D-9B9A6798D37A}" ShortID="696891172">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2654,9 +2342,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_35" ID="{DF0119A8-D87E-4A51-AC3E-4DE922757D6E}" ShortID="704636058">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2676,9 +2361,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_36" ID="{980998AE-A868-407C-9A64-B37D3B8E3F83}" ShortID="198264859">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2698,9 +2380,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_37" ID="{3334C747-2BF0-4E53-BC50-5077A44D14AF}" ShortID="415247392">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2720,9 +2399,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_38" ID="{8A69ED96-2096-4389-B6DB-BA146AF2EDE8}" ShortID="1004514049">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2742,9 +2418,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_39" ID="{DDB352F5-3C5E-4A90-A3B2-066EE6643670}" ShortID="937252952">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2764,9 +2437,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_40" ID="{9C59B5B1-543F-4104-91C1-9C079033A6D7}" ShortID="418521522">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2786,9 +2456,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="start_battle_41" ID="{6C17A48D-2F1E-44D8-97F0-7873A2ABBB16}" ShortID="331724425">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2807,6 +2474,44 @@
 										<ActiveSource Name="start_battle_41" ID="{D1706F74-C2CD-4E6C-A8CB-7DBA9A9DC271}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<Sound Name="start_battle_42" ID="{A6D59FCF-87CF-4B64-B741-F821507FF550}" ShortID="340282211">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="start_battle_42" ID="{A52D7825-B072-459F-818E-92AA90C10DA3}" ShortID="684623874">
+											<Language>SFX</Language>
+											<AudioFile>start_battle_42.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="start_battle_42" ID="{A52D7825-B072-459F-818E-92AA90C10DA3}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="start_battle_43" ID="{85748A79-F74E-48D3-AE38-471EA7FEB4AB}" ShortID="345593350">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="start_battle_43" ID="{6BBFD989-AFF1-4C94-A8C2-A05591B89363}" ShortID="894813195">
+											<Language>SFX</Language>
+											<AudioFile>start_battle_43.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="start_battle_43" ID="{6BBFD989-AFF1-4C94-A8C2-A05591B89363}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="vo_target_lost" ID="{13EAF2B9-0E05-4CA9-B8A2-C35D56FA4C2A}" ShortID="341826113">
@@ -2823,9 +2528,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="target_lost_01" ID="{12331E3D-12E0-4690-82B6-707CE24FBCFF}" ShortID="270731561">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2845,9 +2547,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_lost_02" ID="{981AA485-2A60-4D16-A619-F090F322D370}" ShortID="1002051512">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2867,9 +2566,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_lost_03" ID="{721508CB-47AE-46E0-9821-99706F3583A5}" ShortID="152174289">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2889,9 +2585,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_lost_04" ID="{92BDA926-809E-4B4B-B79C-25720AD7C57A}" ShortID="327056628">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2910,6 +2603,44 @@
 										<ActiveSource Name="target_lost_04" ID="{3490D1D4-AAF9-46F2-B143-72DFF966F8AA}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<Sound Name="target_lost_05" ID="{06066CF0-35E4-4D31-B4F4-C1854C4989D1}" ShortID="159921501">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="target_lost_05" ID="{803CA1EE-2CCD-42AA-ADFD-016071FD933D}" ShortID="795322227">
+											<Language>SFX</Language>
+											<AudioFile>target_lost_05.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="target_lost_05" ID="{803CA1EE-2CCD-42AA-ADFD-016071FD933D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="target_lost_06" ID="{DB14E33A-7D65-4B66-966F-927F85A321E9}" ShortID="1029274714">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="target_lost_06" ID="{D1C370B3-FD11-4276-AC2E-B2C18426835E}" ShortID="552490312">
+											<Language>SFX</Language>
+											<AudioFile>target_lost_06.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="target_lost_06" ID="{D1C370B3-FD11-4276-AC2E-B2C18426835E}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="vo_target_captured" ID="{7ECC9BDD-7A6C-426B-BB3D-FE82CB52E31A}" ShortID="339629743">
@@ -2926,9 +2657,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="target_captured_01" ID="{EE3FCAC6-AD71-4F31-A705-43FF8D316212}" ShortID="583070157">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2948,9 +2676,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_captured_02" ID="{A0EC9433-6B05-407F-920C-1D7DA72270DA}" ShortID="678313941">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2970,9 +2695,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_captured_03" ID="{C139F257-53B7-481C-8E99-68561245C681}" ShortID="1002683926">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2992,9 +2714,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_captured_04" ID="{F8108E9B-F1CA-431C-B0C7-48873B0843E7}" ShortID="1044836396">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3014,9 +2733,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_captured_05" ID="{18272C2A-DC16-4B6E-B00F-0D2D797C803C}" ShortID="399829309">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3036,9 +2752,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_captured_06" ID="{A22A04D6-B534-477F-949C-4B10E50148D8}" ShortID="355948585">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3058,9 +2771,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_captured_07" ID="{39543437-81FE-4A23-9AFE-08D6F8FAD054}" ShortID="77107782">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3095,9 +2805,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="gun_functional_01" ID="{3B1FDF27-233B-435D-B370-1D5C2FF4ABFE}" ShortID="430316135">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3117,9 +2824,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gun_functional_02" ID="{B4969792-631D-43F9-8CC2-C59CD7AE7EF2}" ShortID="558386674">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3139,9 +2843,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gun_functional_03" ID="{ED348446-B847-4F6F-B61D-BDD610ECCAA9}" ShortID="120093570">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3161,9 +2862,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gun_functional_04" ID="{8C3EB835-E537-4039-B451-9197F10CC4C2}" ShortID="384104810">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3198,9 +2896,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="radioman_killed_01" ID="{A30C7DE2-2103-4CFF-915A-1648DC12B8BE}" ShortID="255568065">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3220,9 +2915,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="radioman_killed_02" ID="{67248D97-5BA6-4487-9AF8-5E0E0B97EF4E}" ShortID="716109210">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3242,9 +2934,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="radioman_killed_03" ID="{245E7846-53B4-4B0E-90A1-A15913642DA1}" ShortID="292064493">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3264,9 +2953,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="radioman_killed_04" ID="{2A457E42-C24A-4834-9CB0-F977579F84F1}" ShortID="1024371502">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3301,9 +2987,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="surveying_devices_functional_01" ID="{2B7B9EF4-6769-40A7-8DC6-5F8498BC7BCC}" ShortID="1050274183">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3323,9 +3006,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_functional_02" ID="{5A60FD66-2A53-4546-B7A7-54855F827267}" ShortID="596526823">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3345,9 +3025,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_functional_03" ID="{999C9987-AA17-4CDC-8DE9-1CBC98E01B28}" ShortID="452255535">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3367,9 +3044,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_functional_04" ID="{48AAE7E8-7F94-484C-B278-22EEC30FC5D4}" ShortID="380755585">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3389,9 +3063,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_functional_05" ID="{9F66A8F8-5AEF-40A9-90D7-0E8C1C826EE9}" ShortID="28688964">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3411,9 +3082,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_functional_06" ID="{3205CBDF-BFBB-4C91-BCEE-3BE2B4E3AAC3}" ShortID="452782150">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3433,9 +3101,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_functional_07" ID="{1F15C4A1-56EF-48A2-BBA0-400F14E6FB7B}" ShortID="369884963">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3470,9 +3135,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="fire_stopped_01" ID="{CBBCC294-E177-49F1-B518-48840F75019C}" ShortID="176568572">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3492,9 +3154,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_stopped_02" ID="{07E96068-1305-4E25-8E63-AFF243896183}" ShortID="181185564">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3514,9 +3173,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_stopped_03" ID="{758BEE38-DB7B-4EBF-ABE0-86F2C1336C02}" ShortID="324916666">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3536,9 +3192,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_stopped_04" ID="{65001961-7AB8-418E-9056-EC454F4BA421}" ShortID="84839643">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3558,9 +3211,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_stopped_05" ID="{D84CC3D3-9A7F-43CA-9653-867CAEAECE29}" ShortID="981705275">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3595,9 +3245,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="armor_not_pierced_by_player_01" ID="{9E646DD7-DDAC-4720-89B8-4A4EB305C3BE}" ShortID="644471511">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3620,9 +3267,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_02" ID="{B7D7B255-1073-4153-A342-0EA7FA5CC214}" ShortID="1035764831">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3645,9 +3289,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_03" ID="{7127C73A-FC5E-47D9-A3F8-DE078A5DEEC2}" ShortID="536658168">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3670,9 +3311,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_04" ID="{BF6ED6D7-CA77-4CC3-B397-49949B70B4EB}" ShortID="857186251">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3695,9 +3333,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_05" ID="{7DFDCECD-EE6E-4416-93E3-56A285825871}" ShortID="627706441">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3720,9 +3355,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_06" ID="{A81FE447-02D5-45AA-AA97-199DF4AD51F8}" ShortID="59853746">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3745,9 +3377,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_07" ID="{9508323E-903E-4839-943A-79B86DD56472}" ShortID="1041056027">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3767,9 +3396,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_08" ID="{56460668-7DDF-4D03-A1F2-60A937D62B12}" ShortID="566906024">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3789,9 +3415,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_09" ID="{351599C6-B8D6-4556-AAC5-9EF945CD4881}" ShortID="987970323">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3811,9 +3434,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_10" ID="{20A8ABE8-204B-4CBA-B9A2-00718FCC614C}" ShortID="867220607">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3836,9 +3456,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_11" ID="{C6864C3B-FC33-41A6-AE24-30169DC7169B}" ShortID="902995739">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3861,9 +3478,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_12" ID="{F47B8A12-AA71-40CA-A485-7D0367D39A1D}" ShortID="889625409">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3886,9 +3500,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_13" ID="{4D3C6CFE-1C99-494E-AC0E-380CB4D0481A}" ShortID="242245409">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3911,9 +3522,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_14" ID="{F73AADA2-C513-42E1-B4FA-7B0C25099AB6}" ShortID="294210029">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3936,9 +3544,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_15" ID="{04FABC27-A3BC-490D-A8C9-4CFF3A9C6C8D}" ShortID="742905029">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -3958,9 +3563,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_16" ID="{8A510D78-8A9B-43C6-8A11-6412EDD83CF4}" ShortID="110873023">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -3980,9 +3582,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_17" ID="{B429EF92-0A40-48A9-8145-F80946211DA1}" ShortID="654447420">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -4002,9 +3601,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_18" ID="{0FEAA342-43E4-46BB-BDA7-1738D34982EB}" ShortID="714110831">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -4024,9 +3620,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_19" ID="{53A73DB2-4A29-42E3-97C9-229C248FB503}" ShortID="1053000806">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -4046,9 +3639,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_not_pierced_by_player_20" ID="{706D575C-5F67-4BCB-A7EA-6DBE3740F71A}" ShortID="945922609">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -4198,9 +3788,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="driver_killed_01" ID="{E6EC5BBF-4EC4-4F01-BA51-8EE3085388E9}" ShortID="615401060">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4220,9 +3807,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="driver_killed_02" ID="{BB51BFF2-EAAA-473F-A3AE-153405293941}" ShortID="863040497">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4242,9 +3826,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="driver_killed_03" ID="{9803D007-BC1C-4B7D-9C5C-59D563F63726}" ShortID="1024715880">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4264,9 +3845,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="driver_killed_04" ID="{D885108D-F812-40D5-8740-87157CFAC2DE}" ShortID="69192949">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4319,9 +3897,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="enemy_fire_started_by_player_01" ID="{60871FC8-9608-4E92-AD05-6658DA014672}" ShortID="311668979">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4341,9 +3916,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_fire_started_by_player_02" ID="{AF805018-EC48-4C01-99EF-AE8B89614CBD}" ShortID="766640857">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4363,9 +3935,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_fire_started_by_player_03" ID="{F4C1DB3E-C3BA-4436-918E-91A753E92151}" ShortID="354208297">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4385,9 +3954,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_fire_started_by_player_04" ID="{426E697E-CEDB-4994-B620-6CF479B4B6B8}" ShortID="137174706">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4407,9 +3973,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_fire_started_by_player_05" ID="{D967F7C1-12B2-4B7A-9E42-20FEF4C52721}" ShortID="317071679">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4444,9 +4007,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="target_unlocked_01" ID="{FBD46987-0457-442D-BC49-489D72C95943}" ShortID="556752774">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4466,9 +4026,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_unlocked_02" ID="{8B8DA8C4-65E0-4C1E-9428-E3FE46A74B63}" ShortID="769437653">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4488,9 +4045,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="target_unlocked_03" ID="{265C43E8-6401-4A87-B621-4EEA8BCA08D1}" ShortID="297769930">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4525,9 +4079,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="track_damaged_01" ID="{8DEE43BE-FC8F-4CDD-92B6-9E6D3385B6AC}" ShortID="418588166">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4547,9 +4098,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_damaged_02" ID="{0838E273-CDDD-4ED6-855F-B317A9C13BA0}" ShortID="487107167">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4569,9 +4117,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_damaged_03" ID="{25C97CE8-1810-4B1A-B3F9-BC1AFF884779}" ShortID="91010707">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4591,9 +4136,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_damaged_04" ID="{EE82132E-26D8-4881-AF0B-3EF9CA0709F1}" ShortID="11334086">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4628,9 +4170,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="track_destroyed_01" ID="{44A0780C-D8DF-4233-B929-63854812A476}" ShortID="85925366">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4650,9 +4189,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_destroyed_02" ID="{4BC671AB-6817-4C7B-ADCB-23B966F7CC5F}" ShortID="618009264">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4672,9 +4208,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_destroyed_03" ID="{734DC71B-2D0B-4B89-9BA6-29E57508474A}" ShortID="816702173">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4694,9 +4227,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_destroyed_04" ID="{A2CC625D-3CE4-41AC-913D-1638C87B6834}" ShortID="38630323">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4770,9 +4300,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="enemy_killed_by_player_01" ID="{2E052F33-DFB8-4962-8D89-320FD62F89ED}" ShortID="885851898">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4792,9 +4319,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_by_player_02" ID="{A596E4A7-6916-4166-A72D-DAE8AE7F2BFB}" ShortID="95411331">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4814,9 +4338,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_by_player_03" ID="{B48A1EA2-C88E-4D76-B285-F358E30D87B5}" ShortID="465955741">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4836,9 +4357,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_by_player_04" ID="{8DD3AD0B-ADF6-4268-B06B-590FE31F5A96}" ShortID="739649918">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4858,9 +4376,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_by_player_05" ID="{3D60BFC7-AA08-4108-B910-AB99E3243788}" ShortID="222123402">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4880,9 +4395,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_by_player_06" ID="{08D91635-3751-4062-9EE1-665BA73214DB}" ShortID="301648598">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4902,9 +4414,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_by_player_07" ID="{BDE9CD36-E2D2-44EB-9396-B9DD8E4F6843}" ShortID="1014894710">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4924,9 +4433,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_by_player_08" ID="{613A2BCE-85F7-4895-81E6-78CB90E9CF0E}" ShortID="794360023">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4946,9 +4452,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_by_player_09" ID="{06DB8308-062C-407A-859A-1AFD7EDFEEC4}" ShortID="149707787">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4968,9 +4471,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="enemy_killed_by_player_10" ID="{D3C2AC44-995F-463E-9D10-BBEA8959CBE3}" ShortID="615600275">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5005,9 +4505,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="armor_pierced_by_player_04" ID="{30681CC1-83B6-4A8D-9592-B63FACD7F65A}" ShortID="288259316">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5027,9 +4524,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_05" ID="{8A0708A8-0F27-4BC3-A5E4-01F87E4CC758}" ShortID="620542876">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5049,9 +4543,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_06" ID="{0AEFB165-E3FD-45C2-824D-061AE1386E2A}" ShortID="737892337">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5071,9 +4562,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_07" ID="{FE7365BE-9B61-4B0E-A9A9-C42483F2858F}" ShortID="828051228">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5093,9 +4581,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_08" ID="{AC78CC17-047C-4F2D-97D5-7FC44D9709A8}" ShortID="540799313">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5115,9 +4600,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_09" ID="{5C329633-E5D7-4B80-84C2-9004B7BA336D}" ShortID="293670765">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5137,9 +4619,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_10" ID="{FB04D8CD-0A9B-4274-BC8D-DEB87F364A46}" ShortID="619716294">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5159,9 +4638,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_11" ID="{683D7D66-E407-4991-8E9E-046AEFE7A91D}" ShortID="568375015">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5181,9 +4657,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_12" ID="{6FC4A5E7-31E5-482C-B305-B9C61A172220}" ShortID="345886698">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5203,9 +4676,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_13" ID="{F32F7CE0-AAC3-41FC-810B-E2603BA4EF5D}" ShortID="1029000460">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5225,9 +4695,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_14" ID="{A0AADD68-E99B-4EF3-9B8E-2B1612D6E492}" ShortID="624067022">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5247,9 +4714,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_01" ID="{CF525E01-DD36-4E4C-A5C7-E1585152ABAF}" ShortID="584830222">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5269,9 +4733,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_03" ID="{55E8D166-79BB-4C76-9C58-FAB2FB736B34}" ShortID="637157295">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5291,9 +4752,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_02" ID="{483145C9-756F-4666-B01D-DB84EA8519D9}" ShortID="855224515">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5313,9 +4771,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_15" ID="{80008145-8C81-4A43-9BA3-61A5B4F9D177}" ShortID="766328179">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -5335,9 +4790,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="armor_pierced_by_player_16" ID="{E5084200-2662-4211-9BB7-9731CEA1D6C7}" ShortID="945104475">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -5356,6 +4808,25 @@
 										<ActiveSource Name="armor_pierced_by_player_16" ID="{C398242F-3F72-4542-9A71-9EA79436FAE5}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<Sound Name="armor_pierced_by_player_17" ID="{AA43EC4A-AF22-4819-B4E2-D1F27466410B}" ShortID="210438015">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="armor_pierced_by_player_17" ID="{0BDF60DF-CA47-41CF-B43D-4B4153DF02D9}" ShortID="803006434">
+											<Language>SFX</Language>
+											<AudioFile>armor_pierced_by_player_17.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="armor_pierced_by_player_17" ID="{0BDF60DF-CA47-41CF-B43D-4B4153DF02D9}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="vo_commander_killed" ID="{D5A338B7-53F1-4A78-BFF6-90CFB59627CF}" ShortID="124912847">
@@ -5372,9 +4843,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="commander_killed_01" ID="{187DC835-DE42-4582-ABBE-780CD233D7F7}" ShortID="291669970">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5394,9 +4862,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="commander_killed_02" ID="{60C369DC-062E-424E-98C7-7BF25FB09732}" ShortID="216647516">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5416,9 +4881,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="commander_killed_03" ID="{F5BCF870-6BDF-4F22-B006-FC91778B6223}" ShortID="35502209">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5438,9 +4900,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="commander_killed_04" ID="{B2821463-1F72-45EB-9AF0-7405343FB93A}" ShortID="1012580780">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5475,9 +4934,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="crew_deactivated_01" ID="{8CB40A1F-9888-4DBD-BD4E-A358F0F62607}" ShortID="450267997">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5497,9 +4953,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="crew_deactivated_02" ID="{AC5718C9-A1D0-40CF-B46B-9FB05700DE99}" ShortID="152191347">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5519,9 +4972,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="crew_deactivated_03" ID="{6EF4C632-62F1-422D-AC8B-3284FD90AC04}" ShortID="392245372">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5541,9 +4991,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="crew_deactivated_04" ID="{D625788E-93AD-49CA-9701-E9D3B856DE6B}" ShortID="168662286">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5563,9 +5010,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="crew_deactivated_05" ID="{DF082F5A-D920-4436-B57D-19728F0F965B}" ShortID="268411990">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5600,9 +5044,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="damage_by_near_explosion_by_enemy_01" ID="{25917649-8C84-4880-BE01-5D0AB7BEFCED}" ShortID="326062897">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5622,9 +5063,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="damage_by_near_explosion_by_enemy_02" ID="{441F1977-59DE-4F56-B444-D8D2996B4EC0}" ShortID="609769425">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5659,9 +5097,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="turret_rotator_functional_01" ID="{A006244A-04DC-4452-8F5B-5FEC5B26BE83}" ShortID="126953882">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5681,9 +5116,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="turret_rotator_functional_02" ID="{9C98BF49-E6FF-42C4-BDEC-B9A8A45BC37C}" ShortID="936868418">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5718,9 +5150,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="turret_rotator_damaged_01" ID="{7A5FDE39-06B9-4A03-BA38-7D89BB1267A5}" ShortID="333993010">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5740,9 +5169,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="turret_rotator_damaged_02" ID="{FF45BCE1-FC4D-4F74-8312-F5259A4451A8}" ShortID="162493740">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5762,9 +5188,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="turret_rotator_damaged_03" ID="{0D1DC6B3-1D8F-46CC-A5DC-EE915D571FB2}" ShortID="488957698">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5799,9 +5222,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="track_functional_can_move_01" ID="{0D2F7024-FD24-4705-A028-CBE1D974A46F}" ShortID="168711895">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5821,9 +5241,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_functional_can_move_02" ID="{600F0DD8-86B8-4A21-8D38-7236AF18CF3F}" ShortID="196851808">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5843,9 +5260,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_functional_can_move_03" ID="{52FB0013-9467-49A7-9CFA-1BC8C2F82768}" ShortID="336097925">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5865,9 +5279,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_functional_can_move_04" ID="{9F503912-8597-4333-9F0A-0AE1E1AF7DC9}" ShortID="924456159">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5887,9 +5298,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_functional_can_move_05" ID="{DD9851B0-0DB6-4744-9E82-ED411578DE2B}" ShortID="138396371">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5909,9 +5317,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_functional_can_move_06" ID="{9C50C0C0-83E6-456B-8F7F-1157751F84D6}" ShortID="389433285">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5931,9 +5336,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_functional_can_move_07" ID="{53335E56-6F9E-485A-B074-2B2B12A81A04}" ShortID="413030306">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5968,9 +5370,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="track_functional_01" ID="{820FA3A4-7980-4955-8E7A-14F4A7BB3173}" ShortID="825572421">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5990,9 +5389,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_functional_02" ID="{049F2A1B-1F0F-4B63-BEBD-80968CCA454F}" ShortID="281844031">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6012,9 +5408,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_functional_03" ID="{E7872010-90FA-4D7F-B9FF-28FEB410DB9E}" ShortID="534431381">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6034,9 +5427,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="track_functional_04" ID="{718E8E51-8F31-4156-B1E1-7658FA715906}" ShortID="377634189">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6071,9 +5461,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="turret_rotator_destroyed_01" ID="{E8968F79-E4B1-4430-9B76-A0676E59EBFF}" ShortID="226161553">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6093,9 +5480,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="turret_rotator_destroyed_02" ID="{53CD45F3-4A41-4F9F-A37B-BF5A54C425DB}" ShortID="143886721">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6115,9 +5499,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="turret_rotator_destroyed_03" ID="{7D65A16C-9975-4171-8E4E-675FB5B9E5F7}" ShortID="164019688">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6137,9 +5518,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="turret_rotator_destroyed_04" ID="{5077D43E-70D5-4D4F-A6A8-8B2B49106C83}" ShortID="371896014">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6174,9 +5552,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="gun_damaged_01" ID="{FD2D547C-7E29-4206-B0BA-E7D2DB0F3154}" ShortID="70268547">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6196,9 +5571,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gun_damaged_02" ID="{7C46B8DA-B970-48A0-95AE-FA23755AA401}" ShortID="2514468">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6218,9 +5590,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gun_damaged_03" ID="{8F5E8D02-0CFF-46E2-A99D-1198DC5CA452}" ShortID="329416479">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6240,9 +5609,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gun_damaged_04" ID="{F10FCD64-ACDE-4197-ADF3-64729644D1F2}" ShortID="293147784">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6277,9 +5643,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="radio_damaged_01" ID="{13239D7C-8C84-44F7-993B-24DF3FD239FF}" ShortID="50336024">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6299,9 +5662,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="radio_damaged_02" ID="{4290020B-F6B3-4CDD-A5C3-E38557F58299}" ShortID="187077854">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6321,9 +5681,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="radio_damaged_03" ID="{C4F93B56-F072-4280-9B9B-AFC6A98726FB}" ShortID="425067232">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6343,9 +5700,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="radio_damaged_04" ID="{8086ABD3-BFE6-4826-921C-DDA7DADA5F96}" ShortID="745160743">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6365,9 +5719,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="radio_damaged_05" ID="{1733F3D0-D23E-4108-B489-4E2118631805}" ShortID="1032118268">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6387,9 +5738,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="radio_damaged_06" ID="{EAAD2468-884F-439F-AA61-84933969BE3D}" ShortID="1047115062">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6424,9 +5772,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="gunner_killed_01" ID="{9A683513-711D-4E10-8777-937AC3D53F6D}" ShortID="956305851">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6446,9 +5791,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gunner_killed_02" ID="{7973C6EB-BD31-428B-AF63-FA76275036A5}" ShortID="3898841">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6468,9 +5810,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gunner_killed_03" ID="{9D479038-4D87-4F29-A6B3-E357F9E994A6}" ShortID="855882729">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6490,9 +5829,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gunner_killed_04" ID="{1AFEB996-4926-4C40-84FD-42521FD0F4F5}" ShortID="922654214">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6527,9 +5863,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="gun_destroyed_01" ID="{52081DE5-7108-4C8C-BDDD-7157A8321935}" ShortID="734869863">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6549,9 +5882,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gun_destroyed_02" ID="{25B2BE4D-D1D6-4899-A1CC-4C6E3730762C}" ShortID="606799288">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6571,9 +5901,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="gun_destroyed_03" ID="{4C66BA92-B3FC-4F41-BD4F-EC0AC5B10CBA}" ShortID="584974509">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6608,9 +5935,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="surveying_devices_destroyed_01" ID="{5B6FD83B-A6CC-402B-B63B-6B380BF2CA9F}" ShortID="265271341">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6630,9 +5954,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_destroyed_02" ID="{CEE09C7F-2F81-4A86-BB74-17193C201B0D}" ShortID="338696733">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6652,9 +5973,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_destroyed_03" ID="{7EAE5D69-9C75-42A5-8761-439687BD7B08}" ShortID="962147424">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6674,9 +5992,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_destroyed_04" ID="{C5687DF8-E938-48AE-AA1F-96952E5B03FE}" ShortID="736374394">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6696,9 +6011,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_destroyed_05" ID="{84A572C3-77F1-477C-9782-02E54A4AB523}" ShortID="904083971">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6718,9 +6030,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_destroyed_06" ID="{095675B7-E2ED-4475-BE5C-E6550E9DA9A7}" ShortID="1023514656">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6740,9 +6049,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="surveying_devices_destroyed_07" ID="{BA9DAA82-BBD4-42FD-8660-1DA92A87FB26}" ShortID="417132571">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6777,9 +6083,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="fire_started_01" ID="{D6381CBD-0A9B-43FC-8401-FED96342800E}" ShortID="342560072">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6799,9 +6102,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_started_02" ID="{0646CC94-9427-47CB-93C4-16B0D1BEEF0A}" ShortID="604978776">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6821,9 +6121,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_started_03" ID="{CF3E9E53-75B2-454F-80D5-9E95EFB73422}" ShortID="323798845">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6843,9 +6140,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_started_04" ID="{199C9DFB-B8FC-4653-8184-23FF15487DF4}" ShortID="202340129">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6865,9 +6159,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_started_05" ID="{77585369-CFB0-4E5C-9FE5-55C922B02B97}" ShortID="700344450">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6887,9 +6178,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_started_06" ID="{ED1F846D-4281-4942-9378-46569D7EE20C}" ShortID="268014063">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6909,9 +6197,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_started_07" ID="{327C0B79-30B2-4915-BAE8-B726263EDEC6}" ShortID="747417156">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6931,9 +6216,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="fire_started_08" ID="{8CEE05AC-B194-4D52-8FBB-815B1A966648}" ShortID="118991090">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6968,9 +6250,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="ally_killed_by_player_01" ID="{1ED096CD-4769-4B22-A411-8A3A77AC5D56}" ShortID="674105783">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6990,9 +6269,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="ally_killed_by_player_02" ID="{DD876FF7-8809-4049-8A67-DF7FB3691D3D}" ShortID="1037764336">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -7012,9 +6288,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="ally_killed_by_player_03" ID="{A48CF858-649B-4F56-9E37-155BF1A28154}" ShortID="770146163">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -7034,9 +6307,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="ally_killed_by_player_04" ID="{663BDC31-DBFD-4689-8D92-B92B93D284C6}" ShortID="314785717">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -7056,9 +6326,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="ally_killed_by_player_05" ID="{4C4ED922-F443-4102-A8AB-7C0A73876B8D}" ShortID="752068356">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -7093,9 +6360,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="ammo_bay_damaged_01" ID="{055B4720-BDB7-4F91-AF5D-2408B104AE73}" ShortID="780937881">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -7115,9 +6379,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="ammo_bay_damaged_02" ID="{F9FEAA32-7363-423E-8E1F-936E915693AA}" ShortID="155513305">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -7137,9 +6398,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="ammo_bay_damaged_03" ID="{9F5BEBFF-C2C5-4CCA-81FA-70D3B5D282A4}" ShortID="810359020">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -7159,9 +6417,6 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="ammo_bay_damaged_04" ID="{F1FBE72F-C8B4-46D3-8652-23511FC583D4}" ShortID="171611139">
-									<PropertyList>
-										<Property Name="IsVoice" Type="bool" Value="False"/>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -7180,30 +6435,7 @@
 										<ActiveSource Name="ammo_bay_damaged_04" ID="{50EDBFE4-A8B3-4C85-974D-95F61CE786F3}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-					</ChildrenList>
-				</Folder>
-				<Folder Name="GUI" ID="{F6742E00-BE3A-4893-B7E5-27DAD7F50D17}" ShortID="442510310">
-					<ChildrenList>
-						<RandomSequenceContainer Name="timer" ID="{9FAE66BF-45C9-4288-BD97-3F2DFAF3844A}" ShortID="495946519">
-							<PropertyList>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>-4</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="timer_01" ID="{FFA45CB7-3FDD-48A7-909D-C3D4CA6951D0}" ShortID="670208539">
+								<Sound Name="ammo_bay_damaged_05" ID="{95AED892-B3B8-498F-AFCE-7A5610175037}" ShortID="320162339">
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -7213,884 +6445,17 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_01" ID="{8CBB8EBD-3580-427F-BB42-C08910EC1979}" ShortID="288295816">
+										<AudioFileSource Name="ammo_bay_damaged_05" ID="{0A2907F4-FC89-41A1-ACC6-B88144849976}" ShortID="255910805">
 											<Language>SFX</Language>
-											<AudioFile>timer_01.wav</AudioFile>
+											<AudioFile>ammo_bay_damaged_05.wav</AudioFile>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="timer_01" ID="{8CBB8EBD-3580-427F-BB42-C08910EC1979}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="timer_02" ID="{B55D094C-47CD-4C07-8E43-6682479648DC}" ShortID="666581436">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="timer_02" ID="{63AD4BFD-C7BF-422A-8FB1-DBF072915DD4}" ShortID="341614345">
-											<Language>SFX</Language>
-											<AudioFile>timer_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="timer_02" ID="{63AD4BFD-C7BF-422A-8FB1-DBF072915DD4}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="timer_03" ID="{46394507-4FD9-4759-B2CF-DDB23F69C701}" ShortID="493233047">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="timer_03" ID="{F661BFC5-27B0-4254-B3D4-7687571C9302}" ShortID="240854626">
-											<Language>SFX</Language>
-											<AudioFile>timer_03.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="timer_03" ID="{F661BFC5-27B0-4254-B3D4-7687571C9302}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="timer_04" ID="{B0AAFB4C-13D1-4D7A-BFE8-1F4FB54F5E19}" ShortID="778679697">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="timer_04" ID="{B8DD56B7-7FBC-4E68-A2C6-44FE3A4ABE41}" ShortID="717327365">
-											<Language>SFX</Language>
-											<AudioFile>timer_04.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="timer_04" ID="{B8DD56B7-7FBC-4E68-A2C6-44FE3A4ABE41}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="timer_05" ID="{FE41E2ED-850F-4CD5-BF70-EAEC829A1892}" ShortID="871820505">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="timer_05" ID="{004EE026-B6C5-4334-8691-E876D10AB07B}" ShortID="676880312">
-											<Language>SFX</Language>
-											<AudioFile>timer_05.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="timer_05" ID="{004EE026-B6C5-4334-8691-E876D10AB07B}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="timer_06" ID="{A1FDC269-1B63-4E2A-91D6-F8EC463BE214}" ShortID="1026828332">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="timer_06" ID="{FC55717E-87AB-4761-B096-4B732736E244}" ShortID="304197093">
-											<Language>SFX</Language>
-											<AudioFile>timer_06.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="timer_06" ID="{FC55717E-87AB-4761-B096-4B732736E244}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="timer_07" ID="{0B978187-397B-49A7-A790-4565A32D1277}" ShortID="779081626">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="timer_07" ID="{A95724A0-D30C-4D5B-9212-BD577F96C37A}" ShortID="764625661">
-											<Language>SFX</Language>
-											<AudioFile>timer_07.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="timer_07" ID="{A95724A0-D30C-4D5B-9212-BD577F96C37A}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="timer_08" ID="{6B99D0C4-F67E-4E95-9E1E-5DF5FB3E6AE5}" ShortID="962526170">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="timer_08" ID="{200D1984-0E9E-44E5-A0A9-638394256B2E}" ShortID="122449326">
-											<Language>SFX</Language>
-											<AudioFile>timer_08.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="timer_08" ID="{200D1984-0E9E-44E5-A0A9-638394256B2E}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="timer_09" ID="{4C28D118-A8C7-4DDC-8F76-A04652B56F8D}" ShortID="588636354">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="timer_09" ID="{74FE58DC-3EFA-45DC-8082-78DAAB5F997B}" ShortID="433007518">
-											<Language>SFX</Language>
-											<AudioFile>timer_09.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="timer_09" ID="{74FE58DC-3EFA-45DC-8082-78DAAB5F997B}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="timer_10" ID="{8A74A235-42E9-4C30-B40C-A823CC8EB78B}" ShortID="70814025">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="timer_10" ID="{5AF43C89-5503-4164-8473-0DCAA737951A}" ShortID="928109577">
-											<Language>SFX</Language>
-											<AudioFile>timer_10.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="timer_10" ID="{5AF43C89-5503-4164-8473-0DCAA737951A}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="timer_11" ID="{3B6B4D2C-D68E-4263-82A8-F094982170E1}" ShortID="866656080">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="timer_11" ID="{18067B75-B67E-4FC2-A464-4B42048392A0}" ShortID="774902480">
-											<Language>SFX</Language>
-											<AudioFile>timer_11.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="timer_11" ID="{18067B75-B67E-4FC2-A464-4B42048392A0}" Platform="Linked"/>
+										<ActiveSource Name="ammo_bay_damaged_05" ID="{0A2907F4-FC89-41A1-ACC6-B88144849976}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="shotcuts_help_me" ID="{59C1D59B-FBEB-4772-8D6F-A1DBD117F454}" ShortID="662101048">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_help_me_01" ID="{9B84EBC0-9F24-4011-977A-87F3795BC7D9}" ShortID="890143007">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_help_me_01" ID="{10AC4479-312E-424B-B43C-F9708D8A2A0D}" ShortID="44525118">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_help_me_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_help_me_01" ID="{10AC4479-312E-424B-B43C-F9708D8A2A0D}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_help_me_02" ID="{90972948-39EF-4710-8B43-AEC992518A79}" ShortID="353666458">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_help_me_02" ID="{DD1FD894-FE1D-4FDA-8B43-A8D7FB24265C}" ShortID="875487878">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_help_me_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_help_me_02" ID="{DD1FD894-FE1D-4FDA-8B43-A8D7FB24265C}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_help_me_03" ID="{328717F6-B80D-4897-8CFC-242B1027D511}" ShortID="679901080">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_help_me_03" ID="{E740B8E3-5550-40C3-9F57-DBD6960805CD}" ShortID="1055458513">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_help_me_03.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_help_me_03" ID="{E740B8E3-5550-40C3-9F57-DBD6960805CD}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="enemy_sighted_for_team" ID="{9044F0D8-5F81-4D69-A594-673D23944CF4}" ShortID="871349735">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="enemy_sighted_for_team_1" ID="{6939AD34-1B41-4D80-84C9-1EC21F316E2D}" ShortID="381801997">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_1" ID="{6325C202-A56D-469A-974F-0603174A3397}" ShortID="747755971">
-											<Language>SFX</Language>
-											<AudioFile>enemy_sighted_for_team_1.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_sighted_for_team_1" ID="{6325C202-A56D-469A-974F-0603174A3397}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_sighted_for_team_2" ID="{1155F416-3A6C-472A-ACF9-54F39C650B10}" ShortID="355863912">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_2" ID="{4DD317FD-1947-4230-9F3A-428CC6FC49E2}" ShortID="589120407">
-											<Language>SFX</Language>
-											<AudioFile>enemy_sighted_for_team_2.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_sighted_for_team_2" ID="{4DD317FD-1947-4230-9F3A-428CC6FC49E2}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_sighted_for_team_3" ID="{95BC9D66-6A7B-4A3C-AD9A-5B49266C6090}" ShortID="773000248">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_3" ID="{5FF43069-77D9-4E50-A5E6-ED8DECB8E5D4}" ShortID="377775188">
-											<Language>SFX</Language>
-											<AudioFile>enemy_sighted_for_team_3.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_sighted_for_team_3" ID="{5FF43069-77D9-4E50-A5E6-ED8DECB8E5D4}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_sighted_for_team_4" ID="{AB3E9DDC-BED2-48F9-8B91-8CE9A1CCFA56}" ShortID="882261136">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_4" ID="{017BF1EF-0F2F-4845-B910-15F765E475AD}" ShortID="1041598885">
-											<Language>SFX</Language>
-											<AudioFile>enemy_sighted_for_team_4.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_sighted_for_team_4" ID="{017BF1EF-0F2F-4845-B910-15F765E475AD}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_sighted_for_team_5" ID="{08C5A268-FB8C-4ED1-8706-3095A87F362E}" ShortID="178749998">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_5" ID="{C585F41B-36D2-43B7-897F-147AA6AFB144}" ShortID="1013742811">
-											<Language>SFX</Language>
-											<AudioFile>enemy_sighted_for_team_5.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_sighted_for_team_5" ID="{C585F41B-36D2-43B7-897F-147AA6AFB144}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_sighted_for_team_6" ID="{E07D1B7C-51BB-493D-B2E9-37F70C70E9A8}" ShortID="676239011">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_6" ID="{82769689-FFE2-4C39-A602-14C2027AD7EA}" ShortID="531440842">
-											<Language>SFX</Language>
-											<AudioFile>enemy_sighted_for_team_6.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_sighted_for_team_6" ID="{82769689-FFE2-4C39-A602-14C2027AD7EA}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_sighted_for_team_7" ID="{4E17B7B9-745D-457B-A7A7-8FCEE9B9E06F}" ShortID="613575702">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_7" ID="{D77A0F50-3AE6-42BD-BE02-B26263365672}" ShortID="837567587">
-											<Language>SFX</Language>
-											<AudioFile>enemy_sighted_for_team_7.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_sighted_for_team_7" ID="{D77A0F50-3AE6-42BD-BE02-B26263365672}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="enemy_sighted_for_team_8" ID="{C7D744E1-046F-4786-BC34-D97286B06011}" ShortID="553277375">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_8" ID="{546E4BDE-264C-4255-8D45-092BE0F7B995}" ShortID="167470390">
-											<Language>SFX</Language>
-											<AudioFile>enemy_sighted_for_team_8.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="enemy_sighted_for_team_8" ID="{546E4BDE-264C-4255-8D45-092BE0F7B995}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="shotcuts_affirmative" ID="{D58502E0-DEF4-4B88-8C6D-F3D66EB409CD}" ShortID="702311834">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_affirmative_01" ID="{E6602128-9D23-4A06-B950-A732F8A6E078}" ShortID="695564895">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_affirmative_01" ID="{A983DA8D-5C9A-4FE9-A868-0467637A95C3}" ShortID="671194276">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_affirmative_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_affirmative_01" ID="{A983DA8D-5C9A-4FE9-A868-0467637A95C3}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_affirmative_02" ID="{E666C34D-4F61-493E-9C75-63F047C790C4}" ShortID="916931855">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_affirmative_02" ID="{BAB0625D-53CB-4FA8-BA99-C47AF0B83445}" ShortID="502029609">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_affirmative_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_affirmative_02" ID="{BAB0625D-53CB-4FA8-BA99-C47AF0B83445}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_affirmative_03" ID="{89B317D6-10A2-42C5-BE8E-72B1A1F2D122}" ShortID="1067559845">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_affirmative_03" ID="{BDB9C5C4-5BBD-4619-B8E9-5D28439B3C15}" ShortID="823314785">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_affirmative_03.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_affirmative_03" ID="{BDB9C5C4-5BBD-4619-B8E9-5D28439B3C15}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="shotcuts_attack" ID="{7104D7F1-E082-42E3-B1E5-630BE791DD54}" ShortID="493314446">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_attack_01" ID="{5B9BB4A0-8FEA-4C2C-BF56-7E3C635000D2}" ShortID="550178782">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_attack_01" ID="{ADE60E23-E0D5-48D8-802F-4F1D419FEEA1}" ShortID="746117316">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_attack_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_attack_01" ID="{ADE60E23-E0D5-48D8-802F-4F1D419FEEA1}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_attack_02" ID="{B3FE956D-9B13-42AB-AA23-FB0BF460C042}" ShortID="495354208">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_attack_02" ID="{99CE1AEE-1E62-4007-9A55-97638FEAA25E}" ShortID="208895145">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_attack_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_attack_02" ID="{99CE1AEE-1E62-4007-9A55-97638FEAA25E}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="shotcuts_defend_base" ID="{76069D9B-9EBE-49C3-8AB6-6DEBD189937B}" ShortID="859401214">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_defend_base_01" ID="{188E218E-B4CB-4F63-B836-0FCED75622D3}" ShortID="635006393">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_defend_base_01" ID="{AC8B46D3-17F4-4DF2-AA36-9946B2CA2EF8}" ShortID="832928646">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_defend_base_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_defend_base_01" ID="{AC8B46D3-17F4-4DF2-AA36-9946B2CA2EF8}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_defend_base_02" ID="{D0E2F2B2-EEB8-4FB5-9B3E-EAB0EA3A35B4}" ShortID="319150178">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_defend_base_02" ID="{4BA759E7-6297-4B15-85E0-E3C86466E80A}" ShortID="851938963">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_defend_base_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_defend_base_02" ID="{4BA759E7-6297-4B15-85E0-E3C86466E80A}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="shotcuts_follow_me" ID="{321859A4-654C-4FB5-95B0-6A19E2E52BA0}" ShortID="706270430">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_follow_me_01" ID="{B4C804B0-CBEA-4D18-BB65-7F1F2179754F}" ShortID="938646920">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_follow_me_01" ID="{C414E2DB-1FAB-4D4F-B5C2-D983CA32345F}" ShortID="248105007">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_follow_me_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_follow_me_01" ID="{C414E2DB-1FAB-4D4F-B5C2-D983CA32345F}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_follow_me_02" ID="{630CE316-39CF-45E3-94A8-D14C7DBE4C5D}" ShortID="1045803228">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_follow_me_02" ID="{91742AB3-3407-4A20-AEF5-F12D49D09983}" ShortID="399888103">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_follow_me_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_follow_me_02" ID="{91742AB3-3407-4A20-AEF5-F12D49D09983}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="shotcuts_negative" ID="{080C0AE5-2BCC-44E0-BE1B-F548D8085F13}" ShortID="242865954">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_negative_01" ID="{C09571D1-3066-4B84-A8AA-68E30D32864A}" ShortID="69727392">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_negative_01" ID="{336E89D5-73D2-4775-AFAD-159495126DD4}" ShortID="660050851">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_negative_01" ID="{336E89D5-73D2-4775-AFAD-159495126DD4}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_negative_02" ID="{8188C828-A46C-4858-B835-36283C974B0D}" ShortID="691337265">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_negative_02" ID="{88E4C983-DE22-4A14-A0E7-A9D6B9A26CD6}" ShortID="242740349">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_negative_02" ID="{88E4C983-DE22-4A14-A0E7-A9D6B9A26CD6}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_negative_03" ID="{D3A7D861-3BAE-43BD-B764-849C5E8B508E}" ShortID="746104758">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_negative_03" ID="{529C12DC-87E0-4349-BA2A-C61EE7CC4A2C}" ShortID="504743406">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_03.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="shotcuts_negative_04" ID="{2E13568F-2980-4AA1-AD6E-CD411EFBB30C}" ShortID="726985870">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_04.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_negative_03" ID="{529C12DC-87E0-4349-BA2A-C61EE7CC4A2C}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_negative_04" ID="{145AA5A2-01E5-4262-9EBC-2C2EC4A6FF84}" ShortID="507519948">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_negative_04" ID="{E1FDD869-4595-494D-AA27-F0F6601A2541}" ShortID="82826773">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_04.wav</AudioFile>
-											<ConvertedFileIDList>
-												<File ID="726985870"/>
-											</ConvertedFileIDList>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_negative_04" ID="{E1FDD869-4595-494D-AA27-F0F6601A2541}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<Sound Name="base_capture_1" ID="{678C352C-5DD4-4931-B315-535F9101D31E}" ShortID="380780521">
-							<PropertyList>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>-7</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<AudioFileSource Name="base_capture_1" ID="{3472309A-D40C-443D-B7A0-16CB271E64CF}" ShortID="844878166">
-									<Language>SFX</Language>
-									<AudioFile>base_capture_1.wav</AudioFile>
-								</AudioFileSource>
-							</ChildrenList>
-							<ActiveSourceList>
-								<ActiveSource Name="base_capture_1" ID="{3472309A-D40C-443D-B7A0-16CB271E64CF}" Platform="Linked"/>
-							</ActiveSourceList>
-						</Sound>
-						<Sound Name="music_defeat" ID="{AB540490-DAC7-48D2-88FF-521A77A8AACA}" ShortID="166985520">
-							<PropertyList>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>-7</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="020_gui_simple" ID="{AC03A99D-ED85-4C59-AA89-7D65EA672C8B}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<AudioFileSource Name="music_defeat" ID="{5FD39193-C9E4-4647-B078-3BD54112E4F2}" ShortID="453181591">
-									<Language>SFX</Language>
-									<AudioFile>music_defeat.wav</AudioFile>
-								</AudioFileSource>
-							</ChildrenList>
-							<ActiveSourceList>
-								<ActiveSource Name="music_defeat" ID="{5FD39193-C9E4-4647-B078-3BD54112E4F2}" Platform="Linked"/>
-							</ActiveSourceList>
-						</Sound>
-						<Sound Name="music_drawn_game" ID="{6CB21147-F1D1-47B0-8577-E8BF850D241C}" ShortID="302876830">
-							<PropertyList>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>-7</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="020_gui_simple" ID="{AC03A99D-ED85-4C59-AA89-7D65EA672C8B}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<AudioFileSource Name="music_drawn_game" ID="{7F966846-8860-4F42-AAFB-E1E5D98C65D1}" ShortID="236539403">
-									<Language>SFX</Language>
-									<AudioFile>music_drawn_game.wav</AudioFile>
-								</AudioFileSource>
-							</ChildrenList>
-							<ActiveSourceList>
-								<ActiveSource Name="music_drawn_game" ID="{7F966846-8860-4F42-AAFB-E1E5D98C65D1}" Platform="Linked"/>
-							</ActiveSourceList>
-						</Sound>
-						<Sound Name="music_victory" ID="{B0A99B3D-C713-462D-A58C-5B1A2D5AB2F0}" ShortID="356900045">
-							<PropertyList>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>-7</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="020_gui_simple" ID="{AC03A99D-ED85-4C59-AA89-7D65EA672C8B}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<AudioFileSource Name="music_victory" ID="{818042B4-C02E-4FCD-AFAA-14ECD7C9ADFF}" ShortID="430890093">
-									<Language>SFX</Language>
-									<AudioFile>music_victory.wav</AudioFile>
-								</AudioFileSource>
-							</ChildrenList>
-							<ActiveSourceList>
-								<ActiveSource Name="music_victory" ID="{818042B4-C02E-4FCD-AFAA-14ECD7C9ADFF}" Platform="Linked"/>
-							</ActiveSourceList>
-						</Sound>
-						<Sound Name="time_buzzer_01" ID="{506AF453-378F-4F0A-96C8-A725111AEB19}" ShortID="786891302">
-							<PropertyList>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>-4</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<AudioFileSource Name="time_buzzer_01" ID="{58EEBBA9-8105-4856-8975-AB7C92B4AF1B}" ShortID="593160293">
-									<Language>SFX</Language>
-									<AudioFile>time_buzzer_01.wav</AudioFile>
-								</AudioFileSource>
-							</ChildrenList>
-							<ActiveSourceList>
-								<ActiveSource Name="time_buzzer_01" ID="{58EEBBA9-8105-4856-8975-AB7C92B4AF1B}" Platform="Linked"/>
-							</ActiveSourceList>
-						</Sound>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>

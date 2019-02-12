@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows_HighRes" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>F:\Tanks Stuff\RelhaxSoundMod\main project\censored\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Stuff\RelhaxSoundMod\main project\censored\.cache\Windows_HighRes\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Stuff\RelhaxSoundMod\main project\censored\GeneratedSoundBanks\WinHighRes\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelhaxSoundMod\main project\censored\GeneratedSoundBanks\Windows_HighRes</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank>
+		<File Id="32993886" Language="SFX">
+			<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_C6ADE4AD.wem</Path>
+		</File>
+		<File Id="438791985" Language="SFX">
+			<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Parkhaus.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Parkhaus_B71800CD.wem</Path>
+		</File>
+		<File Id="554205954" Language="SFX">
+			<ShortName>Map_Zone\Deep forest.WAV</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_FF6FA842.wem</Path>
+		</File>
+		<File Id="684936451" Language="SFX">
+			<ShortName>Map_Zone\Canyons.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_92818435.wem</Path>
+		</File>
+		<File Id="689379105" Language="SFX">
+			<ShortName>AK_Factory_IR\Halls\AK Berlin Teldex.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_5603FB92.wem</Path>
+		</File>
+		<File Id="765520478" Language="SFX">
+			<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_6EB35CB1.wem</Path>
+		</File>
+		<File Id="823230670" Language="SFX">
+			<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_77771CFB.wem</Path>
+		</File>
+	</MediaFilesNotInAnyBank>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<ExcludedMemoryFiles>
+				<File Id="32993886" Language="SFX">
+					<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_C6ADE4AD.wem</Path>
+				</File>
+				<File Id="438791985" Language="SFX">
+					<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Parkhaus.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Parkhaus_B71800CD.wem</Path>
+				</File>
+				<File Id="554205954" Language="SFX">
+					<ShortName>Map_Zone\Deep forest.WAV</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_FF6FA842.wem</Path>
+				</File>
+				<File Id="684936451" Language="SFX">
+					<ShortName>Map_Zone\Canyons.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_92818435.wem</Path>
+				</File>
+				<File Id="689379105" Language="SFX">
+					<ShortName>AK_Factory_IR\Halls\AK Berlin Teldex.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Halls\AK Berlin Teldex_5603FB92.wem</Path>
+				</File>
+				<File Id="765520478" Language="SFX">
+					<ShortName>AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\AK_Factory_IR\Large Spaces\AK Hamburg Fabrik SCOUT_6EB35CB1.wem</Path>
+				</File>
+				<File Id="823230670" Language="SFX">
+					<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_77771CFB.wem</Path>
+				</File>
+			</ExcludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1776621568" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\loginscreen</ObjectPath>
+			<ShortName>loginscreen</ShortName>
+			<Path>loginscreen.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3710719896" Name="loginscreen_ambient_start" ObjectPath="\Events\Loginscreen\Loginscreen\loginscreen_ambient_start" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1584937764" Name="loginscreen_ambient_stop" ObjectPath="\Events\Loginscreen\Loginscreen\loginscreen_ambient_stop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="166862067" Name="loginscreen_music_pause" ObjectPath="\Events\Loginscreen\Loginscreen\loginscreen_music_pause" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4014834746" Name="loginscreen_music_resume" ObjectPath="\Events\Loginscreen\Loginscreen\loginscreen_music_resume" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="711702153" Name="loginscreen_music_start" ObjectPath="\Events\Loginscreen\Loginscreen\loginscreen_music_start" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3403942020" Name="loginscreen_mute" ObjectPath="\Events\Loginscreen\Loginscreen\loginscreen_mute" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1277201713" Name="loginscreen_unmute" ObjectPath="\Events\Loginscreen\Loginscreen\loginscreen_unmute" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1799467707" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\music_interactive</ObjectPath>
+			<ShortName>music_interactive</ShortName>
+			<Path>music_interactive.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4182665678" Name="music_abbey_dron_intensive" ObjectPath="\Events\Interactive_music\02_Abbey\music_abbey_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1809337302" Name="music_abbey_dron_relaxed" ObjectPath="\Events\Interactive_music\02_Abbey\music_abbey_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="909754380" Name="music_abbey_loading_screen" ObjectPath="\Events\Interactive_music\02_Abbey\music_abbey_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2126438302" Name="music_abbey_result_defeat" ObjectPath="\Events\Interactive_music\02_Abbey\music_abbey_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3489195993" Name="music_abbey_result_drawn" ObjectPath="\Events\Interactive_music\02_Abbey\music_abbey_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1380392615" Name="music_abbey_result_win" ObjectPath="\Events\Interactive_music\02_Abbey\music_abbey_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3680590169" Name="music_airfield_dron_intensive" ObjectPath="\Events\Interactive_music\18_Airfield\music_airfield_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2091599965" Name="music_airfield_dron_relaxed" ObjectPath="\Events\Interactive_music\18_Airfield\music_airfield_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2786447075" Name="music_airfield_loading_screen" ObjectPath="\Events\Interactive_music\18_Airfield\music_airfield_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3576156511" Name="music_airfield_result_defeat" ObjectPath="\Events\Interactive_music\18_Airfield\music_airfield_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2162941966" Name="music_airfield_result_drawn" ObjectPath="\Events\Interactive_music\18_Airfield\music_airfield_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1623105216" Name="music_airfield_result_win" ObjectPath="\Events\Interactive_music\18_Airfield\music_airfield_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2907442657" Name="music_caucasus_dron_intensive" ObjectPath="\Events\Interactive_music\16_Caucasus\music_caucasus_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="478468421" Name="music_caucasus_dron_relaxed" ObjectPath="\Events\Interactive_music\16_Caucasus\music_caucasus_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="531701627" Name="music_caucasus_loading_screen" ObjectPath="\Events\Interactive_music\16_Caucasus\music_caucasus_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3283264039" Name="music_caucasus_result_defeat" ObjectPath="\Events\Interactive_music\16_Caucasus\music_caucasus_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3404171190" Name="music_caucasus_result_drawn" ObjectPath="\Events\Interactive_music\16_Caucasus\music_caucasus_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2388937272" Name="music_caucasus_result_win" ObjectPath="\Events\Interactive_music\16_Caucasus\music_caucasus_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2294098297" Name="music_cliff_dron_intensive" ObjectPath="\Events\Interactive_music\11_Cliff\music_cliff_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2510386557" Name="music_cliff_dron_relaxed" ObjectPath="\Events\Interactive_music\11_Cliff\music_cliff_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1421125635" Name="music_cliff_loading_screen" ObjectPath="\Events\Interactive_music\11_Cliff\music_cliff_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="230217855" Name="music_cliff_result_defeat" ObjectPath="\Events\Interactive_music\11_Cliff\music_cliff_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3608157358" Name="music_cliff_result_drawn" ObjectPath="\Events\Interactive_music\11_Cliff\music_cliff_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4040459616" Name="music_cliff_result_win" ObjectPath="\Events\Interactive_music\11_Cliff\music_cliff_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="617655851" Name="music_dron_endbattle_stop" ObjectPath="\Events\Interactive_music\music_dron_endbattle_stop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1204827667" Name="music_dron_stop" ObjectPath="\Events\Interactive_music\music_dron_stop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="849326745" Name="music_el_halluf_dron_intensive" ObjectPath="\Events\Interactive_music\15_El_halluf\music_el_halluf_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="415920797" Name="music_el_halluf_dron_relaxed" ObjectPath="\Events\Interactive_music\15_El_halluf\music_el_halluf_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="888824099" Name="music_el_halluf_loading_screen" ObjectPath="\Events\Interactive_music\15_El_halluf\music_el_halluf_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4137535391" Name="music_el_halluf_result_defeat" ObjectPath="\Events\Interactive_music\15_El_halluf\music_el_halluf_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="904190286" Name="music_el_halluf_result_drawn" ObjectPath="\Events\Interactive_music\15_El_halluf\music_el_halluf_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2835699712" Name="music_el_halluf_result_win" ObjectPath="\Events\Interactive_music\15_El_halluf\music_el_halluf_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="606403776" Name="music_ensk_dron_intensive" ObjectPath="\Events\Interactive_music\09_Ensk\music_ensk_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="166163452" Name="music_ensk_dron_relaxed" ObjectPath="\Events\Interactive_music\09_Ensk\music_ensk_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="650577798" Name="music_ensk_loading_screen" ObjectPath="\Events\Interactive_music\09_Ensk\music_ensk_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4208591684" Name="music_ensk_result_defeat" ObjectPath="\Events\Interactive_music\09_Ensk\music_ensk_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2106314979" Name="music_ensk_result_drawn" ObjectPath="\Events\Interactive_music\09_Ensk\music_ensk_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3091660253" Name="music_ensk_result_win" ObjectPath="\Events\Interactive_music\09_Ensk\music_ensk_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="520395848" Name="music_epic_normandy_dron_battle" ObjectPath="\Events\Interactive_music\31_Epic_Normandy\music_epic_normandy_dron_battle" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2603384909" Name="music_epic_normandy_loading_screen" ObjectPath="\Events\Interactive_music\31_Epic_Normandy\music_epic_normandy_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3587006621" Name="music_epic_normandy_result_defeat" ObjectPath="\Events\Interactive_music\31_Epic_Normandy\music_epic_normandy_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1426365190" Name="music_epic_normandy_result_win" ObjectPath="\Events\Interactive_music\31_Epic_Normandy\music_epic_normandy_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1312965322" Name="music_epic_valley_dron_intensive" ObjectPath="\Events\Interactive_music\30_Epic_valley\music_epic_valley_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2895416914" Name="music_epic_valley_dron_relaxed" ObjectPath="\Events\Interactive_music\30_Epic_valley\music_epic_valley_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="517062512" Name="music_epic_valley_loading_screen" ObjectPath="\Events\Interactive_music\30_Epic_valley\music_epic_valley_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1057754466" Name="music_epic_valley_result_defeat" ObjectPath="\Events\Interactive_music\30_Epic_valley\music_epic_valley_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3050447189" Name="music_epic_valley_result_drawn" ObjectPath="\Events\Interactive_music\30_Epic_valley\music_epic_valley_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2443660331" Name="music_epic_valley_result_win" ObjectPath="\Events\Interactive_music\30_Epic_valley\music_epic_valley_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2049963887" Name="music_erlenberg_dron_intensive" ObjectPath="\Events\Interactive_music\27_Erlenberg\music_erlenberg_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2195670719" Name="music_erlenberg_dron_relaxed" ObjectPath="\Events\Interactive_music\27_Erlenberg\music_erlenberg_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="41160105" Name="music_erlenberg_loading_screen" ObjectPath="\Events\Interactive_music\27_Erlenberg\music_erlenberg_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1417314745" Name="music_erlenberg_result_defeat" ObjectPath="\Events\Interactive_music\27_Erlenberg\music_erlenberg_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="920508772" Name="music_erlenberg_result_drawn" ObjectPath="\Events\Interactive_music\27_Erlenberg\music_erlenberg_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="451217474" Name="music_erlenberg_result_win" ObjectPath="\Events\Interactive_music\27_Erlenberg\music_erlenberg_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="95100359" Name="music_fishingbay_dron_intensive" ObjectPath="\Events\Interactive_music\28_Fishing_bay\music_fishingbay_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3326115799" Name="music_fishingbay_dron_relaxed" ObjectPath="\Events\Interactive_music\28_Fishing_bay\music_fishingbay_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4291480337" Name="music_fishingbay_loading_screen" ObjectPath="\Events\Interactive_music\28_Fishing_bay\music_fishingbay_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4205374801" Name="music_fishingbay_result_defeat" ObjectPath="\Events\Interactive_music\28_Fishing_bay\music_fishingbay_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="766009692" Name="music_fishingbay_result_drawn" ObjectPath="\Events\Interactive_music\28_Fishing_bay\music_fishingbay_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2213847466" Name="music_fishingbay_result_win" ObjectPath="\Events\Interactive_music\28_Fishing_bay\music_fishingbay_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4063324177" Name="music_fjords_dron_intensive" ObjectPath="\Events\Interactive_music\25_Fjords\music_fjords_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3700639829" Name="music_fjords_dron_relaxed" ObjectPath="\Events\Interactive_music\25_Fjords\music_fjords_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="450216683" Name="music_fjords_loading_screen" ObjectPath="\Events\Interactive_music\25_Fjords\music_fjords_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="290566103" Name="music_fjords_result_defeat" ObjectPath="\Events\Interactive_music\25_Fjords\music_fjords_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="871566822" Name="music_fjords_result_drawn" ObjectPath="\Events\Interactive_music\25_Fjords\music_fjords_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2142709512" Name="music_fjords_result_win" ObjectPath="\Events\Interactive_music\25_Fjords\music_fjords_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3547353775" Name="music_himmelsdorf_dron_intensive" ObjectPath="\Events\Interactive_music\07_Himmelsdorf\music_himmelsdorf_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1006094079" Name="music_himmelsdorf_dron_relaxed" ObjectPath="\Events\Interactive_music\07_Himmelsdorf\music_himmelsdorf_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="121573609" Name="music_himmelsdorf_loading_screen" ObjectPath="\Events\Interactive_music\07_Himmelsdorf\music_himmelsdorf_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="688719097" Name="music_himmelsdorf_result_defeat" ObjectPath="\Events\Interactive_music\07_Himmelsdorf\music_himmelsdorf_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1129289124" Name="music_himmelsdorf_result_drawn" ObjectPath="\Events\Interactive_music\07_Himmelsdorf\music_himmelsdorf_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2468313474" Name="music_himmelsdorf_result_win" ObjectPath="\Events\Interactive_music\07_Himmelsdorf\music_himmelsdorf_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="698876098" Name="music_karelia_dron_intensive" ObjectPath="\Events\Interactive_music\21_Karelia\music_karelia_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1987085898" Name="music_karelia_dron_relaxed" ObjectPath="\Events\Interactive_music\21_Karelia\music_karelia_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4225556312" Name="music_karelia_loading_screen" ObjectPath="\Events\Interactive_music\21_Karelia\music_karelia_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1055111226" Name="music_karelia_result_defeat" ObjectPath="\Events\Interactive_music\21_Karelia\music_karelia_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2531226253" Name="music_karelia_result_drawn" ObjectPath="\Events\Interactive_music\21_Karelia\music_karelia_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2764793107" Name="music_karelia_result_win" ObjectPath="\Events\Interactive_music\21_Karelia\music_karelia_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3982054900" Name="music_klondike_dron_intensive" ObjectPath="\Events\Interactive_music\33_Klondike\music_klondike_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2363710704" Name="music_klondike_dron_relaxed" ObjectPath="\Events\Interactive_music\33_Klondike\music_klondike_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="756300850" Name="music_klondike_loading_screen" ObjectPath="\Events\Interactive_music\33_Klondike\music_klondike_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="47788832" Name="music_klondike_result_defeat" ObjectPath="\Events\Interactive_music\33_Klondike\music_klondike_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1097008631" Name="music_klondike_result_drawn" ObjectPath="\Events\Interactive_music\33_Klondike\music_klondike_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1797810345" Name="music_klondike_result_win" ObjectPath="\Events\Interactive_music\33_Klondike\music_klondike_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4160808350" Name="music_lakeville_dron_intensive" ObjectPath="\Events\Interactive_music\19_Lakeville\music_lakeville_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2448929734" Name="music_lakeville_dron_relaxed" ObjectPath="\Events\Interactive_music\19_Lakeville\music_lakeville_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3053809628" Name="music_lakeville_loading_screen" ObjectPath="\Events\Interactive_music\19_Lakeville\music_lakeville_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3631183598" Name="music_lakeville_result_defeat" ObjectPath="\Events\Interactive_music\19_Lakeville\music_lakeville_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="111181673" Name="music_lakeville_result_drawn" ObjectPath="\Events\Interactive_music\19_Lakeville\music_lakeville_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2225774679" Name="music_lakeville_result_win" ObjectPath="\Events\Interactive_music\19_Lakeville\music_lakeville_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="578665073" Name="music_liveoaks_dron_intensive" ObjectPath="\Events\Interactive_music\20_Live_oaks\music_liveoaks_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2266465973" Name="music_liveoaks_dron_relaxed" ObjectPath="\Events\Interactive_music\20_Live_oaks\music_liveoaks_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="157202251" Name="music_liveoaks_loading_screen" ObjectPath="\Events\Interactive_music\20_Live_oaks\music_liveoaks_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4090111287" Name="music_liveoaks_result_defeat" ObjectPath="\Events\Interactive_music\20_Live_oaks\music_liveoaks_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="530630086" Name="music_liveoaks_result_drawn" ObjectPath="\Events\Interactive_music\20_Live_oaks\music_liveoaks_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1500933864" Name="music_liveoaks_result_win" ObjectPath="\Events\Interactive_music\20_Live_oaks\music_liveoaks_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3039624487" Name="music_malinovka_dron_intensive" ObjectPath="\Events\Interactive_music\05_Malinovka\music_malinovka_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3560113463" Name="music_malinovka_dron_relaxed" ObjectPath="\Events\Interactive_music\05_Malinovka\music_malinovka_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1186763377" Name="music_malinovka_loading_screen" ObjectPath="\Events\Interactive_music\05_Malinovka\music_malinovka_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="900225713" Name="music_malinovka_result_defeat" ObjectPath="\Events\Interactive_music\05_Malinovka\music_malinovka_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2901295420" Name="music_malinovka_result_drawn" ObjectPath="\Events\Interactive_music\05_Malinovka\music_malinovka_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2650235786" Name="music_malinovka_result_win" ObjectPath="\Events\Interactive_music\05_Malinovka\music_malinovka_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1679971929" Name="music_mannerheim_dron_intensive" ObjectPath="\Events\Interactive_music\23_Mannerheim\music_mannerheim_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4246912349" Name="music_mannerheim_dron_relaxed" ObjectPath="\Events\Interactive_music\23_Mannerheim\music_mannerheim_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="785828835" Name="music_mannerheim_loading_screen" ObjectPath="\Events\Interactive_music\23_Mannerheim\music_mannerheim_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="288686175" Name="music_mannerheim_result_defeat" ObjectPath="\Events\Interactive_music\23_Mannerheim\music_mannerheim_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="23287054" Name="music_mannerheim_result_drawn" ObjectPath="\Events\Interactive_music\23_Mannerheim\music_mannerheim_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2377763776" Name="music_mannerheim_result_win" ObjectPath="\Events\Interactive_music\23_Mannerheim\music_mannerheim_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="346358391" Name="music_mines_dron_intensive" ObjectPath="\Events\Interactive_music\04_Mines\music_mines_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1259244519" Name="music_mines_dron_relaxed" ObjectPath="\Events\Interactive_music\04_Mines\music_mines_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2927459585" Name="music_mines_loading_screen" ObjectPath="\Events\Interactive_music\04_Mines\music_mines_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3020560513" Name="music_mines_result_defeat" ObjectPath="\Events\Interactive_music\04_Mines\music_mines_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2079600460" Name="music_mines_result_drawn" ObjectPath="\Events\Interactive_music\04_Mines\music_mines_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1830350330" Name="music_mines_result_win" ObjectPath="\Events\Interactive_music\04_Mines\music_mines_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1570643605" Name="music_minsk_dron_intensive" ObjectPath="\Events\Interactive_music\36_Minksk\music_minsk_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3257850233" Name="music_minsk_dron_relaxed" ObjectPath="\Events\Interactive_music\36_Minksk\music_minsk_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2657807783" Name="music_minsk_loading_screen" ObjectPath="\Events\Interactive_music\36_Minksk\music_minsk_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2613599235" Name="music_minsk_result_defeat" ObjectPath="\Events\Interactive_music\36_Minksk\music_minsk_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2109960698" Name="music_minsk_result_drawn" ObjectPath="\Events\Interactive_music\36_Minksk\music_minsk_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3776893668" Name="music_minsk_result_win" ObjectPath="\Events\Interactive_music\36_Minksk\music_minsk_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3582465161" Name="music_murovanka_dron_intensive" ObjectPath="\Events\Interactive_music\12_Murovanka\music_murovanka_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3634777261" Name="music_murovanka_dron_relaxed" ObjectPath="\Events\Interactive_music\12_Murovanka\music_murovanka_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="919133907" Name="music_murovanka_loading_screen" ObjectPath="\Events\Interactive_music\12_Murovanka\music_murovanka_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4026590799" Name="music_murovanka_result_defeat" ObjectPath="\Events\Interactive_music\12_Murovanka\music_murovanka_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1328118782" Name="music_murovanka_result_drawn" ObjectPath="\Events\Interactive_music\12_Murovanka\music_murovanka_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="978678416" Name="music_murovanka_result_win" ObjectPath="\Events\Interactive_music\12_Murovanka\music_murovanka_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="541854748" Name="music_overlord_dron_intensive" ObjectPath="\Events\Interactive_music\08_Overlord\music_overlord_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="344662872" Name="music_overlord_dron_relaxed" ObjectPath="\Events\Interactive_music\08_Overlord\music_overlord_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3857457674" Name="music_overlord_loading_screen" ObjectPath="\Events\Interactive_music\08_Overlord\music_overlord_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1093336040" Name="music_overlord_result_defeat" ObjectPath="\Events\Interactive_music\08_Overlord\music_overlord_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1156933695" Name="music_overlord_result_drawn" ObjectPath="\Events\Interactive_music\08_Overlord\music_overlord_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3393941313" Name="music_overlord_result_win" ObjectPath="\Events\Interactive_music\08_Overlord\music_overlord_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2949647472" Name="music_paris_dron_intensive" ObjectPath="\Events\Interactive_music\01_Paris\music_paris_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3002883596" Name="music_paris_dron_relaxed" ObjectPath="\Events\Interactive_music\01_Paris\music_paris_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2973314166" Name="music_paris_loading_screen" ObjectPath="\Events\Interactive_music\01_Paris\music_paris_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4076870196" Name="music_paris_result_defeat" ObjectPath="\Events\Interactive_music\01_Paris\music_paris_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3052485843" Name="music_paris_result_drawn" ObjectPath="\Events\Interactive_music\01_Paris\music_paris_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1573228461" Name="music_paris_result_win" ObjectPath="\Events\Interactive_music\01_Paris\music_paris_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3578104984" Name="music_pilsen_dron_intensive" ObjectPath="\Events\Interactive_music\34_Pilsen\music_pilsen_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3895401108" Name="music_pilsen_dron_relaxed" ObjectPath="\Events\Interactive_music\34_Pilsen\music_pilsen_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3325755790" Name="music_pilsen_loading_screen" ObjectPath="\Events\Interactive_music\34_Pilsen\music_pilsen_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3417255900" Name="music_pilsen_result_defeat" ObjectPath="\Events\Interactive_music\34_Pilsen\music_pilsen_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="486737211" Name="music_pilsen_result_drawn" ObjectPath="\Events\Interactive_music\34_Pilsen\music_pilsen_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2668835269" Name="music_pilsen_result_win" ObjectPath="\Events\Interactive_music\34_Pilsen\music_pilsen_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1422232669" Name="music_poland_dron_intensive" ObjectPath="\Events\Interactive_music\35_Poland\music_poland_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2236943041" Name="music_poland_dron_relaxed" ObjectPath="\Events\Interactive_music\35_Poland\music_poland_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2414082751" Name="music_poland_loading_screen" ObjectPath="\Events\Interactive_music\35_Poland\music_poland_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3626276363" Name="music_poland_result_defeat" ObjectPath="\Events\Interactive_music\35_Poland\music_poland_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3455468162" Name="music_poland_result_drawn" ObjectPath="\Events\Interactive_music\35_Poland\music_poland_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3556423324" Name="music_poland_result_win" ObjectPath="\Events\Interactive_music\35_Poland\music_poland_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="468234051" Name="music_prokhorovka_dron_intensive" ObjectPath="\Events\Interactive_music\13_Prokhorovka\music_prokhorovka_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="736606291" Name="music_prokhorovka_dron_relaxed" ObjectPath="\Events\Interactive_music\13_Prokhorovka\music_prokhorovka_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2852320565" Name="music_prokhorovka_loading_screen" ObjectPath="\Events\Interactive_music\13_Prokhorovka\music_prokhorovka_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1223172661" Name="music_prokhorovka_result_defeat" ObjectPath="\Events\Interactive_music\13_Prokhorovka\music_prokhorovka_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2282403688" Name="music_prokhorovka_result_drawn" ObjectPath="\Events\Interactive_music\13_Prokhorovka\music_prokhorovka_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2676579534" Name="music_prokhorovka_result_win" ObjectPath="\Events\Interactive_music\13_Prokhorovka\music_prokhorovka_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4102864689" Name="music_province_dron_intensive" ObjectPath="\Events\Interactive_music\32_Province\music_province_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1185914229" Name="music_province_dron_relaxed" ObjectPath="\Events\Interactive_music\32_Province\music_province_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2039093003" Name="music_province_loading_screen" ObjectPath="\Events\Interactive_music\32_Province\music_province_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2256701943" Name="music_province_result_defeat" ObjectPath="\Events\Interactive_music\32_Province\music_province_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1148035462" Name="music_province_result_drawn" ObjectPath="\Events\Interactive_music\32_Province\music_province_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2134222504" Name="music_province_result_win" ObjectPath="\Events\Interactive_music\32_Province\music_province_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4065609255" Name="music_redshire_dron_intensive" ObjectPath="\Events\Interactive_music\24_Redshire\music_redshire_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2333926967" Name="music_redshire_dron_relaxed" ObjectPath="\Events\Interactive_music\24_Redshire\music_redshire_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2212748145" Name="music_redshire_loading_screen" ObjectPath="\Events\Interactive_music\24_Redshire\music_redshire_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="668306865" Name="music_redshire_result_defeat" ObjectPath="\Events\Interactive_music\24_Redshire\music_redshire_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1675108924" Name="music_redshire_result_drawn" ObjectPath="\Events\Interactive_music\24_Redshire\music_redshire_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="273423498" Name="music_redshire_result_win" ObjectPath="\Events\Interactive_music\24_Redshire\music_redshire_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2825754573" Name="music_ruinberg_dron_intensive" ObjectPath="\Events\Interactive_music\17_Ruinberg\music_ruinberg_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3627562001" Name="music_ruinberg_dron_relaxed" ObjectPath="\Events\Interactive_music\17_Ruinberg\music_ruinberg_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2277107439" Name="music_ruinberg_loading_screen" ObjectPath="\Events\Interactive_music\17_Ruinberg\music_ruinberg_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4253001147" Name="music_ruinberg_result_defeat" ObjectPath="\Events\Interactive_music\17_Ruinberg\music_ruinberg_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4277980978" Name="music_ruinberg_result_drawn" ObjectPath="\Events\Interactive_music\17_Ruinberg\music_ruinberg_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2256350444" Name="music_ruinberg_result_win" ObjectPath="\Events\Interactive_music\17_Ruinberg\music_ruinberg_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2432355286" Name="music_sand_river_dron_intensive" ObjectPath="\Events\Interactive_music\14_Sand_river\music_sand_river_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2842200734" Name="music_sand_river_dron_relaxed" ObjectPath="\Events\Interactive_music\14_Sand_river\music_sand_river_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3221882532" Name="music_sand_river_loading_screen" ObjectPath="\Events\Interactive_music\14_Sand_river\music_sand_river_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1351086054" Name="music_sand_river_result_defeat" ObjectPath="\Events\Interactive_music\14_Sand_river\music_sand_river_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1866321889" Name="music_sand_river_result_drawn" ObjectPath="\Events\Interactive_music\14_Sand_river\music_sand_river_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1923505567" Name="music_sand_river_result_win" ObjectPath="\Events\Interactive_music\14_Sand_river\music_sand_river_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4278375276" Name="music_serene_coast_dron_intensive" ObjectPath="\Events\Interactive_music\10_Serene_coast\music_serene_coast_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="984442568" Name="music_serene_coast_dron_relaxed" ObjectPath="\Events\Interactive_music\10_Serene_coast\music_serene_coast_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2087104218" Name="music_serene_coast_loading_screen" ObjectPath="\Events\Interactive_music\10_Serene_coast\music_serene_coast_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="982772984" Name="music_serene_coast_result_defeat" ObjectPath="\Events\Interactive_music\10_Serene_coast\music_serene_coast_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="774270031" Name="music_serene_coast_result_drawn" ObjectPath="\Events\Interactive_music\10_Serene_coast\music_serene_coast_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3181235825" Name="music_serene_coast_result_win" ObjectPath="\Events\Interactive_music\10_Serene_coast\music_serene_coast_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2028978521" Name="music_siegfried_dron_intensive" ObjectPath="\Events\Interactive_music\22_Siegfried\music_siegfried_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3387519069" Name="music_siegfried_dron_relaxed" ObjectPath="\Events\Interactive_music\22_Siegfried\music_siegfried_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1134835427" Name="music_siegfried_loading_screen" ObjectPath="\Events\Interactive_music\22_Siegfried\music_siegfried_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1845545311" Name="music_siegfried_result_defeat" ObjectPath="\Events\Interactive_music\22_Siegfried\music_siegfried_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3458861070" Name="music_siegfried_result_drawn" ObjectPath="\Events\Interactive_music\22_Siegfried\music_siegfried_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1555465920" Name="music_siegfried_result_win" ObjectPath="\Events\Interactive_music\22_Siegfried\music_siegfried_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="136122261" Name="music_steppes_dron_intensive" ObjectPath="\Events\Interactive_music\06_Steppes\music_steppes_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2989367929" Name="music_steppes_dron_relaxed" ObjectPath="\Events\Interactive_music\06_Steppes\music_steppes_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1223286439" Name="music_steppes_loading_screen" ObjectPath="\Events\Interactive_music\06_Steppes\music_steppes_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1789413123" Name="music_steppes_result_defeat" ObjectPath="\Events\Interactive_music\06_Steppes\music_steppes_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1841478394" Name="music_steppes_result_drawn" ObjectPath="\Events\Interactive_music\06_Steppes\music_steppes_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3911234532" Name="music_steppes_result_win" ObjectPath="\Events\Interactive_music\06_Steppes\music_steppes_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="721991581" Name="music_stinger" ObjectPath="\Events\Interactive_music\music_stinger" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2201103377" Name="music_sweden_dron_intensive" ObjectPath="\Events\Interactive_music\03_Sweden\music_sweden_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4174212181" Name="music_sweden_dron_relaxed" ObjectPath="\Events\Interactive_music\03_Sweden\music_sweden_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2882963179" Name="music_sweden_loading_screen" ObjectPath="\Events\Interactive_music\03_Sweden\music_sweden_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2161662935" Name="music_sweden_result_defeat" ObjectPath="\Events\Interactive_music\03_Sweden\music_sweden_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1345139174" Name="music_sweden_result_drawn" ObjectPath="\Events\Interactive_music\03_Sweden\music_sweden_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4034112264" Name="music_sweden_result_win" ObjectPath="\Events\Interactive_music\03_Sweden\music_sweden_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="993430093" Name="music_tundra_dron_intensive" ObjectPath="\Events\Interactive_music\29_Tundra\music_tundra_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4043457169" Name="music_tundra_dron_relaxed" ObjectPath="\Events\Interactive_music\29_Tundra\music_tundra_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="444782959" Name="music_tundra_loading_screen" ObjectPath="\Events\Interactive_music\29_Tundra\music_tundra_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2207545659" Name="music_tundra_result_defeat" ObjectPath="\Events\Interactive_music\29_Tundra\music_tundra_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="398908850" Name="music_tundra_result_drawn" ObjectPath="\Events\Interactive_music\29_Tundra\music_tundra_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="386135916" Name="music_tundra_result_win" ObjectPath="\Events\Interactive_music\29_Tundra\music_tundra_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3378761570" Name="music_westfield_dron_intensive" ObjectPath="\Events\Interactive_music\26_Westfield\music_westfield_dron_intensive" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2579731946" Name="music_westfield_dron_relaxed" ObjectPath="\Events\Interactive_music\26_Westfield\music_westfield_dron_relaxed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3135700856" Name="music_westfield_loading_screen" ObjectPath="\Events\Interactive_music\26_Westfield\music_westfield_loading_screen" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1017259226" Name="music_westfield_result_defeat" ObjectPath="\Events\Interactive_music\26_Westfield\music_westfield_result_defeat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3094543789" Name="music_westfield_result_drawn" ObjectPath="\Events\Interactive_music\26_Westfield\music_westfield_result_drawn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="637530419" Name="music_westfield_result_win" ObjectPath="\Events\Interactive_music\26_Westfield\music_westfield_result_win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2378126911" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\utility</ObjectPath>
+			<ShortName>utility</ShortName>
+			<Path>utility.bnk</Path>
+			<IncludedEvents>
+				<Event Id="712817794" Name="ue_01_loginscreen_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_01_loginscreen_enter" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2766017104" Name="ue_01_loginscreen_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_01_loginscreen_exit" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2888579641" Name="ue_02_hangar_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_02_hangar_enter" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="601736949" Name="ue_02_hangar_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_02_hangar_exit" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3218275239" Name="ue_03_lobby_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_03_lobby_enter" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3481742671" Name="ue_03_lobby_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_03_lobby_exit" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1274044980" Name="ue_04_loadingscreen_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_04_loadingscreen_enter" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1143708950" Name="ue_04_loadingscreen_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_04_loadingscreen_exit" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3077324080" Name="ue_05_arena_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_05_arena_enter" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3822102714" Name="ue_05_arena_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_05_arena_exit" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2313191547" Name="ue_06_result_enter" ObjectPath="\Events\Utilite_events\session_key_events\ue_06_result_enter" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="412589435" Name="ue_06_result_exit" ObjectPath="\Events\Utilite_events\session_key_events\ue_06_result_exit" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="197868276" Name="ue_events_arena_stop_except_music" ObjectPath="\Events\Utilite_events\ue_events_arena_stop_except_music" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="637773918" Name="ue_events_hangar_stop_afterBattleMusic" ObjectPath="\Events\Utilite_events\ue_events_hangar_stop_afterBattleMusic" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="346023504" Name="ue_ext_multichanel_off" ObjectPath="\Events\Utilite_events\multichanel\ue_ext_multichanel_off" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1826536122" Name="ue_ext_multichanel_on" ObjectPath="\Events\Utilite_events\multichanel\ue_ext_multichanel_on" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="161135289" Name="ue_hangar_generic_camera_fly_backward" ObjectPath="\Events\Utilite_events\hangar_common_events\ue_hangar_generic_camera_fly_backward" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="374180353" Name="ue_hangar_generic_camera_fly_forward" ObjectPath="\Events\Utilite_events\hangar_common_events\ue_hangar_generic_camera_fly_forward" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="951643454" Name="ue_init_inside_arena_1stapril" ObjectPath="\Events\Utilite_events\ue_init_inside_arena_1stapril" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1465638626" Name="ue_init_outside_arena_universal" ObjectPath="\Events\Utilite_events\ue_init_outside_arena_universal" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="343201978" Name="ue_key_backward_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_backward_pressed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="856829473" Name="ue_key_backward_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_backward_released" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2744457402" Name="ue_key_forward_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_forward_pressed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2195123745" Name="ue_key_forward_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_forward_released" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3415466906" Name="ue_key_left_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_left_pressed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3400491905" Name="ue_key_left_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_left_released" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="229356423" Name="ue_key_right_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_right_pressed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3981580730" Name="ue_key_right_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_right_released" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="166345957" Name="ue_key_stop_pressed" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_stop_pressed" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3224179688" Name="ue_key_stop_released" ObjectPath="\Events\Utilite_events\actions_with_keys\ue_key_stop_released" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1342683532" Name="ue_master_mute" ObjectPath="\Events\Utilite_events\ue_master_mute" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="410921641" Name="ue_master_unmute" ObjectPath="\Events\Utilite_events\ue_master_unmute" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3941727767" Name="ue_music_volume_fade_30db" ObjectPath="\Events\Utilite_events\ue_music_volume_fade_30db" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="864029140" Name="ue_music_volume_reset" ObjectPath="\Events\Utilite_events\ue_music_volume_reset" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3208127490" Name="ue_set_preset_acoustic_device_laptop" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_acoustic_device_laptop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2668288691" Name="ue_set_preset_acoustic_device_reset" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_acoustic_device_reset" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3051703358" Name="ue_set_preset_audiosystem20" ObjectPath="\Events\Utilite_events\multichanel\ue_set_preset_audiosystem20" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3102036214" Name="ue_set_preset_audiosystem51" ObjectPath="\Events\Utilite_events\multichanel\ue_set_preset_audiosystem51" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3135591388" Name="ue_set_preset_audiosystem71" ObjectPath="\Events\Utilite_events\multichanel\ue_set_preset_audiosystem71" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="783021765" Name="ue_set_preset_bassboost_off" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_bassboost_off" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4193624249" Name="ue_set_preset_bassboost_on" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_bassboost_on" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2405738403" Name="ue_set_preset_high_dynamic_range" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_high_dynamic_range" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="380007007" Name="ue_set_preset_low_dynamic_range" ObjectPath="\Events\Utilite_events\sound_presets\ue_set_preset_low_dynamic_range" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2589335931" Name="ue_stop_all_voices_except_combat_music" ObjectPath="\Events\Utilite_events\ue_stop_all_voices_except_combat_music" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="206862725" Name="ue_stop_loadscreen_music" ObjectPath="\Events\Utilite_events\ue_stop_loadscreen_music" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2444814319" Language="SFX">
+			<ObjectPath>\SoundBanks\Relhax\RelHaxVoiceover</ObjectPath>
+			<ShortName>RelHaxVoiceover</ShortName>
+			<Path>RelHaxVoiceover.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1611658743" Name="mod_vo_chat_shotcuts_attack" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_attack" DurationType="OneShot" DurationMin="1.114558" DurationMax="1.358367"/>
+				<Event Id="1210881942" Name="mod_vo_chat_shotcuts_attack_the_enemy" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_attack_the_enemy" DurationType="OneShot" DurationMin="1.114558" DurationMax="1.358367"/>
+				<Event Id="223798550" Name="mod_vo_chat_shotcuts_back_to_base" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_back_to_base" DurationType="OneShot" DurationMin="1.334521" DurationMax="1.927256"/>
+				<Event Id="2964625917" Name="mod_vo_chat_shotcuts_follow_me" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_follow_me" DurationType="OneShot" DurationMin="1.207438" DurationMax="2.108271"/>
+				<Event Id="1638847515" Name="mod_vo_chat_shotcuts_help_me" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_help_me" DurationType="OneShot" DurationMin="1.160998" DurationMax="2.115990"/>
+				<Event Id="1857100278" Name="mod_vo_chat_shotcuts_negative" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_negative" DurationType="OneShot" DurationMin="0.365625" DurationMax="0.998458"/>
+				<Event Id="778388262" Name="mod_vo_chat_shotcuts_positive" ObjectPath="\Events\Relhax\voiceover\mod_vo_chat_shotcuts_positive" DurationType="OneShot" DurationMin="0.718729" DurationMax="1.214292"/>
+				<Event Id="2301863335" Name="vo_ally_killed_by_player" ObjectPath="\Events\Relhax\voiceover\vo_ally_killed_by_player" DurationType="OneShot" DurationMin="1.253875" DurationMax="4.832646"/>
+				<Event Id="3166122996" Name="vo_ammo_bay_damaged" ObjectPath="\Events\Relhax\voiceover\vo_ammo_bay_damaged" DurationType="OneShot" DurationMin="1.358354" DurationMax="3.000000"/>
+				<Event Id="1332081395" Name="vo_armor_not_pierced_by_player" ObjectPath="\Events\Relhax\voiceover\vo_armor_not_pierced_by_player" DurationType="OneShot" DurationMin="0.638542" DurationMax="3.259146"/>
+				<Event Id="2655350512" Name="vo_armor_ricochet_by_player" ObjectPath="\Events\Relhax\voiceover\vo_armor_ricochet_by_player" DurationType="OneShot" DurationMin="0.638542" DurationMax="3.259146"/>
+				<Event Id="1946435397" Name="vo_commander_killed" ObjectPath="\Events\Relhax\voiceover\vo_commander_killed" DurationType="OneShot" DurationMin="1.436729" DurationMax="2.951833"/>
+				<Event Id="1988695347" Name="vo_crew_deactivated" ObjectPath="\Events\Relhax\voiceover\vo_crew_deactivated" DurationType="OneShot" DurationMin="0.860583" DurationMax="1.985292"/>
+				<Event Id="3716823038" Name="vo_damage_by_near_explosion_by_enemy" ObjectPath="\Events\Relhax\voiceover\vo_damage_by_near_explosion_by_enemy" DurationType="OneShot" DurationMin="3.291417" DurationMax="3.291417"/>
+				<Event Id="2509625173" Name="vo_damage_by_near_explosion_by_player" ObjectPath="\Events\Relhax\voiceover\vo_damage_by_near_explosion_by_player" DurationType="OneShot" DurationMin="1.044896" DurationMax="4.205709"/>
+				<Event Id="2921316646" Name="vo_dp_assistance_been_requested" ObjectPath="\Events\Relhax\voiceover\vo_dp_assistance_been_requested" DurationType="OneShot" DurationMin="2.627083" DurationMax="2.627083"/>
+				<Event Id="831761693" Name="vo_dp_been_excluded_platoon" ObjectPath="\Events\Relhax\voiceover\vo_dp_been_excluded_platoon" DurationType="OneShot" DurationMin="2.832917" DurationMax="2.832917"/>
+				<Event Id="605448325" Name="vo_dp_left_platoon" ObjectPath="\Events\Relhax\voiceover\vo_dp_left_platoon" DurationType="OneShot" DurationMin="1.939167" DurationMax="1.939167"/>
+				<Event Id="2717569914" Name="vo_dp_platoon_created" ObjectPath="\Events\Relhax\voiceover\vo_dp_platoon_created" DurationType="OneShot" DurationMin="1.958313" DurationMax="1.958313"/>
+				<Event Id="1736989749" Name="vo_dp_platoon_dismissed" ObjectPath="\Events\Relhax\voiceover\vo_dp_platoon_dismissed" DurationType="OneShot" DurationMin="1.641250" DurationMax="1.641250"/>
+				<Event Id="1193243693" Name="vo_dp_platoon_joined" ObjectPath="\Events\Relhax\voiceover\vo_dp_platoon_joined" DurationType="OneShot" DurationMin="1.812063" DurationMax="1.812063"/>
+				<Event Id="2524427447" Name="vo_dp_player_joined_platoon" ObjectPath="\Events\Relhax\voiceover\vo_dp_player_joined_platoon" DurationType="OneShot" DurationMin="2.304979" DurationMax="2.304979"/>
+				<Event Id="664892591" Name="vo_driver_killed" ObjectPath="\Events\Relhax\voiceover\vo_driver_killed" DurationType="OneShot" DurationMin="1.123250" DurationMax="1.410604"/>
+				<Event Id="2979380528" Name="vo_enemies_sighted" ObjectPath="\Events\Relhax\voiceover\vo_enemies_sighted" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3563950026" Name="vo_enemy_fire_started_by_player" ObjectPath="\Events\Relhax\voiceover\vo_enemy_fire_started_by_player" DurationType="OneShot" DurationMin="3.239167" DurationMax="5.459583"/>
+				<Event Id="4209631318" Name="vo_enemy_hp_damaged_by_explosion_at_direct_hit_by_player" ObjectPath="\Events\Relhax\voiceover\vo_enemy_hp_damaged_by_explosion_at_direct_hit_by_player" DurationType="OneShot" DurationMin="0.408000" DurationMax="2.827021"/>
+				<Event Id="136522141" Name="vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player" ObjectPath="\Events\Relhax\voiceover\vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player" DurationType="OneShot" DurationMin="0.408000" DurationMax="2.827021"/>
+				<Event Id="102434383" Name="vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player" ObjectPath="\Events\Relhax\voiceover\vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player" DurationType="OneShot" DurationMin="0.408000" DurationMax="2.827021"/>
+				<Event Id="1057290642" Name="vo_enemy_hp_damaged_by_projectile_by_player" ObjectPath="\Events\Relhax\voiceover\vo_enemy_hp_damaged_by_projectile_by_player" DurationType="OneShot" DurationMin="0.408000" DurationMax="2.827021"/>
+				<Event Id="1316861587" Name="vo_enemy_killed" ObjectPath="\Events\Relhax\voiceover\vo_enemy_killed" DurationType="OneShot" DurationMin="1.231292" DurationMax="1.934271"/>
+				<Event Id="1122640859" Name="vo_enemy_killed_by_player" ObjectPath="\Events\Relhax\voiceover\vo_enemy_killed_by_player" DurationType="OneShot" DurationMin="0.480000" DurationMax="7.484603"/>
+				<Event Id="3406769" Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" ObjectPath="\Events\Relhax\voiceover\vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" DurationType="OneShot" DurationMin="0.960000" DurationMax="2.289000"/>
+				<Event Id="3175172091" Name="vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player" ObjectPath="\Events\Relhax\voiceover\vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player" DurationType="OneShot" DurationMin="0.960000" DurationMax="2.289000"/>
+				<Event Id="730352367" Name="vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player" ObjectPath="\Events\Relhax\voiceover\vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player" DurationType="OneShot" DurationMin="0.960000" DurationMax="2.289000"/>
+				<Event Id="1713814001" Name="vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player" ObjectPath="\Events\Relhax\voiceover\vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player" DurationType="OneShot" DurationMin="0.960000" DurationMax="2.289000"/>
+				<Event Id="40924856" Name="vo_enemy_sighted" ObjectPath="\Events\Relhax\voiceover\vo_enemy_sighted" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1702267773" Name="vo_engine_damaged" ObjectPath="\Events\Relhax\voiceover\vo_engine_damaged" DurationType="OneShot" DurationMin="1.097125" DurationMax="1.384479"/>
+				<Event Id="1302422561" Name="vo_engine_destroyed" ObjectPath="\Events\Relhax\voiceover\vo_engine_destroyed" DurationType="OneShot" DurationMin="1.134694" DurationMax="1.488979"/>
+				<Event Id="4148607935" Name="vo_engine_functional" ObjectPath="\Events\Relhax\voiceover\vo_engine_functional" DurationType="OneShot" DurationMin="1.123250" DurationMax="1.619583"/>
+				<Event Id="1396083645" Name="vo_fire_started" ObjectPath="\Events\Relhax\voiceover\vo_fire_started" DurationType="OneShot" DurationMin="1.416000" DurationMax="9.325104"/>
+				<Event Id="3616464105" Name="vo_fire_stopped" ObjectPath="\Events\Relhax\voiceover\vo_fire_stopped" DurationType="OneShot" DurationMin="1.436729" DurationMax="2.925708"/>
+				<Event Id="1641781602" Name="vo_fuel_tank_damaged" ObjectPath="\Events\Relhax\voiceover\vo_fuel_tank_damaged" DurationType="OneShot" DurationMin="1.462854" DurationMax="1.462854"/>
+				<Event Id="693799259" Name="vo_gun_damaged" ObjectPath="\Events\Relhax\voiceover\vo_gun_damaged" DurationType="OneShot" DurationMin="1.097125" DurationMax="1.802438"/>
+				<Event Id="825236543" Name="vo_gun_destroyed" ObjectPath="\Events\Relhax\voiceover\vo_gun_destroyed" DurationType="OneShot" DurationMin="1.485708" DurationMax="1.485708"/>
+				<Event Id="4011208105" Name="vo_gun_functional" ObjectPath="\Events\Relhax\voiceover\vo_gun_functional" DurationType="OneShot" DurationMin="1.488979" DurationMax="3.186938"/>
+				<Event Id="1107412350" Name="vo_gunner_killed" ObjectPath="\Events\Relhax\voiceover\vo_gunner_killed" DurationType="OneShot" DurationMin="1.332229" DurationMax="2.351000"/>
+				<Event Id="1781671118" Name="vo_loader_killed" ObjectPath="\Events\Relhax\voiceover\vo_loader_killed" DurationType="OneShot" DurationMin="1.280000" DurationMax="1.306104"/>
+				<Event Id="575170028" Name="vo_radio_damaged" ObjectPath="\Events\Relhax\voiceover\vo_radio_damaged" DurationType="OneShot" DurationMin="1.488979" DurationMax="1.828562"/>
+				<Event Id="3928775652" Name="vo_radioman_killed" ObjectPath="\Events\Relhax\voiceover\vo_radioman_killed" DurationType="OneShot" DurationMin="1.645708" DurationMax="3.274021"/>
+				<Event Id="590598450" Name="vo_start_battle" ObjectPath="\Events\Relhax\voiceover\vo_start_battle" DurationType="OneShot" DurationMin="0.624000" DurationMax="5.886542"/>
+				<Event Id="2775977275" Name="vo_surveying_devices_damaged" ObjectPath="\Events\Relhax\voiceover\vo_surveying_devices_damaged" DurationType="OneShot" DurationMin="1.619583" DurationMax="1.619583"/>
+				<Event Id="1112395295" Name="vo_surveying_devices_destroyed" ObjectPath="\Events\Relhax\voiceover\vo_surveying_devices_destroyed" DurationType="OneShot" DurationMin="1.906937" DurationMax="1.906937"/>
+				<Event Id="998311689" Name="vo_surveying_devices_functional" ObjectPath="\Events\Relhax\voiceover\vo_surveying_devices_functional" DurationType="OneShot" DurationMin="2.194271" DurationMax="2.194271"/>
+				<Event Id="1491984609" Name="vo_target_captured" ObjectPath="\Events\Relhax\voiceover\vo_target_captured" DurationType="OneShot" DurationMin="0.587833" DurationMax="2.970750"/>
+				<Event Id="2836359293" Name="vo_target_lost" ObjectPath="\Events\Relhax\voiceover\vo_target_lost" DurationType="OneShot" DurationMin="0.600000" DurationMax="1.488979"/>
+				<Event Id="85617264" Name="vo_target_unlocked" ObjectPath="\Events\Relhax\voiceover\vo_target_unlocked" DurationType="OneShot" DurationMin="0.480000" DurationMax="2.377125"/>
+				<Event Id="766987452" Name="vo_track_damaged" ObjectPath="\Events\Relhax\voiceover\vo_track_damaged" DurationType="OneShot" DurationMin="0.576000" DurationMax="1.854687"/>
+				<Event Id="1244332268" Name="vo_track_destroyed" ObjectPath="\Events\Relhax\voiceover\vo_track_destroyed" DurationType="OneShot" DurationMin="0.792000" DurationMax="1.248000"/>
+				<Event Id="3498324732" Name="vo_track_functional" ObjectPath="\Events\Relhax\voiceover\vo_track_functional" DurationType="OneShot" DurationMin="1.097125" DurationMax="1.097125"/>
+				<Event Id="311966861" Name="vo_track_functional_can_move" ObjectPath="\Events\Relhax\voiceover\vo_track_functional_can_move" DurationType="OneShot" DurationMin="0.809792" DurationMax="1.320000"/>
+				<Event Id="47755571" Name="vo_turret_rotator_damaged" ObjectPath="\Events\Relhax\voiceover\vo_turret_rotator_damaged" DurationType="OneShot" DurationMin="1.515083" DurationMax="1.515083"/>
+				<Event Id="1630212423" Name="vo_turret_rotator_destroyed" ObjectPath="\Events\Relhax\voiceover\vo_turret_rotator_destroyed" DurationType="OneShot" DurationMin="1.724062" DurationMax="1.724062"/>
+				<Event Id="257621937" Name="vo_turret_rotator_functional" ObjectPath="\Events\Relhax\voiceover\vo_turret_rotator_functional" DurationType="OneShot" DurationMin="1.933042" DurationMax="4.296000"/>
+				<Event Id="3917054405" Name="vo_vehicle_destroyed" ObjectPath="\Events\Relhax\voiceover\vo_vehicle_destroyed" DurationType="OneShot" DurationMin="0.998458" DurationMax="2.568000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="8358594" Language="SFX">
+					<ShortName>surveying_devices_damaged_07.wav</ShortName>
+					<Path>SFX\surveying_devices_damaged_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="11207367" Language="SFX">
+					<ShortName>vehicle_destroyed_16.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_16_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="13009951" Language="SFX">
+					<ShortName>gun_damaged_02.wav</ShortName>
+					<Path>SFX\gun_damaged_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="14691294" Language="SFX">
+					<ShortName>track_functional_can_move_04.wav</ShortName>
+					<Path>SFX\track_functional_can_move_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="15637644" Language="SFX">
+					<ShortName>fire_started_06.wav</ShortName>
+					<Path>SFX\fire_started_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="18453839" Language="SFX">
+					<ShortName>damage_by_near_explosion_by_player_02.wav</ShortName>
+					<Path>SFX\damage_by_near_explosion_by_player_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="22111126" Language="SFX">
+					<ShortName>surveying_devices_destroyed_03.wav</ShortName>
+					<Path>SFX\surveying_devices_destroyed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="22496049" Language="SFX">
+					<ShortName>armor_pierced_by_player_16.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_16_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="25484191" Language="SFX">
+					<ShortName>start_battle_37.wav</ShortName>
+					<Path>SFX\start_battle_37_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="25638602" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_08.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_08_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="26314162" Language="SFX">
+					<ShortName>track_damaged_03.wav</ShortName>
+					<Path>SFX\track_damaged_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="29118875" Language="SFX">
+					<ShortName>left_platoon_01.wav</ShortName>
+					<Path>SFX\left_platoon_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="29553632" Language="SFX">
+					<ShortName>armor_pierced_by_player_14.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_14_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="34786335" Language="SFX">
+					<ShortName>surveying_devices_destroyed_01.wav</ShortName>
+					<Path>SFX\surveying_devices_destroyed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="38232533" Language="SFX">
+					<ShortName>start_battle_03.wav</ShortName>
+					<Path>SFX\start_battle_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="42694695" Language="SFX">
+					<ShortName>gun_functional_03.wav</ShortName>
+					<Path>SFX\gun_functional_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="44525118" Language="SFX">
+					<ShortName>shotcuts_help_me_01.wav</ShortName>
+					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="45394316" Language="SFX">
+					<ShortName>gunner_killed_02.wav</ShortName>
+					<Path>SFX\gunner_killed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="48459256" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_16.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_16_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="52618052" Language="SFX">
+					<ShortName>surveying_devices_functional_03.wav</ShortName>
+					<Path>SFX\surveying_devices_functional_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="55333633" Language="SFX">
+					<ShortName>track_functional_can_move_01.wav</ShortName>
+					<Path>SFX\track_functional_can_move_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="57703865" Language="SFX">
+					<ShortName>armor_pierced_by_player_01.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="60021059" Language="SFX">
+					<ShortName>vehicle_destroyed_25.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_25_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="60220293" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_13.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_13_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="60713417" Language="SFX">
+					<ShortName>enemy_killed_by_player_06.wav</ShortName>
+					<Path>SFX\enemy_killed_by_player_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="62287198" Language="SFX">
+					<ShortName>track_destroyed_02.wav</ShortName>
+					<Path>SFX\track_destroyed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="73974792" Language="SFX">
+					<ShortName>track_destroyed_01.wav</ShortName>
+					<Path>SFX\track_destroyed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="77187119" Language="SFX">
+					<ShortName>target_unlocked_03.wav</ShortName>
+					<Path>SFX\target_unlocked_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="77850110" Language="SFX">
+					<ShortName>start_battle_20.wav</ShortName>
+					<Path>SFX\start_battle_20_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="79173290" Language="SFX">
+					<ShortName>gun_functional_01.wav</ShortName>
+					<Path>SFX\gun_functional_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="85616108" Language="SFX">
+					<ShortName>turret_rotator_destroyed_03.wav</ShortName>
+					<Path>SFX\turret_rotator_destroyed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="88634796" Language="SFX">
+					<ShortName>vehicle_destroyed_10.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_10_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="89937879" Language="SFX">
+					<ShortName>start_battle_27.wav</ShortName>
+					<Path>SFX\start_battle_27_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="89955805" Language="SFX">
+					<ShortName>vehicle_destroyed_20.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_20_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="99402018" Language="SFX">
+					<ShortName>start_battle_16.wav</ShortName>
+					<Path>SFX\start_battle_16_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="103893671" Language="SFX">
+					<ShortName>target_captured_03.wav</ShortName>
+					<Path>SFX\target_captured_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="104938619" Language="SFX">
+					<ShortName>fuel_tank_damaged_04.wav</ShortName>
+					<Path>SFX\fuel_tank_damaged_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="108959989" Language="SFX">
+					<ShortName>surveying_devices_destroyed_02.wav</ShortName>
+					<Path>SFX\surveying_devices_destroyed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="113266005" Language="SFX">
+					<ShortName>radio_damaged_02.wav</ShortName>
+					<Path>SFX\radio_damaged_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="117516043" Language="SFX">
+					<ShortName>armor_pierced_by_player_12.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_12_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="119543231" Language="SFX">
+					<ShortName>enemy_killed_01.wav</ShortName>
+					<Path>SFX\enemy_killed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="125365816" Language="SFX">
+					<ShortName>turret_rotator_destroyed_01.wav</ShortName>
+					<Path>SFX\turret_rotator_destroyed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="130087675" Language="SFX">
+					<ShortName>damage_by_near_explosion_by_enemy_01.wav</ShortName>
+					<Path>SFX\damage_by_near_explosion_by_enemy_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="133397452" Language="SFX">
+					<ShortName>fire_stopped_04.wav</ShortName>
+					<Path>SFX\fire_stopped_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="134287271" Language="SFX">
+					<ShortName>enemy_killed_by_player_10.wav</ShortName>
+					<Path>SFX\enemy_killed_by_player_10_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="138746664" Language="SFX">
+					<ShortName>loader_killed_02.wav</ShortName>
+					<Path>SFX\loader_killed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="139334922" Language="SFX">
+					<ShortName>track_functional_can_move_07.wav</ShortName>
+					<Path>SFX\track_functional_can_move_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="153389668" Language="SFX">
+					<ShortName>vehicle_destroyed_24.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_24_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="156362035" Language="SFX">
+					<ShortName>platoon_created_01.wav</ShortName>
+					<Path>SFX\platoon_created_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="166776761" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_07.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="173094227" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_03.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="176680348" Language="SFX">
+					<ShortName>start_battle_25.wav</ShortName>
+					<Path>SFX\start_battle_25_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="177783609" Language="SFX">
+					<ShortName>radioman_killed_02.wav</ShortName>
+					<Path>SFX\radioman_killed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="179252307" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_19.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_19_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="179993955" Language="SFX">
+					<ShortName>engine_damaged_06.wav</ShortName>
+					<Path>SFX\engine_damaged_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="182893996" Language="SFX">
+					<ShortName>gun_damaged_04.wav</ShortName>
+					<Path>SFX\gun_damaged_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="183354589" Language="SFX">
+					<ShortName>vehicle_destroyed_15.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_15_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="184003758" Language="SFX">
+					<ShortName>start_battle_28.wav</ShortName>
+					<Path>SFX\start_battle_28_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="187743199" Language="SFX">
+					<ShortName>start_battle_15.wav</ShortName>
+					<Path>SFX\start_battle_15_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="202615093" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_01.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="202953947" Language="SFX">
+					<ShortName>vehicle_destroyed_23.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_23_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="205891423" Language="SFX">
+					<ShortName>engine_destroyed_02.wav</ShortName>
+					<Path>SFX\engine_destroyed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="208895145" Language="SFX">
+					<ShortName>shotcuts_attack_02.wav</ShortName>
+					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
+				</File>
+				<File Id="212234872" Language="SFX">
+					<ShortName>ammo_bay_damaged_03.wav</ShortName>
+					<Path>SFX\ammo_bay_damaged_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="212735966" Language="SFX">
+					<ShortName>damage_by_near_explosion_by_player_05.wav</ShortName>
+					<Path>SFX\damage_by_near_explosion_by_player_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="218128135" Language="SFX">
+					<ShortName>engine_damaged_07.wav</ShortName>
+					<Path>SFX\engine_damaged_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="225638789" Language="SFX">
+					<ShortName>target_captured_02.wav</ShortName>
+					<Path>SFX\target_captured_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="230383552" Language="SFX">
+					<ShortName>driver_killed_01.wav</ShortName>
+					<Path>SFX\driver_killed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="232144330" Language="SFX">
+					<ShortName>fire_stopped_02.wav</ShortName>
+					<Path>SFX\fire_stopped_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="232212995" Language="SFX">
+					<ShortName>track_functional_04.wav</ShortName>
+					<Path>SFX\track_functional_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="233256650" Language="SFX">
+					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
+					<Path>SFX\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="234564461" Language="SFX">
+					<ShortName>target_lost_04.wav</ShortName>
+					<Path>SFX\target_lost_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="236067940" Language="SFX">
+					<ShortName>gun_destroyed_03.wav</ShortName>
+					<Path>SFX\gun_destroyed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="236096009" Language="SFX">
+					<ShortName>crew_deactivated_05.wav</ShortName>
+					<Path>SFX\crew_deactivated_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="237585025" Language="SFX">
+					<ShortName>start_battle_39.wav</ShortName>
+					<Path>SFX\start_battle_39_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="242740349" Language="SFX">
+					<ShortName>shotcuts_negative_02.wav</ShortName>
+					<Path>SFX\shotcuts_negative_02_C8E51BD1.wem</Path>
+				</File>
+				<File Id="243659948" Language="SFX">
+					<ShortName>engine_damaged_01.wav</ShortName>
+					<Path>SFX\engine_damaged_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="244358264" Language="SFX">
+					<ShortName>surveying_devices_destroyed_04.wav</ShortName>
+					<Path>SFX\surveying_devices_destroyed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="245267511" Language="SFX">
+					<ShortName>enemy_killed_by_player_02.wav</ShortName>
+					<Path>SFX\enemy_killed_by_player_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="247304646" Language="SFX">
+					<ShortName>start_battle_24.wav</ShortName>
+					<Path>SFX\start_battle_24_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="248105007" Language="SFX">
+					<ShortName>shotcuts_follow_me_01.wav</ShortName>
+					<Path>SFX\shotcuts_follow_me_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="252801674" Language="SFX">
+					<ShortName>engine_destroyed_01.wav</ShortName>
+					<Path>SFX\engine_destroyed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="252881916" Language="SFX">
+					<ShortName>armor_pierced_by_player_05.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="255538538" Language="SFX">
+					<ShortName>radio_damaged_01.wav</ShortName>
+					<Path>SFX\radio_damaged_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="256958328" Language="SFX">
+					<ShortName>armor_pierced_by_player_04.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="257282073" Language="SFX">
+					<ShortName>vehicle_destroyed_08.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_08_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="262490507" Language="SFX">
+					<ShortName>surveying_devices_damaged_02.wav</ShortName>
+					<Path>SFX\surveying_devices_damaged_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="265095159" Language="SFX">
+					<ShortName>armor_pierced_by_player_13.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_13_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="265334472" Language="SFX">
+					<ShortName>turret_rotator_damaged_02.wav</ShortName>
+					<Path>SFX\turret_rotator_damaged_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="269313410" Language="SFX">
+					<ShortName>surveying_devices_functional_04.wav</ShortName>
+					<Path>SFX\surveying_devices_functional_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="274974891" Language="SFX">
+					<ShortName>start_battle_17.wav</ShortName>
+					<Path>SFX\start_battle_17_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="290681374" Language="SFX">
+					<ShortName>vehicle_destroyed_18.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_18_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="295297480" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_02.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="297244953" Language="SFX">
+					<ShortName>start_battle_23.wav</ShortName>
+					<Path>SFX\start_battle_23_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="300183488" Language="SFX">
+					<ShortName>fire_started_04.wav</ShortName>
+					<Path>SFX\fire_started_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="300590995" Language="SFX">
+					<ShortName>crew_deactivated_01.wav</ShortName>
+					<Path>SFX\crew_deactivated_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="304828688" Language="SFX">
+					<ShortName>surveying_devices_destroyed_05.wav</ShortName>
+					<Path>SFX\surveying_devices_destroyed_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="304873221" Language="SFX">
+					<ShortName>track_functional_01.wav</ShortName>
+					<Path>SFX\track_functional_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="321579828" Language="SFX">
+					<ShortName>armor_pierced_by_player_10.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_10_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="328185553" Language="SFX">
+					<ShortName>turret_rotator_destroyed_02.wav</ShortName>
+					<Path>SFX\turret_rotator_destroyed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="328423373" Language="SFX">
+					<ShortName>track_destroyed_03.wav</ShortName>
+					<Path>SFX\track_destroyed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="333499760" Language="SFX">
+					<ShortName>enemy_killed_by_player_01.wav</ShortName>
+					<Path>SFX\enemy_killed_by_player_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="335708006" Language="SFX">
+					<ShortName>ally_killed_by_player_03.wav</ShortName>
+					<Path>SFX\ally_killed_by_player_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="339455773" Language="SFX">
+					<ShortName>start_battle_18.wav</ShortName>
+					<Path>SFX\start_battle_18_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="345508627" Language="SFX">
+					<ShortName>fuel_tank_damaged_02.wav</ShortName>
+					<Path>SFX\fuel_tank_damaged_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="352168507" Language="SFX">
+					<ShortName>target_captured_06.wav</ShortName>
+					<Path>SFX\target_captured_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="355676414" Language="SFX">
+					<ShortName>radioman_killed_01.wav</ShortName>
+					<Path>SFX\radioman_killed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="358269204" Language="SFX">
+					<ShortName>gun_damaged_01.wav</ShortName>
+					<Path>SFX\gun_damaged_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="358315222" Language="SFX">
+					<ShortName>vehicle_destroyed_12.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_12_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="362735754" Language="SFX">
+					<ShortName>engine_damaged_04.wav</ShortName>
+					<Path>SFX\engine_damaged_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="363514213" Language="SFX">
+					<ShortName>turret_rotator_functional_01.wav</ShortName>
+					<Path>SFX\turret_rotator_functional_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="365160048" Language="SFX">
+					<ShortName>vehicle_destroyed_03.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="365920383" Language="SFX">
+					<ShortName>track_destroyed_04.wav</ShortName>
+					<Path>SFX\track_destroyed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="370759285" Language="SFX">
+					<ShortName>driver_killed_03.wav</ShortName>
+					<Path>SFX\driver_killed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="371320402" Language="SFX">
+					<ShortName>fire_started_03.wav</ShortName>
+					<Path>SFX\fire_started_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="373538626" Language="SFX">
+					<ShortName>gunner_killed_01.wav</ShortName>
+					<Path>SFX\gunner_killed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="373649351" Language="SFX">
+					<ShortName>loader_killed_01.wav</ShortName>
+					<Path>SFX\loader_killed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="374020820" Language="SFX">
+					<ShortName>vehicle_destroyed_19.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_19_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="390897398" Language="SFX">
+					<ShortName>gun_functional_04.wav</ShortName>
+					<Path>SFX\gun_functional_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="394327502" Language="SFX">
+					<ShortName>surveying_devices_destroyed_07.wav</ShortName>
+					<Path>SFX\surveying_devices_destroyed_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="396148208" Language="SFX">
+					<ShortName>start_battle_26.wav</ShortName>
+					<Path>SFX\start_battle_26_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="399888103" Language="SFX">
+					<ShortName>shotcuts_follow_me_02.wav</ShortName>
+					<Path>SFX\shotcuts_follow_me_02_C8E51BD1.wem</Path>
+				</File>
+				<File Id="404127349" Language="SFX">
+					<ShortName>been_excluded_platoon_01.wav</ShortName>
+					<Path>SFX\been_excluded_platoon_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="405070503" Language="SFX">
+					<ShortName>vehicle_destroyed_04.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="407652089" Language="SFX">
+					<ShortName>track_functional_02.wav</ShortName>
+					<Path>SFX\track_functional_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="408336468" Language="SFX">
+					<ShortName>start_battle_06.wav</ShortName>
+					<Path>SFX\start_battle_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="409925601" Language="SFX">
+					<ShortName>enemy_killed_by_player_05.wav</ShortName>
+					<Path>SFX\enemy_killed_by_player_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="410051501" Language="SFX">
+					<ShortName>enemy_killed_by_player_04.wav</ShortName>
+					<Path>SFX\enemy_killed_by_player_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="411298913" Language="SFX">
+					<ShortName>ally_killed_by_player_01.wav</ShortName>
+					<Path>SFX\ally_killed_by_player_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="413687910" Language="SFX">
+					<ShortName>damage_by_near_explosion_by_player_03.wav</ShortName>
+					<Path>SFX\damage_by_near_explosion_by_player_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="414711139" Language="SFX">
+					<ShortName>fire_started_08.wav</ShortName>
+					<Path>SFX\fire_started_08_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="416077725" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_09.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_09_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="417461772" Language="SFX">
+					<ShortName>surveying_devices_damaged_03.wav</ShortName>
+					<Path>SFX\surveying_devices_damaged_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="419778565" Language="SFX">
+					<ShortName>target_captured_07.wav</ShortName>
+					<Path>SFX\target_captured_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="424771368" Language="SFX">
+					<ShortName>damage_by_near_explosion_by_player_06.wav</ShortName>
+					<Path>SFX\damage_by_near_explosion_by_player_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="427080557" Language="SFX">
+					<ShortName>track_damaged_02.wav</ShortName>
+					<Path>SFX\track_damaged_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="428278769" Language="SFX">
+					<ShortName>start_battle_29.wav</ShortName>
+					<Path>SFX\start_battle_29_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="431760227" Language="SFX">
+					<ShortName>platoon_joined_01.wav</ShortName>
+					<Path>SFX\platoon_joined_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="434883177" Language="SFX">
+					<ShortName>start_battle_13.wav</ShortName>
+					<Path>SFX\start_battle_13_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="435259308" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_20.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_20_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="444479633" Language="SFX">
+					<ShortName>gunner_killed_04.wav</ShortName>
+					<Path>SFX\gunner_killed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="446109837" Language="SFX">
+					<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+					<Path>SFX\armor_pierced_crit_by_player_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="446602612" Language="SFX">
+					<ShortName>armor_pierced_by_player_09.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_09_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="459652991" Language="SFX">
+					<ShortName>commander_killed_01.wav</ShortName>
+					<Path>SFX\commander_killed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="469532710" Language="SFX">
+					<ShortName>target_unlocked_01.wav</ShortName>
+					<Path>SFX\target_unlocked_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="477605173" Language="SFX">
+					<ShortName>armor_pierced_by_player_15.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_15_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="478239788" Language="SFX">
+					<ShortName>enemy_killed_by_player_03.wav</ShortName>
+					<Path>SFX\enemy_killed_by_player_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="478266049" Language="SFX">
+					<ShortName>start_battle_21.wav</ShortName>
+					<Path>SFX\start_battle_21_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="484558036" Language="SFX">
+					<ShortName>start_battle_07.wav</ShortName>
+					<Path>SFX\start_battle_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="491541019" Language="SFX">
+					<ShortName>crew_deactivated_02.wav</ShortName>
+					<Path>SFX\crew_deactivated_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="499928165" Language="SFX">
+					<ShortName>enemy_killed_by_player_09.wav</ShortName>
+					<Path>SFX\enemy_killed_by_player_09_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="502029609" Language="SFX">
+					<ShortName>shotcuts_affirmative_02.wav</ShortName>
+					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
+				</File>
+				<File Id="503168439" Language="SFX">
+					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+					<Path>SFX\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="504743406" Language="SFX">
+					<ShortName>shotcuts_negative_03.wav</ShortName>
+					<Path>SFX\shotcuts_negative_03_C8E51BD1.wem</Path>
+				</File>
+				<File Id="511159695" Language="SFX">
+					<ShortName>engine_destroyed_03.wav</ShortName>
+					<Path>SFX\engine_destroyed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="513940770" Language="SFX">
+					<ShortName>enemy_killed_03.wav</ShortName>
+					<Path>SFX\enemy_killed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="514760074" Language="SFX">
+					<ShortName>armor_pierced_by_player_06.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="519590206" Language="SFX">
+					<ShortName>armor_pierced_by_player_08.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_08_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="522363755" Language="SFX">
+					<ShortName>armor_pierced_by_player_07.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="528901786" Language="SFX">
+					<ShortName>driver_killed_02.wav</ShortName>
+					<Path>SFX\driver_killed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="531356530" Language="SFX">
+					<ShortName>radio_damaged_03.wav</ShortName>
+					<Path>SFX\radio_damaged_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="537333326" Language="SFX">
+					<ShortName>engine_damaged_02.wav</ShortName>
+					<Path>SFX\engine_damaged_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="541151505" Language="SFX">
+					<ShortName>armor_pierced_by_player_03.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="545561457" Language="SFX">
+					<ShortName>driver_killed_04.wav</ShortName>
+					<Path>SFX\driver_killed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="554254436" Language="SFX">
+					<ShortName>commander_killed_03.wav</ShortName>
+					<Path>SFX\commander_killed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="554686206" Language="SFX">
+					<ShortName>commander_killed_02.wav</ShortName>
+					<Path>SFX\commander_killed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="556186461" Language="SFX">
+					<ShortName>surveying_devices_damaged_06.wav</ShortName>
+					<Path>SFX\surveying_devices_damaged_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="558847115" Language="SFX">
+					<ShortName>engine_functional_04.wav</ShortName>
+					<Path>SFX\engine_functional_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="559789910" Language="SFX">
+					<ShortName>start_battle_30.wav</ShortName>
+					<Path>SFX\start_battle_30_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="563431625" Language="SFX">
+					<ShortName>start_battle_11.wav</ShortName>
+					<Path>SFX\start_battle_11_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="563859386" Language="SFX">
+					<ShortName>start_battle_12.wav</ShortName>
+					<Path>SFX\start_battle_12_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="572184470" Language="SFX">
+					<ShortName>surveying_devices_destroyed_06.wav</ShortName>
+					<Path>SFX\surveying_devices_destroyed_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="572945393" Language="SFX">
+					<ShortName>surveying_devices_functional_05.wav</ShortName>
+					<Path>SFX\surveying_devices_functional_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="574589992" Language="SFX">
+					<ShortName>start_battle_36.wav</ShortName>
+					<Path>SFX\start_battle_36_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="578446235" Language="SFX">
+					<ShortName>enemy_fire_started_by_player_04.wav</ShortName>
+					<Path>SFX\enemy_fire_started_by_player_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="581460744" Language="SFX">
+					<ShortName>target_captured_05.wav</ShortName>
+					<Path>SFX\target_captured_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="588614358" Language="SFX">
+					<ShortName>track_damaged_01.wav</ShortName>
+					<Path>SFX\track_damaged_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="589935526" Language="SFX">
+					<ShortName>radio_damaged_04.wav</ShortName>
+					<Path>SFX\radio_damaged_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="592122748" Language="SFX">
+					<ShortName>engine_functional_01.wav</ShortName>
+					<Path>SFX\engine_functional_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="605723919" Language="SFX">
+					<ShortName>gunner_killed_03.wav</ShortName>
+					<Path>SFX\gunner_killed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="609623680" Language="SFX">
+					<ShortName>fire_stopped_03.wav</ShortName>
+					<Path>SFX\fire_stopped_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="613253349" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_14.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_14_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="614014114" Language="SFX">
+					<ShortName>target_lost_02.wav</ShortName>
+					<Path>SFX\target_lost_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="628453300" Language="SFX">
+					<ShortName>vehicle_destroyed_02.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="632452718" Language="SFX">
+					<ShortName>gun_damaged_03.wav</ShortName>
+					<Path>SFX\gun_damaged_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="635372836" Language="SFX">
+					<ShortName>track_functional_03.wav</ShortName>
+					<Path>SFX\track_functional_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="636945697" Language="SFX">
+					<ShortName>start_battle_09.wav</ShortName>
+					<Path>SFX\start_battle_09_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="639651433" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_17.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_17_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="641666576" Language="SFX">
+					<ShortName>engine_functional_03.wav</ShortName>
+					<Path>SFX\engine_functional_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="644240738" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_05.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="645402013" Language="SFX">
+					<ShortName>crew_deactivated_03.wav</ShortName>
+					<Path>SFX\crew_deactivated_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="650262793" Language="SFX">
+					<ShortName>start_battle_14.wav</ShortName>
+					<Path>SFX\start_battle_14_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="658547563" Language="SFX">
+					<ShortName>start_battle_22.wav</ShortName>
+					<Path>SFX\start_battle_22_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="660050851" Language="SFX">
+					<ShortName>shotcuts_negative_01.wav</ShortName>
+					<Path>SFX\shotcuts_negative_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="661121777" Language="SFX">
+					<ShortName>commander_killed_04.wav</ShortName>
+					<Path>SFX\commander_killed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="666940994" Language="SFX">
+					<ShortName>turret_rotator_damaged_03.wav</ShortName>
+					<Path>SFX\turret_rotator_damaged_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="671194276" Language="SFX">
+					<ShortName>shotcuts_affirmative_01.wav</ShortName>
+					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="671199563" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_04.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="678150094" Language="SFX">
+					<ShortName>turret_rotator_damaged_01.wav</ShortName>
+					<Path>SFX\turret_rotator_damaged_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="685745183" Language="SFX">
+					<ShortName>vehicle_destroyed_06.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="691914186" Language="SFX">
+					<ShortName>vehicle_destroyed_22.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_22_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="701406667" Language="SFX">
+					<ShortName>track_functional_can_move_02.wav</ShortName>
+					<Path>SFX\track_functional_can_move_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="710456519" Language="SFX">
+					<ShortName>fire_started_01.wav</ShortName>
+					<Path>SFX\fire_started_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="712142590" Language="SFX">
+					<ShortName>target_captured_04.wav</ShortName>
+					<Path>SFX\target_captured_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="719687969" Language="SFX">
+					<ShortName>damage_by_near_explosion_by_player_04.wav</ShortName>
+					<Path>SFX\damage_by_near_explosion_by_player_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
+				<File Id="729705197" Language="SFX">
+					<ShortName>surveying_devices_functional_06.wav</ShortName>
+					<Path>SFX\surveying_devices_functional_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="730835294" Language="SFX">
+					<ShortName>assistance_been_requested_01.wav</ShortName>
+					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="733662581" Language="SFX">
+					<ShortName>vehicle_destroyed_01.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="738637827" Language="SFX">
+					<ShortName>vehicle_destroyed_09.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_09_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="739868296" Language="SFX">
+					<ShortName>enemy_fire_started_by_player_03.wav</ShortName>
+					<Path>SFX\enemy_fire_started_by_player_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="743889651" Language="SFX">
+					<ShortName>loader_killed_04.wav</ShortName>
+					<Path>SFX\loader_killed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="743968679" Language="SFX">
+					<ShortName>turret_rotator_destroyed_04.wav</ShortName>
+					<Path>SFX\turret_rotator_destroyed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="746117316" Language="SFX">
+					<ShortName>shotcuts_attack_01.wav</ShortName>
+					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="747514814" Language="SFX">
+					<ShortName>start_battle_35.wav</ShortName>
+					<Path>SFX\start_battle_35_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="749823164" Language="SFX">
+					<ShortName>radioman_killed_03.wav</ShortName>
+					<Path>SFX\radioman_killed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="751324251" Language="SFX">
+					<ShortName>vehicle_destroyed_13.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_13_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="753320361" Language="SFX">
+					<ShortName>fuel_tank_damaged_05.wav</ShortName>
+					<Path>SFX\fuel_tank_damaged_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="759668989" Language="SFX">
+					<ShortName>ally_killed_by_player_05.wav</ShortName>
+					<Path>SFX\ally_killed_by_player_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="771540951" Language="SFX">
+					<ShortName>start_battle_32.wav</ShortName>
+					<Path>SFX\start_battle_32_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="773147408" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_15.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_15_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="774715515" Language="SFX">
+					<ShortName>engine_damaged_05.wav</ShortName>
+					<Path>SFX\engine_damaged_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="774732982" Language="SFX">
+					<ShortName>start_battle_04.wav</ShortName>
+					<Path>SFX\start_battle_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="775591155" Language="SFX">
+					<ShortName>start_battle_33.wav</ShortName>
+					<Path>SFX\start_battle_33_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="775710773" Language="SFX">
+					<ShortName>ammo_bay_damaged_04.wav</ShortName>
+					<Path>SFX\ammo_bay_damaged_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="785240155" Language="SFX">
+					<ShortName>surveying_devices_functional_07.wav</ShortName>
+					<Path>SFX\surveying_devices_functional_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="787037508" Language="SFX">
+					<ShortName>damage_by_near_explosion_by_player_08.wav</ShortName>
+					<Path>SFX\damage_by_near_explosion_by_player_08_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="790396832" Language="SFX">
+					<ShortName>crew_deactivated_04.wav</ShortName>
+					<Path>SFX\crew_deactivated_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="790463392" Language="SFX">
+					<ShortName>start_battle_19.wav</ShortName>
+					<Path>SFX\start_battle_19_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="791241745" Language="SFX">
+					<ShortName>vehicle_destroyed_05.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="792359041" Language="SFX">
+					<ShortName>damage_by_near_explosion_by_enemy_02.wav</ShortName>
+					<Path>SFX\damage_by_near_explosion_by_enemy_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="796213409" Language="SFX">
+					<ShortName>track_functional_can_move_03.wav</ShortName>
+					<Path>SFX\track_functional_can_move_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="798866089" Language="SFX">
+					<ShortName>fire_started_07.wav</ShortName>
+					<Path>SFX\fire_started_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="798944412" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_11.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_11_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="817668882" Language="SFX">
+					<ShortName>gun_destroyed_01.wav</ShortName>
+					<Path>SFX\gun_destroyed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="823060635" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_18.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_18_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="823267409" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_10.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_10_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="823314785" Language="SFX">
+					<ShortName>shotcuts_affirmative_03.wav</ShortName>
+					<Path>SFX\shotcuts_affirmative_03_C8E51BD1.wem</Path>
+				</File>
+				<File Id="828579084" Language="SFX">
+					<ShortName>vehicle_destroyed_07.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="829102517" Language="SFX">
+					<ShortName>player_joined_platoon_01.wav</ShortName>
+					<Path>SFX\player_joined_platoon_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="832928646" Language="SFX">
+					<ShortName>shotcuts_defend_base_01.wav</ShortName>
+					<Path>SFX\shotcuts_defend_base_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="850848618" Language="SFX">
+					<ShortName>radio_damaged_05.wav</ShortName>
+					<Path>SFX\radio_damaged_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="851938963" Language="SFX">
+					<ShortName>shotcuts_defend_base_02.wav</ShortName>
+					<Path>SFX\shotcuts_defend_base_02_C8E51BD1.wem</Path>
+				</File>
+				<File Id="853506866" Language="SFX">
+					<ShortName>fire_stopped_01.wav</ShortName>
+					<Path>SFX\fire_stopped_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="855736339" Language="SFX">
+					<ShortName>platoon_dismissed_01.wav</ShortName>
+					<Path>SFX\platoon_dismissed_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="862354144" Language="SFX">
+					<ShortName>enemy_fire_started_by_player_05.wav</ShortName>
+					<Path>SFX\enemy_fire_started_by_player_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="868513694" Language="SFX">
+					<ShortName>loader_killed_03.wav</ShortName>
+					<Path>SFX\loader_killed_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="874089584" Language="SFX">
+					<ShortName>fire_started_02.wav</ShortName>
+					<Path>SFX\fire_started_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="875487878" Language="SFX">
+					<ShortName>shotcuts_help_me_02.wav</ShortName>
+					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
+				</File>
+				<File Id="878088952" Language="SFX">
+					<ShortName>target_lost_03.wav</ShortName>
+					<Path>SFX\target_lost_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="881869311" Language="SFX">
+					<ShortName>track_functional_can_move_06.wav</ShortName>
+					<Path>SFX\track_functional_can_move_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="888056330" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_06.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="892252491" Language="SFX">
+					<ShortName>fuel_tank_damaged_03.wav</ShortName>
+					<Path>SFX\fuel_tank_damaged_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="893935033" Language="SFX">
+					<ShortName>enemy_killed_02.wav</ShortName>
+					<Path>SFX\enemy_killed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="894029728" Language="SFX">
+					<ShortName>gun_destroyed_02.wav</ShortName>
+					<Path>SFX\gun_destroyed_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="894254166" Language="SFX">
+					<ShortName>enemy_killed_by_player_08.wav</ShortName>
+					<Path>SFX\enemy_killed_by_player_08_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="896778132" Language="SFX">
+					<ShortName>vehicle_destroyed_14.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_14_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="900349195" Language="SFX">
+					<ShortName>damage_by_near_explosion_by_player_01.wav</ShortName>
+					<Path>SFX\damage_by_near_explosion_by_player_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="905046756" Language="SFX">
+					<ShortName>ammo_bay_damaged_02.wav</ShortName>
+					<Path>SFX\ammo_bay_damaged_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="907144527" Language="SFX">
+					<ShortName>start_battle_05.wav</ShortName>
+					<Path>SFX\start_battle_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="909083557" Language="SFX">
+					<ShortName>engine_damaged_03.wav</ShortName>
+					<Path>SFX\engine_damaged_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="915708966" Language="SFX">
+					<ShortName>radio_damaged_06.wav</ShortName>
+					<Path>SFX\radio_damaged_06_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="919253890" Language="SFX">
+					<ShortName>start_battle_40.wav</ShortName>
+					<Path>SFX\start_battle_40_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="921602579" Language="SFX">
+					<ShortName>ally_killed_by_player_04.wav</ShortName>
+					<Path>SFX\ally_killed_by_player_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="922044964" Language="SFX">
+					<ShortName>armor_pierced_by_player_11.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_11_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="925868974" Language="SFX">
+					<ShortName>surveying_devices_damaged_05.wav</ShortName>
+					<Path>SFX\surveying_devices_damaged_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="926769393" Language="SFX">
+					<ShortName>start_battle_38.wav</ShortName>
+					<Path>SFX\start_battle_38_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="934790432" Language="SFX">
+					<ShortName>radioman_killed_04.wav</ShortName>
+					<Path>SFX\radioman_killed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="936341164" Language="SFX">
+					<ShortName>enemy_killed_04.wav</ShortName>
+					<Path>SFX\enemy_killed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="936718679" Language="SFX">
+					<ShortName>damage_by_near_explosion_by_player_07.wav</ShortName>
+					<Path>SFX\damage_by_near_explosion_by_player_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="938442356" Language="SFX">
+					<ShortName>ammo_bay_damaged_01.wav</ShortName>
+					<Path>SFX\ammo_bay_damaged_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="949913367" Language="SFX">
+					<ShortName>start_battle_10.wav</ShortName>
+					<Path>SFX\start_battle_10_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="958003606" Language="SFX">
+					<ShortName>enemy_fire_started_by_player_01.wav</ShortName>
+					<Path>SFX\enemy_fire_started_by_player_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="964214664" Language="SFX">
+					<ShortName>target_captured_01.wav</ShortName>
+					<Path>SFX\target_captured_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="969403508" Language="SFX">
+					<ShortName>start_battle_02.wav</ShortName>
+					<Path>SFX\start_battle_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="970358973" Language="SFX">
+					<ShortName>surveying_devices_functional_01.wav</ShortName>
+					<Path>SFX\surveying_devices_functional_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="974134525" Language="SFX">
+					<ShortName>start_battle_34.wav</ShortName>
+					<Path>SFX\start_battle_34_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="975765354" Language="SFX">
+					<ShortName>surveying_devices_functional_02.wav</ShortName>
+					<Path>SFX\surveying_devices_functional_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="978350336" Language="SFX">
+					<ShortName>track_damaged_04.wav</ShortName>
+					<Path>SFX\track_damaged_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="980269183" Language="SFX">
+					<ShortName>target_lost_01.wav</ShortName>
+					<Path>SFX\target_lost_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="987196481" Language="SFX">
+					<ShortName>surveying_devices_damaged_04.wav</ShortName>
+					<Path>SFX\surveying_devices_damaged_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="990772945" Language="SFX">
+					<ShortName>start_battle_31.wav</ShortName>
+					<Path>SFX\start_battle_31_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1001871972" Language="SFX">
+					<ShortName>turret_rotator_functional_02.wav</ShortName>
+					<Path>SFX\turret_rotator_functional_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1006035066" Language="SFX">
+					<ShortName>vehicle_destroyed_11.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_11_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1007678567" Language="SFX">
+					<ShortName>vehicle_destroyed_21.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_21_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1007997283" Language="SFX">
+					<ShortName>start_battle_01.wav</ShortName>
+					<Path>SFX\start_battle_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1009132673" Language="SFX">
+					<ShortName>armor_not_pierced_by_player_12.wav</ShortName>
+					<Path>SFX\armor_not_pierced_by_player_12_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1011101665" Language="SFX">
+					<ShortName>engine_functional_02.wav</ShortName>
+					<Path>SFX\engine_functional_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1012671126" Language="SFX">
+					<ShortName>surveying_devices_damaged_01.wav</ShortName>
+					<Path>SFX\surveying_devices_damaged_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1013677311" Language="SFX">
+					<ShortName>start_battle_08.wav</ShortName>
+					<Path>SFX\start_battle_08_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1015761536" Language="SFX">
+					<ShortName>track_functional_can_move_05.wav</ShortName>
+					<Path>SFX\track_functional_can_move_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1016651204" Language="SFX">
+					<ShortName>gun_functional_02.wav</ShortName>
+					<Path>SFX\gun_functional_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1016784002" Language="SFX">
+					<ShortName>vehicle_destroyed_17.wav</ShortName>
+					<Path>SFX\vehicle_destroyed_17_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1020719644" Language="SFX">
+					<ShortName>fuel_tank_damaged_01.wav</ShortName>
+					<Path>SFX\fuel_tank_damaged_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1022883429" Language="SFX">
+					<ShortName>armor_pierced_by_player_02.wav</ShortName>
+					<Path>SFX\armor_pierced_by_player_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1024064671" Language="SFX">
+					<ShortName>enemy_killed_by_player_07.wav</ShortName>
+					<Path>SFX\enemy_killed_by_player_07_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1042302365" Language="SFX">
+					<ShortName>target_unlocked_02.wav</ShortName>
+					<Path>SFX\target_unlocked_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1049482834" Language="SFX">
+					<ShortName>enemy_fire_started_by_player_02.wav</ShortName>
+					<Path>SFX\enemy_fire_started_by_player_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1050464023" Language="SFX">
+					<ShortName>ally_killed_by_player_02.wav</ShortName>
+					<Path>SFX\ally_killed_by_player_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1054956823" Language="SFX">
+					<ShortName>start_battle_41.wav</ShortName>
+					<Path>SFX\start_battle_41_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1055458513" Language="SFX">
+					<ShortName>shotcuts_help_me_03.wav</ShortName>
+					<Path>SFX\shotcuts_help_me_03_C8E51BD1.wem</Path>
+				</File>
+				<File Id="1061491572" Language="SFX">
+					<ShortName>fire_stopped_05.wav</ShortName>
+					<Path>SFX\fire_stopped_05_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1070079109" Language="SFX">
+					<ShortName>fire_started_05.wav</ShortName>
+					<Path>SFX\fire_started_05_C5DCCAFA.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2802364914" Language="SFX">
+			<ObjectPath>\SoundBanks\Relhax\RelHaxGui</ObjectPath>
+			<ShortName>RelHaxGui</ShortName>
+			<Path>RelHaxGui.bnk</Path>
+			<IncludedEvents>
+				<Event Id="739261698" Name="mod_base_capture_1" ObjectPath="\Events\Relhax\gui\mod_base_capture_1" DurationType="OneShot" DurationMin="227.363998" DurationMax="227.363998"/>
+				<Event Id="3089635245" Name="mod_enemy_sighted_for_team" ObjectPath="\Events\Relhax\gui\mod_enemy_sighted_for_team" DurationType="OneShot" DurationMin="0.432000" DurationMax="1.456621"/>
+				<Event Id="3792988895" Name="mod_music_defeat" ObjectPath="\Events\Relhax\gui\mod_music_defeat" DurationType="OneShot" DurationMin="7.431746" DurationMax="7.431746"/>
+				<Event Id="3142828263" Name="mod_music_drawn_game" ObjectPath="\Events\Relhax\gui\mod_music_drawn_game" DurationType="OneShot" DurationMin="7.537120" DurationMax="7.537120"/>
+				<Event Id="3835730880" Name="mod_music_victory" ObjectPath="\Events\Relhax\gui\mod_music_victory" DurationType="OneShot" DurationMin="8.013651" DurationMax="8.013651"/>
+				<Event Id="3096903476" Name="mod_time_buzzer_01" ObjectPath="\Events\Relhax\gui\mod_time_buzzer_01" DurationType="OneShot" DurationMin="120.999252" DurationMax="120.999252"/>
+				<Event Id="4087023837" Name="mod_timer" ObjectPath="\Events\Relhax\gui\mod_timer" DurationType="OneShot" DurationMin="28.999353" DurationMax="29.100409"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="122449326" Language="SFX">
+					<ShortName>timer_08.wav</ShortName>
+					<Path>SFX\timer_08_C8E51BD1.wem</Path>
+				</File>
+				<File Id="167470390" Language="SFX">
+					<ShortName>enemy_sighted_for_team_8.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_8_C8E51BD1.wem</Path>
+				</File>
+				<File Id="236539403" Language="SFX">
+					<ShortName>music_drawn_game.wav</ShortName>
+					<Path>SFX\music_drawn_game_C8E51BD1.wem</Path>
+				</File>
+				<File Id="240854626" Language="SFX">
+					<ShortName>timer_03.wav</ShortName>
+					<Path>SFX\timer_03_C8E51BD1.wem</Path>
+				</File>
+				<File Id="288295816" Language="SFX">
+					<ShortName>timer_01.wav</ShortName>
+					<Path>SFX\timer_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="304197093" Language="SFX">
+					<ShortName>timer_06.wav</ShortName>
+					<Path>SFX\timer_06_C8E51BD1.wem</Path>
+				</File>
+				<File Id="341614345" Language="SFX">
+					<ShortName>timer_02.wav</ShortName>
+					<Path>SFX\timer_02_C8E51BD1.wem</Path>
+				</File>
+				<File Id="377775188" Language="SFX">
+					<ShortName>enemy_sighted_for_team_3.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_3_C8E51BD1.wem</Path>
+				</File>
+				<File Id="430890093" Language="SFX">
+					<ShortName>music_victory.wav</ShortName>
+					<Path>SFX\music_victory_C8E51BD1.wem</Path>
+				</File>
+				<File Id="433007518" Language="SFX">
+					<ShortName>timer_09.wav</ShortName>
+					<Path>SFX\timer_09_C8E51BD1.wem</Path>
+				</File>
+				<File Id="453181591" Language="SFX">
+					<ShortName>music_defeat.wav</ShortName>
+					<Path>SFX\music_defeat_C8E51BD1.wem</Path>
+				</File>
+				<File Id="531440842" Language="SFX">
+					<ShortName>enemy_sighted_for_team_6.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_6_C8E51BD1.wem</Path>
+				</File>
+				<File Id="589120407" Language="SFX">
+					<ShortName>enemy_sighted_for_team_2.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_2_C8E51BD1.wem</Path>
+				</File>
+				<File Id="593160293" Language="SFX">
+					<ShortName>time_buzzer_01.wav</ShortName>
+					<Path>SFX\time_buzzer_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="676880312" Language="SFX">
+					<ShortName>timer_05.wav</ShortName>
+					<Path>SFX\timer_05_C8E51BD1.wem</Path>
+				</File>
+				<File Id="717327365" Language="SFX">
+					<ShortName>timer_04.wav</ShortName>
+					<Path>SFX\timer_04_C8E51BD1.wem</Path>
+				</File>
+				<File Id="747755971" Language="SFX">
+					<ShortName>enemy_sighted_for_team_1.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_1_C8E51BD1.wem</Path>
+				</File>
+				<File Id="764625661" Language="SFX">
+					<ShortName>timer_07.wav</ShortName>
+					<Path>SFX\timer_07_C8E51BD1.wem</Path>
+				</File>
+				<File Id="774902480" Language="SFX">
+					<ShortName>timer_11.wav</ShortName>
+					<Path>SFX\timer_11_C8E51BD1.wem</Path>
+				</File>
+				<File Id="837567587" Language="SFX">
+					<ShortName>enemy_sighted_for_team_7.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_7_C8E51BD1.wem</Path>
+				</File>
+				<File Id="844878166" Language="SFX">
+					<ShortName>base_capture_1.wav</ShortName>
+					<Path>SFX\base_capture_1_C8E51BD1.wem</Path>
+				</File>
+				<File Id="928109577" Language="SFX">
+					<ShortName>timer_10.wav</ShortName>
+					<Path>SFX\timer_10_C8E51BD1.wem</Path>
+				</File>
+				<File Id="1013742811" Language="SFX">
+					<ShortName>enemy_sighted_for_team_5.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_5_C8E51BD1.wem</Path>
+				</File>
+				<File Id="1041598885" Language="SFX">
+					<ShortName>enemy_sighted_for_team_4.wav</ShortName>
+					<Path>SFX\enemy_sighted_for_team_4_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
