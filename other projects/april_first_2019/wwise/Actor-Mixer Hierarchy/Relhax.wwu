@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}" SchemaVersion="85">
+	<AudioObjects>
+		<WorkUnit Name="Relhax" ID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="april_first" ID="{F6742E00-BE3A-4893-B7E5-27DAD7F50D17}" ShortID="442510310">
+					<ChildrenList>
+						<RandomSequenceContainer Name="random_troll" ID="{519D5643-8C66-418F-A1FB-2D3E9EDD72F5}" ShortID="697687175">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-10</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="010_vo_com" ID="{106612E1-E487-48BC-8F88-FF87A546A606}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="troll_1" ID="{A1805805-92F6-4EDF-81E6-1E35F85A83AA}" ShortID="563822898">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_1" ID="{ACA193ED-BE29-4844-88EF-53E1D0AD403E}" ShortID="555240924">
+											<Language>SFX</Language>
+											<AudioFile>troll_1.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_1" ID="{ACA193ED-BE29-4844-88EF-53E1D0AD403E}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_2" ID="{4EC9F095-6EB6-4EBF-86D8-F921D5C01EA4}" ShortID="1047440825">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_2" ID="{8708FC91-0A50-4E72-AE61-77EB2710E432}" ShortID="170720450">
+											<Language>SFX</Language>
+											<AudioFile>troll_2.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_2" ID="{8708FC91-0A50-4E72-AE61-77EB2710E432}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_3" ID="{BF54ADF3-FACE-4B76-8173-0DA217A99939}" ShortID="678390466">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_3" ID="{5C440833-2325-4207-B0C3-346AA1C7EADE}" ShortID="340714387">
+											<Language>SFX</Language>
+											<AudioFile>troll_3.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_3" ID="{5C440833-2325-4207-B0C3-346AA1C7EADE}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_4" ID="{4B6BE179-3610-406C-8700-D6469A23393E}" ShortID="519226363">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_4" ID="{EBC52338-3986-48F3-BCE3-0D37F81F84E1}" ShortID="1036074650">
+											<Language>SFX</Language>
+											<AudioFile>troll_4.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_4" ID="{EBC52338-3986-48F3-BCE3-0D37F81F84E1}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_5" ID="{D8A5428C-67C0-41EB-847E-00068C9D86F4}" ShortID="110280292">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_5" ID="{1FB74370-9FF1-4B67-91AE-697AD808687E}" ShortID="574340798">
+											<Language>SFX</Language>
+											<AudioFile>troll_5.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_5" ID="{1FB74370-9FF1-4B67-91AE-697AD808687E}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_6" ID="{0015128E-3F44-48E9-A187-84E885D1A887}" ShortID="12026862">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_6" ID="{2FBC2CF1-0E18-47F1-802D-0E1BD7B86C31}" ShortID="959623053">
+											<Language>SFX</Language>
+											<AudioFile>troll_6.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_6" ID="{2FBC2CF1-0E18-47F1-802D-0E1BD7B86C31}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_7" ID="{FEE1F45B-9039-444E-9A0D-746807D015D8}" ShortID="944443475">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_7" ID="{DB33100B-0679-4B86-96F6-4D4E44A561A2}" ShortID="406274126">
+											<Language>SFX</Language>
+											<AudioFile>troll_7.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_7" ID="{DB33100B-0679-4B86-96F6-4D4E44A561A2}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_8" ID="{2F7765D6-09FF-4660-B59E-A108435AE7A3}" ShortID="185326892">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_8" ID="{A4C7CC2F-069F-40CA-B903-C95E9303B7BB}" ShortID="905789045">
+											<Language>SFX</Language>
+											<AudioFile>troll_8.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_8" ID="{A4C7CC2F-069F-40CA-B903-C95E9303B7BB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_9" ID="{AB378573-8BFA-49BA-8E8C-B95F35746898}" ShortID="147397606">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_9" ID="{68494D94-B78C-4304-8392-4090B452E4DB}" ShortID="741314135">
+											<Language>SFX</Language>
+											<AudioFile>troll_9.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_9" ID="{68494D94-B78C-4304-8392-4090B452E4DB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_10" ID="{93D69727-CCED-49D7-8732-5865C09FC9D8}" ShortID="1015576093">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_10" ID="{AE3C2E74-4517-4CBD-9CEA-C427D64920A9}" ShortID="728786474">
+											<Language>SFX</Language>
+											<AudioFile>troll_10.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_10" ID="{AE3C2E74-4517-4CBD-9CEA-C427D64920A9}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_11" ID="{0C3CD8C1-4111-4AFC-81BF-8B0FD719AF38}" ShortID="779334083">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_11" ID="{B1B635AE-1630-4702-959B-73BFA6A76EFD}" ShortID="122298577">
+											<Language>SFX</Language>
+											<AudioFile>troll_11.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_11" ID="{B1B635AE-1630-4702-959B-73BFA6A76EFD}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_12" ID="{F70A393D-726A-420A-A60E-8F6F94A2F9B3}" ShortID="155746850">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_12" ID="{EF263F27-83B7-4460-B261-329AA6616FFB}" ShortID="881548735">
+											<Language>SFX</Language>
+											<AudioFile>troll_12.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_12" ID="{EF263F27-83B7-4460-B261-329AA6616FFB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_13" ID="{EE341A7E-123F-4174-9D4E-208FEEAAA048}" ShortID="605560240">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_13" ID="{D4BFEB6B-4033-4529-A4C2-13A99A330E0A}" ShortID="698489424">
+											<Language>SFX</Language>
+											<AudioFile>troll_13.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_13" ID="{D4BFEB6B-4033-4529-A4C2-13A99A330E0A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_14" ID="{1BBB0D86-DB55-41F8-9DE0-A6ECDCF59481}" ShortID="558574894">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_14" ID="{495B6FF8-08EA-4F9B-A372-E48F793600C3}" ShortID="563316705">
+											<Language>SFX</Language>
+											<AudioFile>troll_14.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_14" ID="{495B6FF8-08EA-4F9B-A372-E48F793600C3}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_15" ID="{EB10A887-B289-4809-A6EC-3EF1923ECBF4}" ShortID="935202198">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_15" ID="{84DE950C-24C4-4E21-8EA5-8EB935D76BA5}" ShortID="478957042">
+											<Language>SFX</Language>
+											<AudioFile>troll_15.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_15" ID="{84DE950C-24C4-4E21-8EA5-8EB935D76BA5}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_16" ID="{13A23086-92EF-42F7-9A93-C7604205ABEB}" ShortID="852741442">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_16" ID="{785E979F-93B6-47BC-AD4B-D828DE3885FB}" ShortID="105845364">
+											<Language>SFX</Language>
+											<AudioFile>troll_16.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_16" ID="{785E979F-93B6-47BC-AD4B-D828DE3885FB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_17" ID="{9B93C2E7-EFDA-485B-9B41-B091BD0557A5}" ShortID="360392876">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_17" ID="{390B8037-FE08-436E-8B44-3F2BD3D49715}" ShortID="90085602">
+											<Language>SFX</Language>
+											<AudioFile>troll_17.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_17" ID="{390B8037-FE08-436E-8B44-3F2BD3D49715}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_18" ID="{7C104BE7-190C-4C40-B228-D1122FE28220}" ShortID="250097251">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_18" ID="{ACE9DA8E-5BD4-4DE9-9ED2-D1F3ABCE7F8B}" ShortID="335080957">
+											<Language>SFX</Language>
+											<AudioFile>troll_18.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_18" ID="{ACE9DA8E-5BD4-4DE9-9ED2-D1F3ABCE7F8B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="troll_19" ID="{D3858F38-7696-4A79-9438-F4E874574895}" ShortID="42707719">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="troll_19" ID="{C1E28C51-70F5-4130-BF44-EC4CE9F67687}" ShortID="953151148">
+											<Language>SFX</Language>
+											<AudioFile>troll_19.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="troll_19" ID="{C1E28C51-70F5-4130-BF44-EC4CE9F67687}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="troll_xfade" ID="{8D0F5582-9D96-43DE-A99D-B876368D22D6}" ShortID="72445279">
+							<PropertyList>
+								<Property Name="PlayMechanismLoop" Type="bool" Value="True"/>
+								<Property Name="PlayMechanismSpecialTransitions" Type="bool" Value="True"/>
+								<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+								<Property Name="RandomAvoidRepeating" Type="bool" Value="False"/>
+								<Property Name="RestartBeginningOrBackward" Type="int16" Value="0"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="LOBBY_MUSIC" ID="{F73781AF-2E44-4FD6-8E8C-A130EB57CF50}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="troll_music" ID="{8C3464C2-59D5-4DB9-81E7-B58BD3B3287B}" ShortID="10719153">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-7</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Manual_loop" ID="{1F09FADF-2F01-4A39-A5D5-B8C27037044A}" ShortID="878060044">
+											<Language>SFX</Language>
+											<AudioFile>Manual_loop.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Manual_loop" ID="{1F09FADF-2F01-4A39-A5D5-B8C27037044A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<Sound Name="troll_music_master_bus" ID="{EF8A2CB8-A5DA-41A2-8283-97477EC148C5}" ShortID="462053632">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-7</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Manual_loop" ID="{79E3F424-DF76-4013-897D-0DA92F7FF478}" ShortID="469337853">
+									<Language>SFX</Language>
+									<AudioFile>Manual_loop.wav</AudioFile>
+									<ConvertedFileIDList>
+										<File ID="878060044"/>
+									</ConvertedFileIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Manual_loop" ID="{79E3F424-DF76-4013-897D-0DA92F7FF478}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="troll_music_lobby_bus" ID="{666C1AD6-D26B-452C-B2BC-0B514414CCC0}" ShortID="686608664">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-7</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="LOBBY_MUSIC" ID="{F73781AF-2E44-4FD6-8E8C-A130EB57CF50}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Manual_loop" ID="{8DE1CAEA-1BE5-43AE-9E14-15294B398959}" ShortID="356993468">
+									<Language>SFX</Language>
+									<AudioFile>Manual_loop.wav</AudioFile>
+									<ConvertedFileIDList>
+										<File ID="878060044"/>
+									</ConvertedFileIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Manual_loop" ID="{8DE1CAEA-1BE5-43AE-9E14-15294B398959}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
