@@ -3,6 +3,7 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{59ECB9D8-FD46-4A92-827C-1DD5D23F85A6}">
 			<PropertyList>
+				<Property Name="Event Action List\{0CDD4072-61DA-443D-ADE0-367D41B869C3}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{0D6E2D66-26EA-49C9-879D-9E2AD88BA0CF}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{15437483-CC30-4388-8480-D2D3038E9103}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{198485DD-4A36-4542-9696-7B6656EC8F59}\x64_Expand States" Type="string" Value=""/>
@@ -30,7 +31,7 @@
 				<Property Name="General\LatestPlatform" Type="string" Value="Windows_HighRes"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="dTH2wUhZDXQM9KD86poFDbQ2Ooswi1jry6vbsVJwTjSWM7nyhSiHUAnBChV+0ZcI36vJQb7jzCAG8Mwo3lwGA/LxDj2zlUcTG+e5/7Mm5oK3lzL3fP7INgCwDxZhASVAh0jYSROokdxQZ7p3l2rkmPn2HspZ22PZ+1fNKYoFWiERlz45yfso6iShCfW8v6WZIq6vz/lU0to9pAcOhvRL9yAa+C0n5zjG35CV8ElzUfLAUL+p"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="V7IMbsjGXEyDZidA38RB7A=="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="G4sMVOnP1Eq5RZUz3pLJjw=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="G1U+DrC4AE2fU6g/eOE/3Q=="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
@@ -41,7 +42,7 @@
 				<Property Name="ProjectExplorer\FirstVisible_10_1" Type="string" Value="{4C96B38B-3DB4-40C7-91C9-665510E38993}"/>
 				<Property Name="ProjectExplorer\FirstVisible_11_1" Type="string" Value="{23EC2DE3-3ED8-4B82-AC99-92E25F2E4C6B}"/>
 				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{2388DAEA-9775-46C6-A2ED-C5222A397756}"/>
-				<Property Name="ProjectExplorer\FirstVisible_3_1" Type="string" Value="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}"/>
+				<Property Name="ProjectExplorer\FirstVisible_3_1" Type="string" Value="{5EE5B660-5DB2-43C8-9FC2-6EEC6C9756B7}"/>
 				<Property Name="ProjectExplorer\FirstVisible_4_1" Type="string" Value="{CB6175F1-6080-4A23-92EF-0807E304D0C1}"/>
 				<Property Name="ProjectExplorer\FirstVisible_6_1" Type="string" Value="{C98E673F-A24C-48A8-960F-10565FFE70A0}"/>
 				<Property Name="ProjectExplorer\FirstVisible_8_1" Type="string" Value="{41093F77-829F-4D88-8601-E8B25F3D4781}"/>

@@ -122,6 +122,13 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="sixthsense_homer_doh" ID="{0E3E551B-B8B0-4D00-9F53-A83F78E13FDD}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lightbulb_homer_doh" ID="{0CDD4072-61DA-443D-ADE0-367D41B869C3}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

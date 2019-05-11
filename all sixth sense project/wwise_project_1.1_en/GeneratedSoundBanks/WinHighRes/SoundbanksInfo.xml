@@ -110,6 +110,20 @@
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
+		<SoundBank Id="938932263" Language="SFX">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_homer_doh</ObjectPath>
+			<ShortName>sixthsense_homer_doh</ShortName>
+			<Path>sixthsense_homer_doh.bnk</Path>
+			<IncludedEvents>
+				<Event Id="203406646" Name="lightbulb_homer_doh" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_homer_doh" DurationType="OneShot" DurationMin="1.018775" DurationMax="1.018775"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="586865750" Language="SFX">
+					<ShortName>homer_doh.wav</ShortName>
+					<Path>SFX\homer_doh_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="1008084913" Language="SFX">
 			<ObjectPath>\SoundBanks\6th_sense\sixthsense_timer_8_sec_soft</ObjectPath>
 			<ShortName>sixthsense_timer_8_sec_soft</ShortName>

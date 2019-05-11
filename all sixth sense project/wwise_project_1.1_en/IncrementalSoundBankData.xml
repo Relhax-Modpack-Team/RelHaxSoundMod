@@ -8,6 +8,7 @@
 				<File Name="sixthsense_countdown_10_sec" Hash="1062147411" Timestamp="1535828716"/>
 				<File Name="sixthsense_die_zwei" Hash="194257531" Timestamp="1535828716"/>
 				<File Name="sixthsense_german" Hash="567318533" Timestamp="1535828716"/>
+				<File Name="sixthsense_homer_doh" Hash="1660563274" Timestamp="1554084136"/>
 				<File Name="sixthsense_i_am_groot" Hash="789511935" Timestamp="1536263239"/>
 				<File Name="sixthsense_jingles" Hash="4033544071" Timestamp="1535828716"/>
 				<File Name="sixthsense_minions" Hash="4103781586" Timestamp="1535828716"/>
@@ -25,7 +26,7 @@
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="1924302221" Timestamp="1546634121"/>
+				<File Name="" Hash="2345160609" Timestamp="1554084137"/>
 			</Language>
 		</XMLInfo>
 	</Platform>

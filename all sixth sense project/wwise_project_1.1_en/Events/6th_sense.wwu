@@ -252,6 +252,20 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="lightbulb_homer_doh" ID="{0CDD4072-61DA-443D-ADE0-367D41B869C3}">
+							<ChildrenList>
+								<Action Name="" ID="{795A5846-A8C4-4274-B6F6-B842FF86F417}" ShortID="160727151">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="homer_doh" ID="{534539CE-526A-4C4B-97FE-DCCDAB1A1407}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>
