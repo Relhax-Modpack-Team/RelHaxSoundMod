@@ -31,7 +31,7 @@
 				<Property Name="General\LatestPlatform" Type="string" Value="Windows_HighRes"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="dTH2wUhZDXQM9KD86poFDbQ2Ooswi1jry6vbsVJwTjSWM7nyhSiHUAnBChV+0ZcI36vJQb7jzCAG8Mwo3lwGA/LxDj2zlUcTG+e5/7Mm5oK3lzL3fP7INgCwDxZhASVAh0jYSROokdxQZ7p3l2rkmPn2HspZ22PZ+1fNKYoFWiERlz45yfso6iShCfW8v6WZIq6vz/lU0to9pAcOhvRL9yAa+C0n5zjG35CV8ElzUfLAUL+p"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="V7IMbsjGXEyDZidA38RB7A=="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="G1U+DrC4AE2fU6g/eOE/3Q=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="akrV8d900kGgtwes7uwvtjdyiqNtNwNCgGmAiI9Db+fNTOpZzXvBQKDtj94dRWNn9q5FyppGbUWUk19yyh7oNRtVPg6wuABNn1OoP3jhP91ok1GrgHCKTYlZ741faQsj5yt1DQHq1UmeZPfI+GtyDNurcJKVxT1Imk/2XOrquZduUFMxHOyTQ6g6qhsoMwDTdwx52FBnT0SkP33h0ZOpXgcGwDOMPI5Bn/8FQOSsWVMpvz5VqtYGQYgpxeCSK6GMJeq+S38Cl0a1SVKUb7ytvi40WjxWbzNAp7Kt8MnGlKkbiwxU6c/USrlFlTPeksmP+ySAZUj1T06o57aW/61Pi2/916FM/RhDh5NpP4/vZWBzp73GVDy7R4594XFnAQlU"/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
