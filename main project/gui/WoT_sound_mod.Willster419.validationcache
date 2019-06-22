@@ -143,7 +143,7 @@
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\WoT_sound_mod.Willster419.wsettings" DateLow="1549940350" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\censored\WoT_sound_mod.wproj" DateLow="1549938398" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Actor-Mixer Hierarchy\Relhax.wwu" DateLow="1549940127" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Actor-Mixer Hierarchy\Relhax.wwu" DateLow="1549942073" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Attenuations\Ambient.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Attenuations\Collision.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Attenuations\Combat_atmosphere.wwu" DateLow="1533726944" DateHigh="0"/>
@@ -210,7 +210,7 @@
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Events\Physical_Collision.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Events\Plane.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Events\Ranked_battles\Ranked_battles.wwu" DateLow="1533726944" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Events\Relhax.wwu" DateLow="1535824396" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Events\Relhax.wwu" DateLow="1549942073" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Events\Treads.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Events\Turret.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Events\Utilite_events.wwu" DateLow="1533726944" DateHigh="0"/>
@@ -262,7 +262,7 @@
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Queries\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Queries\Factory Queries.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\SoundBanks\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\SoundBanks\Relhax.wwu" DateLow="1549940547" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\SoundBanks\Relhax.wwu" DateLow="1549942073" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1535825731" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\States\Common.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\States\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
@@ -282,7 +282,7 @@
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Switches\Weapons.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Triggers\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\Virtual Acoustics\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\WoT_sound_mod.Willster419.wsettings" DateLow="1549940549" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\WoT_sound_mod.Willster419.wsettings" DateLow="1549942962" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\WoT_sound_mod.wproj" DateLow="1549938398" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\wwise_project_1.1_en\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1533726944" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Tanks Stuff\RelhaxSoundMod\main project\wwise_project_1.1_en\Actor-Mixer Hierarchy\Relhax.wwu" DateLow="1535827640" DateHigh="0"/>
