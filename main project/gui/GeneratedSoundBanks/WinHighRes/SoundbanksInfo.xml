@@ -391,11 +391,6 @@
 					<ShortName>enemy_sighted_for_team_2.wav</ShortName>
 					<Path>SFX\enemy_sighted_for_team_2_C8E51BD1.wem</Path>
 				</File>
-				<File Id="593160293" Language="SFX">
-					<ShortName>time_buzzer_01.wav</ShortName>
-					<Path>SFX\time_buzzer_01_C8E51BD1.wem</Path>
-					<PrefetchSize>7343</PrefetchSize>
-				</File>
 				<File Id="676880312" Language="SFX">
 					<ShortName>timer_05.wav</ShortName>
 					<Path>SFX\timer_05_C8E51BD1.wem</Path>

@@ -794,6 +794,11 @@
 						</RandomSequenceContainer>
 						<Sound Name="base_capture_1" ID="{678C352C-5DD4-4931-B315-535F9101D31E}" ShortID="380780521">
 							<PropertyList>
+								<Property Name="IsNonCachable" Type="bool">
+									<ValueList>
+										<Value>True</Value>
+									</ValueList>
+								</Property>
 								<Property Name="IsStreamingEnabled" Type="bool">
 									<ValueList>
 										<Value>True</Value>
@@ -908,17 +913,7 @@
 						</Sound>
 						<Sound Name="time_buzzer_01" ID="{506AF453-378F-4F0A-96C8-A725111AEB19}" ShortID="786891302">
 							<PropertyList>
-								<Property Name="IsNonCachable" Type="bool">
-									<ValueList>
-										<Value>True</Value>
-									</ValueList>
-								</Property>
 								<Property Name="IsStreamingEnabled" Type="bool">
-									<ValueList>
-										<Value>True</Value>
-									</ValueList>
-								</Property>
-								<Property Name="IsZeroLantency" Type="bool">
 									<ValueList>
 										<Value>True</Value>
 									</ValueList>

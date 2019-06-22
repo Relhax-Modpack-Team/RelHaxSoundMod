@@ -4,9 +4,9 @@
     <Packages>
       <Package Id="ed25cfd7-d73b-4511-8235-feaa1543851b" Name="RelHaxGui.pck">
         <Items>
-          <PackageContentItem Id="844878166" Language="SFX" FileName="base_capture_1.wav" InclusionMode="BankAndStreamsAndLooseMedia" />
-          <PackageContentItem Id="593160293" Language="SFX" FileName="time_buzzer_01.wav" InclusionMode="BankAndStreamsAndLooseMedia" />
           <PackageContentItem Id="288295816" Language="SFX" FileName="timer_01.wav" InclusionMode="BankAndStreamsAndLooseMedia" />
+          <PackageContentItem Id="593160293" Language="SFX" FileName="time_buzzer_01.wav" InclusionMode="BankAndStreamsAndLooseMedia" />
+          <PackageContentItem Id="844878166" Language="SFX" FileName="base_capture_1.wav" InclusionMode="BankAndStreamsAndLooseMedia" />
         </Items>
         <LayoutItems>
           <ContentItemBase Id="0" Language="" FileName="" />
