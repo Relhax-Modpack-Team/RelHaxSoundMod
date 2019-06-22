@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project Version="7" InfoFilePath="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\GeneratedSoundBanks\WinHighRes\SoundbanksInfo.xml" OutputDirectory="F:\Tanks Stuff\RelhaxSoundMod\main project\gui\GeneratedSoundBanks\WinHighRes">
+  <ManualPackagingInfo BlockSize="1" UnassignedBanksPackageId="00000000-0000-0000-0000-000000000000" UnassignedStreamsPackageId="00000000-0000-0000-0000-000000000000" UnassignedExternalsPackageId="00000000-0000-0000-0000-000000000000" UnassignedLooseMediaPackageId="00000000-0000-0000-0000-000000000000">
+    <Packages>
+      <Package Id="ed25cfd7-d73b-4511-8235-feaa1543851b" Name="RelHaxGui.pck">
+        <Items>
+          <PackageContentItem Id="844878166" Language="SFX" FileName="base_capture_1.wav" InclusionMode="BankAndStreamsAndLooseMedia" />
+          <PackageContentItem Id="593160293" Language="SFX" FileName="time_buzzer_01.wav" InclusionMode="BankAndStreamsAndLooseMedia" />
+          <PackageContentItem Id="288295816" Language="SFX" FileName="timer_01.wav" InclusionMode="BankAndStreamsAndLooseMedia" />
+        </Items>
+        <LayoutItems>
+          <ContentItemBase Id="0" Language="" FileName="" />
+        </LayoutItems>
+      </Package>
+    </Packages>
+    <DefaultLanguagePackageIds>
+      <LanguagePackageIds Language="SFX" BankPackageId="00000000-0000-0000-0000-000000000000" StreamPackageId="00000000-0000-0000-0000-000000000000" LooseMediaPackageId="00000000-0000-0000-0000-000000000000" />
+    </DefaultLanguagePackageIds>
+  </ManualPackagingInfo>
+</Project>
