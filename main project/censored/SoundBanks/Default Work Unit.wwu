@@ -12,6 +12,7 @@
 				</SoundBank>
 				<SoundBank Name="music_interactive" ID="{13A25107-2180-4587-B6D3-7F20076AED78}">
 					<ObjectInclusionList>
+						<ObjectRef Name="41_Lost_city" ID="{81C7A9BB-7AA3-402B-9FF3-36A9C001603A}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="23_Mannerheim" ID="{56A35887-2809-4056-940D-EB1786166781}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="music_stinger" ID="{FA160C85-64FD-406A-8A60-DD990F410A19}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="30_Epic_valley" ID="{B8A588C4-1B9C-4081-9A35-386102CBA2F9}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
@@ -19,10 +20,11 @@
 						<ObjectRef Name="09_Ensk" ID="{6756EE01-3D13-4168-82C0-CC9DA941FB98}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="25_Fjords" ID="{B74882CC-0F29-4174-8DAD-C06680213F7E}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="27_Erlenberg" ID="{13216ECF-217E-41B0-8DC0-A4DC2AEA8871}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="37_Munchen" ID="{D0A746A4-5C05-41CE-B9D7-278D5F67021A}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="11_Cliff" ID="{4FBED6B2-4BAA-41EC-A3E5-A1BA74226BC4}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="29_Tundra" ID="{19E4996B-B290-422F-A4D8-B8234C8E6877}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="14_Sand_river" ID="{14F44DB3-1DC6-425F-BB67-DE20138BEE18}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="36_Minksk" ID="{4888BF5C-D0E6-42B9-B884-D4F06053ABEF}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="36_Minsk" ID="{4888BF5C-D0E6-42B9-B884-D4F06053ABEF}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="10_Serene_coast" ID="{9BA71353-6C0D-42C7-B787-F24DCEBE6B9F}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="18_Airfield" ID="{9E6B3918-38F6-42E7-BFC4-29FBAF180C2D}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="33_Klondike" ID="{7124B508-ED50-42FA-8E66-D63CE5C77924}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
@@ -45,11 +47,14 @@
 						<ObjectRef Name="06_Steppes" ID="{518655D4-B05D-4B00-9BC3-C38D6445004B}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="22_Siegfried" ID="{03B7EFA2-3840-4BA7-8107-B9728A843A1A}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="21_Karelia" ID="{BF9B757D-E0C3-4C9B-99B0-C68FC752112C}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="38_Great_wall" ID="{18010B1D-E87E-4CAA-8A7F-A11526A20093}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="05_Malinovka" ID="{3A429F7D-7E3C-4CCE-A76B-6D3348530D37}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="40_Kursk" ID="{D88ACD0B-BEBF-4CF6-8579-F005B6CD8A10}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="03_Sweden" ID="{A0199E05-84E5-4D61-80E7-078BC5DC75A9}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="31_Epic_Normandy" ID="{494E7DD5-5A90-4D6F-92B1-B65325C64468}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="music_dron_endbattle_stop" ID="{667BEFA3-519E-4D90-BFF5-F365AFA0FEAE}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="15_El_halluf" ID="{7584343D-EA7D-4DD2-BFD5-7BFA777CF4CD}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="39_Highway" ID="{29FFC44D-B870-4E14-910D-58077876EF2B}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="12_Murovanka" ID="{F72926FB-9722-4FAC-8F72-FAF8E0A06D49}" WorkUnitID="{9136FD01-D55C-43D0-B0D2-9CD1A7C5E6B2}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>

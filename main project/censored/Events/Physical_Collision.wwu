@@ -143,6 +143,48 @@
                 </Event>
               </ChildrenList>
             </Folder>
+            <Folder Name="wheels_tech_collision" ID="{A59AB18C-4C81-46EB-9BEB-239331B9AA4D}" ShortID="361383370">
+              <ChildrenList>
+                <Event Name="collision_static_object_wheel_tech_suspension_snow" ID="{1A3967EC-C607-408B-ABBB-A951F0D81D0F}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_hull_wood" ID="{E6EE9DE8-F192-43DB-9DFC-8ED554AF5B5C}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_hull_water" ID="{8891DE7C-FE77-4626-972A-0CF9C93E95BC}" />
+                <Event Name="collision_static_object_wheel_tech_suspension_ground" ID="{6C3B61BC-D456-47F7-A824-54976CEB01CF}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_hull_ground" ID="{49493CA1-B52F-45BA-8CC2-C25CC8EF0A0A}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_hull_snow" ID="{539F5F34-5E8E-4309-B653-02FE7F9F2A19}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_suspension_sand" ID="{24324272-A180-45F7-8653-C7E2DF7F2538}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_hull_sand" ID="{6D7648CD-C2C4-4C23-9F07-9983989A7F78}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_suspension_wood" ID="{2FCC0468-888B-4C0B-A010-153D1F16CC51}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_suspension_water" ID="{C3F6F37C-9AD7-40AA-AEEC-6FB7E8BA261C}" />
+                <Event Name="collision_static_object_wheel_tech_suspension_stone" ID="{F5002D73-BB33-4F9F-9DBB-B7CDB52D469D}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_hull_stone" ID="{F3836594-0CD7-4C3E-9050-21A4A488E6FB}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_suspension_metal" ID="{B6DE2637-0803-4FA4-AC17-B66F5C087AFC}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="collision_static_object_wheel_tech_hull_metal" ID="{5057D509-986D-4552-B7DD-365A71A2472C}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+              </ChildrenList>
+            </Folder>
           </ChildrenList>
         </Folder>
         <Folder Name="physical_distr_objects_collision" ID="{A33031B0-FEA4-4128-95EE-9A5BE47C7EE6}" ShortID="978246337">

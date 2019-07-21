@@ -8,6 +8,7 @@
 						<Property Name="CenterLevel" Type="Real32" Value="-96"/>
 						<Property Name="DryLevel" Type="Real32" Value="-96"/>
 						<Property Name="IRConvolutionStop" Type="Real64" Value="0.566510416666667"/>
+						<Property Name="IRConvolutionThreshold" Type="Real32" Value="-70"/>
 						<Property Name="IRGraphicEQAutomate" Type="bool" Value="True"/>
 						<Property Name="IRLevelAutomate" Type="bool" Value="False"/>
 						<Property Name="PreDelay" Type="Real32" Value="10"/>
@@ -116,6 +117,7 @@
 						<Property Name="CenterLevel" Type="Real32" Value="-96"/>
 						<Property Name="DryLevel" Type="Real32" Value="-96"/>
 						<Property Name="IRConvolutionStop" Type="Real64" Value="0.533854166666667"/>
+						<Property Name="IRConvolutionThreshold" Type="Real32" Value="-70"/>
 					</PropertyList>
 					<ChildrenList>
 						<PluginMediaSource Name="IR_50-75mm_tank_interior" ID="{E6B4C441-5207-4FDE-A9BB-114151464D30}" ShortID="32993886">

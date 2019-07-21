@@ -1747,9 +1747,6 @@
             <Reference Name="OutputBus">
               <ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}" />
             </Reference>
-            <Reference Name="UserAuxSend0">
-              <ObjectRef Name="AUX_reverb_hangar_light_env" ID="{F927D052-2096-41FD-B073-08172906387A}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}" />
-            </Reference>
           </ReferenceList>
         </RandomSequenceContainer>
         <RandomSequenceContainer Name="delay_nation_leaders" ID="{1066FCB9-AF2C-43F9-BE99-84729AD98827}">
@@ -2374,6 +2371,391 @@
             <Property Name="GainBand3" Type="Real32" Value="9" />
             <Property Name="OnOffBand2" Type="bool" Value="False" />
             <Property Name="ProcessLFE" Type="bool" Value="False" />
+          </PropertyList>
+        </Effect>
+        <Effect Name="halloween_2018_inside_tank" ID="{0486EEC6-A832-41F3-A82B-CA1B7A183A19}" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+          <PropertyList>
+            <Property Name="ERLevel" Type="Real32" Value="0" />
+            <Property Name="ERPattern" Type="int32" Value="5" />
+            <Property Name="ReverbLevel" Type="Real32" Value="0" />
+          </PropertyList>
+          <StateInfo>
+            <StatePropertyList>
+              <Property Name="DryLevel" />
+              <Property Name="ERLevel" />
+              <Property Name="ReverbLevel" />
+            </StatePropertyList>
+            <StateGroupList>
+              <StateGroupInfo>
+                <StateGroupRef Name="STATE_viewPlayMode" ID="{94AF04AB-50F8-4D8F-9E12-EF87EF6A78A7}" />
+              </StateGroupInfo>
+            </StateGroupList>
+            <CustomStateList>
+              <CustomState>
+                <StateRef Name="STATE_viewPlayMode_sniper_ceilless" ID="{2E037C3D-50E0-434A-B018-29231D9083D7}" />
+                <State Name="" ID="{A914800F-A02B-49FC-83F5-B9F23F8BEB1B}">
+                  <PropertyList>
+                    <Property Name="ERLevel" Type="Real32" Value="-96" />
+                    <Property Name="ReverbLevel" Type="Real32" Value="-96" />
+                  </PropertyList>
+                </State>
+              </CustomState>
+              <CustomState>
+                <StateRef Name="STATE_viewPlayMode_sniper" ID="{B84360EE-0891-43A8-9F9B-76A898F6C9B6}" />
+                <State Name="" ID="{24ABA256-EFA3-4F82-A670-107E1E1F211A}">
+                  <PropertyList>
+                    <Property Name="DryLevel" Type="Real32" Value="-96" />
+                    <Property Name="ERLevel" Type="Real32" Value="-18" />
+                    <Property Name="ReverbLevel" Type="Real32" Value="-4.5" />
+                  </PropertyList>
+                </State>
+              </CustomState>
+              <CustomState>
+                <StateRef Name="STATE_viewPlayMode_arcade" ID="{38532EFB-0C84-4858-9839-3FFE7D765E45}" />
+                <State Name="" ID="{F37EED04-4537-4160-AF4F-916678A354EA}">
+                  <PropertyList>
+                    <Property Name="ERLevel" Type="Real32" Value="-96" />
+                    <Property Name="ReverbLevel" Type="Real32" Value="-96" />
+                  </PropertyList>
+                </State>
+              </CustomState>
+              <CustomState>
+                <StateRef Name="STATE_viewPlayMode_strategic" ID="{851DD47E-B7C7-4DEA-A07F-83D254EF6192}" />
+                <State Name="" ID="{7080812D-DA3C-48D5-9224-CDDBD64FF799}">
+                  <PropertyList>
+                    <Property Name="ERLevel" Type="Real32" Value="-96" />
+                    <Property Name="ReverbLevel" Type="Real32" Value="-96" />
+                  </PropertyList>
+                </State>
+              </CustomState>
+              <CustomState>
+                <StateRef Name="STATE_viewPlayMode_arcade_ceilless" ID="{460305C3-914D-4E7A-B2FF-B5E3FEE9D830}" />
+                <State Name="" ID="{F26CA32B-4C17-4762-AFAC-B019AABA55C9}">
+                  <PropertyList>
+                    <Property Name="ERLevel" Type="Real32" Value="-96" />
+                    <Property Name="ReverbLevel" Type="Real32" Value="-96" />
+                  </PropertyList>
+                </State>
+              </CustomState>
+            </CustomStateList>
+          </StateInfo>
+        </Effect>
+        <Effect Name="ev_halloween_2018_storage" ID="{989F2783-0214-4ACA-9A34-2F05B742D189}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+          <PropertyList>
+            <Property Name="MeterMode" Type="int32" Value="1" />
+            <Property Name="Min" Type="Real32" Value="-60" />
+            <Property Name="ReleaseTime" Type="Real32" Value="0.5" />
+          </PropertyList>
+        </Effect>
+        <Effect Name="ev_halloween_2018_voice" ID="{0142D2A9-5E79-4145-8974-B2D8A649C925}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+          <PropertyList>
+            <Property Name="AttackTime" Type="Real32" Value="0.1" />
+            <Property Name="Min" Type="Real32" Value="-60" />
+          </PropertyList>
+        </Effect>
+        <Effect Name="gui_simple" ID="{5126173A-AD68-4D61-A39B-1563B98A0530}" PluginName="Wwise Gain" CompanyID="0" PluginID="139" PluginType="3">
+          <PropertyList>
+            <Property Name="FullBandGain" Type="Real32">
+              <RTPCList>
+                <RTPC Name="" ID="{1451E2A5-A48D-402A-991D-DEC43AE377AF}">
+                  <ReferenceList>
+                    <Reference Name="ControlInput">
+                      <ObjectRef Name="RTPC_ext_menu_volume_gui" ID="{13CBBD69-BC87-4FD1-B3E2-B7BCE1197EC8}" WorkUnitID="{AB476AAA-6033-49AB-999C-C9F0407E711B}" />
+                    </Reference>
+                  </ReferenceList>
+                  <Curve Name="" ID="{70064D93-EB35-420A-943D-DE803C1032B2}">
+                    <PropertyList>
+                      <Property Name="Flags" Type="int32" Value="3" />
+                    </PropertyList>
+                    <PointList>
+                      <Point>
+                        <XPos>0</XPos>
+                        <YPos>-96.3000030517578</YPos>
+                        <Flags>5</Flags>
+                      </Point>
+                      <Point>
+                        <XPos>100</XPos>
+                        <YPos>0</YPos>
+                        <Flags>37</Flags>
+                      </Point>
+                    </PointList>
+                  </Curve>
+                </RTPC>
+              </RTPCList>
+            </Property>
+          </PropertyList>
+        </Effect>
+        <Effect Name="Wwise_Gain__Custom_" ID="{A3436E95-3955-4BAF-9B44-6622C9395ECD}" PluginName="Wwise Gain" CompanyID="0" PluginID="139" PluginType="3">
+          <Comment>gui_battle</Comment>
+          <PropertyList>
+            <Property Name="FullBandGain" Type="Real32">
+              <RTPCList>
+                <RTPC Name="" ID="{B10F9298-C047-4C2D-86E9-42952714756A}">
+                  <ReferenceList>
+                    <Reference Name="ControlInput">
+                      <ObjectRef Name="RTPC_ext_menu_volume_gui" ID="{13CBBD69-BC87-4FD1-B3E2-B7BCE1197EC8}" WorkUnitID="{AB476AAA-6033-49AB-999C-C9F0407E711B}" />
+                    </Reference>
+                  </ReferenceList>
+                  <Curve Name="" ID="{81513A7D-C3A5-4543-90C3-47413913AB87}">
+                    <PropertyList>
+                      <Property Name="Flags" Type="int32" Value="3" />
+                    </PropertyList>
+                    <PointList>
+                      <Point>
+                        <XPos>0</XPos>
+                        <YPos>-96.3000030517578</YPos>
+                        <Flags>5</Flags>
+                      </Point>
+                      <Point>
+                        <XPos>100</XPos>
+                        <YPos>0</YPos>
+                        <Flags>37</Flags>
+                      </Point>
+                    </PointList>
+                  </Curve>
+                </RTPC>
+              </RTPCList>
+            </Property>
+          </PropertyList>
+        </Effect>
+        <Attenuation Name="trees_close_big_short" ID="{98CC4361-520D-4F55-8F3D-1A719B8D8D1E}">
+          <PropertyList>
+            <Property Name="RadiusMax" Type="Real64" Value="25" />
+          </PropertyList>
+          <CurveUsageInfoList>
+            <VolumeDryUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+                <Curve Name="VolumeDry" ID="{0D966E3F-610E-48E7-A444-660068D41E26}">
+                  <PropertyList>
+                    <Property Name="Flags" Type="int32" Value="3" />
+                  </PropertyList>
+                  <PointList>
+                    <Point>
+                      <XPos>0</XPos>
+                      <YPos>0</YPos>
+                      <Flags>5</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>8</XPos>
+                      <YPos>-8</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>25</XPos>
+                      <YPos>-200</YPos>
+                      <Flags>37</Flags>
+                    </Point>
+                  </PointList>
+                </Curve>
+              </CurveUsageInfo>
+            </VolumeDryUsage>
+            <VolumeWetGameUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry" />
+            </VolumeWetGameUsage>
+            <VolumeWetUserUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry" />
+            </VolumeWetUserUsage>
+            <LowPassFilterUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="None">
+                <Curve Name="LowPassFilter" ID="{F48F74A3-8BC0-41C4-9ACB-B1C313941296}">
+                  <PropertyList>
+                    <Property Name="Flags" Type="int32" Value="65537" />
+                  </PropertyList>
+                  <PointList>
+                    <Point>
+                      <XPos>0</XPos>
+                      <YPos>0</YPos>
+                      <Flags>5</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>25</XPos>
+                      <YPos>50</YPos>
+                      <Flags>37</Flags>
+                    </Point>
+                  </PointList>
+                </Curve>
+              </CurveUsageInfo>
+            </LowPassFilterUsage>
+            <HighPassFilterUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="None" />
+            </HighPassFilterUsage>
+            <SpreadUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+                <Curve Name="Spread" ID="{225835EF-BD7A-4930-AB31-052E596337A3}">
+                  <PropertyList>
+                    <Property Name="Flags" Type="int32" Value="1" />
+                  </PropertyList>
+                  <PointList>
+                    <Point>
+                      <XPos>0</XPos>
+                      <YPos>100</YPos>
+                      <Flags>5</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>1</XPos>
+                      <YPos>100</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>15</XPos>
+                      <YPos>0</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>25</XPos>
+                      <YPos>0</YPos>
+                      <Flags>37</Flags>
+                    </Point>
+                  </PointList>
+                </Curve>
+              </CurveUsageInfo>
+            </SpreadUsage>
+            <FocusUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="None" />
+            </FocusUsage>
+          </CurveUsageInfoList>
+        </Attenuation>
+        <Attenuation Name="coniferous_far_big" ID="{C8DB6B30-8738-4A5F-8012-45B881445EB4}">
+          <PropertyList>
+            <Property Name="RadiusMax" Type="Real64" Value="80" />
+          </PropertyList>
+          <CurveUsageInfoList>
+            <VolumeDryUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+                <Curve Name="VolumeDry" ID="{1F80E7A8-4F7D-4135-975B-6DC2167B3EB1}">
+                  <PropertyList>
+                    <Property Name="Flags" Type="int32" Value="3" />
+                  </PropertyList>
+                  <PointList>
+                    <Point>
+                      <XPos>0</XPos>
+                      <YPos>0</YPos>
+                      <Flags>5</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>80</XPos>
+                      <YPos>-60</YPos>
+                      <Flags>37</Flags>
+                    </Point>
+                  </PointList>
+                </Curve>
+              </CurveUsageInfo>
+            </VolumeDryUsage>
+            <VolumeWetGameUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry" />
+            </VolumeWetGameUsage>
+            <VolumeWetUserUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry" />
+            </VolumeWetUserUsage>
+            <LowPassFilterUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+                <Curve Name="LowPassFilter" ID="{AC9743A3-E1BE-48F2-A0B2-11E2FAD2BE46}">
+                  <PropertyList>
+                    <Property Name="Flags" Type="int32" Value="65537" />
+                  </PropertyList>
+                  <PointList>
+                    <Point>
+                      <XPos>0</XPos>
+                      <YPos>0</YPos>
+                      <Flags>5</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>20</XPos>
+                      <YPos>40</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>80</XPos>
+                      <YPos>55</YPos>
+                      <Flags>37</Flags>
+                    </Point>
+                  </PointList>
+                </Curve>
+              </CurveUsageInfo>
+            </LowPassFilterUsage>
+            <HighPassFilterUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="None" />
+            </HighPassFilterUsage>
+            <SpreadUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+                <Curve Name="Spread" ID="{0F8E9F94-E1E9-4DAE-A107-B5F155F78297}">
+                  <PropertyList>
+                    <Property Name="Flags" Type="int32" Value="1" />
+                  </PropertyList>
+                  <PointList>
+                    <Point>
+                      <XPos>0</XPos>
+                      <YPos>100</YPos>
+                      <Flags>5</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>4</XPos>
+                      <YPos>100</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>53</XPos>
+                      <YPos>0</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>80</XPos>
+                      <YPos>0</YPos>
+                      <Flags>37</Flags>
+                    </Point>
+                  </PointList>
+                </Curve>
+              </CurveUsageInfo>
+            </SpreadUsage>
+            <FocusUsage>
+              <CurveUsageInfo Platform="Linked" CurveToUse="None" />
+            </FocusUsage>
+          </CurveUsageInfoList>
+        </Attenuation>
+        <Effect Name="AUX_reverb_personal_missions" ID="{5E6D18A3-4765-4D56-9F30-253384FDA03C}" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+          <PropertyList>
+            <Property Name="DecayTime" Type="Real32" Value="3" />
+            <Property Name="Density" Type="Real32" Value="100" />
+            <Property Name="Diffusion" Type="Real32" Value="0" />
+            <Property Name="DryLevel" Type="Real32" Value="-96" />
+            <Property Name="ERPattern" Type="int32" Value="9" />
+            <Property Name="EnableToneControls" Type="bool" Value="True" />
+            <Property Name="Filter1Curve" Type="int32" Value="1" />
+            <Property Name="Filter1Freq" Type="Real32" Value="200" />
+            <Property Name="Filter1Gain" Type="Real32" Value="6" />
+            <Property Name="Filter1Q" Type="Real32" Value="2" />
+            <Property Name="Filter2Freq" Type="Real32" Value="2500" />
+            <Property Name="Filter2Gain" Type="Real32" Value="-9" />
+            <Property Name="Filter3Freq" Type="Real32" Value="6000" />
+            <Property Name="Filter3Gain" Type="Real32" Value="-15" />
+            <Property Name="HFDamping" Type="Real32" Value="2" />
+            <Property Name="PreDelay" Type="Real32" Value="0" />
+            <Property Name="Quality" Type="int32" Value="10" />
+            <Property Name="ReverbLevel" Type="Real32" Value="0" />
+          </PropertyList>
+        </Effect>
+        <Effect Name="AUX_reverb_hangar_dark_env" ID="{DC5988F4-4947-4BAA-BD7D-D5C4C6131349}" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+          <PropertyList>
+            <Property Name="DecayTime" Type="Real32" Value="3" />
+            <Property Name="Density" Type="Real32" Value="100" />
+            <Property Name="Diffusion" Type="Real32" Value="0" />
+            <Property Name="DryLevel" Type="Real32" Value="-96" />
+            <Property Name="ERPattern" Type="int32" Value="9" />
+            <Property Name="EnableToneControls" Type="bool" Value="True" />
+            <Property Name="Filter1Curve" Type="int32" Value="1" />
+            <Property Name="Filter1Freq" Type="Real32" Value="1000" />
+            <Property Name="Filter1Gain" Type="Real32" Value="-6" />
+            <Property Name="Filter1Q" Type="Real32" Value="3" />
+            <Property Name="Filter2Freq" Type="Real32" Value="3000" />
+            <Property Name="Filter2Gain" Type="Real32" Value="-9" />
+            <Property Name="Filter2Q" Type="Real32" Value="2" />
+            <Property Name="Filter3Freq" Type="Real32" Value="6000" />
+            <Property Name="Filter3Gain" Type="Real32" Value="-15" />
+            <Property Name="HFDamping" Type="Real32" Value="3.5" />
+            <Property Name="PreDelay" Type="Real32" Value="0" />
+            <Property Name="Quality" Type="int32" Value="10" />
+            <Property Name="ReverbLevel" Type="Real32" Value="-22" />
+            <Property Name="RoomSize" Type="Real32" Value="-100" />
           </PropertyList>
         </Effect>
       </ChildrenList>

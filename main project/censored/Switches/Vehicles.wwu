@@ -1791,6 +1791,123 @@ also a default state for NPC vehicles in battle (non-damaged PC vehicles)</Comme
             </SwitchGroup>
           </ChildrenList>
         </Folder>
+        <Folder Name="wheel_tech" ID="{1C39E4DD-79B4-4F7E-A14C-CE7F18FED43A}" ShortID="120016205">
+          <ChildrenList>
+            <SwitchGroup Name="SWITCH_int_wheels_slide_friction" ID="{E0FB988F-0CED-4B4E-B31B-0770BFCF975D}">
+              <PropertyList>
+                <Property Name="UseGameParameter" Type="bool" Value="True" />
+              </PropertyList>
+              <ChildrenList>
+                <Switch Name="SWITCH_int_friction_off" ID="{8F841197-231C-4951-BB6E-4F25C923521A}" />
+                <Switch Name="SWITCH_int_friction_on" ID="{10C6B793-E417-4D9C-9EBB-402A285B4B52}" />
+              </ChildrenList>
+              <SwitchOnRTPC>
+                <GameParameterRef Name="RTPC_ext_slide_friction" ID="{A6A360C2-5AA4-41D9-91CB-3B6A1DFB8605}" />
+                <Curve Name="" ID="{548D4784-E29B-400A-BC3C-AE4F6FB6CBD0}">
+                  <PropertyList>
+                    <Property Name="Flags" Type="int32" Value="65537" />
+                  </PropertyList>
+                  <PointList>
+                    <Point>
+                      <XPos>0</XPos>
+                      <YPos>1</YPos>
+                      <Flags>5</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>0.02</XPos>
+                      <YPos>2</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>1</XPos>
+                      <YPos>2</YPos>
+                      <Flags>37</Flags>
+                    </Point>
+                  </PointList>
+                </Curve>
+              </SwitchOnRTPC>
+            </SwitchGroup>
+            <SwitchGroup Name="SWITCH_int_wheels_friction" ID="{37C21D45-CCF6-4183-9C97-DAA4E3110289}">
+              <PropertyList>
+                <Property Name="UseGameParameter" Type="bool" Value="True" />
+              </PropertyList>
+              <ChildrenList>
+                <Switch Name="SWITCH_int_friction_off" ID="{50DB6C4F-9287-4B8C-9CA6-33BFF27E7EFF}" />
+                <Switch Name="SWITCH_int_friction_on" ID="{96890CC9-8D53-427F-966E-2C1C72AE46A7}" />
+              </ChildrenList>
+              <SwitchOnRTPC>
+                <GameParameterRef Name="RTPC_ext_friction" ID="{A18FB8B6-C5FF-4991-B788-8EDA6AF2CF4D}" />
+                <Curve Name="" ID="{6989BEF4-CADF-4C83-A7F4-74DAF14C2ADC}">
+                  <PropertyList>
+                    <Property Name="Flags" Type="int32" Value="65537" />
+                  </PropertyList>
+                  <PointList>
+                    <Point>
+                      <XPos>0</XPos>
+                      <YPos>1</YPos>
+                      <Flags>5</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>0.02</XPos>
+                      <YPos>2</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>1</XPos>
+                      <YPos>2</YPos>
+                      <Flags>37</Flags>
+                    </Point>
+                  </PointList>
+                </Curve>
+              </SwitchOnRTPC>
+            </SwitchGroup>
+            <SwitchGroup Name="SWITCH_int_wheels_turn" ID="{DA8E12D5-3A06-4420-9AD8-0DACA37C3238}">
+              <PropertyList>
+                <Property Name="UseGameParameter" Type="bool" Value="True" />
+              </PropertyList>
+              <ChildrenList>
+                <Switch Name="SWITCH_int_wheels_turn_left" ID="{57746F81-12FA-472D-A738-FCDED4F07E13}" />
+                <Switch Name="SWITCH_int_wheels_right" ID="{9B96C992-9442-4AD8-ADAA-316ED203D168}" />
+                <Switch Name="SWITCH_int_wheels_stright" ID="{48C77ECA-E80F-43C4-8628-DED08ADD8476}" />
+              </ChildrenList>
+              <SwitchOnRTPC>
+                <GameParameterRef Name="RTPC_ext_wheels_turning" ID="{582AF357-D147-4780-B2E0-1BE93C8E9F90}" />
+                <Curve Name="" ID="{7D4B2395-EFED-419E-9142-D1E6526D67A0}">
+                  <PropertyList>
+                    <Property Name="Flags" Type="int32" Value="65537" />
+                  </PropertyList>
+                  <PointList>
+                    <Point>
+                      <XPos>-90</XPos>
+                      <YPos>1</YPos>
+                      <Flags>5</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>-5</XPos>
+                      <YPos>1</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>-4.999</XPos>
+                      <YPos>3</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>5</XPos>
+                      <YPos>2</YPos>
+                      <Flags>0</Flags>
+                    </Point>
+                    <Point>
+                      <XPos>90</XPos>
+                      <YPos>2</YPos>
+                      <Flags>37</Flags>
+                    </Point>
+                  </PointList>
+                </Curve>
+              </SwitchOnRTPC>
+            </SwitchGroup>
+          </ChildrenList>
+        </Folder>
       </ChildrenList>
     </WorkUnit>
   </Switches>

@@ -122,7 +122,7 @@
             </Folder>
           </ChildrenList>
         </Folder>
-        <Folder Name="сombat_atmosphere" ID="{EDDC2BD6-A681-4F38-B8F3-0989EFCA208F}" ShortID="474812451">
+        <Folder Name="combat_atmosphere" ID="{EDDC2BD6-A681-4F38-B8F3-0989EFCA208F}" ShortID="474812451">
           <ChildrenList>
             <Event Name="combat_atmosphere" ID="{52A75454-6EA4-4F8A-9192-8E10CBAFC617}">
               <Comment>Event - Combat atmosphere</Comment>
