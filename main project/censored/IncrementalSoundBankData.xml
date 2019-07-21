@@ -24,9 +24,9 @@
 				<File Name="RelHaxVoiceover" Hash="4160467906" Timestamp="1535827825"/>
 			</Language>
 			<Language ID="393239870">
-				<File Name="Init" Hash="867488706" Timestamp="1535827971"/>
+				<File Name="Init" Hash="989470749" Timestamp="1563748457"/>
 				<File Name="RelHaxGui" Hash="3618562183" Timestamp="1549939308"/>
-				<File Name="RelHaxVoiceover" Hash="3531588578" Timestamp="1549942844"/>
+				<File Name="RelHaxVoiceover" Hash="2190239171" Timestamp="1563748457"/>
 			</Language>
 			<Language ID="550298558">
 				<File Name="RelHaxVoiceover" Hash="1964693999" Timestamp="1549602052"/>
@@ -148,7 +148,7 @@
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="1110582595" Timestamp="1549942844"/>
+				<File Name="" Hash="42478094" Timestamp="1563748457"/>
 			</Language>
 		</XMLInfo>
 	</Platform>
