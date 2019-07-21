@@ -25,6 +25,7 @@
 				<Property Name="Event Action List\{B072FF40-3197-4843-9945-D754CC44516C}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{B3B90FD4-90CA-4AFE-A5A5-4851C782FABF}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{D581020D-9453-4C74-8246-ADBD8D02B91D}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{E5559116-EB43-4260-8D2E-72D72FDBA1AF}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{EAAADFF9-DF93-4A52-94DE-5F2E6D3FFB2F}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{FFD7C229-3551-440F-9180-3B08EC6C1B24}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
@@ -53,7 +54,7 @@
 				<Property Name="MonitoringManager\WatchMgr\x64_Watches" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\FirstVisible_10_1" Type="string" Value="{4C96B38B-3DB4-40C7-91C9-665510E38993}"/>
 				<Property Name="ProjectExplorer\FirstVisible_11_1" Type="string" Value="{23EC2DE3-3ED8-4B82-AC99-92E25F2E4C6B}"/>
-				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{2388DAEA-9775-46C6-A2ED-C5222A397756}"/>
+				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{519D5643-8C66-418F-A1FB-2D3E9EDD72F5}"/>
 				<Property Name="ProjectExplorer\FirstVisible_3_1" Type="string" Value="{258FCDEE-B4FE-42C2-8FEE-6A41D76BDD47}"/>
 				<Property Name="ProjectExplorer\FirstVisible_4_1" Type="string" Value="{CB6175F1-6080-4A23-92EF-0807E304D0C1}"/>
 				<Property Name="ProjectExplorer\FirstVisible_6_1" Type="string" Value="{C98E673F-A24C-48A8-960F-10565FFE70A0}"/>
