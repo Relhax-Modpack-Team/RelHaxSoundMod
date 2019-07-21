@@ -7,15 +7,8 @@
 					<PropertyList>
 						<Property Name="ObjectType" Type="int32" Value="600"/>
 						<Property Name="Platform" Type="int16" Value="0"/>
-						<Property Name="StartFromHereObject" Type="string" Value="{C98E673F-A24C-48A8-960F-10565FFE70A0}"/>
+						<Property Name="StartFromHereObject" Type="string" Value="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}"/>
 					</PropertyList>
-					<ChildrenList>
-						<SearchCriteria Name="GeneralShort ID" ID="{0CC5D46B-EE4E-4AAB-951F-BD4032BB2B67}" SearchOperationID="{5A52DB39-C09B-4D8C-9AAF-2EB9016E2E66}">
-							<PropertyList>
-								<Property Name="UIntValue" Type="Uint32" Value="2166136261"/>
-							</PropertyList>
-						</SearchCriteria>
-					</ChildrenList>
 				</Query>
 			</ChildrenList>
 		</WorkUnit>

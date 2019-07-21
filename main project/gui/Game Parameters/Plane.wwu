@@ -18,6 +18,13 @@
             <Property Name="SlewRateUp" Type="Real64" Value="3" />
           </PropertyList>
         </GameParameter>
+        <GameParameter Name="RTPC_ext_plane_crashes_sc" ID="{EA703050-AC96-4494-BE75-E603613A42DA}">
+          <PropertyList>
+            <Property Name="InitialValue" Type="Real64" Value="-60" />
+            <Property Name="Max" Type="Real64" Value="0" />
+            <Property Name="Min" Type="Real64" Value="-60" />
+          </PropertyList>
+        </GameParameter>
       </ChildrenList>
     </WorkUnit>
   </GameParameters>

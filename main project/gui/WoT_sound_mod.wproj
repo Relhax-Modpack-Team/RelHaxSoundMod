@@ -1,16 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="Project" SchemaVersion="85" WwiseVersion="v2017.2.5" WwiseBuild="6619">
 	<ProjectInfo>
-		<Project Name="WoT_sound_mod" ID="{655ED899-8C41-4BD4-9799-A8885909500D}">
+		<Project Name="Wwise_2.0_mixing" ID="{655ED899-8C41-4BD4-9799-A8885909500D}">
 			<Platforms>
 				<Platform Name="Windows_HighRes" ReferencePlatform="Windows" ID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EC}"/>
 			</Platforms>
 			<LanguageList>
-				<Language Name="English(Canada)" ID="{93D38A67-D26E-407D-8A8E-2E8FAD9D85FF}"/>
-				<Language Name="SFX" ID="{EFBA3758-5C02-4DC6-B275-D129A6D45D37}"/>
+				<Language Name="Arabic" ID="{826C9768-7F09-4BDC-B7E2-06504EACCD49}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Buffon (Italian)" ID="{3B6A6B69-FB2B-46D6-860B-1BDFCA35CCB6}"/>
+				<Language Name="Bulgarian" ID="{C88A4D7F-0816-47C0-84B7-A841A0AB7B9F}"/>
+				<Language Name="Chinese(HK)" ID="{CFFD285B-B653-4B4D-98E7-B49FF62580B1}"/>
+				<Language Name="Chinese(PRC)" ID="{C80F3701-F768-4480-9F17-B074266D748C}"/>
+				<Language Name="Chinese(Taiwan)" ID="{CFD580DD-CEA6-4833-B24D-392052984841}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>7</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Czech" ID="{4DAF5303-5308-4734-8E66-59394236CB63}"/>
+				<Language Name="Danish" ID="{3411D1FA-EB60-4837-ACB9-7EA9DD008654}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Deadpool" ID="{95DB9F53-4B03-4D96-A92C-A6C8F19D4F79}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>9</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Dutch" ID="{C91400FA-923A-4132-B34C-026BA381AB30}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="English(Australia)" ID="{658E621F-471D-4056-B499-3CE3AC4E8D46}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>2.5</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="English(India)" ID="{B5744701-1119-4828-A6B7-16118AD0C7EE}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="English(UK)" ID="{220774AF-882D-460D-9470-9339AE143FB8}"/>
+				<Language Name="English(US)" ID="{D2079BA8-52A4-4C72-953D-F6670A946E4C}"/>
+				<Language Name="External" ID="{AD9C1D1D-C528-412C-892D-D8C08A67FA1C}"/>
+				<Language Name="Finnish" ID="{BF40349C-C7F0-4015-BCF9-AAF88AA9889A}"/>
+				<Language Name="French(Canada)" ID="{F0BF3A15-E4C1-4B51-B522-89D5B37B6FF6}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>7</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="French(France)" ID="{8A088677-F790-49F5-80B5-05FBC52718BC}"/>
+				<Language Name="German" ID="{FADD2C00-82CA-49EC-BD3A-28A45A2EA71F}"/>
+				<Language Name="Girls_und_Panzer" ID="{F3AD93A8-EB6E-4590-B037-899338EFB978}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>8</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Greek" ID="{C6213143-ED76-403B-9836-FC2985049EFA}"/>
+				<Language Name="Hebrew" ID="{698B51CD-BEE7-4F63-8487-CAAB3BA7F061}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Hungarian" ID="{A2FE0297-53C1-40FC-A714-7AE80BD0EB6A}"/>
+				<Language Name="Indonesian" ID="{5030AAA2-5AFA-42FB-9A32-0663BEFB746A}"/>
+				<Language Name="Italian" ID="{DFD86F77-A038-413F-9CEB-310031AACB49}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Italian_native" ID="{77E377BF-CCF3-4FF5-B626-452028A46778}"/>
+				<Language Name="Japanese" ID="{551DDF96-23CB-406C-888A-480C1F80096F}"/>
+				<Language Name="Korean" ID="{D4D2151C-95E1-499E-8C9B-4C954C643F96}"/>
+				<Language Name="Latin" ID="{B3DCEC1F-62A5-4380-851E-A8E49A3C1DFF}"/>
+				<Language Name="Mixed" ID="{1F5D9014-D9D8-4767-9E09-C6AD099FD32A}"/>
+				<Language Name="Norwegian" ID="{4074DFB7-FCEE-4C7E-AA7E-C4980FF7305E}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Polish" ID="{551719CF-24AF-4C8C-AEC0-0A53FF117136}"/>
+				<Language Name="Polish(Ala)" ID="{29743A0D-E0A7-414A-8B10-26F526C3F26A}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>12</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Portuguese(Brazil)" ID="{138904FE-6309-422E-B1B8-3F2EA4523E9B}"/>
+				<Language Name="Portuguese(Portugal)" ID="{B937EDFB-32F7-4171-BA15-607F1FEC3D51}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>7</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Romanian" ID="{E615F231-6135-45A6-B602-4CAD3342B0D0}"/>
+				<Language Name="Russian" ID="{3A26457B-7413-4A3D-A0B2-0A01FBE6B802}"/>
+				<Language Name="SFX" ID="{08DD6169-A10F-419A-8112-C96DE3265289}"/>
+				<Language Name="Slovenian" ID="{3922E37D-7410-4D5F-9DA9-343A456D1F87}"/>
+				<Language Name="Spanish(Mexico)" ID="{1F75F20A-4929-4108-A009-FFF2A56CA438}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Spanish(Spain)" ID="{F72261A8-9364-443C-8CEE-655227EBF4C5}"/>
+				<Language Name="Spanish(US)" ID="{7186FCC3-E6A5-4F67-8928-61CED0F64F54}"/>
+				<Language Name="Swedish" ID="{E797F413-3EE5-4893-8295-37F462A2CCEF}">
+					<PropertyList>
+						<Property Name="VolumeOffset" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+				</Language>
+				<Language Name="Thai" ID="{7CF5B974-6AE5-4FB9-8415-995525028D60}"/>
+				<Language Name="Turkish" ID="{6A946E7B-1BE0-4881-9957-BACB3867FEF9}"/>
+				<Language Name="uniqueCrewSpecialVoice" ID="{0AFB00FC-CAB2-4B0A-B1F7-B0D0C68FC3ED}"/>
+				<Language Name="Vietnamese" ID="{4C2F2FFB-3EB4-418A-B9A6-F53C557DAD5F}"/>
 			</LanguageList>
 			<PropertyList>
-				<Property Name="DefaultLanguage" Type="string" Value="English(Canada)"/>
+				<Property Name="DefaultLanguage" Type="string" Value="Russian"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
 						<Value Platform="Windows_HighRes"></Value>
@@ -26,7 +199,7 @@
 						<Value Platform="Windows_HighRes">110</Value>
 					</ValueList>
 				</Property>
-				<Property Name="LicenseKey" Type="string" Value="PHByb2plY3QgaWQ9IjM4ODYiIG1hc2s9IlZYTU45ODY0IiBlbmM9IjMiPjxsaWNlbnNlIGlkPSIxIiBuYW1lPSJXd2lzZSIgdHlwZT0iMyIgcGxhdGZvcm1zPSIxMCIgZXhwaXJlcz0iMjAxOS0wMy0zMSIgIC8+PGxpY2Vuc2UgaWQ9IjIxIiBuYW1lPSJNYWludGVuYW5jZSIgdHlwZT0iMyIgcGxhdGZvcm1zPSIxMCIgZXhwaXJlcz0iMjAxOS0wMy0zMSIgIC8+PGxpY2Vuc2UgaWQ9IjI0IiBuYW1lPSJMZXZlbCBDIExpY2Vuc2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMTAiIGV4cGlyZXM9IjIwMTktMDMtMzEiICAvPjxsaWNlbnNlIGlkPSIxNCIgbmFtZT0iaVpvdG9wZSBUcmFzaCBCb3ggTW9kZWxzIiB0eXBlPSIzIiBwbGF0Zm9ybXM9IjEwIiBleHBpcmVzPSIyMDE5LTAzLTMxIiAgLz48bGljZW5zZSBpZD0iMTIiIG5hbWU9Imlab3RvcGUgVHJhc2ggTXVsdGktYmFuZCBEaXN0b3J0aW9ucyIgdHlwZT0iMyIgcGxhdGZvcm1zPSIxMCIgZXhwaXJlcz0iMjAxOS0wMy0zMSIgIC8+PGxpY2Vuc2UgaWQ9IjEwIiBuYW1lPSJNY0RTUCBCdW5kbGUgKE1MMSwgRnV0ekJveCkiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMTAiIGV4cGlyZXM9IjIwMTktMDMtMzEiICAvPjxsaWNlbnNlIGlkPSI3IiBuYW1lPSJTb3VuZFNlZWQgQnVuZGxlIChJbXBhY3QsIEFpcikiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMTAiIGV4cGlyZXM9IjIwMTktMDMtMzEiICAvPjxsaWNlbnNlIGlkPSI2IiBuYW1lPSJXd2lzZSBDb252b2x1dGlvbiBSZXZlcmIiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMTAiIGV4cGlyZXM9IjIwMTktMDMtMzEiICAvPjwvcHJvamVjdD4=|nkV7juZKS7Lt3zoULWFxeAzQg3Qf1lkWiIhFxb3kyYUKt1FxOHLTWXiET+gye0FawGYJlqQnd1Vb0YD6AOTKkBubYW9d6IfXlysAzXBmAvGr5t15OeBXqrhKb4th6UhneSHDapaBg0uUUWIIIEah886weua8twbVQl6twzxZ6wGRhO4QF4ul60+X3ZxAT3vuz/4c8Zn3VNqv84sM2nk4Paf2+kFuhAoDF0IxiDvPIbIc8ZgAOGYkeX9/iZIvuVQDXOvYhpdr+F803pYUwNBUoutE648JmkVpXFFkFqKK7YHNF9PgyzqwY0nEGcU5J9Hb1sytU7Lvr9rgFAiR/Oz6yw=="/>
+				<Property Name="LicenseKey" Type="string" Value="PHByb2plY3QgaWQ9IjM4ODYiIG1hc2s9IlZYTU45ODY0IiBlbmM9IjMiPjxsaWNlbnNlIGlkPSIxIiBuYW1lPSJXd2lzZSIgdHlwZT0iMyIgcGxhdGZvcm1zPSIxMCIgZXhwaXJlcz0iMjAyMS0wMy0zMSIgIC8+PGxpY2Vuc2UgaWQ9IjIxIiBuYW1lPSJNYWludGVuYW5jZSIgdHlwZT0iMyIgcGxhdGZvcm1zPSIxMCIgZXhwaXJlcz0iMjAyMS0wMy0zMSIgIC8+PGxpY2Vuc2UgaWQ9IjI0IiBuYW1lPSJMZXZlbCBDIExpY2Vuc2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMTAiIGV4cGlyZXM9IjIwMjEtMDMtMzEiICAvPjxsaWNlbnNlIGlkPSIxNCIgbmFtZT0iaVpvdG9wZSBUcmFzaCBCb3ggTW9kZWxzIiB0eXBlPSIzIiBwbGF0Zm9ybXM9IjEwIiBleHBpcmVzPSIyMDIxLTAzLTMxIiAgLz48bGljZW5zZSBpZD0iMTIiIG5hbWU9Imlab3RvcGUgVHJhc2ggTXVsdGktYmFuZCBEaXN0b3J0aW9ucyIgdHlwZT0iMyIgcGxhdGZvcm1zPSIxMCIgZXhwaXJlcz0iMjAyMS0wMy0zMSIgIC8+PGxpY2Vuc2UgaWQ9IjEwIiBuYW1lPSJNY0RTUCBCdW5kbGUgKE1MMSwgRnV0ekJveCkiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMTAiIGV4cGlyZXM9IjIwMjEtMDMtMzEiICAvPjxsaWNlbnNlIGlkPSI3IiBuYW1lPSJTb3VuZFNlZWQgQnVuZGxlIChJbXBhY3QsIEFpcikiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMTAiIGV4cGlyZXM9IjIwMjEtMDMtMzEiICAvPjxsaWNlbnNlIGlkPSI2IiBuYW1lPSJXd2lzZSBDb252b2x1dGlvbiBSZXZlcmIiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMTAiIGV4cGlyZXM9IjIwMjEtMDMtMzEiICAvPjwvcHJvamVjdD4=|FH5TfTJy2nvgwY16c7qg4j79XZ8wc034xGguZeAN6IV3anvtUfcpfY0VisHJ97yzGRFBh2rhUKNvWvoaIJJ4WzMSMMItWOy7vY014jSWycLOXjFJShL1xE6xGrtTjXo2/rjFkNRxIUf8FSRyDkf0h5qgLOFDpNTfdm+bCOfvxDPlzDtbm6BbmRITl49axd8/f77hOLp+8MXkEX2WatTYjr2p+Y5YpE/7rcOMfmWPzuMYuOhvMWc9Nx7egW65r2M3wae3G/NvIe8U17QvlwLmuDeS4bTXgLL4g3hvVwmU+6wzdOTaJML5RR0aDhrQbzmcpYb8xpoSsF+c4diEJZrdfA=="/>
 				<Property Name="SoundBankGenerateDefinitionFile" Type="bool" Value="False"/>
 				<Property Name="SoundBankGenerateEstimatedDuration" Type="bool" Value="True"/>
 				<Property Name="SoundBankGenerateMaxAttenuationInfo" Type="bool" Value="True"/>
@@ -7293,15 +7466,6 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Resonance Audio Renderer" PluginType="3" CompanyID="272" PluginID="100">
-					<PropertyList>
-						<Property Name="Inclusion" Type="bool">
-							<ValueList>
-								<Value>True</Value>
-							</ValueList>
-						</Property>
-					</PropertyList>
-				</SharedPropertyList>
 				<SharedPropertyList ClassName="Wwise Silence" PluginType="2" CompanyID="0" PluginID="101">
 					<PropertyList>
 						<Property Name="Length" Type="Real32">
@@ -9738,15 +9902,6 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Microsoft Spatial Sound Platform Output" PluginType="7" CompanyID="275" PluginID="170">
-					<PropertyList>
-						<Property Name="Inclusion" Type="bool">
-							<ValueList>
-								<Value>True</Value>
-							</ValueList>
-						</Property>
-					</PropertyList>
-				</SharedPropertyList>
 				<SharedPropertyList ClassName="Wwise Reflect" PluginType="3" CompanyID="0" PluginID="171">
 					<PropertyList>
 						<Property Name="BaseTextureFrequency" Type="Real32">
@@ -9878,29 +10033,11 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Resonance Audio Room Effects" PluginType="6" CompanyID="272" PluginID="200">
-					<PropertyList>
-						<Property Name="Inclusion" Type="bool">
-							<ValueList>
-								<Value>True</Value>
-							</ValueList>
-						</Property>
-					</PropertyList>
-				</SharedPropertyList>
-				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="201">
+				<SharedPropertyList ClassName="Wwise MP3 Input" PluginType="2" CompanyID="0" PluginID="201">
 					<PropertyList>
 						<Property Name="Token" Type="int32">
 							<ValueList>
 								<Value>0</Value>
-							</ValueList>
-						</Property>
-					</PropertyList>
-				</SharedPropertyList>
-				<SharedPropertyList ClassName="AttachableMixerInput" PluginType="3" CompanyID="272" PluginID="201">
-					<PropertyList>
-						<Property Name="Bypass" Type="bool">
-							<ValueList>
-								<Value>False</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -10807,13 +10944,16 @@
 			<LogCentralIgnoreList>
 				<IgnoreItem MessageId="32"/>
 			</LogCentralIgnoreList>
-			<DefaultConversion Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}"/>
+			<DefaultConversion Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}"/>
 			<PhysicalFolderList>
 				<PhysicalFolder Path="Actor-Mixer Hierarchy">
 					<WorkUnit Name="Actor-Mixer Hierarchy" ID="{5EA7BBF8-64C0-4A50-8821-A07E8BE21D68}" PersistMode="Standalone"/>
 				</PhysicalFolder>
 				<PhysicalFolder Path="Attenuations">
 					<WorkUnit Name="Attenuations" ID="{017BDDA0-1BB1-4CE1-8077-79594EC4585C}" PersistMode="Standalone"/>
+				</PhysicalFolder>
+				<PhysicalFolder Path="Attenuations\Bongfish">
+					<WorkUnit Name="Bongfish" ID="{1146B30F-7F11-4ACA-A011-2B6D82810598}" PersistMode="Standalone"/>
 				</PhysicalFolder>
 				<PhysicalFolder Path="Audio Devices">
 					<WorkUnit Name="Audio Devices" ID="{27092F88-225A-1154-6725-C8A34F3D4482}" PersistMode="Standalone"/>
@@ -10832,6 +10972,9 @@
 				</PhysicalFolder>
 				<PhysicalFolder Path="Events">
 					<WorkUnit Name="Events" ID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" PersistMode="Standalone"/>
+				</PhysicalFolder>
+				<PhysicalFolder Path="Events\Bongfish">
+					<WorkUnit Name="Bongfish" ID="{CE5A8E94-FC90-4015-A4E8-D664B5595C19}" PersistMode="Standalone"/>
 				</PhysicalFolder>
 				<PhysicalFolder Path="Events\Ranked_battles">
 					<WorkUnit Name="Ranked_battles" ID="{BB8A842F-71E4-449A-AAE1-2639E9C479BD}" PersistMode="Standalone"/>
@@ -10865,6 +11008,9 @@
 				</PhysicalFolder>
 				<PhysicalFolder Path="States">
 					<WorkUnit Name="States" ID="{59A9E7B9-61C9-461A-A96F-4997B541A59C}" PersistMode="Standalone"/>
+				</PhysicalFolder>
+				<PhysicalFolder Path="States\Bongfish">
+					<WorkUnit Name="Bongfish" ID="{D556780F-CEE3-4AF8-B58A-EF0675370374}" PersistMode="Standalone"/>
 				</PhysicalFolder>
 				<PhysicalFolder Path="Switches">
 					<WorkUnit Name="Switches" ID="{CB6175F1-6080-4A23-92EF-0807E304D0C1}" PersistMode="Standalone"/>

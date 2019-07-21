@@ -10,10 +10,21 @@
               <Comment>External RTPC - Wind intensity on maps</Comment>
               <PropertyList>
                 <Property Name="InitialValue" Type="Real64" Value="0" />
-                <Property Name="Max" Type="Real64" Value="15" />
+                <Property Name="Max" Type="Real64" Value="20" />
                 <Property Name="RTPCRamping" Type="int16" Value="1" />
-                <Property Name="SlewRateDown" Type="Real64" Value="30" />
-                <Property Name="SlewRateUp" Type="Real64" Value="30" />
+                <Property Name="SlewRateDown" Type="Real64" Value="5" />
+                <Property Name="SlewRateUp" Type="Real64" Value="10" />
+              </PropertyList>
+            </GameParameter>
+            <GameParameter Name="RTPC_int_wind_intensity_sc_transfer" ID="{EDCF942B-6B16-4517-A45E-17A21CBAF9DD}">
+              <Comment>Internal RTPC - sidechain parameter for the wind</Comment>
+              <PropertyList>
+                <Property Name="InitialValue" Type="Real64" Value="-48" />
+                <Property Name="Max" Type="Real64" Value="0" />
+                <Property Name="Min" Type="Real64" Value="-48" />
+                <Property Name="RTPCRamping" Type="int16" Value="1" />
+                <Property Name="SlewRateDown" Type="Real64" Value="96" />
+                <Property Name="SlewRateUp" Type="Real64" Value="96" />
               </PropertyList>
             </GameParameter>
           </ChildrenList>

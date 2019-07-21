@@ -232,6 +232,10 @@
               <Comment>Event - Basket</Comment>
               <ChildrenList></ChildrenList>
             </Event>
+            <Event Name="obj_bicyclewithsallcart" ID="{B63ECBB5-0E82-428F-9D27-A445BF93EBEE}">
+              <Comment>Event - Bicycle</Comment>
+              <ChildrenList></ChildrenList>
+            </Event>
           </ChildrenList>
         </Folder>
       </ChildrenList>

@@ -13,24 +13,22 @@
         </Event>
         <Event Name="ue_stop_all_voices_except_combat_music" ID="{0E90EB16-CF19-42AB-9C26-75E72ECB2D5F}">
           <Comment>Event - Stop all events but for combat music</Comment>
-          <ChildrenList></ChildrenList>
         </Event>
         <Event Name="ue_events_arena_stop_except_music" ID="{B523F6A3-A9F4-493B-ADD0-F4B7C76265C0}">
-          <Comment>Event - Stop all arena efects but for music</Comment>
-          <ChildrenList></ChildrenList>
+          <Comment>Event - Stop all arena efects but for music
+Probably unused</Comment>
         </Event>
         <Event Name="ue_stop_loadscreen_music" ID="{DAC148FC-C924-432C-A2BF-BB76DD699D5D}">
           <Comment>Event - Stop the load screen music</Comment>
           <ChildrenList></ChildrenList>
         </Event>
         <Event Name="ue_events_hangar_stop_afterBattleMusic" ID="{757742B2-C752-4A9B-8FEB-79EF95409917}">
-          <Comment>Delete action no. 4 after hangar_premium_v3 release</Comment>
-          <ChildrenList></ChildrenList>
+          <Comment>Delete action no. 4 after hangar_premium_v3 release
+Probably unused</Comment>
         </Event>
         <Event Name="ue_init_outside_arena_universal" ID="{DE1234A3-6353-4837-A0A7-D8CAAA796D9B}">
-          <ChildrenList></ChildrenList>
-        </Event>
-        <Event Name="ue_init_inside_arena_1stapril" ID="{58C443E3-751A-4401-B0D5-F315EFD92258}">
+          <Comment>Probably unused
+Event is internal and used with actions in the old hangar</Comment>
           <ChildrenList></ChildrenList>
         </Event>
         <Folder Name="sound_presets" ID="{ED6413BF-D1C7-490C-B755-03D430C02550}" ShortID="36775402">
@@ -156,16 +154,6 @@
         <Event Name="ue_master_unmute" ID="{711FF6C2-FBEA-4594-818A-C14310EAFF3C}">
           <ChildrenList></ChildrenList>
         </Event>
-        <Folder Name="hangar_common_events" ID="{072E6728-1B03-45F0-B996-4DBF50E22890}" ShortID="658830703">
-          <ChildrenList>
-            <Event Name="ue_hangar_generic_camera_fly_forward" ID="{D65C1C20-0DE8-46EE-B1E2-EA95BCE8959F}">
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="ue_hangar_generic_camera_fly_backward" ID="{CEC01DDF-B9A0-4DC2-AA8B-4AE585CD333E}">
-              <ChildrenList></ChildrenList>
-            </Event>
-          </ChildrenList>
-        </Folder>
       </ChildrenList>
     </WorkUnit>
   </Events>

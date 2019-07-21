@@ -82,6 +82,13 @@
             <Event Name="eng_repairing_broken" ID="{98C7F890-CDE7-4AF4-8A2B-87BFBDDB9CE1}">
               <ChildrenList></ChildrenList>
             </Event>
+            <Folder Name="wheeled_vehicle" ID="{B3251C44-048E-44CD-9945-40A9DBF122D0}" ShortID="102604012">
+              <ChildrenList>
+                <Event Name="eng_damage_risk" ID="{33BABBBE-8C2D-42D2-95E4-75507407B81C}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+              </ChildrenList>
+            </Folder>
           </ChildrenList>
         </Folder>
         <Event Name="eng_ContinentalR_STRV_pc" ID="{D06065C0-6E1D-47A4-BFF9-A91A49662D7D}">
@@ -92,6 +99,18 @@
         <Event Name="eng_ContinentalR_STRV_npc" ID="{42412421-FB2A-453C-8FE5-2F7EE3C6F3ED}">
           <Comment>Event - Gasoline engine of high power. NPC
              RPM 400-1300 - 1800-3000</Comment>
+          <ChildrenList></ChildrenList>
+        </Event>
+        <Event Name="eng_cadillac_series_42_pc" ID="{C3AD99FA-45EE-4825-B15E-5AD661C04E56}">
+          <ChildrenList></ChildrenList>
+        </Event>
+        <Event Name="eng_cadillac_series_42_npc" ID="{0AC81ED9-53AB-4988-AB74-2DAD49A70529}">
+          <ChildrenList></ChildrenList>
+        </Event>
+        <Event Name="eng_Skoda_Prague_pc" ID="{A8B5E08D-1E96-44EE-985F-67394C8DDB17}">
+          <ChildrenList></ChildrenList>
+        </Event>
+        <Event Name="eng_Skoda_Prague_npc" ID="{D7FE2756-2CA0-472B-8507-38D3058FB210}">
           <ChildrenList></ChildrenList>
         </Event>
       </ChildrenList>

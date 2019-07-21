@@ -1506,6 +1506,13 @@
             </Event>
           </ChildrenList>
         </Folder>
+        <Folder Name="friendly_fire" ID="{05787C10-454F-47DA-82D0-FDE74B63ADB4}" ShortID="768627205">
+          <ChildrenList>
+            <Event Name="imp_ff_NPC_PC" ID="{6059A7CF-F78D-4A6A-9605-9F0C9D310D6A}">
+              <ChildrenList></ChildrenList>
+            </Event>
+          </ChildrenList>
+        </Folder>
       </ChildrenList>
     </WorkUnit>
   </Events>
