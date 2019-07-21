@@ -1,3 +1,4 @@
 .cache
 *.akd
 desktop.ini
+*.validationcache
