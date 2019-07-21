@@ -31,13 +31,6 @@
 						</Event>
 					</ChildrenList>
 				</Folder>
-				<Folder Name="Shell_extract_PC" ID="{047FEC55-97C0-454E-B08F-216C5390E851}" ShortID="323753720">
-					<ChildrenList>
-						<Event Name="shell_extract_external_PC" ID="{8469E679-7D0F-4E88-B0FC-A94B0895AFAF}">
-							<ChildrenList></ChildrenList>
-						</Event>
-					</ChildrenList>
-				</Folder>
 				<Folder Name="tangage_strv_NPC" ID="{380472D6-03E4-4967-BEE9-4D184759837E}" ShortID="644616739">
 					<ChildrenList>
 						<Event Name="tangage_gidro_high_angle_down_start_NPC" ID="{983ABEFC-E309-4CF1-846B-93FA5BECA328}">
@@ -62,13 +55,6 @@
 							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="tangage_gidro_small_angle_up_stop_NPC" ID="{5F021262-8789-4FC1-81E5-613346C16F97}">
-							<ChildrenList></ChildrenList>
-						</Event>
-					</ChildrenList>
-				</Folder>
-				<Folder Name="Shell_extract_NPC" ID="{EA25C2AE-F206-44CD-8DA5-5C9C5C5817E7}" ShortID="455656972">
-					<ChildrenList>
-						<Event Name="shell_extract_external_NPC" ID="{0F3C68B1-7EE2-460A-8126-9B5C31D432E7}">
 							<ChildrenList></ChildrenList>
 						</Event>
 					</ChildrenList>

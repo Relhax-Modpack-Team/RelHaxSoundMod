@@ -22,6 +22,12 @@
         <Event Name="treads_type_pc" ID="{E7EC5C18-162B-4C9A-9A09-BA6255FC888D}">
           <ChildrenList></ChildrenList>
         </Event>
+        <Event Name="wheels_suspension_pc" ID="{18A38287-2770-4A11-A97D-2CEDAD8E7001}">
+          <ChildrenList></ChildrenList>
+        </Event>
+        <Event Name="wheels_suspension_npc" ID="{88AF1C94-301F-4F77-B335-FB4A7E31117D}">
+          <ChildrenList></ChildrenList>
+        </Event>
       </ChildrenList>
     </WorkUnit>
   </Events>

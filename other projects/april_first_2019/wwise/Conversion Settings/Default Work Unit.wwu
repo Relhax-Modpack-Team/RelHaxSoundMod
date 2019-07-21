@@ -752,50 +752,6 @@
 						</ConversionPluginInfo>
 					</ConversionPluginInfoList>
 				</Conversion>
-				<Conversion Name="Invalid_file_header_remover" ID="{8F989F93-EE1A-4747-BB31-25EF71D7340C}">
-					<PropertyList>
-						<Property Name="Channels" Type="int32">
-							<ValueList>
-								<Value Platform="Windows_HighRes">4</Value>
-							</ValueList>
-						</Property>
-						<Property Name="LRMix" Type="Real64">
-							<ValueList>
-								<Value Platform="Windows_HighRes">0</Value>
-							</ValueList>
-						</Property>
-						<Property Name="MaxSampleRate" Type="int32">
-							<ValueList>
-								<Value Platform="Windows_HighRes">44100</Value>
-							</ValueList>
-						</Property>
-						<Property Name="MinSampleRate" Type="int32">
-							<ValueList>
-								<Value Platform="Windows_HighRes">22050</Value>
-							</ValueList>
-						</Property>
-						<Property Name="RemoveDCOffset" Type="bool">
-							<ValueList>
-								<Value>False</Value>
-							</ValueList>
-						</Property>
-						<Property Name="SRConversionQuality" Type="int32">
-							<ValueList>
-								<Value>1</Value>
-							</ValueList>
-						</Property>
-						<Property Name="SampleRate" Type="int32">
-							<ValueList>
-								<Value Platform="Windows_HighRes">2</Value>
-							</ValueList>
-						</Property>
-					</PropertyList>
-					<ConversionPluginInfoList>
-						<ConversionPluginInfo Platform="Windows_HighRes">
-							<ConversionPlugin Name="" ID="{2034DBFC-4EA0-4BE4-9F9A-EE259CDC0128}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
-						</ConversionPluginInfo>
-					</ConversionPluginInfoList>
-				</Conversion>
 				<Conversion Name="Vorbis_Q7_adaptive_22-44_seektable1024" ID="{EC86807A-8F82-4747-9C6A-48A500D95E3C}">
 					<PropertyList>
 						<Property Name="Channels" Type="int32">

@@ -42,8 +42,52 @@
         <Folder Name="crashes" ID="{F247EEE6-5ED7-4DFE-BFB8-C04633AB3C8D}" ShortID="4043856">
           <ChildrenList>
             <Event Name="plane_crash" ID="{9C6ECF2A-CB95-49BB-8215-243BF3FC5180}">
+              <Comment>This event is probably not being used anywhere</Comment>
               <ChildrenList></ChildrenList>
             </Event>
+            <Folder Name="frontline" ID="{55279049-B231-4BAD-97C4-7C5305942ACD}" ShortID="821706880">
+              <ChildrenList>
+                <Event Name="fr_scenario_IL2_attack_failed_east_01" ID="{C2316ABC-E8F0-45DC-A04E-AD813B5CA15D}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_attack_failed_east_02" ID="{49F77936-5469-4470-924C-06B574211616}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_crash_east_01" ID="{A53B2B23-A02A-4B0C-B4A7-19F2E9F38AFF}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_crash_east_02" ID="{16550BDC-51E9-4441-9D74-E41F8F5A3D3C}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_attack_failed_west_01" ID="{AB708D33-8560-4451-BF93-FE4EBA65EC4A}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_attack_failed_west_02" ID="{6E80CF38-FC20-45A5-9681-4EF26BBC73CF}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_crash_west_01" ID="{2106704E-67A4-4BDA-8F6C-9F0127F1E58E}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_crash_west_02" ID="{717974F5-13DE-4CA4-8B4E-754FD65DA251}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_attack_failed_center_01" ID="{57BBE66A-9F38-4515-A2F9-99D50D4B5873}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_attack_failed_center_02" ID="{E66BAF55-50E7-4DC0-AB54-BC508573A5D1}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_attack_failed_center_03" ID="{B713CAD1-CBE4-4F77-BEFE-55B84501B2C8}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_crash_center_01" ID="{42C4C48A-BED5-46E7-8FD4-4225AB146399}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="fr_scenario_IL2_smoke_center_02" ID="{A13D569D-4FBC-45D1-88E4-757145926879}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+              </ChildrenList>
+            </Folder>
           </ChildrenList>
         </Folder>
         <Folder Name="DDay" ID="{5C7960B5-6231-4342-95B7-58B4C83A0FD5}" ShortID="288638448">
@@ -128,6 +172,19 @@
             <Event Name="aircraft_loop_01" ID="{C1A5EF80-87B9-428F-AFF8-87EF62F8464B}">
               <ChildrenList></ChildrenList>
             </Event>
+          </ChildrenList>
+        </Folder>
+        <Folder Name="antiAircraft" ID="{CC9447A5-68C6-44E1-A33F-07ADAE69FD28}" ShortID="850502712">
+          <ChildrenList>
+            <Folder Name="frontline" ID="{1341E367-B500-45FB-B1AC-90D4E451BDCD}" ShortID="1026805093">
+              <ChildrenList>
+                <Event Name="antiAircraft_expl_frontline" ID="{A64C168C-B82F-43BB-9148-309E9EC97688}">
+                  <Comment>Event not yet in use.
+To be used after fixing a bug with trajectories of explosions in the air in Frontline</Comment>
+                  <ChildrenList></ChildrenList>
+                </Event>
+              </ChildrenList>
+            </Folder>
           </ChildrenList>
         </Folder>
       </ChildrenList>

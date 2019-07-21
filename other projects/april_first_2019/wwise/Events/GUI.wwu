@@ -22,10 +22,6 @@
               <Comment>Event - Sound of activating the Intuition perk</Comment>
               <ChildrenList></ChildrenList>
             </Event>
-            <Event Name="gun_reloaded" ID="{80E53EC9-D356-4FBC-A040-A957B6E1C108}">
-              <Comment>Event - NOT APPLIED</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
             <Event Name="minimap_attention" ID="{7EF45CE7-BCE6-46ED-926A-934694379ABE}">
               <Comment>Event - Sound of coordinates on the minimap</Comment>
               <ChildrenList></ChildrenList>
@@ -50,22 +46,6 @@
               <Comment>Event - Timer countdown sound</Comment>
               <ChildrenList></ChildrenList>
             </Event>
-            <Event Name="cybersport_timer" ID="{DAE2BC57-421D-445F-8EAD-E47320A23EA0}">
-              <Comment>Event - Timer</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="cybersport_auto_search" ID="{24DF7CCE-EA64-4ED5-BE8C-F3323FFC39D6}">
-              <Comment>Event - Sound of searching for a battle in eSports</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="league_up" ID="{DD64E31A-B687-411D-A951-B2B45CF88783}">
-              <Comment>Event - ?</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="league_down" ID="{5A5D5F80-2A2D-4383-956D-A1290F979068}">
-              <Comment>Event - ?</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
             <Event Name="division_up" ID="{86DBD317-B9FD-4BAC-8958-B099A2053FF4}">
               <Comment>Event - Sound of rating increase in eSports</Comment>
               <ChildrenList></ChildrenList>
@@ -88,18 +68,6 @@
             </Event>
             <Event Name="timer_stop" ID="{F1E58D3E-BC3C-4012-877F-50D4CCE8B517}">
               <Comment>Event - countwodn timer stop</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="fallout_gaz_alarm" ID="{02D0705D-46B8-49CC-8CE3-2C77A4CF8541}">
-              <Comment>Event - warning sound played before the rocket strike</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="fallout_gaz_sphere_timer" ID="{B15BC24D-161A-4A4B-9E8C-22B7BC306B0E}">
-              <Comment>Event - Sound of staying in a dangerous area</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="fallout_gaz_sphere_warning" ID="{9DD956B4-96B2-48BB-B14D-E02811B3AF4D}">
-              <Comment>Event - Sound notifying about approaching to a dangerous area</Comment>
               <ChildrenList></ChildrenList>
             </Event>
             <Event Name="time_buzzer_01" ID="{45418D79-4984-49A7-8D49-452E25E0CC98}">
@@ -241,22 +209,6 @@ Example The "Campaign" tab in the Personal Missions window, "Missions and Specia
         <Folder Name="modes" ID="{F35B34FE-46E8-442B-9498-5ECAC3D46E8A}" ShortID="194037276">
           <Comment>Modes</Comment>
           <ChildrenList>
-            <Folder Name="fallout" ID="{37E728F5-801C-45ED-835F-AC88249E428B}" ShortID="434550381">
-              <ChildrenList>
-                <Event Name="capture_flag" ID="{BE70F22F-477C-438D-A398-DA14872BEAB8}">
-                  <Comment>Event - Sound of grabbing a flag</Comment>
-                  <ChildrenList></ChildrenList>
-                </Event>
-                <Event Name="delivery_flag" ID="{B445912F-6A45-46F4-8FC8-6795B9B03A01}">
-                  <Comment>Event - Sound of delivering a flag</Comment>
-                  <ChildrenList></ChildrenList>
-                </Event>
-                <Event Name="point_repair" ID="{4175DA20-110E-454B-8239-124DF1902797}">
-                  <Comment>Even - Vehicle repair sound</Comment>
-                  <ChildrenList></ChildrenList>
-                </Event>
-              </ChildrenList>
-            </Folder>
             <Folder Name="dynamic_platoon" ID="{1B619740-4113-4800-AB5C-39CC28579989}" ShortID="871482665">
               <ChildrenList>
                 <Event Name="starting_dynamic_platoon" ID="{A5F8CF3F-19F5-47FF-BE6A-5D9F4217D76C}">
@@ -284,30 +236,53 @@ Example The "Campaign" tab in the Personal Missions window, "Missions and Specia
         <Folder Name="battle_equipment" ID="{1072060C-FB60-4CD7-B352-5F7ADFC67BB1}" ShortID="85388149">
           <Comment>Consumables</Comment>
           <ChildrenList>
-            <Event Name="battle_equipment_507" ID="{64612248-02BC-4A16-B865-FABDAD98F910}">
-              <Comment>Event - Using an Automatic Fire Extinguisher</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="battle_equipment_251" ID="{F2A44636-A5F0-4C4F-9A18-0179EC0B223B}">
-              <Comment>Event - Using a Manual Fire Extinguisher</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="battle_equipment_1019" ID="{0F806B25-548F-4B79-9540-2BFB3E53C1ED}">
-              <Comment>Event - Using a Large Health Kit</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="battle_equipment_763" ID="{4CFB4118-91EF-4209-B04C-89E8103CC0E1}">
-              <Comment>Event - Using a Small Health Kit</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="battle_equipment_1275" ID="{8F685585-1453-46DF-9F60-7E100ABE98C5}">
-              <Comment>Event - Using a Small Repair Kit</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="battle_equipment_1531" ID="{B27B9767-4861-4506-80AB-4A4C1F8E993C}">
-              <Comment>Event - Using a Large Repar Kit</Comment>
-              <ChildrenList></ChildrenList>
-            </Event>
+            <Folder Name="replenishment" ID="{0502F40E-D15E-4113-8936-F91808CCF096}" ShortID="239201365">
+              <ChildrenList>
+                <Event Name="be_nitro_empty" ID="{3392608C-3712-432F-A0B0-394449915751}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="be_nitro_replenishment_full" ID="{2C8676A3-4B28-4034-A310-964D379ECE6B}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="be_pre_replenishment" ID="{E292DA5C-4524-4AF3-808C-F2D7AC687868}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="be_nitro_stop" ID="{4E485884-05E8-4168-B1AD-811F2E8D9702}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+              </ChildrenList>
+            </Folder>
+            <Folder Name="activating" ID="{345051D2-80AC-4665-B640-644E66C2C994}" ShortID="182799702">
+              <ChildrenList>
+                <Event Name="battle_equipment_507" ID="{64612248-02BC-4A16-B865-FABDAD98F910}">
+                  <Comment>Event - Using an Automatic Fire Extinguisher</Comment>
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="battle_equipment_251" ID="{F2A44636-A5F0-4C4F-9A18-0179EC0B223B}">
+                  <Comment>Event - Using a Manual Fire Extinguisher</Comment>
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="battle_equipment_1019" ID="{0F806B25-548F-4B79-9540-2BFB3E53C1ED}">
+                  <Comment>Event - Using a Large Health Kit</Comment>
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="battle_equipment_763" ID="{4CFB4118-91EF-4209-B04C-89E8103CC0E1}">
+                  <Comment>Event - Using a Small Health Kit</Comment>
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="battle_equipment_1275" ID="{8F685585-1453-46DF-9F60-7E100ABE98C5}">
+                  <Comment>Event - Using a Small Repair Kit</Comment>
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="battle_equipment_1531" ID="{B27B9767-4861-4506-80AB-4A4C1F8E993C}">
+                  <Comment>Event - Using a Large Repar Kit</Comment>
+                  <ChildrenList></ChildrenList>
+                </Event>
+                <Event Name="be_nitro_activating" ID="{8BBB3192-8056-4784-940D-AAF8977732B4}">
+                  <ChildrenList></ChildrenList>
+                </Event>
+              </ChildrenList>
+            </Folder>
           </ChildrenList>
         </Folder>
         <Folder Name="battle_notification" ID="{3144B477-2E46-4AF3-AF7C-3309D579E3D7}" ShortID="388343960">
@@ -322,19 +297,6 @@ Example The "Campaign" tab in the Personal Missions window, "Missions and Specia
               <ChildrenList></ChildrenList>
             </Event>
             <Event Name="ui_target_lost" ID="{3E53D58C-2FFE-4052-897F-59E0CA80301D}">
-              <ChildrenList></ChildrenList>
-            </Event>
-          </ChildrenList>
-        </Folder>
-        <Folder Name="PRMP_alerts" ID="{8CB59A03-C8E3-49A2-85DB-860166CDD370}" ShortID="745723596">
-          <ChildrenList>
-            <Event Name="prmp_alert_07" ID="{7BAE9B56-38AB-4C54-9F26-157B1A22A1ED}">
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="prmp_alert_03" ID="{A9E1C8DB-9D09-4A58-AF1E-B68B1F76B284}">
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="prmp_alert_05" ID="{D380E945-F2B8-4024-9791-63DC5C8A28D8}">
               <ChildrenList></ChildrenList>
             </Event>
           </ChildrenList>
@@ -367,16 +329,6 @@ Example The "Campaign" tab in the Personal Missions window, "Missions and Specia
             </Event>
           </ChildrenList>
         </Folder>
-        <Folder Name="promoscreens" ID="{7A4F995F-7451-4D9D-AC9E-83E05D626F62}" ShortID="1059583809">
-          <ChildrenList>
-            <Event Name="promoscreen_info_incoming" ID="{BF582A66-00FF-4B8E-BF57-DA4AB72C7970}">
-              <ChildrenList></ChildrenList>
-            </Event>
-            <Event Name="promoscreen_offers_incoming" ID="{BC1E7E6A-87BB-4B05-B46E-54ED59A1BB40}">
-              <ChildrenList></ChildrenList>
-            </Event>
-          </ChildrenList>
-        </Folder>
         <Folder Name="personal_missions" ID="{B29EE1A0-6E7E-4E54-9828-DA4C024A11DB}" ShortID="1049326718">
           <ChildrenList>
             <Event Name="pm_progress_hint_emergence" ID="{A29BABD1-2ED2-464C-8A43-DAB3266E0042}">
@@ -395,6 +347,12 @@ Example The "Campaign" tab in the Personal Missions window, "Missions and Specia
               <ChildrenList></ChildrenList>
             </Event>
             <Event Name="pm_progress_condition_status_done" ID="{A76EE786-0B18-443F-BFD3-DFAA9C35CACE}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="pm_flag_appearance" ID="{0F8BE61D-1154-4143-B7D9-2E6A0FC3A0BF}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="pm_flag_disappearance" ID="{984296FF-84D3-4652-9C1D-8F9FACB0A985}">
               <ChildrenList></ChildrenList>
             </Event>
           </ChildrenList>

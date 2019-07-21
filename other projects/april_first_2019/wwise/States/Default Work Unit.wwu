@@ -41,6 +41,25 @@ GARAGE-STORE.........-STRONGHOLD</Comment>
             </State>
           </ChildrenList>
         </StateGroup>
+        <StateGroup Name="STATE_video_overlay" ID="{45D461A4-9865-43D6-8958-86FA4A12A448}">
+          <PropertyList>
+            <Property Name="DefaultTransitionTime" Type="Real64" Value="2" />
+          </PropertyList>
+          <ChildrenList>
+            <State Name="None" ID="{71C7D459-5C87-4E9F-AC67-180B2D6FFBEB}" />
+            <State Name="STATE_video_overlay_on" ID="{39DCBFCB-2C77-42B7-825E-B186493AF79A}">
+              <Comment>The state is responsible for attenuating the sounds of the hangar during video playback (Lootbox)</Comment>
+            </State>
+            <State Name="STATE_video_overlay_off" ID="{EC6772CA-A2B4-479C-B5BD-54D7C35FFBBB}" />
+          </ChildrenList>
+        </StateGroup>
+        <StateGroup Name="STATE_overlay_hangar_general" ID="{205CE61E-ECDD-491F-AD4E-6AF16B15594A}">
+          <ChildrenList>
+            <State Name="None" ID="{FAF93FBE-948E-4C8D-8FCA-D99BD3A2FCB8}" />
+            <State Name="STATE_overlay_hangar_general_on" ID="{02FBFA78-F4DF-43CF-905F-68C34613A84F}" />
+            <State Name="STATE_overlay_hangar_general_off" ID="{6C92CBF3-3A6B-456A-96B4-3C1A2726E463}" />
+          </ChildrenList>
+        </StateGroup>
       </ChildrenList>
     </WorkUnit>
   </States>
