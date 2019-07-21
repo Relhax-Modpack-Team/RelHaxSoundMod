@@ -129,6 +129,13 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="sixthsense_casino" ID="{6D56FE4A-76A6-4BB9-BB9A-F7815065110B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lightbulb_casino" ID="{F86F4682-183E-4986-AAF2-B09D070CA4FC}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

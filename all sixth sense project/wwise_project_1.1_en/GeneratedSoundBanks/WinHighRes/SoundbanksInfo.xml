@@ -81,6 +81,20 @@
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
+		<SoundBank Id="926499255" Language="SFX">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_casino</ObjectPath>
+			<ShortName>sixthsense_casino</ShortName>
+			<Path>sixthsense_casino.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2818614488" Name="lightbulb_casino" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_casino" DurationType="OneShot" DurationMin="1.453016" DurationMax="1.453016"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="301142422" Language="SFX">
+					<ShortName>Casino Peek a Boo.wav</ShortName>
+					<Path>SFX\Casino Peek a Boo_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="938932263" Language="SFX">
 			<ObjectPath>\SoundBanks\6th_sense\sixthsense_homer_doh</ObjectPath>
 			<ShortName>sixthsense_homer_doh</ShortName>

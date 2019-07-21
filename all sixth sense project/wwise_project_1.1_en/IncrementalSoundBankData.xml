@@ -5,6 +5,7 @@
 			<Language ID="393239870">
 				<File Name="Init" Hash="989470749" Timestamp="1557619659"/>
 				<File Name="sixthsense_admiral_akbar" Hash="887755269" Timestamp="1535828716"/>
+				<File Name="sixthsense_casino" Hash="466104454" Timestamp="1563749493"/>
 				<File Name="sixthsense_countdown_10_sec" Hash="3274499245" Timestamp="1557619659"/>
 				<File Name="sixthsense_die_zwei" Hash="194257531" Timestamp="1535828716"/>
 				<File Name="sixthsense_german" Hash="567318533" Timestamp="1535828716"/>
@@ -14,7 +15,7 @@
 				<File Name="sixthsense_minions" Hash="4103781586" Timestamp="1535828716"/>
 				<File Name="sixthsense_miqts_sheep" Hash="1787487881" Timestamp="1535828716"/>
 				<File Name="sixthsense_monty_python" Hash="3971114572" Timestamp="1535828716"/>
-				<File Name="sixthsense_relhax" Hash="1271710694" Timestamp="1535828716"/>
+				<File Name="sixthsense_relhax" Hash="745398038" Timestamp="1563749493"/>
 				<File Name="sixthsense_sauron" Hash="814690453" Timestamp="1535828716"/>
 				<File Name="sixthsense_star_trek" Hash="1684785017" Timestamp="1557619659"/>
 				<File Name="sixthsense_suprise" Hash="296631253" Timestamp="1535828716"/>
@@ -26,7 +27,7 @@
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="1942843100" Timestamp="1557619659"/>
+				<File Name="" Hash="774801608" Timestamp="1563749494"/>
 			</Language>
 		</XMLInfo>
 	</Platform>
