@@ -15,9 +15,6 @@
 				<Event Name="pm_reward_list_spend" ID="{7C2B7D9D-8DF0-45B7-838A-E5EE204FCF1B}">
 					<ChildrenList></ChildrenList>
 				</Event>
-				<Event Name="pm_appearance_of_reward" ID="{D0BFA9F4-FE34-475C-B190-85CAB7C3A531}">
-					<ChildrenList></ChildrenList>
-				</Event>
 				<Event Name="pm_standard_greeting" ID="{77F04075-DC25-4A1B-A7C7-32386C87F0EC}">
 					<ChildrenList></ChildrenList>
 				</Event>
