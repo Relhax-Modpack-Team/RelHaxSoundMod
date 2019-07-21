@@ -330,7 +330,7 @@
 				<Event Id="3142828263" Name="mod_music_drawn_game" ObjectPath="\Events\Relhax\gui\mod_music_drawn_game" DurationType="OneShot" DurationMin="7.537120" DurationMax="7.537120"/>
 				<Event Id="3835730880" Name="mod_music_victory" ObjectPath="\Events\Relhax\gui\mod_music_victory" DurationType="OneShot" DurationMin="8.013651" DurationMax="8.013651"/>
 				<Event Id="3096903476" Name="mod_time_buzzer_01" ObjectPath="\Events\Relhax\gui\mod_time_buzzer_01" DurationType="OneShot" DurationMin="120.999252" DurationMax="120.999252"/>
-				<Event Id="4087023837" Name="mod_timer" ObjectPath="\Events\Relhax\gui\mod_timer" DurationType="OneShot" DurationMin="28.999353" DurationMax="29.100409"/>
+				<Event Id="4087023837" Name="mod_timer" ObjectPath="\Events\Relhax\gui\mod_timer" DurationType="OneShot" DurationMin="27.770437" DurationMax="29.100409"/>
 			</IncludedEvents>
 			<ReferencedStreamedFiles>
 				<File Id="288295816"/>

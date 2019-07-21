@@ -695,6 +695,25 @@
 										<ActiveSource Name="shotcuts_follow_me_02" ID="{91742AB3-3407-4A20-AEF5-F12D49D09983}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<Sound Name="shotcuts_follow_me_03" ID="{C02C59D8-0DE8-4BA7-84B1-E3FD2DE1A7CC}" ShortID="203928950">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_follow_me_03" ID="{0EE93290-1791-4725-8199-BE8A7D1343E0}" ShortID="359949974">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_follow_me_03.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_follow_me_03" ID="{0EE93290-1791-4725-8199-BE8A7D1343E0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="shotcuts_negative" ID="{080C0AE5-2BCC-44E0-BE1B-F548D8085F13}" ShortID="242865954">
@@ -788,6 +807,25 @@
 									</ChildrenList>
 									<ActiveSourceList>
 										<ActiveSource Name="shotcuts_negative_04" ID="{E1FDD869-4595-494D-AA27-F0F6601A2541}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_negative_05" ID="{586A4C26-95E3-4FE8-A3F2-A1544D69A4AC}" ShortID="832601314">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_negative_05" ID="{9E44C3A6-6B71-48A2-A367-3B64D641F56C}" ShortID="493153763">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_negative_05.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_negative_05" ID="{9E44C3A6-6B71-48A2-A367-3B64D641F56C}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
