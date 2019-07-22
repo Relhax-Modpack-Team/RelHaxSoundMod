@@ -805,6 +805,108 @@
 						</Event>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="shotcuts" ID="{71B06505-1D62-433F-812A-4798E40A893C}" ShortID="832134824">
+					<ChildrenList>
+						<Event Name="mod_vo_chat_shotcuts_help_me" ID="{A532DB00-4F2F-4530-B828-9B7B3D352D02}">
+							<ChildrenList>
+								<Action Name="" ID="{2B2E8139-8A71-41B2-9523-EA4E6B1BD0FF}" ShortID="534719083">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="vo_chat_shotcuts_help_me" ID="{9EC97DAB-BB7D-4966-B0CA-532DF9A66377}" WorkUnitID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="mod_vo_chat_shotcuts_attack" ID="{3E1EED46-8799-4DAF-9A96-FCA1677F7AB2}">
+							<ChildrenList>
+								<Action Name="" ID="{C3D3F085-BEF3-4FF7-9EF1-D3770D7FD38A}" ShortID="21205902">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="vo_chat_shotcuts_attack" ID="{A791F7BC-AA5E-4197-915F-25F26BCDD689}" WorkUnitID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="mod_vo_chat_shotcuts_back_to_base" ID="{BBCE2B23-CC73-4DE2-9F41-78F8CE9E6A3F}">
+							<ChildrenList>
+								<Action Name="" ID="{DA4445F0-41D3-4CE7-A7D9-E89AEF4C8D23}" ShortID="551669097">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="vo_chat_shotcuts_defend_base" ID="{6E3696D8-9E67-431C-B4EE-036116D90BD7}" WorkUnitID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="mod_vo_chat_shotcuts_negative" ID="{44E68E62-0252-42F8-BA6A-DDF736904AA2}">
+							<ChildrenList>
+								<Action Name="" ID="{EC5049F8-55DB-4CC9-92C5-F7B8BE66A080}" ShortID="828693408">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="vo_chat_shotcuts_negative" ID="{8EBCDCCF-962A-4AA9-A766-89514CECBC05}" WorkUnitID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="mod_vo_chat_shotcuts_positive" ID="{BA755A64-1B11-409A-99A3-C20D42933331}">
+							<ChildrenList>
+								<Action Name="" ID="{BFF1ACF2-E03C-41D0-BFF7-46C067ABB919}" ShortID="204006639">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="vo_chat_shotcuts_affirmative" ID="{3B78454A-408A-402B-B4B4-DC7F182A6633}" WorkUnitID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="mod_vo_chat_shotcuts_follow_me" ID="{90E38CBC-F751-4398-8600-2A139DB7C722}">
+							<ChildrenList>
+								<Action Name="" ID="{BDC1AD94-86CC-4F51-9316-EA86DF85DD67}" ShortID="347478289">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="vo_chat_shotcuts_follow_me" ID="{C0CC77B9-F3B6-4322-8895-AF9B51C1EB58}" WorkUnitID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="mod_vo_chat_shotcuts_attack_the_enemy" ID="{0E8796F8-AFDB-4A04-A541-296C98FEFCDF}">
+							<ChildrenList>
+								<Action Name="" ID="{9FA29266-B387-4623-8E40-77443A927AC9}" ShortID="922850123">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="vo_chat_shotcuts_attack" ID="{A791F7BC-AA5E-4197-915F-25F26BCDD689}" WorkUnitID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

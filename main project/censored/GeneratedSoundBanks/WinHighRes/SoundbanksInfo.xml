@@ -373,6 +373,13 @@
 			<ShortName>RelHaxVoiceover</ShortName>
 			<Path>RelHaxVoiceover.bnk</Path>
 			<IncludedEvents>
+				<Event Id="1611658743" Name="mod_vo_chat_shotcuts_attack" ObjectPath="\Events\Relhax\shotcuts\mod_vo_chat_shotcuts_attack" DurationType="OneShot" DurationMin="1.114558" DurationMax="1.358367"/>
+				<Event Id="1210881942" Name="mod_vo_chat_shotcuts_attack_the_enemy" ObjectPath="\Events\Relhax\shotcuts\mod_vo_chat_shotcuts_attack_the_enemy" DurationType="OneShot" DurationMin="1.114558" DurationMax="1.358367"/>
+				<Event Id="223798550" Name="mod_vo_chat_shotcuts_back_to_base" ObjectPath="\Events\Relhax\shotcuts\mod_vo_chat_shotcuts_back_to_base" DurationType="OneShot" DurationMin="1.334521" DurationMax="1.927256"/>
+				<Event Id="2964625917" Name="mod_vo_chat_shotcuts_follow_me" ObjectPath="\Events\Relhax\shotcuts\mod_vo_chat_shotcuts_follow_me" DurationType="OneShot" DurationMin="0.708208" DurationMax="2.108271"/>
+				<Event Id="1638847515" Name="mod_vo_chat_shotcuts_help_me" ObjectPath="\Events\Relhax\shotcuts\mod_vo_chat_shotcuts_help_me" DurationType="OneShot" DurationMin="1.160998" DurationMax="2.115990"/>
+				<Event Id="1857100278" Name="mod_vo_chat_shotcuts_negative" ObjectPath="\Events\Relhax\shotcuts\mod_vo_chat_shotcuts_negative" DurationType="OneShot" DurationMin="0.365625" DurationMax="1.149396"/>
+				<Event Id="778388262" Name="mod_vo_chat_shotcuts_positive" ObjectPath="\Events\Relhax\shotcuts\mod_vo_chat_shotcuts_positive" DurationType="OneShot" DurationMin="0.718729" DurationMax="1.214292"/>
 				<Event Id="2301863335" Name="vo_ally_killed_by_player" ObjectPath="\Events\Relhax\voiceover\vo_ally_killed_by_player" DurationType="OneShot" DurationMin="1.253875" DurationMax="4.832646"/>
 				<Event Id="3166122996" Name="vo_ammo_bay_damaged" ObjectPath="\Events\Relhax\voiceover\vo_ammo_bay_damaged" DurationType="OneShot" DurationMin="0.957483" DurationMax="3.000000"/>
 				<Event Id="1332081395" Name="vo_armor_not_pierced_by_player" ObjectPath="\Events\Relhax\voiceover\vo_armor_not_pierced_by_player" DurationType="OneShot" DurationMin="0.368604" DurationMax="2.777146"/>
@@ -463,6 +470,10 @@
 				<File Id="38232533" Language="SFX">
 					<ShortName>start_battle_03.wav</ShortName>
 					<Path>SFX\start_battle_03_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="44525118" Language="SFX">
+					<ShortName>shotcuts_help_me_01.wav</ShortName>
+					<Path>SFX\shotcuts_help_me_01_C8E51BD1.wem</Path>
 				</File>
 				<File Id="45394316" Language="SFX">
 					<ShortName>gunner_killed_02.wav</ShortName>
@@ -580,6 +591,10 @@
 					<ShortName>engine_destroyed_02.wav</ShortName>
 					<Path>SFX\engine_destroyed_02_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="208895145" Language="SFX">
+					<ShortName>shotcuts_attack_02.wav</ShortName>
+					<Path>SFX\shotcuts_attack_02_C8E51BD1.wem</Path>
+				</File>
 				<File Id="212234872" Language="SFX">
 					<ShortName>ammo_bay_damaged_03.wav</ShortName>
 					<Path>SFX\ammo_bay_damaged_03_C5DCCAFA.wem</Path>
@@ -604,6 +619,10 @@
 					<ShortName>armor_pierced_crit_by_player_02.wav</ShortName>
 					<Path>SFX\armor_pierced_crit_by_player_02_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="242740349" Language="SFX">
+					<ShortName>shotcuts_negative_02.wav</ShortName>
+					<Path>SFX\shotcuts_negative_02_C8E51BD1.wem</Path>
+				</File>
 				<File Id="243659948" Language="SFX">
 					<ShortName>engine_damaged_01.wav</ShortName>
 					<Path>SFX\engine_damaged_01_C5DCCAFA.wem</Path>
@@ -615,6 +634,10 @@
 				<File Id="247304646" Language="SFX">
 					<ShortName>start_battle_24.wav</ShortName>
 					<Path>SFX\start_battle_24_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="248105007" Language="SFX">
+					<ShortName>shotcuts_follow_me_01.wav</ShortName>
+					<Path>SFX\shotcuts_follow_me_01_C8E51BD1.wem</Path>
 				</File>
 				<File Id="252801674" Language="SFX">
 					<ShortName>engine_destroyed_01.wav</ShortName>
@@ -704,6 +727,10 @@
 					<ShortName>vehicle_destroyed_12.wav</ShortName>
 					<Path>SFX\vehicle_destroyed_12_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="359949974" Language="SFX">
+					<ShortName>shotcuts_follow_me_03.wav</ShortName>
+					<Path>SFX\shotcuts_follow_me_03_C8E51BD1.wem</Path>
+				</File>
 				<File Id="363514213" Language="SFX">
 					<ShortName>turret_rotator_functional_01.wav</ShortName>
 					<Path>SFX\turret_rotator_functional_01_C5DCCAFA.wem</Path>
@@ -731,6 +758,10 @@
 				<File Id="396148208" Language="SFX">
 					<ShortName>start_battle_26.wav</ShortName>
 					<Path>SFX\start_battle_26_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="399888103" Language="SFX">
+					<ShortName>shotcuts_follow_me_02.wav</ShortName>
+					<Path>SFX\shotcuts_follow_me_02_C8E51BD1.wem</Path>
 				</File>
 				<File Id="404127349" Language="SFX">
 					<ShortName>been_excluded_platoon_01.wav</ShortName>
@@ -820,13 +851,25 @@
 					<ShortName>crew_deactivated_02.wav</ShortName>
 					<Path>SFX\crew_deactivated_02_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="493153763" Language="SFX">
+					<ShortName>shotcuts_negative_05.wav</ShortName>
+					<Path>SFX\shotcuts_negative_05_C8E51BD1.wem</Path>
+				</File>
 				<File Id="499928165" Language="SFX">
 					<ShortName>enemy_killed_by_player_09.wav</ShortName>
 					<Path>SFX\enemy_killed_by_player_09_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="502029609" Language="SFX">
+					<ShortName>shotcuts_affirmative_02.wav</ShortName>
+					<Path>SFX\shotcuts_affirmative_02_C8E51BD1.wem</Path>
+				</File>
 				<File Id="503168439" Language="SFX">
 					<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
 					<Path>SFX\armor_pierced_crit_by_player_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="504743406" Language="SFX">
+					<ShortName>shotcuts_negative_03.wav</ShortName>
+					<Path>SFX\shotcuts_negative_03_C8E51BD1.wem</Path>
 				</File>
 				<File Id="513940770" Language="SFX">
 					<ShortName>enemy_killed_03.wav</ShortName>
@@ -920,9 +963,17 @@
 					<ShortName>start_battle_22.wav</ShortName>
 					<Path>SFX\start_battle_22_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="660050851" Language="SFX">
+					<ShortName>shotcuts_negative_01.wav</ShortName>
+					<Path>SFX\shotcuts_negative_01_C8E51BD1.wem</Path>
+				</File>
 				<File Id="661121777" Language="SFX">
 					<ShortName>commander_killed_04.wav</ShortName>
 					<Path>SFX\commander_killed_04_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="671194276" Language="SFX">
+					<ShortName>shotcuts_affirmative_01.wav</ShortName>
+					<Path>SFX\shotcuts_affirmative_01_C8E51BD1.wem</Path>
 				</File>
 				<File Id="671199563" Language="SFX">
 					<ShortName>armor_not_pierced_by_player_04.wav</ShortName>
@@ -952,6 +1003,10 @@
 					<ShortName>damage_by_near_explosion_by_player_04.wav</ShortName>
 					<Path>SFX\damage_by_near_explosion_by_player_04_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="726985870" Language="SFX">
+					<ShortName>shotcuts_negative_04.wav</ShortName>
+					<Path>SFX\shotcuts_negative_04_C8E51BD1.wem</Path>
+				</File>
 				<File Id="730835294" Language="SFX">
 					<ShortName>assistance_been_requested_01.wav</ShortName>
 					<Path>SFX\assistance_been_requested_01_C5DCCAFA.wem</Path>
@@ -963,6 +1018,10 @@
 				<File Id="738637827" Language="SFX">
 					<ShortName>vehicle_destroyed_09.wav</ShortName>
 					<Path>SFX\vehicle_destroyed_09_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="746117316" Language="SFX">
+					<ShortName>shotcuts_attack_01.wav</ShortName>
+					<Path>SFX\shotcuts_attack_01_C8E51BD1.wem</Path>
 				</File>
 				<File Id="747514814" Language="SFX">
 					<ShortName>start_battle_35.wav</ShortName>
@@ -1024,6 +1083,10 @@
 					<ShortName>armor_not_pierced_by_player_10.wav</ShortName>
 					<Path>SFX\armor_not_pierced_by_player_10_C5DCCAFA.wem</Path>
 				</File>
+				<File Id="823314785" Language="SFX">
+					<ShortName>shotcuts_affirmative_03.wav</ShortName>
+					<Path>SFX\shotcuts_affirmative_03_C8E51BD1.wem</Path>
+				</File>
 				<File Id="828579084" Language="SFX">
 					<ShortName>vehicle_destroyed_07.wav</ShortName>
 					<Path>SFX\vehicle_destroyed_07_C5DCCAFA.wem</Path>
@@ -1031,6 +1094,14 @@
 				<File Id="829102517" Language="SFX">
 					<ShortName>player_joined_platoon_01.wav</ShortName>
 					<Path>SFX\player_joined_platoon_01_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="832928646" Language="SFX">
+					<ShortName>shotcuts_defend_base_01.wav</ShortName>
+					<Path>SFX\shotcuts_defend_base_01_C8E51BD1.wem</Path>
+				</File>
+				<File Id="851938963" Language="SFX">
+					<ShortName>shotcuts_defend_base_02.wav</ShortName>
+					<Path>SFX\shotcuts_defend_base_02_C8E51BD1.wem</Path>
 				</File>
 				<File Id="853506866" Language="SFX">
 					<ShortName>fire_stopped_01.wav</ShortName>
@@ -1043,6 +1114,10 @@
 				<File Id="874089584" Language="SFX">
 					<ShortName>fire_started_02.wav</ShortName>
 					<Path>SFX\fire_started_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="875487878" Language="SFX">
+					<ShortName>shotcuts_help_me_02.wav</ShortName>
+					<Path>SFX\shotcuts_help_me_02_C8E51BD1.wem</Path>
 				</File>
 				<File Id="878088952" Language="SFX">
 					<ShortName>target_lost_03.wav</ShortName>
@@ -1183,6 +1258,10 @@
 				<File Id="1050464023" Language="SFX">
 					<ShortName>ally_killed_by_player_02.wav</ShortName>
 					<Path>SFX\ally_killed_by_player_02_C5DCCAFA.wem</Path>
+				</File>
+				<File Id="1055458513" Language="SFX">
+					<ShortName>shotcuts_help_me_03.wav</ShortName>
+					<Path>SFX\shotcuts_help_me_03_C8E51BD1.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

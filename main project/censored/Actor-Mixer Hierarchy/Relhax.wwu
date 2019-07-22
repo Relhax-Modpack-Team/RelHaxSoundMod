@@ -4463,6 +4463,485 @@
 						</RandomSequenceContainer>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="shotcuts" ID="{5BB6318A-3E8D-40B7-A637-04D33101556C}" ShortID="130758804">
+					<ChildrenList>
+						<RandomSequenceContainer Name="vo_chat_shotcuts_follow_me" ID="{C0CC77B9-F3B6-4322-8895-AF9B51C1EB58}" ShortID="833502276">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="shotcuts_follow_me_01" ID="{10A65D42-D34D-4BBB-B231-23D8C712DEFC}" ShortID="704621652">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_follow_me_01" ID="{03476D2B-F8DB-4E22-AAE6-707FE256209B}" ShortID="348514544">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_follow_me_01.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="248105007"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_follow_me_01" ID="{03476D2B-F8DB-4E22-AAE6-707FE256209B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_follow_me_02" ID="{E6FCCCB4-BBB8-4018-AE90-380422928F95}" ShortID="830855921">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_follow_me_02" ID="{AED9E777-A9E3-428E-B4AA-0CA4E5259F7A}" ShortID="607595795">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_follow_me_02.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="399888103"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_follow_me_02" ID="{AED9E777-A9E3-428E-B4AA-0CA4E5259F7A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_follow_me_03" ID="{B0EAAF2F-F367-4045-8CF2-BFEBEA7FBD0C}" ShortID="859714158">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_follow_me_03" ID="{A7074AE1-988D-4BE8-963C-73EFD28D7C25}" ShortID="818698339">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_follow_me_03.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="359949974"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_follow_me_03" ID="{A7074AE1-988D-4BE8-963C-73EFD28D7C25}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="vo_chat_shotcuts_attack" ID="{A791F7BC-AA5E-4197-915F-25F26BCDD689}" ShortID="86520193">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="shotcuts_attack_01" ID="{07DE8239-C027-4BF5-B8A4-FFC94DED26C3}" ShortID="890550364">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_attack_01" ID="{CE184BA7-1F1A-48E9-B6E6-32FDFE0BE6F1}" ShortID="999873240">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_attack_01.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="746117316"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_attack_01" ID="{CE184BA7-1F1A-48E9-B6E6-32FDFE0BE6F1}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_attack_02" ID="{AB835FCB-4582-499A-912D-D52BC6E7BEF0}" ShortID="755805697">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_attack_02" ID="{762DFD36-591B-464D-8871-2C389B9875A9}" ShortID="903832100">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_attack_02.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="208895145"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_attack_02" ID="{762DFD36-591B-464D-8871-2C389B9875A9}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="vo_chat_shotcuts_negative" ID="{8EBCDCCF-962A-4AA9-A766-89514CECBC05}" ShortID="993547308">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="shotcuts_negative_01" ID="{8B7F1F56-C0CB-4DF8-AF78-D062F4B03A98}" ShortID="747860117">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_negative_01" ID="{21A17D8B-DD7F-4779-923F-D8A3F20C1430}" ShortID="426847866">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_negative_01.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="660050851"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_negative_01" ID="{21A17D8B-DD7F-4779-923F-D8A3F20C1430}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_negative_02" ID="{FC5F3CBB-0E2E-4A16-892A-BE13EC554F21}" ShortID="289490399">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_negative_02" ID="{5A269033-825F-43E5-B3EA-3E0572DA7E3F}" ShortID="778044941">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_negative_02.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="242740349"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_negative_02" ID="{5A269033-825F-43E5-B3EA-3E0572DA7E3F}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_negative_03" ID="{0A42E48F-D20F-4CF1-9F8C-B4AE0EB397A9}" ShortID="874528293">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_negative_03" ID="{55E0A0DA-0CA2-4150-8D1B-74D2EA31A8D1}" ShortID="338435702">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_negative_03.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="504743406"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+										<AudioFileSource Name="shotcuts_negative_04" ID="{2CD0DD3F-A8D6-4740-A8E5-CB7C293D0151}" ShortID="674444531">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_negative_04.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="726985870"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_negative_03" ID="{55E0A0DA-0CA2-4150-8D1B-74D2EA31A8D1}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_negative_04" ID="{382B4D8F-268A-4EA5-8547-619E533AEC43}" ShortID="383107860">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_negative_04" ID="{80CB3935-9EE3-445D-83C6-D7615BA05D5D}" ShortID="568618505">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_negative_04.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="726985870"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_negative_04" ID="{80CB3935-9EE3-445D-83C6-D7615BA05D5D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_negative_05" ID="{CF20D7DB-471B-451D-9E06-F7FCB523A548}" ShortID="445549403">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_negative_05" ID="{38E15D86-D3A8-440E-AAB1-2D5D5DE1A1FB}" ShortID="209568144">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_negative_05.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="493153763"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_negative_05" ID="{38E15D86-D3A8-440E-AAB1-2D5D5DE1A1FB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="vo_chat_shotcuts_affirmative" ID="{3B78454A-408A-402B-B4B4-DC7F182A6633}" ShortID="767701123">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="shotcuts_affirmative_01" ID="{01B82F0E-1668-48F8-98DD-22BE6956BED0}" ShortID="719777528">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_affirmative_01" ID="{17E3CCDE-2970-4522-8F02-014942319C54}" ShortID="392658539">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_affirmative_01.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="671194276"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_affirmative_01" ID="{17E3CCDE-2970-4522-8F02-014942319C54}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_affirmative_02" ID="{1C4D355D-3860-4DC6-AE56-7EF2E289EAEF}" ShortID="802301049">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_affirmative_02" ID="{131BB480-46EE-409C-A916-AD4856C63E06}" ShortID="366210059">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_affirmative_02.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="502029609"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_affirmative_02" ID="{131BB480-46EE-409C-A916-AD4856C63E06}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_affirmative_03" ID="{AE705CBD-C424-4B2B-840A-0A4119AFD476}" ShortID="818922874">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_affirmative_03" ID="{0943F583-2C13-4FF7-A360-40B241B05C15}" ShortID="508435262">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_affirmative_03.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="823314785"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_affirmative_03" ID="{0943F583-2C13-4FF7-A360-40B241B05C15}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="vo_chat_shotcuts_help_me" ID="{9EC97DAB-BB7D-4966-B0CA-532DF9A66377}" ShortID="670882421">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="shotcuts_help_me_01" ID="{246F6C5E-B47F-44C9-AA03-204DA4FECE2B}" ShortID="875529219">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_help_me_01" ID="{C9198224-5A05-4734-901B-01643FE54065}" ShortID="402644333">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_help_me_01.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="44525118"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_help_me_01" ID="{C9198224-5A05-4734-901B-01643FE54065}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_help_me_02" ID="{EC19789B-4725-4C88-BCAB-EA336F82DA4C}" ShortID="913529306">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_help_me_02" ID="{44161CF7-3131-444E-A1ED-5E65CD8AB728}" ShortID="569859667">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_help_me_02.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="875487878"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_help_me_02" ID="{44161CF7-3131-444E-A1ED-5E65CD8AB728}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_help_me_03" ID="{E84D30BE-9CF2-4B9E-BCBD-BC036C6E476D}" ShortID="613033828">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_help_me_03" ID="{882F29BA-A062-4A61-B734-F70809335827}" ShortID="23777016">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_help_me_03.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="1055458513"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_help_me_03" ID="{882F29BA-A062-4A61-B734-F70809335827}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="vo_chat_shotcuts_defend_base" ID="{6E3696D8-9E67-431C-B4EE-036116D90BD7}" ShortID="807176391">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="shotcuts_defend_base_01" ID="{86C3691B-800B-4557-89D1-36B7FA361D61}" ShortID="802730279">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_defend_base_01" ID="{FF88EC5C-836C-4DF5-BF5E-E4C8B8A57D6C}" ShortID="92506331">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_defend_base_01.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="832928646"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_defend_base_01" ID="{FF88EC5C-836C-4DF5-BF5E-E4C8B8A57D6C}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="shotcuts_defend_base_02" ID="{A3808A4B-F2DC-474E-B0DB-4ACA636E6556}" ShortID="886096217">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="shotcuts_defend_base_02" ID="{6E4EF905-5345-46FE-94E3-6998B669FBA0}" ShortID="352397499">
+											<Language>SFX</Language>
+											<AudioFile>shotcuts_defend_base_02.wav</AudioFile>
+											<ConvertedFileIDList>
+												<File ID="851938963"/>
+											</ConvertedFileIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="shotcuts_defend_base_02" ID="{6E4EF905-5345-46FE-94E3-6998B669FBA0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
