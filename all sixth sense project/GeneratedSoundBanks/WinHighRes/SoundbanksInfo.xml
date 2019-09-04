@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows_HighRes" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="128">
 	<RootPaths>
-		<ProjectRoot>F:\Tanks Stuff\RelhaxSoundMod\all sixth sense project\</ProjectRoot>
-		<SourceFilesRoot>F:\Tanks Stuff\RelhaxSoundMod\all sixth sense project\.cache\Windows_HighRes\</SourceFilesRoot>
-		<SoundBanksRoot>F:\Tanks Stuff\RelhaxSoundMod\all sixth sense project\GeneratedSoundBanks\WinHighRes\</SoundBanksRoot>
+		<ProjectRoot>I:\RelHaxSoundMod\all sixth sense project\</ProjectRoot>
+		<SourceFilesRoot>I:\RelHaxSoundMod\all sixth sense project\.cache\Windows_HighRes\</SourceFilesRoot>
+		<SoundBanksRoot>I:\RelHaxSoundMod\all sixth sense project\GeneratedSoundBanks\WinHighRes\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelhaxSoundMod\all sixth sense project\GeneratedSoundBanks\Windows_HighRes</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>I:\RelHaxSoundMod\all sixth sense project\GeneratedSoundBanks\Windows_HighRes</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -671,6 +671,20 @@
 				<File Id="758196921" Language="SFX">
 					<ShortName>monty_python.wav</ShortName>
 					<Path>SFX\monty_python_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="4169131629" Language="SFX">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_General_Lee</ObjectPath>
+			<ShortName>sixthsense_General_Lee</ShortName>
+			<Path>sixthsense_General_Lee.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2521442384" Name="lightbulb_General_Lee" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_General_Lee" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="487019488" Language="SFX">
+					<ShortName>dukes of hazzard - general lee's dixie horn.wav</ShortName>
+					<Path>SFX\dukes of hazzard - general lee's dixie horn_C8E51BD1.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

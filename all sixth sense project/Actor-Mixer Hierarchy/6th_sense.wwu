@@ -600,6 +600,25 @@
 						<ActiveSource Name="Casino Peek a Boo" ID="{29EB3AEF-09CC-479E-9099-68C972BB8A3A}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="dukes of hazzard - general lee's dixie horn" ID="{8DFE1CAF-CFF1-44A6-BDE1-764C40FF0B63}" ShortID="638645582">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="dukes of hazzard - general lee's dixie horn" ID="{B39AD0EB-804A-4AC0-9785-BA8EAE336923}" ShortID="487019488">
+							<Language>SFX</Language>
+							<AudioFile>dukes of hazzard - general lee's dixie horn.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="dukes of hazzard - general lee's dixie horn" ID="{B39AD0EB-804A-4AC0-9785-BA8EAE336923}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

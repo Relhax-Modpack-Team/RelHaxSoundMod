@@ -136,6 +136,14 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="sixthsense_General_Lee" ID="{F8402037-8DF4-4C52-878B-80CDD41EE65B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="dukes of hazzard - general lee's dixie horn" ID="{8DFE1CAF-CFF1-44A6-BDE1-764C40FF0B63}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="lightbulb_General_Lee" ID="{5CF2B4C6-6628-44D5-9F34-80CFF41410D3}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

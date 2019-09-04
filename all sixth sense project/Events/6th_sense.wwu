@@ -280,6 +280,7 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="lightbulb_General_Lee" ID="{5CF2B4C6-6628-44D5-9F34-80CFF41410D3}"/>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>

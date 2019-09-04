@@ -3,7 +3,8 @@
 	<Platform GUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EC}">
 		<Banks>
 			<Language ID="393239870">
-				<File Name="Init" Hash="1980333596" Timestamp="1563751680"/>
+				<File Name="Init" Hash="1980333596" Timestamp="1567613952"/>
+				<File Name="sixthsense_General_Lee" Hash="2169946406" Timestamp="1567613952"/>
 				<File Name="sixthsense_admiral_akbar" Hash="887755269" Timestamp="1563751680"/>
 				<File Name="sixthsense_casino" Hash="466104454" Timestamp="1563751680"/>
 				<File Name="sixthsense_countdown_10_sec" Hash="3274499245" Timestamp="1563751680"/>
@@ -27,7 +28,7 @@
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="3314699840" Timestamp="1563751680"/>
+				<File Name="" Hash="2620582995" Timestamp="1567613952"/>
 			</Language>
 		</XMLInfo>
 	</Platform>
