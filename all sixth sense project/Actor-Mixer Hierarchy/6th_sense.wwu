@@ -619,6 +619,25 @@
 						<ActiveSource Name="dukes of hazzard - general lee's dixie horn" ID="{B39AD0EB-804A-4AC0-9785-BA8EAE336923}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="HAC841E" ID="{F9F8057F-30AC-47BB-8C95-DC2B8CD59AAF}" ShortID="1014390725">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="HAC841E" ID="{A817B214-5C79-4057-A056-C56CBA7A76FD}" ShortID="1005315180">
+							<Language>SFX</Language>
+							<AudioFile>HAC841E.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="HAC841E" ID="{A817B214-5C79-4057-A056-C56CBA7A76FD}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

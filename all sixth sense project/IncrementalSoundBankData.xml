@@ -8,6 +8,7 @@
 				<File Name="sixthsense_admiral_akbar" Hash="887755269" Timestamp="1563751680"/>
 				<File Name="sixthsense_casino" Hash="466104454" Timestamp="1563751680"/>
 				<File Name="sixthsense_countdown_10_sec" Hash="3274499245" Timestamp="1563751680"/>
+				<File Name="sixthsense_deadpool" Hash="575307328" Timestamp="1568096156"/>
 				<File Name="sixthsense_die_zwei" Hash="194257531" Timestamp="1563751680"/>
 				<File Name="sixthsense_german" Hash="567318533" Timestamp="1563751680"/>
 				<File Name="sixthsense_homer_doh" Hash="1660563274" Timestamp="1563751680"/>
@@ -28,7 +29,7 @@
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="2620582995" Timestamp="1567613952"/>
+				<File Name="" Hash="3320246443" Timestamp="1568096156"/>
 			</Language>
 		</XMLInfo>
 	</Platform>

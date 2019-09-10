@@ -144,6 +144,14 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="sixthsense_deadpool" ID="{E108B429-C21E-4D9D-B1E2-C5AF7D0733F2}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lightbulb_Deadpool" ID="{F99D8594-ED7A-414A-9883-489BA564B31F}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="HAC841E" ID="{F9F8057F-30AC-47BB-8C95-DC2B8CD59AAF}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

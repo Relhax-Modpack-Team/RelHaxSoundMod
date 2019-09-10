@@ -84,6 +84,20 @@
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
+		<SoundBank Id="757326110" Language="SFX">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_deadpool</ObjectPath>
+			<ShortName>sixthsense_deadpool</ShortName>
+			<Path>sixthsense_deadpool.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1989768041" Name="lightbulb_Deadpool" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_Deadpool" DurationType="OneShot" DurationMin="2.351917" DurationMax="2.351917"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="1005315180" Language="SFX">
+					<ShortName>HAC841E.wav</ShortName>
+					<Path>SFX\HAC841E_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="815031624" Language="SFX">
 			<ObjectPath>\SoundBanks\6th_sense\sixthsense_die_zwei</ObjectPath>
 			<ShortName>sixthsense_die_zwei</ShortName>

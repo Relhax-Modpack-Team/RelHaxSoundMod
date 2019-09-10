@@ -281,6 +281,20 @@
 							</ChildrenList>
 						</Event>
 						<Event Name="lightbulb_General_Lee" ID="{5CF2B4C6-6628-44D5-9F34-80CFF41410D3}"/>
+						<Event Name="lightbulb_Deadpool" ID="{F99D8594-ED7A-414A-9883-489BA564B31F}">
+							<ChildrenList>
+								<Action Name="" ID="{581C8DD4-84A3-44F3-A071-AD733426838C}" ShortID="349730912">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="HAC841E" ID="{F9F8057F-30AC-47BB-8C95-DC2B8CD59AAF}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>
