@@ -531,6 +531,20 @@
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
+		<SoundBank Id="2268742989" Language="SFX">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_surprise_not</ObjectPath>
+			<ShortName>sixthsense_surprise_not</ShortName>
+			<Path>sixthsense_surprise_not.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2873720078" Name="lightbulb_surprise_not" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_surprise_not" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="61714546" Language="SFX">
+					<ShortName>Recording_3.wav</ShortName>
+					<Path>SFX\Recording_3_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="2329902760" Language="SFX">
 			<ObjectPath>\SoundBanks\6th_sense\sixthsense_sauron</ObjectPath>
 			<ShortName>sixthsense_sauron</ShortName>

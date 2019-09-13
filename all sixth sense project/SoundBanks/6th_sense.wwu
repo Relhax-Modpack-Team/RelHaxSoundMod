@@ -152,6 +152,14 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="sixthsense_surprise_not" ID="{7696C77E-3E86-421F-9B9D-C42F3FCE19AC}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lightbulb_surprise_not" ID="{54E51E56-516C-4661-8AC7-7DAB4368F101}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="What a surprise" ID="{9F143C4D-529B-4ACB-B26F-1A5CF62DEA8B}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

@@ -295,6 +295,7 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="lightbulb_surprise_not" ID="{54E51E56-516C-4661-8AC7-7DAB4368F101}"/>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>
