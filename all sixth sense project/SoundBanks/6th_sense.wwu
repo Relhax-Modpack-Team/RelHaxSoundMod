@@ -138,7 +138,6 @@
 				</SoundBank>
 				<SoundBank Name="sixthsense_General_Lee" ID="{F8402037-8DF4-4C52-878B-80CDD41EE65B}">
 					<ObjectInclusionList>
-						<ObjectRef Name="dukes of hazzard - general lee's dixie horn" ID="{8DFE1CAF-CFF1-44A6-BDE1-764C40FF0B63}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="lightbulb_General_Lee" ID="{5CF2B4C6-6628-44D5-9F34-80CFF41410D3}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
@@ -147,7 +146,6 @@
 				<SoundBank Name="sixthsense_deadpool" ID="{E108B429-C21E-4D9D-B1E2-C5AF7D0733F2}">
 					<ObjectInclusionList>
 						<ObjectRef Name="lightbulb_Deadpool" ID="{F99D8594-ED7A-414A-9883-489BA564B31F}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="HAC841E" ID="{F9F8057F-30AC-47BB-8C95-DC2B8CD59AAF}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
@@ -155,7 +153,6 @@
 				<SoundBank Name="sixthsense_surprise_not" ID="{7696C77E-3E86-421F-9B9D-C42F3FCE19AC}">
 					<ObjectInclusionList>
 						<ObjectRef Name="lightbulb_surprise_not" ID="{54E51E56-516C-4661-8AC7-7DAB4368F101}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="What a surprise" ID="{9F143C4D-529B-4ACB-B26F-1A5CF62DEA8B}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
