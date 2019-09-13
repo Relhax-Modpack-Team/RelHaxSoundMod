@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows_HighRes" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="128">
 	<RootPaths>
-		<ProjectRoot>I:\RelHaxSoundMod\all sixth sense project\</ProjectRoot>
-		<SourceFilesRoot>I:\RelHaxSoundMod\all sixth sense project\.cache\Windows_HighRes\</SourceFilesRoot>
-		<SoundBanksRoot>I:\RelHaxSoundMod\all sixth sense project\GeneratedSoundBanks\WinHighRes\</SoundBanksRoot>
+		<ProjectRoot>F:\Tanks Stuff\RelhaxSoundMod\all sixth sense project\</ProjectRoot>
+		<SourceFilesRoot>F:\Tanks Stuff\RelhaxSoundMod\all sixth sense project\.cache\Windows_HighRes\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Tanks Stuff\RelhaxSoundMod\all sixth sense project\GeneratedSoundBanks\WinHighRes\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>I:\RelHaxSoundMod\all sixth sense project\GeneratedSoundBanks\Windows_HighRes</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>F:\Tanks Stuff\RelhaxSoundMod\all sixth sense project\GeneratedSoundBanks\Windows_HighRes</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -536,7 +536,7 @@
 			<ShortName>sixthsense_surprise_not</ShortName>
 			<Path>sixthsense_surprise_not.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2873720078" Name="lightbulb_surprise_not" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_surprise_not" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2873720078" Name="lightbulb_surprise_not" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_surprise_not" DurationType="OneShot" DurationMin="2.881531" DurationMax="2.881531"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="61714546" Language="SFX">
@@ -709,12 +709,6 @@
 			<IncludedEvents>
 				<Event Id="2521442384" Name="lightbulb_General_Lee" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_General_Lee" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
 			</IncludedEvents>
-			<IncludedMemoryFiles>
-				<File Id="487019488" Language="SFX">
-					<ShortName>dukes of hazzard - general lee's dixie horn.wav</ShortName>
-					<Path>SFX\dukes of hazzard - general lee's dixie horn_C8E51BD1.wem</Path>
-				</File>
-			</IncludedMemoryFiles>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>
