@@ -295,7 +295,20 @@
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="lightbulb_surprise_not" ID="{54E51E56-516C-4661-8AC7-7DAB4368F101}"/>
+						<Event Name="lightbulb_surprise_not" ID="{54E51E56-516C-4661-8AC7-7DAB4368F101}">
+							<ChildrenList>
+								<Action Name="" ID="{3FEB4169-6EC8-4D2A-BFDD-51F07A6C380D}" ShortID="223964088">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="What a surprise" ID="{9F143C4D-529B-4ACB-B26F-1A5CF62DEA8B}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>
