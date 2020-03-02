@@ -387,12 +387,12 @@
 			<Path>RelHaxGui.bnk</Path>
 			<IncludedEvents>
 				<Event Id="739261698" Name="mod_base_capture_1" ObjectPath="\Events\Relhax\gui\mod_base_capture_1" DurationType="OneShot" DurationMin="227.363998" DurationMax="227.363998"/>
-				<Event Id="3089635245" Name="mod_enemy_sighted_for_team" ObjectPath="\Events\Relhax\gui\mod_enemy_sighted_for_team" DurationType="OneShot" DurationMin="0.432000" DurationMax="1.456621"/>
+				<Event Id="3089635245" Name="mod_enemy_sighted_for_team" ObjectPath="\Events\Relhax\gui\mod_enemy_sighted_for_team" DurationType="OneShot" DurationMin="0.761814" DurationMax="1.358367"/>
 				<Event Id="3792988895" Name="mod_music_defeat" ObjectPath="\Events\Relhax\gui\mod_music_defeat" DurationType="OneShot" DurationMin="7.431746" DurationMax="7.431746"/>
 				<Event Id="3142828263" Name="mod_music_drawn_game" ObjectPath="\Events\Relhax\gui\mod_music_drawn_game" DurationType="OneShot" DurationMin="7.537120" DurationMax="7.537120"/>
 				<Event Id="3835730880" Name="mod_music_victory" ObjectPath="\Events\Relhax\gui\mod_music_victory" DurationType="OneShot" DurationMin="8.013651" DurationMax="8.013651"/>
 				<Event Id="3096903476" Name="mod_time_buzzer_01" ObjectPath="\Events\Relhax\gui\mod_time_buzzer_01" DurationType="OneShot" DurationMin="120.999252" DurationMax="120.999252"/>
-				<Event Id="4087023837" Name="mod_timer" ObjectPath="\Events\Relhax\gui\mod_timer" DurationType="OneShot" DurationMin="27.770437" DurationMax="29.100409"/>
+				<Event Id="4087023837" Name="mod_timer" ObjectPath="\Events\Relhax\gui\mod_timer" DurationType="OneShot" DurationMin="28.999395" DurationMax="30.054001"/>
 			</IncludedEvents>
 			<ReferencedStreamedFiles>
 				<File Id="288295816"/>
@@ -403,10 +403,6 @@
 				<File Id="122449326" Language="SFX">
 					<ShortName>timer_08.wav</ShortName>
 					<Path>SFX\timer_08_C8E51BD1.wem</Path>
-				</File>
-				<File Id="167470390" Language="SFX">
-					<ShortName>enemy_sighted_for_team_8.wav</ShortName>
-					<Path>SFX\enemy_sighted_for_team_8_C8E51BD1.wem</Path>
 				</File>
 				<File Id="236539403" Language="SFX">
 					<ShortName>music_drawn_game.wav</ShortName>
@@ -468,14 +464,6 @@
 				<File Id="764625661" Language="SFX">
 					<ShortName>timer_07.wav</ShortName>
 					<Path>SFX\timer_07_C8E51BD1.wem</Path>
-				</File>
-				<File Id="774902480" Language="SFX">
-					<ShortName>timer_11.wav</ShortName>
-					<Path>SFX\timer_11_C8E51BD1.wem</Path>
-				</File>
-				<File Id="837567587" Language="SFX">
-					<ShortName>enemy_sighted_for_team_7.wav</ShortName>
-					<Path>SFX\enemy_sighted_for_team_7_C8E51BD1.wem</Path>
 				</File>
 				<File Id="844878166" Language="SFX">
 					<ShortName>base_capture_1.wav</ShortName>
