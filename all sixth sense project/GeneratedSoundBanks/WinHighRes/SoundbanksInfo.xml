@@ -617,12 +617,16 @@
 			<ShortName>sixthsense_relhax</ShortName>
 			<Path>sixthsense_relhax.bnk</Path>
 			<IncludedEvents>
-				<Event Id="4157475797" Name="lightbulb_relhax" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_relhax" DurationType="OneShot" DurationMin="0.548571" DurationMax="2.389896"/>
+				<Event Id="4157475797" Name="lightbulb_relhax" ObjectPath="\Events\6th_sense\lightbulb\lightbulb_relhax" DurationType="OneShot" DurationMin="0.415533" DurationMax="2.389896"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="19983457" Language="SFX">
 					<ShortName>relhax_spotted_4.wav</ShortName>
 					<Path>SFX\relhax_spotted_4_C8E51BD1.wem</Path>
+				</File>
+				<File Id="37171546" Language="SFX">
+					<ShortName>relhax_spotted_7.wav</ShortName>
+					<Path>SFX\relhax_spotted_7_C8E51BD1.wem</Path>
 				</File>
 				<File Id="284834397" Language="SFX">
 					<ShortName>relhax_spotted_3.wav</ShortName>

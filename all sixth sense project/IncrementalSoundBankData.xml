@@ -17,11 +17,11 @@
 				<File Name="sixthsense_minions" Hash="4103781586" Timestamp="1563751680"/>
 				<File Name="sixthsense_miqts_sheep" Hash="3179222150" Timestamp="1568341303"/>
 				<File Name="sixthsense_monty_python" Hash="3848991260" Timestamp="1568341303"/>
-				<File Name="sixthsense_relhax" Hash="1327558363" Timestamp="1568341303"/>
+				<File Name="sixthsense_relhax" Hash="2206570487" Timestamp="1583113772"/>
 				<File Name="sixthsense_sauron" Hash="814690453" Timestamp="1563751680"/>
 				<File Name="sixthsense_star_trek" Hash="3183859885" Timestamp="1568341303"/>
 				<File Name="sixthsense_suprise" Hash="296631253" Timestamp="1563751680"/>
-				<File Name="sixthsense_surprise_not" Hash="958970260" Timestamp="1568341303"/>
+				<File Name="sixthsense_surprise_not" Hash="3283803297" Timestamp="1583113772"/>
 				<File Name="sixthsense_szarik" Hash="187026713" Timestamp="1568341303"/>
 				<File Name="sixthsense_timer_10_sec" Hash="756210444" Timestamp="1563751680"/>
 				<File Name="sixthsense_timer_8_sec_loud" Hash="3867043332" Timestamp="1563751680"/>
@@ -30,7 +30,7 @@
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="1972640481" Timestamp="1568341303"/>
+				<File Name="" Hash="2148120253" Timestamp="1583113772"/>
 			</Language>
 		</XMLInfo>
 	</Platform>

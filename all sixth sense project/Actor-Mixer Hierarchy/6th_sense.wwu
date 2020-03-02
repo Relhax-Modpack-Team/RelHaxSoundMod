@@ -496,6 +496,25 @@
 								<ActiveSource Name="relhax_spotted_6" ID="{E17039AF-A1CC-42E1-8035-96D4EE70FD19}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
+						<Sound Name="relhax_spotted_7" ID="{52BB9D64-5764-4C02-982F-8F7A1DA99E9F}" ShortID="527460618">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="relhax_spotted_7" ID="{BFA8C31F-DD5A-4F0B-ACC3-9B5DA24C41BB}" ShortID="37171546">
+									<Language>SFX</Language>
+									<AudioFile>relhax_spotted_7.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="relhax_spotted_7" ID="{BFA8C31F-DD5A-4F0B-ACC3-9B5DA24C41BB}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
 					</ChildrenList>
 				</RandomSequenceContainer>
 				<Sound Name="i_am_groot" ID="{D3F77BA6-8BB4-4D23-B118-402D54E68AB6}" ShortID="55490579">
