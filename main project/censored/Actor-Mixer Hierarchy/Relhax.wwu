@@ -522,44 +522,6 @@
 										<ActiveSource Name="vehicle_destroyed_12" ID="{6C4AF702-6FA7-4F33-A150-5FD7D968E041}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
-								<Sound Name="vehicle_destroyed_13" ID="{2E6B5838-5920-492A-BDB7-2A75CE1F85B5}" ShortID="1059478894">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_13" ID="{AEF2766C-45D1-42AC-8114-69D2BFAEA65C}" ShortID="751324251">
-											<Language>SFX</Language>
-											<AudioFile>vehicle_destroyed_13.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="vehicle_destroyed_13" ID="{AEF2766C-45D1-42AC-8114-69D2BFAEA65C}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="vehicle_destroyed_14" ID="{636E2DC5-A3BA-4610-802B-948EB7D48DE2}" ShortID="971296732">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_14" ID="{D037B700-9900-4B48-B623-D07D4692C089}" ShortID="896778132">
-											<Language>SFX</Language>
-											<AudioFile>vehicle_destroyed_14.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="vehicle_destroyed_14" ID="{D037B700-9900-4B48-B623-D07D4692C089}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="vo_dp_left_platoon" ID="{16016722-498C-42FD-B498-7C898B9E1371}" ShortID="993659516">
@@ -1731,63 +1693,6 @@
 									</ChildrenList>
 									<ActiveSourceList>
 										<ActiveSource Name="start_battle_32" ID="{CF529D96-1A49-417D-9DD8-A4D181A6BCF7}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_33" ID="{56C4722C-C0B8-4E06-9D29-52D33F36B531}" ShortID="24084542">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_33" ID="{627C3AD9-9086-4DDB-BDDA-42A67A253A62}" ShortID="775591155">
-											<Language>SFX</Language>
-											<AudioFile>start_battle_33.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_33" ID="{627C3AD9-9086-4DDB-BDDA-42A67A253A62}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_34" ID="{A171972F-A719-40E4-BC7D-9B9A6798D37A}" ShortID="696891172">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_34" ID="{78E9F5A2-4343-4F17-838A-35D5B51B17A3}" ShortID="974134525">
-											<Language>SFX</Language>
-											<AudioFile>start_battle_34.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_34" ID="{78E9F5A2-4343-4F17-838A-35D5B51B17A3}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="start_battle_35" ID="{DF0119A8-D87E-4A51-AC3E-4DE922757D6E}" ShortID="704636058">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="start_battle_35" ID="{5270C3F4-8A74-469D-9FB9-626F7E934E86}" ShortID="747514814">
-											<Language>SFX</Language>
-											<AudioFile>start_battle_35.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="start_battle_35" ID="{5270C3F4-8A74-469D-9FB9-626F7E934E86}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
