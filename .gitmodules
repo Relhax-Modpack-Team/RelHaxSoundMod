@@ -1,0 +1,4 @@
+[submodule "WoTTools"]
+	path = WoTTools
+	url = https://github.com/Willster419/WoTTools.git
+	branch = master
