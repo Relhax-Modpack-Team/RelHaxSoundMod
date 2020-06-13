@@ -23,18 +23,6 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="timer_01" ID="{FFA45CB7-3FDD-48A7-909D-C3D4CA6951D0}" ShortID="670208539">
-									<PropertyList>
-										<Property Name="IsStreamingEnabled" Type="bool">
-											<ValueList>
-												<Value>True</Value>
-											</ValueList>
-										</Property>
-										<Property Name="IsZeroLantency" Type="bool">
-											<ValueList>
-												<Value>True</Value>
-											</ValueList>
-										</Property>
-									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
@@ -354,17 +342,7 @@
 						</RandomSequenceContainer>
 						<Sound Name="base_capture_1" ID="{678C352C-5DD4-4931-B315-535F9101D31E}" ShortID="380780521">
 							<PropertyList>
-								<Property Name="IsNonCachable" Type="bool">
-									<ValueList>
-										<Value>True</Value>
-									</ValueList>
-								</Property>
 								<Property Name="IsStreamingEnabled" Type="bool">
-									<ValueList>
-										<Value>True</Value>
-									</ValueList>
-								</Property>
-								<Property Name="IsZeroLantency" Type="bool">
 									<ValueList>
 										<Value>True</Value>
 									</ValueList>
