@@ -1,0 +1,152 @@
+<patchs>
+<!-- Add the relhax gui sound banks to audio_mods.xml -->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>//audio_mods.xml/loadBanks</path>
+  <search></search>
+  <replace>bank/RelHaxGui.bnk</replace>
+</patch>
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>//audio_mods.xml/loadBanks</path>
+  <search></search>
+  <replace>bank/RelHaxGui.pck</replace>
+</patch>
+
+<!-- First patch adds the event name -->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>//audio_mods.xml/events</path>
+  <search></search>
+  <replace>event/name/base_capture_1</replace>
+</patch>
+<!-- second patch adds the event mod-->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>/audio_mods.xml/events/event[name = &quot;base_capture_1&quot;]</path>
+  <search></search>
+  <replace>mod/mod_base_capture_1</replace>
+</patch>
+
+<!-- First patch adds the event name -->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>//audio_mods.xml/events</path>
+  <search></search>
+  <replace>event/name/enemy_sighted_for_team</replace>
+</patch>
+<!-- second patch adds the event mod-->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>/audio_mods.xml/events/event[name = &quot;enemy_sighted_for_team&quot;]</path>
+  <search></search>
+  <replace>mod/mod_enemy_sighted_for_team</replace>
+</patch>
+
+<!-- First patch adds the event name -->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>//audio_mods.xml/events</path>
+  <search></search>
+  <replace>event/name/time_buzzer_01</replace>
+</patch>
+<!-- second patch adds the event mod-->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>/audio_mods.xml/events/event[name = &quot;time_buzzer_01&quot;]</path>
+  <search></search>
+  <replace>mod/mod_time_buzzer_01</replace>
+</patch>
+
+<!-- First patch adds the event name -->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>//audio_mods.xml/events</path>
+  <search></search>
+  <replace>event/name/timer</replace>
+</patch>
+<!-- second patch adds the event mod-->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>/audio_mods.xml/events/event[name = &quot;timer&quot;]</path>
+  <search></search>
+  <replace>mod/mod_timer</replace>
+</patch>
+
+<!-- First patch adds the event name -->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>//audio_mods.xml/events</path>
+  <search></search>
+  <replace>event/name/music_victory</replace>
+</patch>
+<!-- second patch adds the event mod-->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>/audio_mods.xml/events/event[name = &quot;music_victory&quot;]</path>
+  <search></search>
+  <replace>mod/mod_music_victory</replace>
+</patch>
+
+<!-- First patch adds the event name -->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>//audio_mods.xml/events</path>
+  <search></search>
+  <replace>event/name/music_defeat</replace>
+</patch>
+<!-- second patch adds the event mod-->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>/audio_mods.xml/events/event[name = &quot;music_defeat&quot;]</path>
+  <search></search>
+  <replace>mod/mod_music_defeat</replace>
+</patch>
+
+<!-- First patch adds the event name -->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>//audio_mods.xml/events</path>
+  <search></search>
+  <replace>event/name/music_drawn_game</replace>
+</patch>
+<!-- second patch adds the event mod-->
+<patch>
+  <type>xml</type>
+  <mode>add</mode>
+  <file>\\res_mods\\versiondir\\audioww\\audio_mods.xml</file>
+  <path>/audio_mods.xml/events/event[name = &quot;music_drawn_game&quot;]</path>
+  <search></search>
+  <replace>mod/mod_music_drawn_game</replace>
+</patch>
+</patchs>
