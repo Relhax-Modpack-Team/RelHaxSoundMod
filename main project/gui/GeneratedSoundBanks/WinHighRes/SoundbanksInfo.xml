@@ -37,6 +37,25 @@
 		</File>
 	</MediaFilesNotInAnyBank>
 	<SoundBanks>
+		<SoundBank Id="46733444" Language="SFX">
+			<ObjectPath>\SoundBanks\Custom\Custom</ObjectPath>
+			<ShortName>Custom</ShortName>
+			<Path>Custom.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2740637539" Name="mod_mod_gun_rld_115_152mm" ObjectPath="\Events\Gun Reload\mod_gun_reload\mod_mod_gun_rld_115_152mm" DurationType="OneShot" DurationMin="2.349501" DurationMax="2.349501"/>
+				<Event Id="2813853842" Name="mod_mod_gun_rld_12_25mm" ObjectPath="\Events\Gun Reload\mod_gun_reload\mod_mod_gun_rld_12_25mm" DurationType="OneShot" DurationMin="2.349501" DurationMax="2.349501"/>
+				<Event Id="635543439" Name="mod_mod_gun_rld_155_170mm" ObjectPath="\Events\Gun Reload\mod_gun_reload\mod_mod_gun_rld_155_170mm" DurationType="OneShot" DurationMin="2.349501" DurationMax="2.349501"/>
+				<Event Id="518523409" Name="mod_mod_gun_rld_20_45mm" ObjectPath="\Events\Gun Reload\mod_gun_reload\mod_mod_gun_rld_20_45mm" DurationType="OneShot" DurationMin="2.349501" DurationMax="2.349501"/>
+				<Event Id="709934779" Name="mod_mod_gun_rld_50_75mm" ObjectPath="\Events\Gun Reload\mod_gun_reload\mod_mod_gun_rld_50_75mm" DurationType="OneShot" DurationMin="2.349501" DurationMax="2.349501"/>
+				<Event Id="3855523681" Name="mod_mod_gun_rld_85_107mm" ObjectPath="\Events\Gun Reload\mod_gun_reload\mod_mod_gun_rld_85_107mm" DurationType="OneShot" DurationMin="2.349501" DurationMax="2.349501"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="916728129" Language="SFX">
+					<ShortName>weapon_reload.wav</ShortName>
+					<Path>SFX\weapon_reload_C8E51BD1.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="1355168291" Language="SFX">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>

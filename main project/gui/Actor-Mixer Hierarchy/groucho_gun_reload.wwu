@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4835B1EA-1A43-43E0-BDB9-D87054915F61}" SchemaVersion="85">
+	<AudioObjects>
+		<WorkUnit Name="groucho_gun_reload" ID="{4835B1EA-1A43-43E0-BDB9-D87054915F61}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="weapon_reload" ID="{43602952-148B-426B-8DCF-A1B9C29A7CCC}" ShortID="652606105">
+					<PropertyList>
+						<Property Name="InitialDelay" Type="Real64">
+							<ValueList>
+								<Value>2</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="weapon_reload" ID="{514E2C18-7EA5-44A0-886A-B883E0D3E55C}" ShortID="916728129">
+							<Language>SFX</Language>
+							<AudioFile>weapon_reload.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="weapon_reload" ID="{514E2C18-7EA5-44A0-886A-B883E0D3E55C}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

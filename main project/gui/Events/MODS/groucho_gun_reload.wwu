@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FE3B923C-8073-48E2-B23F-85A386D9A469}" SchemaVersion="85">
+	<Events>
+		<WorkUnit Name="groucho_gun_reload" ID="{FE3B923C-8073-48E2-B23F-85A386D9A469}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="mod_mod_gun_rld_85_107mm" ID="{65FEC320-2659-4C53-80B8-EB3BF4A2B515}">
+					<Comment>Event - Reload sound of a Main caliber gun</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{01B49FA6-21F2-4B51-8CD6-94133870655B}" ShortID="1004535598">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="weapon_reload" ID="{43602952-148B-426B-8DCF-A1B9C29A7CCC}" WorkUnitID="{4835B1EA-1A43-43E0-BDB9-D87054915F61}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="mod_mod_gun_rld_50_75mm" ID="{F446B715-2CDA-430C-AE9C-CB0A160EF2D5}">
+					<Comment>Event - Reload sound of a Medium caliber gun </Comment>
+					<ChildrenList>
+						<Action Name="" ID="{CA22B0C7-EBFA-41E8-B8CC-C3955B8A37B0}" ShortID="90607600">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="weapon_reload" ID="{43602952-148B-426B-8DCF-A1B9C29A7CCC}" WorkUnitID="{4835B1EA-1A43-43E0-BDB9-D87054915F61}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="mod_mod_gun_rld_12_25mm" ID="{55B2DDAE-A8BC-4055-AA49-E6C72989FF49}">
+					<Comment>Event - Reload sound of an Automatic caliber gun</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{1D6D3B65-6B9C-407F-B51A-BBC0F8467634}" ShortID="905827572">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="weapon_reload" ID="{43602952-148B-426B-8DCF-A1B9C29A7CCC}" WorkUnitID="{4835B1EA-1A43-43E0-BDB9-D87054915F61}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="mod_mod_gun_rld_155_170mm" ID="{1A5E436B-B747-4DB7-8C63-34D0F03A4F0F}">
+					<Comment>Event - Reload sound of a Huge caliber gun</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{FC393436-DC82-4F16-9761-9B68CFD87D76}" ShortID="913436395">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="weapon_reload" ID="{43602952-148B-426B-8DCF-A1B9C29A7CCC}" WorkUnitID="{4835B1EA-1A43-43E0-BDB9-D87054915F61}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="mod_mod_gun_rld_20_45mm" ID="{E4989204-B778-4149-972D-D105FEACB56E}">
+					<Comment>Event - Reload sound of a Small caliber gun</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{D7E1E3AC-6C85-4CAB-A262-62750DE7C286}" ShortID="328706329">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="weapon_reload" ID="{43602952-148B-426B-8DCF-A1B9C29A7CCC}" WorkUnitID="{4835B1EA-1A43-43E0-BDB9-D87054915F61}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="mod_mod_gun_rld_115_152mm" ID="{1DE5DDA4-AC7F-4D66-8FF3-5268BA70D10E}">
+					<Comment>Event - Reload sound of a Large caliber gun</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{7FB46EAF-8CB8-48D6-AD60-FC0A87A01D4E}" ShortID="10016548">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="weapon_reload" ID="{43602952-148B-426B-8DCF-A1B9C29A7CCC}" WorkUnitID="{4835B1EA-1A43-43E0-BDB9-D87054915F61}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
