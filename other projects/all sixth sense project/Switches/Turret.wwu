@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{9C805151-13A1-4216-ABE0-80CE03858379}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{9C805151-13A1-4216-ABE0-80CE03858379}" SchemaVersion="97">
   <Switches>
     <WorkUnit Name="Turret" ID="{9C805151-13A1-4216-ABE0-80CE03858379}" PersistMode="Standalone">
       <ChildrenList>

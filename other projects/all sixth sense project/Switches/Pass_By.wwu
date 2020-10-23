@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{845F15F0-9D9C-4D94-88A8-13BD13BA7963}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{845F15F0-9D9C-4D94-88A8-13BD13BA7963}" SchemaVersion="97">
   <Switches>
     <WorkUnit Name="Pass_By" ID="{845F15F0-9D9C-4D94-88A8-13BD13BA7963}" PersistMode="Standalone">
       <ChildrenList>

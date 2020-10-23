@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" SchemaVersion="97">
 	<AudioObjects>
 		<WorkUnit Name="6th_sense" ID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}" PersistMode="Standalone">
 			<ChildrenList>
@@ -23,9 +23,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="sauron_1" ID="{1E3F3007-AFEF-49DA-AE80-7A6F1735E3CC}" ShortID="877893592">
+								<AudioFileSource Name="sauron_1" ID="{1E3F3007-AFEF-49DA-AE80-7A6F1735E3CC}">
 									<Language>SFX</Language>
 									<AudioFile>sauron_1.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="877893592"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -42,9 +45,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="sauron_2" ID="{D385201B-58B2-41B1-B0AB-7CEBA7C88AEC}" ShortID="769756070">
+								<AudioFileSource Name="sauron_2" ID="{D385201B-58B2-41B1-B0AB-7CEBA7C88AEC}">
 									<Language>SFX</Language>
 									<AudioFile>sauron_2.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="769756070"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -63,9 +69,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="admiral_akbar_1" ID="{792CFF6D-D8C5-4D20-8A0B-DC7E6FEB857C}" ShortID="56150732">
+						<AudioFileSource Name="admiral_akbar_1" ID="{792CFF6D-D8C5-4D20-8A0B-DC7E6FEB857C}">
 							<Language>SFX</Language>
 							<AudioFile>admiral_akbar_1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="56150732"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -82,9 +91,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="countdown_10_sec" ID="{BFB8F8FB-F895-400D-AE76-568D546972DB}" ShortID="920916149">
+						<AudioFileSource Name="countdown_10_sec" ID="{BFB8F8FB-F895-400D-AE76-568D546972DB}">
 							<Language>SFX</Language>
 							<AudioFile>countdown_10_sec.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="920916149"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -101,9 +113,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="minions_1" ID="{F0CD4200-D1A5-4DA6-8A14-B1D535CF1FAA}" ShortID="759615291">
+						<AudioFileSource Name="minions_1" ID="{F0CD4200-D1A5-4DA6-8A14-B1D535CF1FAA}">
 							<Language>SFX</Language>
 							<AudioFile>minions_1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="759615291"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -120,9 +135,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="suprise_sound_1" ID="{7E026C86-C4BD-4903-A75D-2DB955310180}" ShortID="514088020">
+						<AudioFileSource Name="suprise_sound_1" ID="{7E026C86-C4BD-4903-A75D-2DB955310180}">
 							<Language>SFX</Language>
 							<AudioFile>suprise_sound_1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="514088020"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -149,9 +167,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="german_1" ID="{44D4925C-7180-470E-870F-8CEA1CA81A8A}" ShortID="545812755">
+								<AudioFileSource Name="german_1" ID="{44D4925C-7180-470E-870F-8CEA1CA81A8A}">
 									<Language>SFX</Language>
 									<AudioFile>german_1.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="545812755"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -168,9 +189,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="german_2" ID="{69C4A02D-298B-4315-8B32-A726D8D9DCEE}" ShortID="139030348">
+								<AudioFileSource Name="german_2" ID="{69C4A02D-298B-4315-8B32-A726D8D9DCEE}">
 									<Language>SFX</Language>
 									<AudioFile>german_2.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="139030348"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -187,9 +211,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="german_3" ID="{C0BC4459-286A-4CE7-AF3D-86459250468F}" ShortID="729550964">
+								<AudioFileSource Name="german_3" ID="{C0BC4459-286A-4CE7-AF3D-86459250468F}">
 									<Language>SFX</Language>
 									<AudioFile>german_3.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="729550964"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -206,9 +233,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="german_4" ID="{F0A58003-1F7C-4E27-A877-325D39D46614}" ShortID="25302839">
+								<AudioFileSource Name="german_4" ID="{F0A58003-1F7C-4E27-A877-325D39D46614}">
 									<Language>SFX</Language>
 									<AudioFile>german_4.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="25302839"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -225,9 +255,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="german_5" ID="{8B85B0E4-8C7D-4F6F-95B0-203933896CB0}" ShortID="735747772">
+								<AudioFileSource Name="german_5" ID="{8B85B0E4-8C7D-4F6F-95B0-203933896CB0}">
 									<Language>SFX</Language>
 									<AudioFile>german_5.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="735747772"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -246,9 +279,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="timer_10_sec" ID="{B55AD1D0-8BB5-4716-8456-E58A38A94188}" ShortID="583623869">
+						<AudioFileSource Name="timer_10_sec" ID="{B55AD1D0-8BB5-4716-8456-E58A38A94188}">
 							<Language>SFX</Language>
 							<AudioFile>timer_10_sec.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="583623869"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -265,12 +301,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="die_zwei" ID="{CE81D0F9-F29D-41AA-954D-FEBC7208EEA6}" ShortID="679782327">
+						<AudioFileSource Name="die_zwei" ID="{CE81D0F9-F29D-41AA-954D-FEBC7208EEA6}">
 							<Language>SFX</Language>
 							<AudioFile>die_zwei.wav</AudioFile>
-							<ConvertedFileIDList>
-								<File ID="882647014"/>
-							</ConvertedFileIDList>
+							<MediaIDList>
+								<MediaID ID="882647014"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -287,9 +323,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="timer_8_sec_soft" ID="{84072458-2CEA-4756-869D-541480E0E389}" ShortID="634788724">
+						<AudioFileSource Name="timer_8_sec_soft" ID="{84072458-2CEA-4756-869D-541480E0E389}">
 							<Language>SFX</Language>
 							<AudioFile>timer_8_sec_soft.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="634788724"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -306,9 +345,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="miqts_sheep" ID="{83CE39DC-4058-46F1-9378-37B3A7C8F4DD}" ShortID="685520101">
+						<AudioFileSource Name="miqts_sheep" ID="{83CE39DC-4058-46F1-9378-37B3A7C8F4DD}">
 							<Language>SFX</Language>
 							<AudioFile>miqts_sheep.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="685520101"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -325,9 +367,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="jingles" ID="{2186893C-D8B0-463A-AD69-A54A229A3E43}" ShortID="802807596">
+						<AudioFileSource Name="jingles" ID="{2186893C-D8B0-463A-AD69-A54A229A3E43}">
 							<Language>SFX</Language>
 							<AudioFile>jingles.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="802807596"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -344,9 +389,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="timer_8_sec_loud" ID="{2DA70C46-4CDF-464B-98C4-F981B43E3B30}" ShortID="909511877">
+						<AudioFileSource Name="timer_8_sec_loud" ID="{2DA70C46-4CDF-464B-98C4-F981B43E3B30}">
 							<Language>SFX</Language>
 							<AudioFile>timer_8_sec_loud.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="909511877"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -363,9 +411,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="monty_python" ID="{4888A5DE-F0DC-4B22-9750-6315B2AD7BF5}" ShortID="758196921">
+						<AudioFileSource Name="monty_python" ID="{4888A5DE-F0DC-4B22-9750-6315B2AD7BF5}">
 							<Language>SFX</Language>
 							<AudioFile>monty_python.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="758196921"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -392,9 +443,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="relhax_spotted_1" ID="{757566A6-010A-4977-ACA5-70B5F6A262ED}" ShortID="408718608">
+								<AudioFileSource Name="relhax_spotted_1" ID="{757566A6-010A-4977-ACA5-70B5F6A262ED}">
 									<Language>SFX</Language>
 									<AudioFile>relhax_spotted_1.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="408718608"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -411,9 +465,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="relhax_spotted_2" ID="{96F17C63-A99C-4652-9B9C-EB4212FF739C}" ShortID="582298540">
+								<AudioFileSource Name="relhax_spotted_2" ID="{96F17C63-A99C-4652-9B9C-EB4212FF739C}">
 									<Language>SFX</Language>
 									<AudioFile>relhax_spotted_2.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="582298540"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -430,9 +487,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="relhax_spotted_3" ID="{005D0F52-66BA-40B2-B39D-E0AE819F24B4}" ShortID="284834397">
+								<AudioFileSource Name="relhax_spotted_3" ID="{005D0F52-66BA-40B2-B39D-E0AE819F24B4}">
 									<Language>SFX</Language>
 									<AudioFile>relhax_spotted_3.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="284834397"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -449,9 +509,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="relhax_spotted_4" ID="{9F44B30D-FA64-42DA-BB76-93CF63DFC361}" ShortID="19983457">
+								<AudioFileSource Name="relhax_spotted_4" ID="{9F44B30D-FA64-42DA-BB76-93CF63DFC361}">
 									<Language>SFX</Language>
 									<AudioFile>relhax_spotted_4.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="19983457"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -468,9 +531,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="relhax_spotted_5" ID="{6C217187-DCAB-4D51-B2CA-06A45791302F}" ShortID="405624697">
+								<AudioFileSource Name="relhax_spotted_5" ID="{6C217187-DCAB-4D51-B2CA-06A45791302F}">
 									<Language>SFX</Language>
 									<AudioFile>relhax_spotted_5.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="405624697"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -487,9 +553,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="relhax_spotted_6" ID="{E17039AF-A1CC-42E1-8035-96D4EE70FD19}" ShortID="358064880">
+								<AudioFileSource Name="relhax_spotted_6" ID="{E17039AF-A1CC-42E1-8035-96D4EE70FD19}">
 									<Language>SFX</Language>
 									<AudioFile>relhax_spotted_6.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="358064880"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -506,9 +575,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="relhax_spotted_7" ID="{BFA8C31F-DD5A-4F0B-ACC3-9B5DA24C41BB}" ShortID="37171546">
+								<AudioFileSource Name="relhax_spotted_7" ID="{BFA8C31F-DD5A-4F0B-ACC3-9B5DA24C41BB}">
 									<Language>SFX</Language>
 									<AudioFile>relhax_spotted_7.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="37171546"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -534,9 +606,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="i_am_groot" ID="{44868229-BC10-43B1-8562-C2F959C4843C}" ShortID="330504322">
+						<AudioFileSource Name="i_am_groot" ID="{44868229-BC10-43B1-8562-C2F959C4843C}">
 							<Language>SFX</Language>
 							<AudioFile>i_am_groot.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="330504322"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -553,9 +628,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="star_trek" ID="{51881A9C-8B39-4BD5-BCB8-1B673F3AA560}" ShortID="985227019">
+						<AudioFileSource Name="star_trek" ID="{51881A9C-8B39-4BD5-BCB8-1B673F3AA560}">
 							<Language>SFX</Language>
 							<AudioFile>star_trek.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="985227019"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -572,9 +650,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="szarik" ID="{C0E0A522-BCF1-4BB7-A850-7991C591BB6A}" ShortID="438049905">
+						<AudioFileSource Name="szarik" ID="{C0E0A522-BCF1-4BB7-A850-7991C591BB6A}">
 							<Language>SFX</Language>
 							<AudioFile>szarik.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="438049905"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -591,9 +672,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="homer_doh" ID="{C4D2A79D-AB22-471D-8C7B-4605DCD67A17}" ShortID="586865750">
+						<AudioFileSource Name="homer_doh" ID="{C4D2A79D-AB22-471D-8C7B-4605DCD67A17}">
 							<Language>SFX</Language>
 							<AudioFile>homer_doh.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="586865750"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -610,9 +694,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="Casino Peek a Boo" ID="{29EB3AEF-09CC-479E-9099-68C972BB8A3A}" ShortID="301142422">
+						<AudioFileSource Name="Casino Peek a Boo" ID="{29EB3AEF-09CC-479E-9099-68C972BB8A3A}">
 							<Language>SFX</Language>
 							<AudioFile>Casino Peek a Boo.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="301142422"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -629,9 +716,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="dukes of hazzard - general lee's dixie horn" ID="{B39AD0EB-804A-4AC0-9785-BA8EAE336923}" ShortID="487019488">
+						<AudioFileSource Name="dukes of hazzard - general lee's dixie horn" ID="{B39AD0EB-804A-4AC0-9785-BA8EAE336923}">
 							<Language>SFX</Language>
 							<AudioFile>dukes of hazzard - general lee's dixie horn.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="487019488"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -648,9 +738,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="HAC841E" ID="{A817B214-5C79-4057-A056-C56CBA7A76FD}" ShortID="1005315180">
+						<AudioFileSource Name="HAC841E" ID="{A817B214-5C79-4057-A056-C56CBA7A76FD}">
 							<Language>SFX</Language>
 							<AudioFile>HAC841E.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1005315180"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
@@ -667,9 +760,12 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="Recording_3" ID="{A6240324-8D97-4832-B82F-101108DF641A}" ShortID="61714546">
+						<AudioFileSource Name="Recording_3" ID="{A6240324-8D97-4832-B82F-101108DF641A}">
 							<Language>SFX</Language>
 							<AudioFile>Recording_3.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="61714546"/>
+							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>

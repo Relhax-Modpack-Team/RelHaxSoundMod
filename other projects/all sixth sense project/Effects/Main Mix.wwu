@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{571DE6BD-88F4-4675-BD63-65F94DC8CCC3}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{571DE6BD-88F4-4675-BD63-65F94DC8CCC3}" SchemaVersion="97">
 	<Effects>
 		<WorkUnit Name="Main Mix" ID="{571DE6BD-88F4-4675-BD63-65F94DC8CCC3}" PersistMode="Standalone">
 			<ChildrenList>
@@ -545,7 +545,12 @@
 						<Property Name="OutputLevel" Type="Real32" Value="5"/>
 					</PropertyList>
 				</Effect>
-				<Effect Name="vo_ducking" ID="{2AB5D24F-CEEB-45B2-8AD2-A7B763883C77}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+				<Effect Name="vo_ducking" ID="{2AB5D24F-CEEB-45B2-8AD2-A7B763883C77}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+					<PropertyList>
+						<Property Name="Hold" Type="Real32" Value="0.5"/>
+						<Property Name="ReleaseTime" Type="Real32" Value="0.5"/>
+					</PropertyList>
+					<PluginData>
 	<GameParameter Name="RTPC_int_vo_ducking" ID="{1E252F1B-39B9-4251-8D5D-A20E4F4AF0BF}"/>
 </PluginData>
 				</Effect>

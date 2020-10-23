@@ -1,0 +1,15 @@
+Project migration to XML Schema (XSD) version 86 is completed.
+Project migration to XML Schema (XSD) version 87 is completed.
+Project migration to XML Schema (XSD) version 88 is completed.
+Project migration to XML Schema (XSD) version 89 is completed.
+Project migration to XML Schema (XSD) version 90 is completed.
+Project migration to XML Schema (XSD) version 91 is completed.
+Project migration to XML Schema (XSD) version 92 is completed.
+Project migration to XML Schema (XSD) version 93 is completed.
+Project migration to XML Schema (XSD) version 94 is completed.
+Project migration to XML Schema (XSD) version 95 is completed.
+Project migration to XML Schema (XSD) version 96 is completed.
+Project migration to XML Schema (XSD) version 97 is completed.
+Virtual Folder '\Events\GUI\modes\lightbulb' has a unique ID conflicting with the already loaded Virtual Folder '\Events\6th_sense\lightbulb'. It has been assigned a new unique ID.
+Virtual Folder '\Events\GUI\modes\lightbulb' has a short ID that conflicts with another object.  A new short ID has been given to the object. IMPORTANT: Soundbanks must be regenerated.
+Event '\Events\GUI\modes\lightbulb\lightbulb_02' has a unique ID conflicting with the already loaded Event '\Events\6th_sense\lightbulb\lightbulb_admiral_akbar'. It has been assigned a new unique ID.

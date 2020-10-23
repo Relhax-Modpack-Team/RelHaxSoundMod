@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" SchemaVersion="97">
 	<Events>
 		<WorkUnit Name="6th_sense" ID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" PersistMode="Standalone">
 			<ChildrenList>

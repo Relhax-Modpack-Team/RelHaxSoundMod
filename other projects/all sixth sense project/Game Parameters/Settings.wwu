@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{AB476AAA-6033-49AB-999C-C9F0407E711B}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{AB476AAA-6033-49AB-999C-C9F0407E711B}" SchemaVersion="97">
   <GameParameters>
     <WorkUnit Name="Settings" ID="{AB476AAA-6033-49AB-999C-C9F0407E711B}" PersistMode="Standalone">
       <Comment>Settings</Comment>
