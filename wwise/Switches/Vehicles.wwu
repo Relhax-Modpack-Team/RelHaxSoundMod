@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{AABE942A-F661-4D0A-81FF-83665B07239D}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{AABE942A-F661-4D0A-81FF-83665B07239D}" SchemaVersion="97">
   <Switches>
     <WorkUnit Name="Vehicles" ID="{AABE942A-F661-4D0A-81FF-83665B07239D}" PersistMode="Standalone">
       <ChildrenList>
@@ -203,6 +203,8 @@
             <Switch Name="SWITCH_ext_surfaceType_wood" ID="{1105E883-EFB0-46C8-9424-A452174804D0}">
               <Comment>wood</Comment>
             </Switch>
+            <Switch Name="SWITCH_ext_surfaceType_dirt" ID="{CB93AB52-4033-4959-99D4-C02C5F2D3D44}" />
+            <Switch Name="SWITCH_ext_surfaceType_oil" ID="{EB7E1704-102C-462A-A17C-57A589F324AB}" />
           </ChildrenList>
         </SwitchGroup>
         <Folder Name="new_physic" ID="{8CF05495-F741-458D-BF2B-5B217846728C}" ShortID="1002365655">
@@ -466,7 +468,7 @@
                       <Flags>5</Flags>
                     </Point>
                     <Point>
-                      <XPos>-9.99999999999996E-02</XPos>
+                      <XPos>-0.0999999999999996</XPos>
                       <YPos>2</YPos>
                       <Flags>0</Flags>
                     </Point>
@@ -1025,12 +1027,12 @@
                   <Flags>5</Flags>
                 </Point>
                 <Point>
-                  <XPos>-9.99999999999996E-02</XPos>
+                  <XPos>-0.0999999999999996</XPos>
                   <YPos>2</YPos>
                   <Flags>0</Flags>
                 </Point>
                 <Point>
-                  <XPos>9.99999999999996E-02</XPos>
+                  <XPos>0.0999999999999996</XPos>
                   <YPos>1</YPos>
                   <Flags>0</Flags>
                 </Point>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{8B6FEDBF-4E65-4D47-A19C-C7FBA129CFB5}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{8B6FEDBF-4E65-4D47-A19C-C7FBA129CFB5}" SchemaVersion="97">
 	<Effects>
 		<WorkUnit Name="Default Work Unit" ID="{8B6FEDBF-4E65-4D47-A19C-C7FBA129CFB5}" PersistMode="Standalone">
 			<ChildrenList>
@@ -51,11 +51,14 @@
 						<Property Name="WetLevel" Type="Real32" Value="-25"/>
 					</PropertyList>
 					<ChildrenList>
-						<PluginMediaSource Name="ev_halloween_reverced" ID="{9E27AF06-04A1-4FDF-A5D0-09B5383BFC2C}" ShortID="366494642">
+						<PluginMediaSource Name="ev_halloween_reverced" ID="{9E27AF06-04A1-4FDF-A5D0-09B5383BFC2C}">
 							<ParentPluginID>8323075</ParentPluginID>
 							<PropertyList>
 								<Property Name="DataFileName" Type="string" Value="ev_halloween_reverced.wav"/>
 							</PropertyList>
+							<MediaIDList>
+								<MediaID ID="366494642"/>
+							</MediaIDList>
 						</PluginMediaSource>
 					</ChildrenList>
 					<PluginData>
@@ -190,6 +193,50 @@
 						<Property Name="Voice1Pitch" Type="Real32" Value="300"/>
 						<Property Name="Voice2Enable" Type="bool" Value="True"/>
 						<Property Name="Voice2Pitch" Type="Real32" Value="-500"/>
+					</PropertyList>
+				</Effect>
+				<Effect Name="ev_steel_hunter_char" ID="{88E1A01D-5A67-4323-8D12-E5A1BAF7CA60}" PluginName="McDSP FutzBox" CompanyID="256" PluginID="110" PluginType="3">
+					<PropertyList>
+						<Property Name="DistortionAmount" Type="Real32" Value="28"/>
+						<Property Name="DistortionIntensity" Type="Real32" Value="45.6"/>
+						<Property Name="DistortionMode" Type="int32" Value="1"/>
+						<Property Name="DistortionRectify" Type="Real32" Value="41.2"/>
+						<Property Name="FiltersHPFFreq" Type="Real32" Value="300.6493"/>
+						<Property Name="FiltersHPFSlope" Type="int32" Value="1"/>
+						<Property Name="FiltersLPFFreq" Type="Real32" Value="4521.397"/>
+						<Property Name="FiltersLPFSlope" Type="int32" Value="1"/>
+						<Property Name="NoiseHPFFreq" Type="Real32" Value="269.1906"/>
+						<Property Name="NoiseLPFFreq" Type="Real32" Value="5336.697"/>
+						<Property Name="NoiseLevel" Type="Real32" Value="-18.02362">
+							<RTPCList>
+								<RTPC Name="" ID="{78C29A26-E6CF-4E7C-8520-C53C16EA3993}" ShortID="654774151">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="RTPC_ext_menu_volume_master" ID="{65457B04-8212-4658-93FB-B97BCE4E8608}" WorkUnitID="{AB476AAA-6033-49AB-999C-C9F0407E711B}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{A341A5CF-EB81-4297-831F-3A48B10D394F}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="1"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>-96</YPos>
+												<Flags>5</Flags>
+											</Point>
+											<Point>
+												<XPos>100</XPos>
+												<YPos>-17</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
+						<Property Name="SIMTuning" Type="Real32" Value="91.73222"/>
+						<Property Name="SIMType" Type="int32" Value="156"/>
 					</PropertyList>
 				</Effect>
 			</ChildrenList>

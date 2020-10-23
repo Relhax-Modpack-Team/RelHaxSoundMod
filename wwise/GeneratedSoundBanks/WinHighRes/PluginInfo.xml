@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<PluginInfo Project="WoT_sound_mod" Platform="Windows_HighRes" BasePlatform="Windows">
+<PluginInfo Project="Wwise_2.0_mixing" Platform="Windows_HighRes" BasePlatform="Windows">
 	<Plugins>
 		<Plugin Name="iZotope Trash Multiband Distortion" ID="593971" DLL="iZotope"/>
 		<Plugin Name="McDSP ML1" ID="6754307" DLL="McDSP"/>

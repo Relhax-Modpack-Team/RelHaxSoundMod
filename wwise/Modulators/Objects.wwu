@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{3E06EC61-2AFE-4EF0-A281-63208A81131D}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{3E06EC61-2AFE-4EF0-A281-63208A81131D}" SchemaVersion="97">
   <Modulators>
     <WorkUnit Name="Objects" ID="{3E06EC61-2AFE-4EF0-A281-63208A81131D}" PersistMode="Standalone">
       <ChildrenList>

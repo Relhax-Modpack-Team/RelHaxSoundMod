@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}" SchemaVersion="97">
 	<AudioObjects>
 		<WorkUnit Name="Relhax" ID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}" PersistMode="Standalone">
 			<ChildrenList>
@@ -28,9 +28,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_01" ID="{27623588-6000-47E6-B0AE-F3A4C55EE263}" ShortID="148722355">
+										<AudioFileSource Name="enemy_killed_01" ID="{27623588-6000-47E6-B0AE-F3A4C55EE263}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="148722355"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -47,9 +50,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_02" ID="{30DDBCB1-3F15-4CA5-8FAA-03B73E1EE706}" ShortID="511674462">
+										<AudioFileSource Name="enemy_killed_02" ID="{30DDBCB1-3F15-4CA5-8FAA-03B73E1EE706}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="511674462"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -66,9 +72,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_03" ID="{0EF7E175-C0E3-4BB8-AE5D-27809518E3A0}" ShortID="384155786">
+										<AudioFileSource Name="enemy_killed_03" ID="{0EF7E175-C0E3-4BB8-AE5D-27809518E3A0}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="384155786"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -85,9 +94,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_04" ID="{080864FA-59FA-40BC-9469-39CDD7C182D0}" ShortID="910511225">
+										<AudioFileSource Name="enemy_killed_04" ID="{080864FA-59FA-40BC-9469-39CDD7C182D0}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="910511225"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -132,9 +144,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="engine_damaged_01" ID="{6ACCE227-767B-4118-BAC1-6703CE2D0891}" ShortID="714246690">
+										<AudioFileSource Name="engine_damaged_01" ID="{6ACCE227-767B-4118-BAC1-6703CE2D0891}">
 											<Language>SFX</Language>
 											<AudioFile>engine_damaged_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="714246690"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -151,9 +166,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="engine_damaged_02" ID="{C226AB1A-3928-419A-B5DD-EFB17CEDF809}" ShortID="716087478">
+										<AudioFileSource Name="engine_damaged_02" ID="{C226AB1A-3928-419A-B5DD-EFB17CEDF809}">
 											<Language>SFX</Language>
 											<AudioFile>engine_damaged_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="716087478"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -198,9 +216,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="engine_destroyed_01" ID="{34AAD5C6-1EBC-4A43-8A65-18907533B122}" ShortID="89732810">
+										<AudioFileSource Name="engine_destroyed_01" ID="{34AAD5C6-1EBC-4A43-8A65-18907533B122}">
 											<Language>SFX</Language>
 											<AudioFile>engine_destroyed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="89732810"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -217,9 +238,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="engine_destroyed_02" ID="{55D0F18B-09DE-4664-A79F-263A4F6D9B1B}" ShortID="373132093">
+										<AudioFileSource Name="engine_destroyed_02" ID="{55D0F18B-09DE-4664-A79F-263A4F6D9B1B}">
 											<Language>SFX</Language>
 											<AudioFile>engine_destroyed_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="373132093"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -251,9 +275,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="fuel_tank_damaged_01" ID="{6428C010-4A88-4E2E-BB71-5E14848EB9DF}" ShortID="260841946">
+										<AudioFileSource Name="fuel_tank_damaged_01" ID="{6428C010-4A88-4E2E-BB71-5E14848EB9DF}">
 											<Language>SFX</Language>
 											<AudioFile>fuel_tank_damaged_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="260841946"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -270,9 +297,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="fuel_tank_damaged_02" ID="{FBF7438B-8F25-46BF-B4DB-F5A96956AAC6}" ShortID="641950699">
+										<AudioFileSource Name="fuel_tank_damaged_02" ID="{FBF7438B-8F25-46BF-B4DB-F5A96956AAC6}">
 											<Language>SFX</Language>
 											<AudioFile>fuel_tank_damaged_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="641950699"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -304,9 +334,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_01" ID="{E9FFC08E-322F-4CAB-8103-4FCD9F139096}" ShortID="605994666">
+										<AudioFileSource Name="vehicle_destroyed_01" ID="{E9FFC08E-322F-4CAB-8103-4FCD9F139096}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="605994666"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -323,9 +356,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_02" ID="{97D2BA96-E637-4200-9A5A-ADDB1A06429E}" ShortID="764607030">
+										<AudioFileSource Name="vehicle_destroyed_02" ID="{97D2BA96-E637-4200-9A5A-ADDB1A06429E}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="764607030"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -342,9 +378,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_03" ID="{810CCA5E-1533-4391-8288-BE36068F5351}" ShortID="305531114">
+										<AudioFileSource Name="vehicle_destroyed_03" ID="{810CCA5E-1533-4391-8288-BE36068F5351}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="305531114"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -361,9 +400,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_04" ID="{BAE43B72-7554-4EE1-908B-1300E736501E}" ShortID="32761682">
+										<AudioFileSource Name="vehicle_destroyed_04" ID="{BAE43B72-7554-4EE1-908B-1300E736501E}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="32761682"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -380,9 +422,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_05" ID="{28C1FBBC-F85F-4A70-BE27-0AA0E863BE6E}" ShortID="1000927984">
+										<AudioFileSource Name="vehicle_destroyed_05" ID="{28C1FBBC-F85F-4A70-BE27-0AA0E863BE6E}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1000927984"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -399,9 +444,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_06" ID="{C6BEA12A-F17E-4BC3-B9F0-BBAE44AF094A}" ShortID="769841228">
+										<AudioFileSource Name="vehicle_destroyed_06" ID="{C6BEA12A-F17E-4BC3-B9F0-BBAE44AF094A}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="769841228"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -418,9 +466,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_09" ID="{686A0A7F-6110-497A-985C-FEC892051A1A}" ShortID="825696448">
+										<AudioFileSource Name="vehicle_destroyed_09" ID="{686A0A7F-6110-497A-985C-FEC892051A1A}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_09.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="825696448"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -437,9 +488,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_10" ID="{D8099CD4-4EBD-4B04-99FE-9C0128414CBE}" ShortID="782244064">
+										<AudioFileSource Name="vehicle_destroyed_10" ID="{D8099CD4-4EBD-4B04-99FE-9C0128414CBE}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="782244064"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -456,9 +510,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_11" ID="{593C8D0A-ABB2-4F1B-8EA6-333692B56816}" ShortID="764062589">
+										<AudioFileSource Name="vehicle_destroyed_11" ID="{593C8D0A-ABB2-4F1B-8EA6-333692B56816}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_11.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="764062589"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -475,9 +532,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_12" ID="{932DAE61-1CE9-4E1A-A772-52691A5F78F6}" ShortID="853782029">
+										<AudioFileSource Name="vehicle_destroyed_12" ID="{932DAE61-1CE9-4E1A-A772-52691A5F78F6}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_12.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="853782029"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -494,9 +554,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_13" ID="{3D706156-B908-4F51-9373-62D48115EBF1}" ShortID="478879818">
+										<AudioFileSource Name="vehicle_destroyed_13" ID="{3D706156-B908-4F51-9373-62D48115EBF1}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_13.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="478879818"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -513,9 +576,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_07" ID="{197DA535-2527-4ECA-9641-E03B9F12717D}" ShortID="911088568">
+										<AudioFileSource Name="vehicle_destroyed_07" ID="{197DA535-2527-4ECA-9641-E03B9F12717D}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_07.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="911088568"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -532,9 +598,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_08" ID="{E83E4E5C-04B9-445C-A1A8-666D0F823A8D}" ShortID="839952704">
+										<AudioFileSource Name="vehicle_destroyed_08" ID="{E83E4E5C-04B9-445C-A1A8-666D0F823A8D}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_08.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="839952704"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -551,9 +620,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_14" ID="{DCB90AC9-4B12-4F13-848F-7A24F1D1966F}" ShortID="193603061">
+										<AudioFileSource Name="vehicle_destroyed_14" ID="{DCB90AC9-4B12-4F13-848F-7A24F1D1966F}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_14.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="193603061"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -570,9 +642,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="vehicle_destroyed_15" ID="{34308CA6-B2C3-49A3-8941-250D3F3CAF09}" ShortID="418963165">
+										<AudioFileSource Name="vehicle_destroyed_15" ID="{34308CA6-B2C3-49A3-8941-250D3F3CAF09}">
 											<Language>SFX</Language>
 											<AudioFile>vehicle_destroyed_15.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="418963165"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -604,9 +679,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="left_platoon_01" ID="{E3D5F313-61FC-4C48-987A-5BAF73B80E15}" ShortID="29118875">
+										<AudioFileSource Name="left_platoon_01" ID="{E3D5F313-61FC-4C48-987A-5BAF73B80E15}">
 											<Language>SFX</Language>
 											<AudioFile>left_platoon_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="29118875"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -638,9 +716,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="assistance_been_requested_01" ID="{94D8C61E-95F3-45EE-84E4-9A538C7C2493}" ShortID="730835294">
+										<AudioFileSource Name="assistance_been_requested_01" ID="{94D8C61E-95F3-45EE-84E4-9A538C7C2493}">
 											<Language>SFX</Language>
 											<AudioFile>assistance_been_requested_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="730835294"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -672,9 +753,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="been_excluded_platoon_01" ID="{8EA9C28C-4ED5-43E3-9348-E6C4D6D2DD06}" ShortID="404127349">
+										<AudioFileSource Name="been_excluded_platoon_01" ID="{8EA9C28C-4ED5-43E3-9348-E6C4D6D2DD06}">
 											<Language>SFX</Language>
 											<AudioFile>been_excluded_platoon_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="404127349"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -706,9 +790,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="platoon_created_01" ID="{12FA0643-02E2-4687-9E00-ADD2C96CA7C9}" ShortID="156362035">
+										<AudioFileSource Name="platoon_created_01" ID="{12FA0643-02E2-4687-9E00-ADD2C96CA7C9}">
 											<Language>SFX</Language>
 											<AudioFile>platoon_created_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="156362035"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -740,9 +827,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="damage_by_near_explosion_by_player_01" ID="{B2F8C51F-BB61-4B0A-BCCA-35B14B587027}" ShortID="600787797">
+										<AudioFileSource Name="damage_by_near_explosion_by_player_01" ID="{B2F8C51F-BB61-4B0A-BCCA-35B14B587027}">
 											<Language>SFX</Language>
 											<AudioFile>damage_by_near_explosion_by_player_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="600787797"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -759,9 +849,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="damage_by_near_explosion_by_player_02" ID="{5904725D-9D67-4F19-940F-2EAEA00847FE}" ShortID="105961107">
+										<AudioFileSource Name="damage_by_near_explosion_by_player_02" ID="{5904725D-9D67-4F19-940F-2EAEA00847FE}">
 											<Language>SFX</Language>
 											<AudioFile>damage_by_near_explosion_by_player_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="105961107"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -778,9 +871,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="damage_by_near_explosion_by_player_03" ID="{379C98B9-EC56-4324-9C41-0B4EE28A3B92}" ShortID="368248332">
+										<AudioFileSource Name="damage_by_near_explosion_by_player_03" ID="{379C98B9-EC56-4324-9C41-0B4EE28A3B92}">
 											<Language>SFX</Language>
 											<AudioFile>damage_by_near_explosion_by_player_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="368248332"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -797,9 +893,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="damage_by_near_explosion_by_player_04" ID="{A60BDCCB-C1C8-4C81-9889-2F8C39EFD303}" ShortID="649705620">
+										<AudioFileSource Name="damage_by_near_explosion_by_player_04" ID="{A60BDCCB-C1C8-4C81-9889-2F8C39EFD303}">
 											<Language>SFX</Language>
 											<AudioFile>damage_by_near_explosion_by_player_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="649705620"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -816,9 +915,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="damage_by_near_explosion_by_player_05" ID="{9895014A-1DCC-4D90-8F46-802EB4D41294}" ShortID="628203462">
+										<AudioFileSource Name="damage_by_near_explosion_by_player_05" ID="{9895014A-1DCC-4D90-8F46-802EB4D41294}">
 											<Language>SFX</Language>
 											<AudioFile>damage_by_near_explosion_by_player_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="628203462"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -835,9 +937,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="damage_by_near_explosion_by_player_06" ID="{272046B0-3ACE-4595-B764-832345963529}" ShortID="81782830">
+										<AudioFileSource Name="damage_by_near_explosion_by_player_06" ID="{272046B0-3ACE-4595-B764-832345963529}">
 											<Language>SFX</Language>
 											<AudioFile>damage_by_near_explosion_by_player_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="81782830"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -854,9 +959,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="damage_by_near_explosion_by_player_07" ID="{ECAF6851-E297-4280-B565-73F057C545AF}" ShortID="246890909">
+										<AudioFileSource Name="damage_by_near_explosion_by_player_07" ID="{ECAF6851-E297-4280-B565-73F057C545AF}">
 											<Language>SFX</Language>
 											<AudioFile>damage_by_near_explosion_by_player_07.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="246890909"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -873,9 +981,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="damage_by_near_explosion_by_player_08" ID="{235ACC14-2E49-4B7C-92A8-C4E463BD194E}" ShortID="19369136">
+										<AudioFileSource Name="damage_by_near_explosion_by_player_08" ID="{235ACC14-2E49-4B7C-92A8-C4E463BD194E}">
 											<Language>SFX</Language>
 											<AudioFile>damage_by_near_explosion_by_player_08.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="19369136"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -907,12 +1018,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_crit_by_player_03" ID="{578D3CF4-64B5-4C57-B54C-08A2E7659939}" ShortID="517721907">
+										<AudioFileSource Name="armor_pierced_crit_by_player_03" ID="{578D3CF4-64B5-4C57-B54C-08A2E7659939}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_crit_by_player_03.wav</AudioFile>
-											<ConvertedFileIDList>
-												<File ID="996782967"/>
-											</ConvertedFileIDList>
+											<MediaIDList>
+												<MediaID ID="996782967"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -929,12 +1040,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_crit_by_player_01" ID="{1D3C14F3-076A-4187-8F97-5884E07C7252}" ShortID="724613430">
+										<AudioFileSource Name="armor_pierced_crit_by_player_01" ID="{1D3C14F3-076A-4187-8F97-5884E07C7252}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_crit_by_player_01.wav</AudioFile>
-											<ConvertedFileIDList>
-												<File ID="519048676"/>
-											</ConvertedFileIDList>
+											<MediaIDList>
+												<MediaID ID="519048676"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -966,9 +1077,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="engine_functional_01" ID="{27E56869-2EB0-497D-A038-F26FB3AC26B7}" ShortID="1034372704">
+										<AudioFileSource Name="engine_functional_01" ID="{27E56869-2EB0-497D-A038-F26FB3AC26B7}">
 											<Language>SFX</Language>
 											<AudioFile>engine_functional_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1034372704"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -985,9 +1099,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="engine_functional_02" ID="{DDC11F8B-6CAA-4CAF-9492-1EC9D60075EB}" ShortID="491411735">
+										<AudioFileSource Name="engine_functional_02" ID="{DDC11F8B-6CAA-4CAF-9492-1EC9D60075EB}">
 											<Language>SFX</Language>
 											<AudioFile>engine_functional_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="491411735"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1045,9 +1162,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="loader_killed_01" ID="{80099442-3104-4BCD-8100-B6BC10D436C2}" ShortID="833889473">
+										<AudioFileSource Name="loader_killed_01" ID="{80099442-3104-4BCD-8100-B6BC10D436C2}">
 											<Language>SFX</Language>
 											<AudioFile>loader_killed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="833889473"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1064,9 +1184,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="loader_killed_02" ID="{FBD88961-78EA-426D-89FC-76C7E670FA6F}" ShortID="14781253">
+										<AudioFileSource Name="loader_killed_02" ID="{FBD88961-78EA-426D-89FC-76C7E670FA6F}">
 											<Language>SFX</Language>
 											<AudioFile>loader_killed_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="14781253"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1098,9 +1221,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="surveying_devices_damaged_01" ID="{10977D54-E638-406C-86B5-6EC309D5CD7D}" ShortID="521641112">
+										<AudioFileSource Name="surveying_devices_damaged_01" ID="{10977D54-E638-406C-86B5-6EC309D5CD7D}">
 											<Language>SFX</Language>
 											<AudioFile>surveying_devices_damaged_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="521641112"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1132,9 +1258,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_01" ID="{65AA77DC-C007-45DF-AAE9-07654A9F0EF1}" ShortID="664638246">
+										<AudioFileSource Name="start_battle_01" ID="{65AA77DC-C007-45DF-AAE9-07654A9F0EF1}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="664638246"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1151,9 +1280,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_02" ID="{18FBEFF5-8B19-45DF-AE63-27450E510C2B}" ShortID="451502154">
+										<AudioFileSource Name="start_battle_02" ID="{18FBEFF5-8B19-45DF-AE63-27450E510C2B}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="451502154"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1170,9 +1302,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_03" ID="{9DB30137-5008-484C-96CF-B34EE679C308}" ShortID="547129249">
+										<AudioFileSource Name="start_battle_03" ID="{9DB30137-5008-484C-96CF-B34EE679C308}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="547129249"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1189,9 +1324,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_04" ID="{C03CEFA8-E371-4344-A521-F2B51CD2F6B7}" ShortID="545313643">
+										<AudioFileSource Name="start_battle_04" ID="{C03CEFA8-E371-4344-A521-F2B51CD2F6B7}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="545313643"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1208,9 +1346,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_05" ID="{05749CEE-4E45-4F69-8627-C9DA83CF1FEF}" ShortID="760337569">
+										<AudioFileSource Name="start_battle_05" ID="{05749CEE-4E45-4F69-8627-C9DA83CF1FEF}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="760337569"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1227,9 +1368,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_06" ID="{A580527F-CFAC-4998-ABC6-0C3C50DCBCB1}" ShortID="41771467">
+										<AudioFileSource Name="start_battle_06" ID="{A580527F-CFAC-4998-ABC6-0C3C50DCBCB1}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="41771467"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1246,9 +1390,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_07" ID="{E1B9BA83-1F67-436E-93AB-CD865B56D0D0}" ShortID="700931911">
+										<AudioFileSource Name="start_battle_07" ID="{E1B9BA83-1F67-436E-93AB-CD865B56D0D0}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_07.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="700931911"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1265,9 +1412,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_08" ID="{B03E8EC7-1B06-42A9-93AE-880F85D21B1F}" ShortID="805759074">
+										<AudioFileSource Name="start_battle_08" ID="{B03E8EC7-1B06-42A9-93AE-880F85D21B1F}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_08.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="805759074"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1284,9 +1434,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_09" ID="{27E4947B-32AA-4011-9EFB-5B1D01D69213}" ShortID="730085633">
+										<AudioFileSource Name="start_battle_09" ID="{27E4947B-32AA-4011-9EFB-5B1D01D69213}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_09.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="730085633"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1303,9 +1456,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_10" ID="{E6864C10-C51E-4793-8836-405A91B997A1}" ShortID="625410069">
+										<AudioFileSource Name="start_battle_10" ID="{E6864C10-C51E-4793-8836-405A91B997A1}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="625410069"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1322,9 +1478,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_11" ID="{50C54FC9-B1E4-4880-8B65-1B7F59AE8967}" ShortID="739064629">
+										<AudioFileSource Name="start_battle_11" ID="{50C54FC9-B1E4-4880-8B65-1B7F59AE8967}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_11.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="739064629"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1341,9 +1500,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_12" ID="{AAB592AE-099A-4FCC-8FBE-AC7C444D4281}" ShortID="633462547">
+										<AudioFileSource Name="start_battle_12" ID="{AAB592AE-099A-4FCC-8FBE-AC7C444D4281}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_12.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="633462547"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1360,9 +1522,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_13" ID="{029405EF-B5F2-4113-A970-23F54F205581}" ShortID="367381372">
+										<AudioFileSource Name="start_battle_13" ID="{029405EF-B5F2-4113-A970-23F54F205581}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_13.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="367381372"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1379,9 +1544,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_14" ID="{67CA0504-DB55-4341-B80D-EB86091C4E23}" ShortID="1039848926">
+										<AudioFileSource Name="start_battle_14" ID="{67CA0504-DB55-4341-B80D-EB86091C4E23}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_14.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1039848926"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1398,9 +1566,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_16" ID="{5E626AC0-4C66-459F-8CC5-80322149C064}" ShortID="850034347">
+										<AudioFileSource Name="start_battle_16" ID="{5E626AC0-4C66-459F-8CC5-80322149C064}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_16.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="850034347"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1417,9 +1588,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_18" ID="{0AB857BA-EA42-4C81-96B2-3B2755FE9305}" ShortID="37667814">
+										<AudioFileSource Name="start_battle_18" ID="{0AB857BA-EA42-4C81-96B2-3B2755FE9305}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_18.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="37667814"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1436,9 +1610,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_19" ID="{21CA8EA8-055C-465A-A438-882527C97DFD}" ShortID="916610720">
+										<AudioFileSource Name="start_battle_19" ID="{21CA8EA8-055C-465A-A438-882527C97DFD}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="916610720"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1455,9 +1632,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_21" ID="{2D06B8D3-672A-4580-9407-D62352899828}" ShortID="623969336">
+										<AudioFileSource Name="start_battle_21" ID="{2D06B8D3-672A-4580-9407-D62352899828}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_21.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="623969336"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1474,9 +1654,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_22" ID="{F8B8BC40-8FC2-4C2E-83FE-BD968A3FAA44}" ShortID="449936304">
+										<AudioFileSource Name="start_battle_22" ID="{F8B8BC40-8FC2-4C2E-83FE-BD968A3FAA44}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_22.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="449936304"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1493,9 +1676,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_23" ID="{F5C3BA47-DB75-4F28-8E95-1CA7F3568F0B}" ShortID="7033953">
+										<AudioFileSource Name="start_battle_23" ID="{F5C3BA47-DB75-4F28-8E95-1CA7F3568F0B}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_23.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="7033953"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1512,9 +1698,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_24" ID="{B42EA38D-BA52-4ECC-81B0-87FA8E31B2E4}" ShortID="809009919">
+										<AudioFileSource Name="start_battle_24" ID="{B42EA38D-BA52-4ECC-81B0-87FA8E31B2E4}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_24.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="809009919"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1531,9 +1720,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_25" ID="{C1C35B16-ECDF-42F8-90B0-71B9DB448634}" ShortID="354044161">
+										<AudioFileSource Name="start_battle_25" ID="{C1C35B16-ECDF-42F8-90B0-71B9DB448634}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_25.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="354044161"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1550,9 +1742,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_26" ID="{8355AE97-38DA-49D6-92EF-C68F97AA3675}" ShortID="61496263">
+										<AudioFileSource Name="start_battle_26" ID="{8355AE97-38DA-49D6-92EF-C68F97AA3675}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_26.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="61496263"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1569,9 +1764,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_28" ID="{587C1FFF-3F19-4D04-B75A-55E63F9B41D7}" ShortID="843626974">
+										<AudioFileSource Name="start_battle_28" ID="{587C1FFF-3F19-4D04-B75A-55E63F9B41D7}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_28.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="843626974"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1588,9 +1786,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_32" ID="{C9C936A0-4CE6-47C6-A8B2-8A98D894A3F6}" ShortID="918373617">
+										<AudioFileSource Name="start_battle_32" ID="{C9C936A0-4CE6-47C6-A8B2-8A98D894A3F6}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_32.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="918373617"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1607,9 +1808,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_34" ID="{674774A7-55B7-446B-A37F-C7F861172CC3}" ShortID="16551894">
+										<AudioFileSource Name="start_battle_34" ID="{674774A7-55B7-446B-A37F-C7F861172CC3}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_34.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="16551894"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1626,9 +1830,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_35" ID="{919C4D7B-C673-4ECB-A6EC-3A6E875DC79A}" ShortID="771621818">
+										<AudioFileSource Name="start_battle_35" ID="{919C4D7B-C673-4ECB-A6EC-3A6E875DC79A}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_35.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="771621818"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1645,9 +1852,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_36" ID="{849DA4F9-5D49-4E87-AF5F-A608FC9A5CF8}" ShortID="684738324">
+										<AudioFileSource Name="start_battle_36" ID="{849DA4F9-5D49-4E87-AF5F-A608FC9A5CF8}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_36.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="684738324"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1664,9 +1874,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_37" ID="{6F366DC9-AF05-4CE2-B9E1-423AA9C4224C}" ShortID="373270785">
+										<AudioFileSource Name="start_battle_37" ID="{6F366DC9-AF05-4CE2-B9E1-423AA9C4224C}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_37.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="373270785"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1683,9 +1896,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="start_battle_39" ID="{887D7A04-5C5C-4771-975B-A82A5C998A7B}" ShortID="781393392">
+										<AudioFileSource Name="start_battle_39" ID="{887D7A04-5C5C-4771-975B-A82A5C998A7B}">
 											<Language>SFX</Language>
 											<AudioFile>start_battle_39.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="781393392"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1717,9 +1933,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_lost_01" ID="{59BDE2C3-0912-4825-9064-329462AC5CD7}" ShortID="143894057">
+										<AudioFileSource Name="target_lost_01" ID="{59BDE2C3-0912-4825-9064-329462AC5CD7}">
 											<Language>SFX</Language>
 											<AudioFile>target_lost_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="143894057"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1736,9 +1955,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_lost_02" ID="{1DAEAF64-A92A-4961-A563-F3FC42E555DD}" ShortID="407542772">
+										<AudioFileSource Name="target_lost_02" ID="{1DAEAF64-A92A-4961-A563-F3FC42E555DD}">
 											<Language>SFX</Language>
 											<AudioFile>target_lost_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="407542772"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1755,9 +1977,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_lost_03" ID="{0841DDBE-6347-498D-B389-E2F1CAD4CE97}" ShortID="755195268">
+										<AudioFileSource Name="target_lost_03" ID="{0841DDBE-6347-498D-B389-E2F1CAD4CE97}">
 											<Language>SFX</Language>
 											<AudioFile>target_lost_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="755195268"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1774,9 +1999,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_lost_04" ID="{B658BADD-5089-4E3E-A648-AAC9F8D197CD}" ShortID="200027179">
+										<AudioFileSource Name="target_lost_04" ID="{B658BADD-5089-4E3E-A648-AAC9F8D197CD}">
 											<Language>SFX</Language>
 											<AudioFile>target_lost_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="200027179"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1793,9 +2021,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_lost_05" ID="{D310AC08-C159-46F3-9C80-BADF8657A833}" ShortID="779584190">
+										<AudioFileSource Name="target_lost_05" ID="{D310AC08-C159-46F3-9C80-BADF8657A833}">
 											<Language>SFX</Language>
 											<AudioFile>target_lost_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="779584190"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1812,9 +2043,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_lost_06" ID="{FA18A2AA-0261-4304-9C08-993480A58E09}" ShortID="52902293">
+										<AudioFileSource Name="target_lost_06" ID="{FA18A2AA-0261-4304-9C08-993480A58E09}">
 											<Language>SFX</Language>
 											<AudioFile>target_lost_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="52902293"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1846,9 +2080,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_captured_01" ID="{F0E2A27E-3004-48B5-9C33-D0083A88C1CE}" ShortID="137948623">
+										<AudioFileSource Name="target_captured_01" ID="{F0E2A27E-3004-48B5-9C33-D0083A88C1CE}">
 											<Language>SFX</Language>
 											<AudioFile>target_captured_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="137948623"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1865,9 +2102,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_captured_02" ID="{15F58362-3F6B-4729-9A9B-445DF2BEE175}" ShortID="430048523">
+										<AudioFileSource Name="target_captured_02" ID="{15F58362-3F6B-4729-9A9B-445DF2BEE175}">
 											<Language>SFX</Language>
 											<AudioFile>target_captured_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="430048523"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1884,9 +2124,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_captured_03" ID="{6DA6D5B2-976D-4418-B92A-898BDB7789AD}" ShortID="895400143">
+										<AudioFileSource Name="target_captured_03" ID="{6DA6D5B2-976D-4418-B92A-898BDB7789AD}">
 											<Language>SFX</Language>
 											<AudioFile>target_captured_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="895400143"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1903,9 +2146,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_captured_04" ID="{1E2BC4DA-E5A3-48C6-941A-54A4B2493E48}" ShortID="744898136">
+										<AudioFileSource Name="target_captured_04" ID="{1E2BC4DA-E5A3-48C6-941A-54A4B2493E48}">
 											<Language>SFX</Language>
 											<AudioFile>target_captured_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="744898136"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1922,9 +2168,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_captured_05" ID="{8B20DA74-5225-4BB1-9A86-49BD9AA01AE5}" ShortID="675719907">
+										<AudioFileSource Name="target_captured_05" ID="{8B20DA74-5225-4BB1-9A86-49BD9AA01AE5}">
 											<Language>SFX</Language>
 											<AudioFile>target_captured_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="675719907"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1941,9 +2190,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_captured_06" ID="{18E1F521-C968-40B6-ADF6-070979966602}" ShortID="785230052">
+										<AudioFileSource Name="target_captured_06" ID="{18E1F521-C968-40B6-ADF6-070979966602}">
 											<Language>SFX</Language>
 											<AudioFile>target_captured_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="785230052"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1960,9 +2212,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_captured_07" ID="{B7EF10E4-B646-4BFB-96A6-67468A9D2223}" ShortID="346457463">
+										<AudioFileSource Name="target_captured_07" ID="{B7EF10E4-B646-4BFB-96A6-67468A9D2223}">
 											<Language>SFX</Language>
 											<AudioFile>target_captured_07.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="346457463"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -1994,9 +2249,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="gun_functional_01" ID="{98A6A14A-5D82-4E9D-889C-79CE87C7B14A}" ShortID="658757184">
+										<AudioFileSource Name="gun_functional_01" ID="{98A6A14A-5D82-4E9D-889C-79CE87C7B14A}">
 											<Language>SFX</Language>
 											<AudioFile>gun_functional_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="658757184"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2013,9 +2271,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="gun_functional_02" ID="{7D2AFE66-09F4-46E5-93C6-3CA656D753B7}" ShortID="179590556">
+										<AudioFileSource Name="gun_functional_02" ID="{7D2AFE66-09F4-46E5-93C6-3CA656D753B7}">
 											<Language>SFX</Language>
 											<AudioFile>gun_functional_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="179590556"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2047,9 +2308,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="radioman_killed_01" ID="{200C3769-0670-4E74-9632-ACCF862F771B}" ShortID="128285174">
+										<AudioFileSource Name="radioman_killed_01" ID="{200C3769-0670-4E74-9632-ACCF862F771B}">
 											<Language>SFX</Language>
 											<AudioFile>radioman_killed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="128285174"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2066,9 +2330,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="radioman_killed_02" ID="{DEFC96BA-CF7D-4DB7-B587-0EA562B70C71}" ShortID="84774779">
+										<AudioFileSource Name="radioman_killed_02" ID="{DEFC96BA-CF7D-4DB7-B587-0EA562B70C71}">
 											<Language>SFX</Language>
 											<AudioFile>radioman_killed_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="84774779"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2085,9 +2352,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="radioman_killed_03" ID="{A3D7630C-826D-4B85-8971-8F2C9D7F1E37}" ShortID="638578269">
+										<AudioFileSource Name="radioman_killed_03" ID="{A3D7630C-826D-4B85-8971-8F2C9D7F1E37}">
 											<Language>SFX</Language>
 											<AudioFile>radioman_killed_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="638578269"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2104,9 +2374,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="radioman_killed_04" ID="{E8F9AB3A-613A-414A-A8ED-BE22614353EF}" ShortID="64109528">
+										<AudioFileSource Name="radioman_killed_04" ID="{E8F9AB3A-613A-414A-A8ED-BE22614353EF}">
 											<Language>SFX</Language>
 											<AudioFile>radioman_killed_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="64109528"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2138,9 +2411,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="surveying_devices_functional_01" ID="{A45DED7D-1CD5-406C-A9D9-D2E828ED9CD3}" ShortID="726862494">
+										<AudioFileSource Name="surveying_devices_functional_01" ID="{A45DED7D-1CD5-406C-A9D9-D2E828ED9CD3}">
 											<Language>SFX</Language>
 											<AudioFile>surveying_devices_functional_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="726862494"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2172,9 +2448,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="fire_stopped_01" ID="{A1613F6D-C9F9-4F3D-B4BC-95D7FC026C6E}" ShortID="465213817">
+										<AudioFileSource Name="fire_stopped_01" ID="{A1613F6D-C9F9-4F3D-B4BC-95D7FC026C6E}">
 											<Language>SFX</Language>
 											<AudioFile>fire_stopped_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="465213817"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2191,9 +2470,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="fire_stopped_02" ID="{D343AB21-B2AE-465E-81C3-388083DA6EDC}" ShortID="123653975">
+										<AudioFileSource Name="fire_stopped_02" ID="{D343AB21-B2AE-465E-81C3-388083DA6EDC}">
 											<Language>SFX</Language>
 											<AudioFile>fire_stopped_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="123653975"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2225,9 +2507,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_01" ID="{B9A70888-3CDC-4694-B1D2-3D1F07074230}" ShortID="120162871">
+										<AudioFileSource Name="armor_not_pierced_by_player_01" ID="{B9A70888-3CDC-4694-B1D2-3D1F07074230}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="120162871"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2244,9 +2529,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_02" ID="{12FD2DBC-3E17-4665-A7CE-FBB672B10517}" ShortID="1027026125">
+										<AudioFileSource Name="armor_not_pierced_by_player_02" ID="{12FD2DBC-3E17-4665-A7CE-FBB672B10517}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1027026125"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2263,9 +2551,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_03" ID="{2187AEE3-4B56-4223-967A-6893DFDCCCCB}" ShortID="1001936836">
+										<AudioFileSource Name="armor_not_pierced_by_player_03" ID="{2187AEE3-4B56-4223-967A-6893DFDCCCCB}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1001936836"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2282,9 +2573,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_04" ID="{76AF5626-79D5-4454-8884-7EEA48915452}" ShortID="342082510">
+										<AudioFileSource Name="armor_not_pierced_by_player_04" ID="{76AF5626-79D5-4454-8884-7EEA48915452}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="342082510"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2301,9 +2595,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_05" ID="{5113C95C-13FB-493B-9801-A046D15ACD15}" ShortID="23305868">
+										<AudioFileSource Name="armor_not_pierced_by_player_05" ID="{5113C95C-13FB-493B-9801-A046D15ACD15}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="23305868"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2320,9 +2617,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_06" ID="{C2ED461D-7427-4DB8-8546-13BDBF85BFB3}" ShortID="601958797">
+										<AudioFileSource Name="armor_not_pierced_by_player_06" ID="{C2ED461D-7427-4DB8-8546-13BDBF85BFB3}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="601958797"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2339,9 +2639,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_07" ID="{505470BC-F410-46BF-8C02-70A8F1A902BB}" ShortID="285259681">
+										<AudioFileSource Name="armor_not_pierced_by_player_07" ID="{505470BC-F410-46BF-8C02-70A8F1A902BB}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_07.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="285259681"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2358,9 +2661,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_08" ID="{63D1A093-F8CB-408C-9E47-0AA70C4EAF34}" ShortID="896023710">
+										<AudioFileSource Name="armor_not_pierced_by_player_08" ID="{63D1A093-F8CB-408C-9E47-0AA70C4EAF34}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_08.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="896023710"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2377,9 +2683,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_09" ID="{17668027-D304-4326-A59C-B5A9DBF5F3B4}" ShortID="904216559">
+										<AudioFileSource Name="armor_not_pierced_by_player_09" ID="{17668027-D304-4326-A59C-B5A9DBF5F3B4}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_09.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="904216559"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2396,9 +2705,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_10" ID="{9EB61CD2-69F3-4B87-B9B7-B332A7578E30}" ShortID="831677186">
+										<AudioFileSource Name="armor_not_pierced_by_player_10" ID="{9EB61CD2-69F3-4B87-B9B7-B332A7578E30}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="831677186"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2415,9 +2727,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_11" ID="{76F8688E-6FBC-4D41-A127-4CAA8AB4F504}" ShortID="541381540">
+										<AudioFileSource Name="armor_not_pierced_by_player_11" ID="{76F8688E-6FBC-4D41-A127-4CAA8AB4F504}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_11.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="541381540"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2434,9 +2749,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_12" ID="{EE6BC073-55C8-44ED-86FE-820A0F376519}" ShortID="957769028">
+										<AudioFileSource Name="armor_not_pierced_by_player_12" ID="{EE6BC073-55C8-44ED-86FE-820A0F376519}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_12.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="957769028"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2453,9 +2771,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_13" ID="{EE9F0E50-D8C3-4EA0-A3D2-784AEEB19944}" ShortID="432604550">
+										<AudioFileSource Name="armor_not_pierced_by_player_13" ID="{EE9F0E50-D8C3-4EA0-A3D2-784AEEB19944}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_13.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="432604550"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2472,9 +2793,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_14" ID="{D572E47F-0910-4D3F-A9D5-CF73ED270AD0}" ShortID="771650940">
+										<AudioFileSource Name="armor_not_pierced_by_player_14" ID="{D572E47F-0910-4D3F-A9D5-CF73ED270AD0}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_14.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="771650940"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2491,9 +2815,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_15" ID="{3D4FBBFE-F602-419C-ABDE-1C26A9DF449D}" ShortID="833324615">
+										<AudioFileSource Name="armor_not_pierced_by_player_15" ID="{3D4FBBFE-F602-419C-ABDE-1C26A9DF449D}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_15.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="833324615"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2510,9 +2837,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_16" ID="{9181B549-B6D5-43BA-A7CE-7B23750B5EE1}" ShortID="710803927">
+										<AudioFileSource Name="armor_not_pierced_by_player_16" ID="{9181B549-B6D5-43BA-A7CE-7B23750B5EE1}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_16.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="710803927"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2529,9 +2859,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_17" ID="{7B87116B-7075-4306-B40F-017CDA52D314}" ShortID="864904082">
+										<AudioFileSource Name="armor_not_pierced_by_player_17" ID="{7B87116B-7075-4306-B40F-017CDA52D314}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_17.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="864904082"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2548,9 +2881,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_18" ID="{AECE40A8-2DF1-4CA0-87FB-3B2FC663BA75}" ShortID="381449952">
+										<AudioFileSource Name="armor_not_pierced_by_player_18" ID="{AECE40A8-2DF1-4CA0-87FB-3B2FC663BA75}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_18.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="381449952"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2567,9 +2903,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_19" ID="{675458CB-B442-4EEE-A6CF-AE917F3E12BB}" ShortID="296452961">
+										<AudioFileSource Name="armor_not_pierced_by_player_19" ID="{675458CB-B442-4EEE-A6CF-AE917F3E12BB}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="296452961"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2586,9 +2925,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_not_pierced_by_player_20" ID="{181BD156-8A48-457F-A478-2B5FA78E90D3}" ShortID="451227705">
+										<AudioFileSource Name="armor_not_pierced_by_player_20" ID="{181BD156-8A48-457F-A478-2B5FA78E90D3}">
 											<Language>SFX</Language>
 											<AudioFile>armor_not_pierced_by_player_20.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="451227705"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2633,9 +2975,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="platoon_joined_01" ID="{4AEC9F21-565E-4A33-9D7A-962B55E55D8E}" ShortID="431760227">
+										<AudioFileSource Name="platoon_joined_01" ID="{4AEC9F21-565E-4A33-9D7A-962B55E55D8E}">
 											<Language>SFX</Language>
 											<AudioFile>platoon_joined_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="431760227"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2667,9 +3012,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="player_joined_platoon_01" ID="{936D3AE4-DEEC-42CF-B150-6E1881E3ABF1}" ShortID="829102517">
+										<AudioFileSource Name="player_joined_platoon_01" ID="{936D3AE4-DEEC-42CF-B150-6E1881E3ABF1}">
 											<Language>SFX</Language>
 											<AudioFile>player_joined_platoon_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="829102517"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2701,9 +3049,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="platoon_dismissed_01" ID="{2CC7ACFE-9BC1-48E2-AAC2-F5838D26EEE7}" ShortID="855736339">
+										<AudioFileSource Name="platoon_dismissed_01" ID="{2CC7ACFE-9BC1-48E2-AAC2-F5838D26EEE7}">
 											<Language>SFX</Language>
 											<AudioFile>platoon_dismissed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="855736339"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2735,9 +3086,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="driver_killed_01" ID="{1F7CCE7F-83DA-4437-B65A-8AF5A5E423CD}" ShortID="505724404">
+										<AudioFileSource Name="driver_killed_01" ID="{1F7CCE7F-83DA-4437-B65A-8AF5A5E423CD}">
 											<Language>SFX</Language>
 											<AudioFile>driver_killed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="505724404"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2754,9 +3108,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="driver_killed_02" ID="{A6589A5D-FBD7-4117-B548-40EFF678A4C5}" ShortID="853834125">
+										<AudioFileSource Name="driver_killed_02" ID="{A6589A5D-FBD7-4117-B548-40EFF678A4C5}">
 											<Language>SFX</Language>
 											<AudioFile>driver_killed_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="853834125"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2806,9 +3163,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_fire_started_by_player_01" ID="{8D163058-6216-4A30-BB12-8BC0999B4CEC}" ShortID="527466366">
+										<AudioFileSource Name="enemy_fire_started_by_player_01" ID="{8D163058-6216-4A30-BB12-8BC0999B4CEC}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_fire_started_by_player_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="527466366"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2825,9 +3185,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_fire_started_by_player_02" ID="{7434CCB9-6C5B-4E4F-8AFA-79B0B62B8F94}" ShortID="875486317">
+										<AudioFileSource Name="enemy_fire_started_by_player_02" ID="{7434CCB9-6C5B-4E4F-8AFA-79B0B62B8F94}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_fire_started_by_player_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="875486317"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2859,9 +3222,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_unlocked_01" ID="{11EE6622-1B9D-499E-A9FB-20C02656B168}" ShortID="556068767">
+										<AudioFileSource Name="target_unlocked_01" ID="{11EE6622-1B9D-499E-A9FB-20C02656B168}">
 											<Language>SFX</Language>
 											<AudioFile>target_unlocked_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="556068767"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2878,9 +3244,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_unlocked_02" ID="{E7606A92-EB2C-4AB0-BC59-096AC7075BE0}" ShortID="903883433">
+										<AudioFileSource Name="target_unlocked_02" ID="{E7606A92-EB2C-4AB0-BC59-096AC7075BE0}">
 											<Language>SFX</Language>
 											<AudioFile>target_unlocked_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="903883433"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2897,9 +3266,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="target_unlocked_03" ID="{C3FDC321-F204-4A16-82F1-92303FF7717E}" ShortID="829557724">
+										<AudioFileSource Name="target_unlocked_03" ID="{C3FDC321-F204-4A16-82F1-92303FF7717E}">
 											<Language>SFX</Language>
 											<AudioFile>target_unlocked_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="829557724"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2931,9 +3303,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="track_damaged_01" ID="{89789CA1-853A-4DD8-83E6-B8F8D366E429}" ShortID="391592367">
+										<AudioFileSource Name="track_damaged_01" ID="{89789CA1-853A-4DD8-83E6-B8F8D366E429}">
 											<Language>SFX</Language>
 											<AudioFile>track_damaged_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="391592367"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2950,9 +3325,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="track_damaged_02" ID="{366D2859-D25F-49CF-884E-698244AC35F6}" ShortID="1068781419">
+										<AudioFileSource Name="track_damaged_02" ID="{366D2859-D25F-49CF-884E-698244AC35F6}">
 											<Language>SFX</Language>
 											<AudioFile>track_damaged_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1068781419"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -2969,9 +3347,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="track_damaged_03" ID="{34521166-31AA-4183-9DB5-987FC82057E8}" ShortID="570971557">
+										<AudioFileSource Name="track_damaged_03" ID="{34521166-31AA-4183-9DB5-987FC82057E8}">
 											<Language>SFX</Language>
 											<AudioFile>track_damaged_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="570971557"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3003,9 +3384,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="track_destroyed_01" ID="{2F07737B-14C3-460F-9300-88A7F6164A84}" ShortID="892724464">
+										<AudioFileSource Name="track_destroyed_01" ID="{2F07737B-14C3-460F-9300-88A7F6164A84}">
 											<Language>SFX</Language>
 											<AudioFile>track_destroyed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="892724464"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3022,9 +3406,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="track_destroyed_02" ID="{42F71B96-EF59-423F-BB05-19EA793B4167}" ShortID="702275075">
+										<AudioFileSource Name="track_destroyed_02" ID="{42F71B96-EF59-423F-BB05-19EA793B4167}">
 											<Language>SFX</Language>
 											<AudioFile>track_destroyed_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="702275075"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3041,9 +3428,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="track_destroyed_03" ID="{1884DAF0-E748-420F-9514-AC1F24075EC1}" ShortID="400438866">
+										<AudioFileSource Name="track_destroyed_03" ID="{1884DAF0-E748-420F-9514-AC1F24075EC1}">
 											<Language>SFX</Language>
 											<AudioFile>track_destroyed_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="400438866"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3060,9 +3450,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="track_destroyed_04" ID="{ACA9D541-24CF-4C52-BE27-704FE37A1E63}" ShortID="1018518136">
+										<AudioFileSource Name="track_destroyed_04" ID="{ACA9D541-24CF-4C52-BE27-704FE37A1E63}">
 											<Language>SFX</Language>
 											<AudioFile>track_destroyed_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1018518136"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3133,9 +3526,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_01" ID="{989EE80A-0341-47FF-9369-7CE6718680F4}" ShortID="88223102">
+										<AudioFileSource Name="enemy_killed_by_player_01" ID="{989EE80A-0341-47FF-9369-7CE6718680F4}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_by_player_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="88223102"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3152,9 +3548,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_02" ID="{330B8F0A-7295-4B90-96DF-297D3C65D782}" ShortID="196031182">
+										<AudioFileSource Name="enemy_killed_by_player_02" ID="{330B8F0A-7295-4B90-96DF-297D3C65D782}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_by_player_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="196031182"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3171,9 +3570,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_03" ID="{F0A56ACD-608B-4C90-96D7-986ABE7731FA}" ShortID="851906316">
+										<AudioFileSource Name="enemy_killed_by_player_03" ID="{F0A56ACD-608B-4C90-96D7-986ABE7731FA}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_by_player_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="851906316"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3190,9 +3592,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_04" ID="{E5A2BABA-A984-458E-8D95-1B2D109BBEAE}" ShortID="52119806">
+										<AudioFileSource Name="enemy_killed_by_player_04" ID="{E5A2BABA-A984-458E-8D95-1B2D109BBEAE}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_by_player_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="52119806"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3209,9 +3614,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_05" ID="{F882FA11-AF91-4D4E-BA9C-EF771C673E60}" ShortID="180608267">
+										<AudioFileSource Name="enemy_killed_by_player_05" ID="{F882FA11-AF91-4D4E-BA9C-EF771C673E60}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_by_player_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="180608267"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3228,9 +3636,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_06" ID="{EB4C6D13-E6EB-41AC-BA05-4CEFB45D99B3}" ShortID="1018102589">
+										<AudioFileSource Name="enemy_killed_by_player_06" ID="{EB4C6D13-E6EB-41AC-BA05-4CEFB45D99B3}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_by_player_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1018102589"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3247,9 +3658,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_07" ID="{81760023-68C5-40A9-A525-188D5BCE8709}" ShortID="991270266">
+										<AudioFileSource Name="enemy_killed_by_player_07" ID="{81760023-68C5-40A9-A525-188D5BCE8709}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_by_player_07.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="991270266"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3266,9 +3680,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_08" ID="{A53C19DF-01BF-4EB2-80B7-CD2FAB9D47A3}" ShortID="67021641">
+										<AudioFileSource Name="enemy_killed_by_player_08" ID="{A53C19DF-01BF-4EB2-80B7-CD2FAB9D47A3}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_by_player_08.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="67021641"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3285,9 +3702,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_09" ID="{39A3CA90-3EB2-478A-9747-29B13B366BE1}" ShortID="641066183">
+										<AudioFileSource Name="enemy_killed_by_player_09" ID="{39A3CA90-3EB2-478A-9747-29B13B366BE1}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_by_player_09.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="641066183"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3304,9 +3724,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_killed_by_player_10" ID="{8B017444-43F6-40E6-B9B1-72C9C9D7D625}" ShortID="996169827">
+										<AudioFileSource Name="enemy_killed_by_player_10" ID="{8B017444-43F6-40E6-B9B1-72C9C9D7D625}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_killed_by_player_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="996169827"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3338,9 +3761,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_05" ID="{62C77BA5-CB25-4AE9-82C3-600CB9A4747A}" ShortID="85833158">
+										<AudioFileSource Name="armor_pierced_by_player_05" ID="{62C77BA5-CB25-4AE9-82C3-600CB9A4747A}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="85833158"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3357,9 +3783,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_06" ID="{757A2445-339B-4ADC-B153-8D71B4B38D54}" ShortID="718315318">
+										<AudioFileSource Name="armor_pierced_by_player_06" ID="{757A2445-339B-4ADC-B153-8D71B4B38D54}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="718315318"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3376,9 +3805,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_07" ID="{F4715EE0-9B9F-4E76-9A82-A1D218A57970}" ShortID="85804853">
+										<AudioFileSource Name="armor_pierced_by_player_07" ID="{F4715EE0-9B9F-4E76-9A82-A1D218A57970}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_07.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="85804853"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3395,9 +3827,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_08" ID="{96CD5226-8ABB-428F-81B2-BBD97CA8C903}" ShortID="84482796">
+										<AudioFileSource Name="armor_pierced_by_player_08" ID="{96CD5226-8ABB-428F-81B2-BBD97CA8C903}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_08.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="84482796"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3414,9 +3849,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_09" ID="{189FB93A-C14A-4BC0-9A72-8BF6EEEC95EB}" ShortID="327732899">
+										<AudioFileSource Name="armor_pierced_by_player_09" ID="{189FB93A-C14A-4BC0-9A72-8BF6EEEC95EB}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_09.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="327732899"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3433,9 +3871,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_10" ID="{FCBE737F-1544-467B-B59C-7933FA8A1E9F}" ShortID="85398390">
+										<AudioFileSource Name="armor_pierced_by_player_10" ID="{FCBE737F-1544-467B-B59C-7933FA8A1E9F}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="85398390"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3452,9 +3893,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_11" ID="{41E578B5-017E-4062-98DF-AA3B1001D9FC}" ShortID="686954790">
+										<AudioFileSource Name="armor_pierced_by_player_11" ID="{41E578B5-017E-4062-98DF-AA3B1001D9FC}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_11.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="686954790"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3471,9 +3915,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_12" ID="{C5D525BA-1C38-4223-BD43-A08BB7227E16}" ShortID="696994192">
+										<AudioFileSource Name="armor_pierced_by_player_12" ID="{C5D525BA-1C38-4223-BD43-A08BB7227E16}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_12.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="696994192"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3490,9 +3937,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_13" ID="{AE270ED0-BA3C-4C3C-8530-35ADE7F20B4A}" ShortID="962220196">
+										<AudioFileSource Name="armor_pierced_by_player_13" ID="{AE270ED0-BA3C-4C3C-8530-35ADE7F20B4A}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_13.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="962220196"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3509,9 +3959,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_14" ID="{54FD67E9-AC95-4020-9EC4-238B2A15579A}" ShortID="582081375">
+										<AudioFileSource Name="armor_pierced_by_player_14" ID="{54FD67E9-AC95-4020-9EC4-238B2A15579A}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_14.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="582081375"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3528,12 +3981,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_01" ID="{0A50D3C3-F342-4DB0-A15F-34641E72815B}" ShortID="140361379">
+										<AudioFileSource Name="armor_pierced_by_player_01" ID="{0A50D3C3-F342-4DB0-A15F-34641E72815B}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_01.wav</AudioFile>
-											<ConvertedFileIDList>
-												<File ID="213539998"/>
-											</ConvertedFileIDList>
+											<MediaIDList>
+												<MediaID ID="213539998"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3550,12 +4003,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_03" ID="{AC4FE223-7C30-4F85-A468-0B1B8D6A421A}" ShortID="562617321">
+										<AudioFileSource Name="armor_pierced_by_player_03" ID="{AC4FE223-7C30-4F85-A468-0B1B8D6A421A}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_03.wav</AudioFile>
-											<ConvertedFileIDList>
-												<File ID="845442869"/>
-											</ConvertedFileIDList>
+											<MediaIDList>
+												<MediaID ID="845442869"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3572,12 +4025,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_02" ID="{06CB713E-ED91-4F72-B344-C79A49D294B4}" ShortID="175663909">
+										<AudioFileSource Name="armor_pierced_by_player_02" ID="{06CB713E-ED91-4F72-B344-C79A49D294B4}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_02.wav</AudioFile>
-											<ConvertedFileIDList>
-												<File ID="578306558"/>
-											</ConvertedFileIDList>
+											<MediaIDList>
+												<MediaID ID="578306558"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3594,9 +4047,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_15" ID="{15D781B3-A843-432F-A5D1-3338C5F763AA}" ShortID="731078956">
+										<AudioFileSource Name="armor_pierced_by_player_15" ID="{15D781B3-A843-432F-A5D1-3338C5F763AA}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_15.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="731078956"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3613,9 +4069,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="armor_pierced_by_player_04" ID="{B6E380D4-6D07-44C2-A8DE-4277D7367099}" ShortID="917308851">
+										<AudioFileSource Name="armor_pierced_by_player_04" ID="{B6E380D4-6D07-44C2-A8DE-4277D7367099}">
 											<Language>SFX</Language>
 											<AudioFile>armor_pierced_by_player_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="917308851"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3647,9 +4106,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="commander_killed_01" ID="{BCA81311-7FF9-424B-92A1-D1430C22A29E}" ShortID="762000436">
+										<AudioFileSource Name="commander_killed_01" ID="{BCA81311-7FF9-424B-92A1-D1430C22A29E}">
 											<Language>SFX</Language>
 											<AudioFile>commander_killed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="762000436"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3666,9 +4128,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="commander_killed_02" ID="{B39EF498-756F-4041-93AE-A98BC208C53A}" ShortID="671049011">
+										<AudioFileSource Name="commander_killed_02" ID="{B39EF498-756F-4041-93AE-A98BC208C53A}">
 											<Language>SFX</Language>
 											<AudioFile>commander_killed_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="671049011"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3685,9 +4150,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="commander_killed_03" ID="{F35C6EA7-F7B1-4089-892C-5A90C2DD4A87}" ShortID="146719936">
+										<AudioFileSource Name="commander_killed_03" ID="{F35C6EA7-F7B1-4089-892C-5A90C2DD4A87}">
 											<Language>SFX</Language>
 											<AudioFile>commander_killed_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="146719936"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3704,9 +4172,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="commander_killed_04" ID="{AE245C3F-88EC-4E97-A877-B695FCEBC93B}" ShortID="247335799">
+										<AudioFileSource Name="commander_killed_04" ID="{AE245C3F-88EC-4E97-A877-B695FCEBC93B}">
 											<Language>SFX</Language>
 											<AudioFile>commander_killed_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="247335799"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3738,9 +4209,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="crew_deactivated_01" ID="{9270AEF6-DA82-4EBE-8C1A-8054A6606970}" ShortID="766526953">
+										<AudioFileSource Name="crew_deactivated_01" ID="{9270AEF6-DA82-4EBE-8C1A-8054A6606970}">
 											<Language>SFX</Language>
 											<AudioFile>crew_deactivated_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="766526953"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3757,9 +4231,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="crew_deactivated_02" ID="{37BA2C6B-80A1-458B-86D2-D3EA0A4EE917}" ShortID="906662325">
+										<AudioFileSource Name="crew_deactivated_02" ID="{37BA2C6B-80A1-458B-86D2-D3EA0A4EE917}">
 											<Language>SFX</Language>
 											<AudioFile>crew_deactivated_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="906662325"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3791,9 +4268,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="damage_by_near_explosion_by_enemy_01" ID="{055443B0-D4F4-4449-B807-8D890068FF20}" ShortID="1011078196">
+										<AudioFileSource Name="damage_by_near_explosion_by_enemy_01" ID="{055443B0-D4F4-4449-B807-8D890068FF20}">
 											<Language>SFX</Language>
 											<AudioFile>damage_by_near_explosion_by_enemy_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1011078196"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3810,9 +4290,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="damage_by_near_explosion_by_enemy_02" ID="{048217CD-42C0-4DF7-BB89-A555CBE1D8AC}" ShortID="487101416">
+										<AudioFileSource Name="damage_by_near_explosion_by_enemy_02" ID="{048217CD-42C0-4DF7-BB89-A555CBE1D8AC}">
 											<Language>SFX</Language>
 											<AudioFile>damage_by_near_explosion_by_enemy_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="487101416"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3844,9 +4327,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="turret_rotator_functional_01" ID="{24221BC3-FA4E-46AD-AB02-79860B63EBAD}" ShortID="421258775">
+										<AudioFileSource Name="turret_rotator_functional_01" ID="{24221BC3-FA4E-46AD-AB02-79860B63EBAD}">
 											<Language>SFX</Language>
 											<AudioFile>turret_rotator_functional_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="421258775"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3863,9 +4349,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="turret_rotator_functional_02" ID="{A7439F47-F9F7-4BD0-B28A-BE5678BDCC77}" ShortID="176652493">
+										<AudioFileSource Name="turret_rotator_functional_02" ID="{A7439F47-F9F7-4BD0-B28A-BE5678BDCC77}">
 											<Language>SFX</Language>
 											<AudioFile>turret_rotator_functional_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="176652493"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3897,9 +4386,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="turret_rotator_damaged_01" ID="{2949B7F2-EF46-4AD6-AA03-E1CCA56BB014}" ShortID="793317631">
+										<AudioFileSource Name="turret_rotator_damaged_01" ID="{2949B7F2-EF46-4AD6-AA03-E1CCA56BB014}">
 											<Language>SFX</Language>
 											<AudioFile>turret_rotator_damaged_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="793317631"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3931,9 +4423,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="track_functional_can_move_01" ID="{3AEC0882-05C0-4413-84BE-28EC4022DA2E}" ShortID="427410163">
+										<AudioFileSource Name="track_functional_can_move_01" ID="{3AEC0882-05C0-4413-84BE-28EC4022DA2E}">
 											<Language>SFX</Language>
 											<AudioFile>track_functional_can_move_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="427410163"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3950,9 +4445,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="track_functional_can_move_02" ID="{40830F95-2BDF-4751-9E3F-FD8AFE70DC39}" ShortID="283522379">
+										<AudioFileSource Name="track_functional_can_move_02" ID="{40830F95-2BDF-4751-9E3F-FD8AFE70DC39}">
 											<Language>SFX</Language>
 											<AudioFile>track_functional_can_move_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="283522379"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -3984,9 +4482,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="track_functional_01" ID="{77A2E1E7-B213-4761-8A8B-DFDE180B74E1}" ShortID="281935057">
+										<AudioFileSource Name="track_functional_01" ID="{77A2E1E7-B213-4761-8A8B-DFDE180B74E1}">
 											<Language>SFX</Language>
 											<AudioFile>track_functional_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="281935057"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4018,9 +4519,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="turret_rotator_destroyed_01" ID="{7FCBDB91-3960-4FC3-ACA9-A7BF4049A9AC}" ShortID="1023304144">
+										<AudioFileSource Name="turret_rotator_destroyed_01" ID="{7FCBDB91-3960-4FC3-ACA9-A7BF4049A9AC}">
 											<Language>SFX</Language>
 											<AudioFile>turret_rotator_destroyed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1023304144"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4052,9 +4556,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="gun_damaged_01" ID="{27EE54BA-0749-4FD8-8256-B3258FDDB7AE}" ShortID="1019858492">
+										<AudioFileSource Name="gun_damaged_01" ID="{27EE54BA-0749-4FD8-8256-B3258FDDB7AE}">
 											<Language>SFX</Language>
 											<AudioFile>gun_damaged_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1019858492"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4071,9 +4578,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="gun_damaged_02" ID="{B7B92A6B-57FD-4D56-984E-C6F1009F3FC1}" ShortID="267502938">
+										<AudioFileSource Name="gun_damaged_02" ID="{B7B92A6B-57FD-4D56-984E-C6F1009F3FC1}">
 											<Language>SFX</Language>
 											<AudioFile>gun_damaged_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="267502938"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4105,9 +4615,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="radio_damaged_01" ID="{C372AFAA-7DBC-4F36-9532-58AA90F46216}" ShortID="619480903">
+										<AudioFileSource Name="radio_damaged_01" ID="{C372AFAA-7DBC-4F36-9532-58AA90F46216}">
 											<Language>SFX</Language>
 											<AudioFile>radio_damaged_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="619480903"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4124,9 +4637,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="radio_damaged_02" ID="{AC66BDF9-0CFD-4026-89F9-CDE731DD9316}" ShortID="730078987">
+										<AudioFileSource Name="radio_damaged_02" ID="{AC66BDF9-0CFD-4026-89F9-CDE731DD9316}">
 											<Language>SFX</Language>
 											<AudioFile>radio_damaged_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="730078987"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4143,9 +4659,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="radio_damaged_03" ID="{F74B0424-1E92-49B7-B7A9-29FE778B34C2}" ShortID="628941678">
+										<AudioFileSource Name="radio_damaged_03" ID="{F74B0424-1E92-49B7-B7A9-29FE778B34C2}">
 											<Language>SFX</Language>
 											<AudioFile>radio_damaged_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="628941678"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4177,9 +4696,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="gunner_killed_01" ID="{A8C56BDE-0B25-4DC2-B342-BEC16B256488}" ShortID="160644770">
+										<AudioFileSource Name="gunner_killed_01" ID="{A8C56BDE-0B25-4DC2-B342-BEC16B256488}">
 											<Language>SFX</Language>
 											<AudioFile>gunner_killed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="160644770"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4196,9 +4718,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="gunner_killed_02" ID="{40812758-4009-47BF-9CC5-7BE56E1E0ACF}" ShortID="652209596">
+										<AudioFileSource Name="gunner_killed_02" ID="{40812758-4009-47BF-9CC5-7BE56E1E0ACF}">
 											<Language>SFX</Language>
 											<AudioFile>gunner_killed_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="652209596"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4230,9 +4755,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="gun_destroyed_01" ID="{8E8C8FC6-A47D-4382-981B-82565F92C0F6}" ShortID="1023202474">
+										<AudioFileSource Name="gun_destroyed_01" ID="{8E8C8FC6-A47D-4382-981B-82565F92C0F6}">
 											<Language>SFX</Language>
 											<AudioFile>gun_destroyed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1023202474"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4264,9 +4792,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="surveying_devices_destroyed_01" ID="{2FE0C647-2CAD-4B73-BF0F-09095D06D2D2}" ShortID="768648927">
+										<AudioFileSource Name="surveying_devices_destroyed_01" ID="{2FE0C647-2CAD-4B73-BF0F-09095D06D2D2}">
 											<Language>SFX</Language>
 											<AudioFile>surveying_devices_destroyed_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="768648927"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4298,9 +4829,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="fire_started_01" ID="{C583E316-EBE4-4F2D-A280-9BA389345443}" ShortID="836346512">
+										<AudioFileSource Name="fire_started_01" ID="{C583E316-EBE4-4F2D-A280-9BA389345443}">
 											<Language>SFX</Language>
 											<AudioFile>fire_started_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="836346512"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4317,9 +4851,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="fire_started_02" ID="{DFDC0D09-E411-44C9-A24F-BB3FF42AAFF6}" ShortID="487389301">
+										<AudioFileSource Name="fire_started_02" ID="{DFDC0D09-E411-44C9-A24F-BB3FF42AAFF6}">
 											<Language>SFX</Language>
 											<AudioFile>fire_started_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="487389301"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4336,9 +4873,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="fire_started_03" ID="{8AD8D0CF-F7D2-43B5-A3CB-8835512CA4E4}" ShortID="487491464">
+										<AudioFileSource Name="fire_started_03" ID="{8AD8D0CF-F7D2-43B5-A3CB-8835512CA4E4}">
 											<Language>SFX</Language>
 											<AudioFile>fire_started_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="487491464"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4355,9 +4895,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="fire_started_04" ID="{6F66534E-5B55-49DD-B85A-EA37BA2891B0}" ShortID="26123656">
+										<AudioFileSource Name="fire_started_04" ID="{6F66534E-5B55-49DD-B85A-EA37BA2891B0}">
 											<Language>SFX</Language>
 											<AudioFile>fire_started_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="26123656"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4374,9 +4917,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="fire_started_05" ID="{0388A300-9220-4275-8462-AF49C0841C49}" ShortID="599509874">
+										<AudioFileSource Name="fire_started_05" ID="{0388A300-9220-4275-8462-AF49C0841C49}">
 											<Language>SFX</Language>
 											<AudioFile>fire_started_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="599509874"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4408,9 +4954,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ally_killed_by_player_01" ID="{EBB6DE4B-0F9D-4D47-8008-ACF14EDA3B6C}" ShortID="587306635">
+										<AudioFileSource Name="ally_killed_by_player_01" ID="{EBB6DE4B-0F9D-4D47-8008-ACF14EDA3B6C}">
 											<Language>SFX</Language>
 											<AudioFile>ally_killed_by_player_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="587306635"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4427,9 +4976,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ally_killed_by_player_02" ID="{65ED6625-64A1-4816-BA55-89D29EAE0D1B}" ShortID="418711586">
+										<AudioFileSource Name="ally_killed_by_player_02" ID="{65ED6625-64A1-4816-BA55-89D29EAE0D1B}">
 											<Language>SFX</Language>
 											<AudioFile>ally_killed_by_player_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="418711586"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4446,9 +4998,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ally_killed_by_player_03" ID="{DDC8BF1C-8184-40F1-871C-055C306DA867}" ShortID="65228016">
+										<AudioFileSource Name="ally_killed_by_player_03" ID="{DDC8BF1C-8184-40F1-871C-055C306DA867}">
 											<Language>SFX</Language>
 											<AudioFile>ally_killed_by_player_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="65228016"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4465,9 +5020,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ally_killed_by_player_04" ID="{937B2917-4371-4D99-9287-D775364EEA21}" ShortID="109876944">
+										<AudioFileSource Name="ally_killed_by_player_04" ID="{937B2917-4371-4D99-9287-D775364EEA21}">
 											<Language>SFX</Language>
 											<AudioFile>ally_killed_by_player_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="109876944"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4484,9 +5042,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ally_killed_by_player_05" ID="{8B7E8C96-D5DA-43B4-8F4D-2FFC15E33035}" ShortID="1015878524">
+										<AudioFileSource Name="ally_killed_by_player_05" ID="{8B7E8C96-D5DA-43B4-8F4D-2FFC15E33035}">
 											<Language>SFX</Language>
 											<AudioFile>ally_killed_by_player_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1015878524"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4503,9 +5064,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ally_killed_by_player_06" ID="{CE871F77-9DE4-4BAF-9B38-32A644AF1DDA}" ShortID="496691936">
+										<AudioFileSource Name="ally_killed_by_player_06" ID="{CE871F77-9DE4-4BAF-9B38-32A644AF1DDA}">
 											<Language>SFX</Language>
 											<AudioFile>ally_killed_by_player_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="496691936"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4537,9 +5101,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ammo_bay_damaged_01" ID="{A3305F29-6625-4010-ACA7-4E2D0C8AD508}" ShortID="784303227">
+										<AudioFileSource Name="ammo_bay_damaged_01" ID="{A3305F29-6625-4010-ACA7-4E2D0C8AD508}">
 											<Language>SFX</Language>
 											<AudioFile>ammo_bay_damaged_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="784303227"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4556,9 +5123,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ammo_bay_damaged_02" ID="{95D68FE0-9CA0-46E0-82C3-50D5B718EF85}" ShortID="1039491588">
+										<AudioFileSource Name="ammo_bay_damaged_02" ID="{95D68FE0-9CA0-46E0-82C3-50D5B718EF85}">
 											<Language>SFX</Language>
 											<AudioFile>ammo_bay_damaged_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1039491588"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4575,9 +5145,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ammo_bay_damaged_03" ID="{A9FC19FC-D0BF-4B49-AC15-97F3676D12A2}" ShortID="799347465">
+										<AudioFileSource Name="ammo_bay_damaged_03" ID="{A9FC19FC-D0BF-4B49-AC15-97F3676D12A2}">
 											<Language>SFX</Language>
 											<AudioFile>ammo_bay_damaged_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="799347465"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4594,9 +5167,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ammo_bay_damaged_04" ID="{82CD538F-52C2-4542-BFA8-DED74DEED41D}" ShortID="127529839">
+										<AudioFileSource Name="ammo_bay_damaged_04" ID="{82CD538F-52C2-4542-BFA8-DED74DEED41D}">
 											<Language>SFX</Language>
 											<AudioFile>ammo_bay_damaged_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="127529839"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -4613,438 +5189,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="ammo_bay_damaged_05" ID="{0C2AF886-D72E-4288-8C0B-0D1DA115EB50}" ShortID="785758392">
+										<AudioFileSource Name="ammo_bay_damaged_05" ID="{0C2AF886-D72E-4288-8C0B-0D1DA115EB50}">
 											<Language>SFX</Language>
 											<AudioFile>ammo_bay_damaged_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="785758392"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
 										<ActiveSource Name="ammo_bay_damaged_05" ID="{0C2AF886-D72E-4288-8C0B-0D1DA115EB50}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-					</ChildrenList>
-				</Folder>
-				<Folder Name="shotcuts" ID="{754019DC-AABB-432C-A218-FF13B87E0A14}" ShortID="860148529">
-					<ChildrenList>
-						<RandomSequenceContainer Name="vo_chat_shotcuts_follow_me" ID="{321859A4-654C-4FB5-95B0-6A19E2E52BA0}" ShortID="706270430">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_follow_me_01" ID="{B4C804B0-CBEA-4D18-BB65-7F1F2179754F}" ShortID="938646920">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_follow_me_01" ID="{C414E2DB-1FAB-4D4F-B5C2-D983CA32345F}" ShortID="248105007">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_follow_me_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_follow_me_01" ID="{C414E2DB-1FAB-4D4F-B5C2-D983CA32345F}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_follow_me_02" ID="{630CE316-39CF-45E3-94A8-D14C7DBE4C5D}" ShortID="1045803228">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_follow_me_02" ID="{91742AB3-3407-4A20-AEF5-F12D49D09983}" ShortID="399888103">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_follow_me_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_follow_me_02" ID="{91742AB3-3407-4A20-AEF5-F12D49D09983}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_follow_me_03" ID="{C02C59D8-0DE8-4BA7-84B1-E3FD2DE1A7CC}" ShortID="203928950">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_follow_me_03" ID="{0EE93290-1791-4725-8199-BE8A7D1343E0}" ShortID="359949974">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_follow_me_03.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_follow_me_03" ID="{0EE93290-1791-4725-8199-BE8A7D1343E0}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="vo_chat_shotcuts_attack" ID="{7104D7F1-E082-42E3-B1E5-630BE791DD54}" ShortID="493314446">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_attack_01" ID="{5B9BB4A0-8FEA-4C2C-BF56-7E3C635000D2}" ShortID="550178782">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_attack_01" ID="{ADE60E23-E0D5-48D8-802F-4F1D419FEEA1}" ShortID="746117316">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_attack_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_attack_01" ID="{ADE60E23-E0D5-48D8-802F-4F1D419FEEA1}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_attack_02" ID="{B3FE956D-9B13-42AB-AA23-FB0BF460C042}" ShortID="495354208">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_attack_02" ID="{99CE1AEE-1E62-4007-9A55-97638FEAA25E}" ShortID="208895145">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_attack_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_attack_02" ID="{99CE1AEE-1E62-4007-9A55-97638FEAA25E}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="vo_chat_shotcuts_negative" ID="{080C0AE5-2BCC-44E0-BE1B-F548D8085F13}" ShortID="242865954">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_negative_01" ID="{C09571D1-3066-4B84-A8AA-68E30D32864A}" ShortID="69727392">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_negative_01" ID="{336E89D5-73D2-4775-AFAD-159495126DD4}" ShortID="660050851">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_negative_01" ID="{336E89D5-73D2-4775-AFAD-159495126DD4}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_negative_02" ID="{8188C828-A46C-4858-B835-36283C974B0D}" ShortID="691337265">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_negative_02" ID="{88E4C983-DE22-4A14-A0E7-A9D6B9A26CD6}" ShortID="242740349">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_negative_02" ID="{88E4C983-DE22-4A14-A0E7-A9D6B9A26CD6}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_negative_03" ID="{D3A7D861-3BAE-43BD-B764-849C5E8B508E}" ShortID="746104758">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_negative_03" ID="{529C12DC-87E0-4349-BA2A-C61EE7CC4A2C}" ShortID="504743406">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_03.wav</AudioFile>
-										</AudioFileSource>
-										<AudioFileSource Name="shotcuts_negative_04" ID="{2E13568F-2980-4AA1-AD6E-CD411EFBB30C}" ShortID="726985870">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_04.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_negative_03" ID="{529C12DC-87E0-4349-BA2A-C61EE7CC4A2C}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_negative_04" ID="{145AA5A2-01E5-4262-9EBC-2C2EC4A6FF84}" ShortID="507519948">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_negative_04" ID="{E1FDD869-4595-494D-AA27-F0F6601A2541}" ShortID="82826773">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_04.wav</AudioFile>
-											<ConvertedFileIDList>
-												<File ID="726985870"/>
-											</ConvertedFileIDList>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_negative_04" ID="{E1FDD869-4595-494D-AA27-F0F6601A2541}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_negative_05" ID="{586A4C26-95E3-4FE8-A3F2-A1544D69A4AC}" ShortID="832601314">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_negative_05" ID="{9E44C3A6-6B71-48A2-A367-3B64D641F56C}" ShortID="493153763">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_negative_05.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_negative_05" ID="{9E44C3A6-6B71-48A2-A367-3B64D641F56C}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="vo_chat_shotcuts_affirmative" ID="{D58502E0-DEF4-4B88-8C6D-F3D66EB409CD}" ShortID="702311834">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_affirmative_01" ID="{E6602128-9D23-4A06-B950-A732F8A6E078}" ShortID="695564895">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_affirmative_01" ID="{A983DA8D-5C9A-4FE9-A868-0467637A95C3}" ShortID="671194276">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_affirmative_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_affirmative_01" ID="{A983DA8D-5C9A-4FE9-A868-0467637A95C3}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_affirmative_02" ID="{E666C34D-4F61-493E-9C75-63F047C790C4}" ShortID="916931855">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_affirmative_02" ID="{BAB0625D-53CB-4FA8-BA99-C47AF0B83445}" ShortID="502029609">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_affirmative_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_affirmative_02" ID="{BAB0625D-53CB-4FA8-BA99-C47AF0B83445}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_affirmative_03" ID="{89B317D6-10A2-42C5-BE8E-72B1A1F2D122}" ShortID="1067559845">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_affirmative_03" ID="{BDB9C5C4-5BBD-4619-B8E9-5D28439B3C15}" ShortID="823314785">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_affirmative_03.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_affirmative_03" ID="{BDB9C5C4-5BBD-4619-B8E9-5D28439B3C15}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="vo_chat_shotcuts_help_me" ID="{59C1D59B-FBEB-4772-8D6F-A1DBD117F454}" ShortID="662101048">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_help_me_01" ID="{9B84EBC0-9F24-4011-977A-87F3795BC7D9}" ShortID="890143007">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_help_me_01" ID="{10AC4479-312E-424B-B43C-F9708D8A2A0D}" ShortID="44525118">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_help_me_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_help_me_01" ID="{10AC4479-312E-424B-B43C-F9708D8A2A0D}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_help_me_02" ID="{90972948-39EF-4710-8B43-AEC992518A79}" ShortID="353666458">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_help_me_02" ID="{DD1FD894-FE1D-4FDA-8B43-A8D7FB24265C}" ShortID="875487878">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_help_me_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_help_me_02" ID="{DD1FD894-FE1D-4FDA-8B43-A8D7FB24265C}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_help_me_03" ID="{328717F6-B80D-4897-8CFC-242B1027D511}" ShortID="679901080">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_help_me_03" ID="{E740B8E3-5550-40C3-9F57-DBD6960805CD}" ShortID="1055458513">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_help_me_03.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_help_me_03" ID="{E740B8E3-5550-40C3-9F57-DBD6960805CD}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-							</ChildrenList>
-						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="vo_chat_shotcuts_defend_base" ID="{76069D9B-9EBE-49C3-8AB6-6DEBD189937B}" ShortID="859401214">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="025_gui_battle" ID="{23D34E9A-2999-4E56-8369-B494433EF647}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<Sound Name="shotcuts_defend_base_01" ID="{188E218E-B4CB-4F63-B836-0FCED75622D3}" ShortID="635006393">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_defend_base_01" ID="{AC8B46D3-17F4-4DF2-AA36-9946B2CA2EF8}" ShortID="832928646">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_defend_base_01.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_defend_base_01" ID="{AC8B46D3-17F4-4DF2-AA36-9946B2CA2EF8}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<Sound Name="shotcuts_defend_base_02" ID="{D0E2F2B2-EEB8-4FB5-9B3E-EAB0EA3A35B4}" ShortID="319150178">
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5EFB14B-A840-4B3E-9C23-270361C5C997}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2234EDCC-911E-442D-AF7F-4A39A6816642}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="shotcuts_defend_base_02" ID="{4BA759E7-6297-4B15-85E0-E3C86466E80A}" ShortID="851938963">
-											<Language>SFX</Language>
-											<AudioFile>shotcuts_defend_base_02.wav</AudioFile>
-										</AudioFileSource>
-									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="shotcuts_defend_base_02" ID="{4BA759E7-6297-4B15-85E0-E3C86466E80A}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
@@ -5087,9 +5241,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_01" ID="{8CBB8EBD-3580-427F-BB42-C08910EC1979}" ShortID="288295816">
+										<AudioFileSource Name="timer_01" ID="{8CBB8EBD-3580-427F-BB42-C08910EC1979}">
 											<Language>SFX</Language>
 											<AudioFile>timer_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="288295816"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5113,9 +5270,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_02" ID="{63AD4BFD-C7BF-422A-8FB1-DBF072915DD4}" ShortID="341614345">
+										<AudioFileSource Name="timer_02" ID="{63AD4BFD-C7BF-422A-8FB1-DBF072915DD4}">
 											<Language>SFX</Language>
 											<AudioFile>timer_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="341614345"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5139,9 +5299,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_03" ID="{F661BFC5-27B0-4254-B3D4-7687571C9302}" ShortID="240854626">
+										<AudioFileSource Name="timer_03" ID="{F661BFC5-27B0-4254-B3D4-7687571C9302}">
 											<Language>SFX</Language>
 											<AudioFile>timer_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="240854626"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5158,9 +5321,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_04" ID="{B8DD56B7-7FBC-4E68-A2C6-44FE3A4ABE41}" ShortID="717327365">
+										<AudioFileSource Name="timer_04" ID="{B8DD56B7-7FBC-4E68-A2C6-44FE3A4ABE41}">
 											<Language>SFX</Language>
 											<AudioFile>timer_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="717327365"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5184,9 +5350,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_05" ID="{004EE026-B6C5-4334-8691-E876D10AB07B}" ShortID="676880312">
+										<AudioFileSource Name="timer_05" ID="{004EE026-B6C5-4334-8691-E876D10AB07B}">
 											<Language>SFX</Language>
 											<AudioFile>timer_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="676880312"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5210,9 +5379,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_06" ID="{FC55717E-87AB-4761-B096-4B732736E244}" ShortID="304197093">
+										<AudioFileSource Name="timer_06" ID="{FC55717E-87AB-4761-B096-4B732736E244}">
 											<Language>SFX</Language>
 											<AudioFile>timer_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="304197093"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5236,9 +5408,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_07" ID="{A95724A0-D30C-4D5B-9212-BD577F96C37A}" ShortID="764625661">
+										<AudioFileSource Name="timer_07" ID="{A95724A0-D30C-4D5B-9212-BD577F96C37A}">
 											<Language>SFX</Language>
 											<AudioFile>timer_07.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="764625661"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5262,9 +5437,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_08" ID="{200D1984-0E9E-44E5-A0A9-638394256B2E}" ShortID="122449326">
+										<AudioFileSource Name="timer_08" ID="{200D1984-0E9E-44E5-A0A9-638394256B2E}">
 											<Language>SFX</Language>
 											<AudioFile>timer_08.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="122449326"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5281,9 +5459,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_09" ID="{74FE58DC-3EFA-45DC-8082-78DAAB5F997B}" ShortID="433007518">
+										<AudioFileSource Name="timer_09" ID="{74FE58DC-3EFA-45DC-8082-78DAAB5F997B}">
 											<Language>SFX</Language>
 											<AudioFile>timer_09.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="433007518"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5300,9 +5481,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="timer_10" ID="{5AF43C89-5503-4164-8473-0DCAA737951A}" ShortID="928109577">
+										<AudioFileSource Name="timer_10" ID="{5AF43C89-5503-4164-8473-0DCAA737951A}">
 											<Language>SFX</Language>
 											<AudioFile>timer_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="928109577"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5331,9 +5515,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_1" ID="{6325C202-A56D-469A-974F-0603174A3397}" ShortID="747755971">
+										<AudioFileSource Name="enemy_sighted_for_team_1" ID="{6325C202-A56D-469A-974F-0603174A3397}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_sighted_for_team_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="747755971"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5350,9 +5537,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_2" ID="{4DD317FD-1947-4230-9F3A-428CC6FC49E2}" ShortID="589120407">
+										<AudioFileSource Name="enemy_sighted_for_team_2" ID="{4DD317FD-1947-4230-9F3A-428CC6FC49E2}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_sighted_for_team_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="589120407"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5369,9 +5559,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_3" ID="{5FF43069-77D9-4E50-A5E6-ED8DECB8E5D4}" ShortID="377775188">
+										<AudioFileSource Name="enemy_sighted_for_team_3" ID="{5FF43069-77D9-4E50-A5E6-ED8DECB8E5D4}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_sighted_for_team_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="377775188"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5388,9 +5581,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_4" ID="{017BF1EF-0F2F-4845-B910-15F765E475AD}" ShortID="1041598885">
+										<AudioFileSource Name="enemy_sighted_for_team_4" ID="{017BF1EF-0F2F-4845-B910-15F765E475AD}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_sighted_for_team_4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1041598885"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5407,9 +5603,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_5" ID="{C585F41B-36D2-43B7-897F-147AA6AFB144}" ShortID="1013742811">
+										<AudioFileSource Name="enemy_sighted_for_team_5" ID="{C585F41B-36D2-43B7-897F-147AA6AFB144}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_sighted_for_team_5.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1013742811"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5426,9 +5625,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="enemy_sighted_for_team_6" ID="{82769689-FFE2-4C39-A602-14C2027AD7EA}" ShortID="531440842">
+										<AudioFileSource Name="enemy_sighted_for_team_6" ID="{82769689-FFE2-4C39-A602-14C2027AD7EA}">
 											<Language>SFX</Language>
 											<AudioFile>enemy_sighted_for_team_6.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="531440842"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -5459,9 +5661,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="base_capture_1" ID="{3472309A-D40C-443D-B7A0-16CB271E64CF}" ShortID="844878166">
+								<AudioFileSource Name="base_capture_1" ID="{3472309A-D40C-443D-B7A0-16CB271E64CF}">
 									<Language>SFX</Language>
 									<AudioFile>base_capture_1.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="844878166"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -5485,9 +5690,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="music_defeat" ID="{5FD39193-C9E4-4647-B078-3BD54112E4F2}" ShortID="453181591">
+								<AudioFileSource Name="music_defeat" ID="{5FD39193-C9E4-4647-B078-3BD54112E4F2}">
 									<Language>SFX</Language>
 									<AudioFile>music_defeat.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="453181591"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -5511,9 +5719,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="music_drawn_game" ID="{7F966846-8860-4F42-AAFB-E1E5D98C65D1}" ShortID="236539403">
+								<AudioFileSource Name="music_drawn_game" ID="{7F966846-8860-4F42-AAFB-E1E5D98C65D1}">
 									<Language>SFX</Language>
 									<AudioFile>music_drawn_game.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="236539403"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -5537,9 +5748,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="music_victory" ID="{818042B4-C02E-4FCD-AFAA-14ECD7C9ADFF}" ShortID="430890093">
+								<AudioFileSource Name="music_victory" ID="{818042B4-C02E-4FCD-AFAA-14ECD7C9ADFF}">
 									<Language>SFX</Language>
 									<AudioFile>music_victory.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="430890093"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -5568,9 +5782,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="time_buzzer_01" ID="{58EEBBA9-8105-4856-8975-AB7C92B4AF1B}" ShortID="593160293">
+								<AudioFileSource Name="time_buzzer_01" ID="{58EEBBA9-8105-4856-8975-AB7C92B4AF1B}">
 									<Language>SFX</Language>
 									<AudioFile>time_buzzer_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="593160293"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>

@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{D3B0FB12-136F-469C-8D03-263BF1879C88}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{D3B0FB12-136F-469C-8D03-263BF1879C88}" SchemaVersion="97">
   <Switches>
     <WorkUnit Name="Impacts" ID="{D3B0FB12-136F-469C-8D03-263BF1879C88}" PersistMode="Standalone">
       <ChildrenList>
@@ -49,6 +49,12 @@
               <Comment>Snow</Comment>
             </Switch>
             <Switch Name="SWITCH_ext_impact_surface_ground" ID="{F65AB5D1-8F68-471F-86EB-531D40F8E83F}">
+              <Comment>Ground</Comment>
+            </Switch>
+            <Switch Name="SWITCH_ext_impact_surface_oil" ID="{CDF39E06-6F29-44BC-9E99-86728817C694}">
+              <Comment>Ground</Comment>
+            </Switch>
+            <Switch Name="SWITCH_ext_impact_surface_dirt" ID="{8A338285-E7FB-453D-9115-8052F9A77EAC}">
               <Comment>Ground</Comment>
             </Switch>
           </ChildrenList>

@@ -1,0 +1,68 @@
+Project migration to XML Schema (XSD) version 86 is completed.
+Project migration to XML Schema (XSD) version 87 is completed.
+Project migration to XML Schema (XSD) version 88 is completed.
+Project migration to XML Schema (XSD) version 89 is completed.
+Project migration to XML Schema (XSD) version 90 is completed.
+Project migration to XML Schema (XSD) version 91 is completed.
+Project migration to XML Schema (XSD) version 92 is completed.
+Project migration to XML Schema (XSD) version 93 is completed.
+Project migration to XML Schema (XSD) version 94 is completed.
+Project migration to XML Schema (XSD) version 95 is completed.
+Project migration to XML Schema (XSD) version 96 is completed.
+Project migration to XML Schema (XSD) version 97 is completed.
+An unknown folder 'C:\Users\Willster419\Tanks Stuff\RelhaxSoundMod\wwise\Events\MODS' was found during the project load.  A new ID has been assigned to the folder.
+The Event with the name 'vo_gun_damaged' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_gun_damaged_01'.
+The Event with the name 'vo_track_functional' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_track_functional_01'.
+The Event with the name 'vo_surveying_devices_functional' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_surveying_devices_functional_01'.
+The Event with the name 'vo_turret_rotator_destroyed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_turret_rotator_destroyed_01'.
+The Event with the name 'vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player_01'.
+The Event with the name 'vo_enemy_hp_damaged_by_projectile_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_hp_damaged_by_projectile_by_player_01'.
+The Event with the name 'vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player_01'.
+The Event with the name 'vo_damage_by_near_explosion_by_enemy' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_damage_by_near_explosion_by_enemy_01'.
+The Event with the name 'vo_armor_ricochet_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_armor_ricochet_by_player_01'.
+The Event with the name 'vo_enemy_killed_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_killed_by_player_01'.
+The Event with the name 'vo_fire_started' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_fire_started_01'.
+The Event with the name 'vo_fuel_tank_damaged' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_fuel_tank_damaged_01'.
+The Event with the name 'vo_radioman_killed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_radioman_killed_01'.
+The Event with the name 'vo_target_captured' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_target_captured_01'.
+The Event with the name 'vo_start_battle' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_start_battle_01'.
+The Event with the name 'vo_gun_functional' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_gun_functional_01'.
+The Event with the name 'vo_enemy_hp_damaged_by_explosion_at_direct_hit_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_hp_damaged_by_explosion_at_direct_hit_by_player_01'.
+The Event with the name 'vo_engine_functional' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_engine_functional_01'.
+The Event with the name 'vo_track_functional_can_move' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_track_functional_can_move_01'.
+The Event with the name 'vo_track_damaged' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_track_damaged_01'.
+The Event with the name 'vo_target_lost' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_target_lost_01'.
+The Event with the name 'vo_enemy_killed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_killed_01'.
+The Event with the name 'vo_commander_killed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_commander_killed_01'.
+The Event with the name 'vo_driver_killed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_driver_killed_01'.
+The Event with the name 'vo_enemy_fire_started_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_fire_started_by_player_01'.
+The Event with the name 'vo_gun_destroyed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_gun_destroyed_01'.
+The Event with the name 'vo_damage_by_near_explosion_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_damage_by_near_explosion_by_player_01'.
+The Event with the name 'vo_armor_not_pierced_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_armor_not_pierced_by_player_01'.
+The Event with the name 'vo_engine_damaged' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_engine_damaged_01'.
+The Event with the name 'vo_radio_damaged' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_radio_damaged_01'.
+The Event with the name 'vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player_01'.
+The Event with the name 'vo_turret_rotator_damaged' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_turret_rotator_damaged_01'.
+The Event with the name 'vo_ally_killed_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_ally_killed_by_player_01'.
+The Event with the name 'vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player_01'.
+The Event with the name 'vo_ammo_bay_damaged' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_ammo_bay_damaged_01'.
+The Event with the name 'vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player_01'.
+The Event with the name 'vo_vehicle_destroyed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_vehicle_destroyed_01'.
+The Event with the name 'vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player_01'.
+The Event with the name 'vo_dp_platoon_created' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_dp\vo_dp_platoon_created_01'.
+The Event with the name 'vo_dp_platoon_dismissed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_dp\vo_dp_platoon_dismissed_01'.
+The Event with the name 'vo_surveying_devices_destroyed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_surveying_devices_destroyed_01'.
+The Event with the name 'vo_crew_deactivated' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_crew_deactivated_01'.
+The Event with the name 'vo_dp_been_excluded_platoon' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_dp\vo_dp_been_excluded_platoon_01'.
+The Event with the name 'vo_surveying_devices_damaged' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_surveying_devices_damaged_01'.
+The Event with the name 'vo_track_destroyed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_track_destroyed_01'.
+The Event with the name 'vo_turret_rotator_functional' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_turret_rotator_functional_01'.
+The Event with the name 'vo_loader_killed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_loader_killed_01'.
+The Event with the name 'vo_dp_player_joined_platoon' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_dp\vo_dp_player_joined_platoon_01'.
+The Event with the name 'vo_engine_destroyed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_engine_destroyed_01'.
+The Event with the name 'vo_dp_left_platoon' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_dp\vo_dp_left_platoon_01'.
+The Event with the name 'vo_fire_stopped' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_fire_stopped_01'.
+The Event with the name 'vo_dp_assistance_been_requested' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_dp\vo_dp_assistance_been_requested_01'.
+The Event with the name 'vo_dp_platoon_joined' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_dp\vo_dp_platoon_joined_01'.
+The Event with the name 'vo_gunner_killed' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_gunner_killed_01'.
+The Event with the name 'vo_target_unlocked' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Events\Voiceover_old\notifications_vo_old\vo_target_unlocked_01'.

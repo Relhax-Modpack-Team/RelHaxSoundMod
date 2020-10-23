@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{E8AED785-8722-4162-9C39-19FF18EE9669}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{E8AED785-8722-4162-9C39-19FF18EE9669}" SchemaVersion="97">
   <GameParameters>
     <WorkUnit Name="Impacts" ID="{E8AED785-8722-4162-9C39-19FF18EE9669}" PersistMode="Standalone">
       <Comment>Hits</Comment>
