@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{850F021A-42A0-4125-B19D-D5F6EE1DAE77}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{850F021A-42A0-4125-B19D-D5F6EE1DAE77}" SchemaVersion="97">
 	<Effects>
 		<WorkUnit Name="Vehicles" ID="{850F021A-42A0-4125-B19D-D5F6EE1DAE77}" PersistMode="Standalone">
 			<ChildrenList>
@@ -64,7 +64,10 @@
 				<Effect Name="vehicles_makeup_bus" ID="{2D51AEC6-729E-4771-8C76-BF2754376BD7}" PluginName="Wwise Gain" CompanyID="0" PluginID="139" PluginType="3"/>
 				<Effect Name="vehicles_surface_hf_sidechain" ID="{3FBBB0D2-F638-4941-913A-5E97002B4AD9}" PluginName="Wwise Parametric EQ" CompanyID="0" PluginID="105" PluginType="3">
 					<PropertyList>
+						<Property Name="FilterTypeBand2" Type="int32" Value="5"/>
+						<Property Name="FrequencyBand2" Type="Real32" Value="3000"/>
 						<Property Name="FrequencyBand3" Type="Real32" Value="4000"/>
+						<Property Name="GainBand2" Type="Real32" Value="6"/>
 						<Property Name="GainBand3" Type="Real32">
 							<RTPCList>
 								<RTPC Name="" ID="{3C40CA75-EFD7-4F7D-8DAA-36EF5B029A7B}" ShortID="916573040">

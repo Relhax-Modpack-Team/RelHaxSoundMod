@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{2738D18A-A9C5-40AE-80AF-6CDFCCC04720}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{2738D18A-A9C5-40AE-80AF-6CDFCCC04720}" SchemaVersion="97">
 	<Events>
 		<WorkUnit Name="Mechanisms" ID="{2738D18A-A9C5-40AE-80AF-6CDFCCC04720}" PersistMode="Standalone">
 			<ChildrenList>
@@ -65,6 +65,26 @@
 							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="strv_siege_mode_off_PC" ID="{B106D67A-ED92-4551-A55D-7F15AA052FF1}">
+							<ChildrenList></ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="turbine_polish_PC" ID="{0BD3653D-83D9-45EC-B484-A3F6D34BA1DD}" ShortID="1049860202">
+					<ChildrenList>
+						<Event Name="turbine_polish_start_PC" ID="{BDB00353-818A-4D85-AD2A-901FB27CF787}">
+							<ChildrenList></ChildrenList>
+						</Event>
+						<Event Name="turbine_polish_stop_PC" ID="{8694AF65-25B9-4AF6-8F00-0BD16328D7C8}">
+							<ChildrenList></ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="turbine_polish_NPC" ID="{04D57413-1E1C-409C-9B4E-F13609AFD4C0}" ShortID="1040785594">
+					<ChildrenList>
+						<Event Name="turbine_polish_start_NPC" ID="{F4977597-26A6-4E6A-9C8E-F674E89B3540}">
+							<ChildrenList></ChildrenList>
+						</Event>
+						<Event Name="turbine_polish_stop_NPC" ID="{C73FC42C-0A8C-4EDA-B8FF-8E34764AD5BC}">
 							<ChildrenList></ChildrenList>
 						</Event>
 					</ChildrenList>

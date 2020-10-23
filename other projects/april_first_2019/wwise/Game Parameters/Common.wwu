@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{99AED538-0B7F-42D5-942E-04185D409E05}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{99AED538-0B7F-42D5-942E-04185D409E05}" SchemaVersion="97">
   <GameParameters>
     <WorkUnit Name="Common" ID="{99AED538-0B7F-42D5-942E-04185D409E05}" PersistMode="Standalone">
       <Comment>Common</Comment>
@@ -162,6 +162,7 @@ event_angle в FMOD</Comment>
           </PropertyList>
         </GameParameter>
         <GameParameter Name="RTPC_ext_distance_friendly_attacker" ID="{C57EC54C-D66F-44D2-9EB7-51725275860C}">
+          <Comment>With Friendly Fire, the distance to the tank that fired on the player (PC)</Comment>
           <PropertyList>
             <Property Name="InitialValue" Type="Real64" Value="600" />
             <Property Name="Max" Type="Real64" Value="3000" />
@@ -169,8 +170,8 @@ event_angle в FMOD</Comment>
         </GameParameter>
         <GameParameter Name="RTPC_ext_infopage_show" ID="{B5FE8093-E032-41C3-8D88-7217C266F8C8}">
           <PropertyList>
-            <Property Name="FilterTimeDown" Type="Real64" Value="0.5" />
-            <Property Name="FilterTimeUp" Type="Real64" Value="0.5" />
+            <Property Name="FilterTimeDown" Type="Real64" Value="1" />
+            <Property Name="FilterTimeUp" Type="Real64" Value="1" />
             <Property Name="InitialValue" Type="Real64" Value="0" />
             <Property Name="Max" Type="Real64" Value="1" />
             <Property Name="RTPCRamping" Type="int16" Value="2" />

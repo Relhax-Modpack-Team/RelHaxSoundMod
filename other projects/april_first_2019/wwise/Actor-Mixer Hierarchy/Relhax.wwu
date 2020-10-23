@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}" SchemaVersion="97">
 	<AudioObjects>
 		<WorkUnit Name="Relhax" ID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}" PersistMode="Standalone">
 			<ChildrenList>
@@ -32,9 +32,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_1" ID="{ACA193ED-BE29-4844-88EF-53E1D0AD403E}" ShortID="555240924">
+										<AudioFileSource Name="troll_1" ID="{ACA193ED-BE29-4844-88EF-53E1D0AD403E}">
 											<Language>SFX</Language>
 											<AudioFile>troll_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="555240924"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -51,9 +54,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_2" ID="{8708FC91-0A50-4E72-AE61-77EB2710E432}" ShortID="170720450">
+										<AudioFileSource Name="troll_2" ID="{8708FC91-0A50-4E72-AE61-77EB2710E432}">
 											<Language>SFX</Language>
 											<AudioFile>troll_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="170720450"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -70,9 +76,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_3" ID="{5C440833-2325-4207-B0C3-346AA1C7EADE}" ShortID="340714387">
+										<AudioFileSource Name="troll_3" ID="{5C440833-2325-4207-B0C3-346AA1C7EADE}">
 											<Language>SFX</Language>
 											<AudioFile>troll_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="340714387"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -89,9 +98,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_4" ID="{EBC52338-3986-48F3-BCE3-0D37F81F84E1}" ShortID="1036074650">
+										<AudioFileSource Name="troll_4" ID="{EBC52338-3986-48F3-BCE3-0D37F81F84E1}">
 											<Language>SFX</Language>
 											<AudioFile>troll_4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1036074650"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -108,9 +120,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_5" ID="{1FB74370-9FF1-4B67-91AE-697AD808687E}" ShortID="574340798">
+										<AudioFileSource Name="troll_5" ID="{1FB74370-9FF1-4B67-91AE-697AD808687E}">
 											<Language>SFX</Language>
 											<AudioFile>troll_5.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="574340798"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -127,9 +142,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_6" ID="{2FBC2CF1-0E18-47F1-802D-0E1BD7B86C31}" ShortID="959623053">
+										<AudioFileSource Name="troll_6" ID="{2FBC2CF1-0E18-47F1-802D-0E1BD7B86C31}">
 											<Language>SFX</Language>
 											<AudioFile>troll_6.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="959623053"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -146,9 +164,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_7" ID="{DB33100B-0679-4B86-96F6-4D4E44A561A2}" ShortID="406274126">
+										<AudioFileSource Name="troll_7" ID="{DB33100B-0679-4B86-96F6-4D4E44A561A2}">
 											<Language>SFX</Language>
 											<AudioFile>troll_7.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="406274126"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -165,9 +186,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_8" ID="{A4C7CC2F-069F-40CA-B903-C95E9303B7BB}" ShortID="905789045">
+										<AudioFileSource Name="troll_8" ID="{A4C7CC2F-069F-40CA-B903-C95E9303B7BB}">
 											<Language>SFX</Language>
 											<AudioFile>troll_8.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="905789045"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -184,9 +208,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_9" ID="{68494D94-B78C-4304-8392-4090B452E4DB}" ShortID="741314135">
+										<AudioFileSource Name="troll_9" ID="{68494D94-B78C-4304-8392-4090B452E4DB}">
 											<Language>SFX</Language>
 											<AudioFile>troll_9.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="741314135"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -203,9 +230,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_10" ID="{AE3C2E74-4517-4CBD-9CEA-C427D64920A9}" ShortID="728786474">
+										<AudioFileSource Name="troll_10" ID="{AE3C2E74-4517-4CBD-9CEA-C427D64920A9}">
 											<Language>SFX</Language>
 											<AudioFile>troll_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="728786474"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -222,9 +252,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_11" ID="{B1B635AE-1630-4702-959B-73BFA6A76EFD}" ShortID="122298577">
+										<AudioFileSource Name="troll_11" ID="{B1B635AE-1630-4702-959B-73BFA6A76EFD}">
 											<Language>SFX</Language>
 											<AudioFile>troll_11.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="122298577"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -241,9 +274,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_12" ID="{EF263F27-83B7-4460-B261-329AA6616FFB}" ShortID="881548735">
+										<AudioFileSource Name="troll_12" ID="{EF263F27-83B7-4460-B261-329AA6616FFB}">
 											<Language>SFX</Language>
 											<AudioFile>troll_12.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="881548735"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -260,9 +296,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_13" ID="{D4BFEB6B-4033-4529-A4C2-13A99A330E0A}" ShortID="698489424">
+										<AudioFileSource Name="troll_13" ID="{D4BFEB6B-4033-4529-A4C2-13A99A330E0A}">
 											<Language>SFX</Language>
 											<AudioFile>troll_13.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="698489424"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -279,9 +318,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_14" ID="{495B6FF8-08EA-4F9B-A372-E48F793600C3}" ShortID="563316705">
+										<AudioFileSource Name="troll_14" ID="{495B6FF8-08EA-4F9B-A372-E48F793600C3}">
 											<Language>SFX</Language>
 											<AudioFile>troll_14.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="563316705"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -298,9 +340,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_15" ID="{84DE950C-24C4-4E21-8EA5-8EB935D76BA5}" ShortID="478957042">
+										<AudioFileSource Name="troll_15" ID="{84DE950C-24C4-4E21-8EA5-8EB935D76BA5}">
 											<Language>SFX</Language>
 											<AudioFile>troll_15.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="478957042"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -317,9 +362,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_16" ID="{785E979F-93B6-47BC-AD4B-D828DE3885FB}" ShortID="105845364">
+										<AudioFileSource Name="troll_16" ID="{785E979F-93B6-47BC-AD4B-D828DE3885FB}">
 											<Language>SFX</Language>
 											<AudioFile>troll_16.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="105845364"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -336,9 +384,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_17" ID="{390B8037-FE08-436E-8B44-3F2BD3D49715}" ShortID="90085602">
+										<AudioFileSource Name="troll_17" ID="{390B8037-FE08-436E-8B44-3F2BD3D49715}">
 											<Language>SFX</Language>
 											<AudioFile>troll_17.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="90085602"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -355,9 +406,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_18" ID="{ACE9DA8E-5BD4-4DE9-9ED2-D1F3ABCE7F8B}" ShortID="335080957">
+										<AudioFileSource Name="troll_18" ID="{ACE9DA8E-5BD4-4DE9-9ED2-D1F3ABCE7F8B}">
 											<Language>SFX</Language>
 											<AudioFile>troll_18.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="335080957"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -374,9 +428,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="troll_19" ID="{C1E28C51-70F5-4130-BF44-EC4CE9F67687}" ShortID="953151148">
+										<AudioFileSource Name="troll_19" ID="{C1E28C51-70F5-4130-BF44-EC4CE9F67687}">
 											<Language>SFX</Language>
 											<AudioFile>troll_19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="953151148"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -419,9 +476,12 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Manual_loop" ID="{1F09FADF-2F01-4A39-A5D5-B8C27037044A}" ShortID="878060044">
+										<AudioFileSource Name="Manual_loop" ID="{1F09FADF-2F01-4A39-A5D5-B8C27037044A}">
 											<Language>SFX</Language>
 											<AudioFile>Manual_loop.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="878060044"/>
+											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
@@ -447,12 +507,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="Manual_loop" ID="{79E3F424-DF76-4013-897D-0DA92F7FF478}" ShortID="469337853">
+								<AudioFileSource Name="Manual_loop" ID="{79E3F424-DF76-4013-897D-0DA92F7FF478}">
 									<Language>SFX</Language>
 									<AudioFile>Manual_loop.wav</AudioFile>
-									<ConvertedFileIDList>
-										<File ID="878060044"/>
-									</ConvertedFileIDList>
+									<MediaIDList>
+										<MediaID ID="878060044"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
@@ -476,12 +536,12 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="Manual_loop" ID="{8DE1CAEA-1BE5-43AE-9E14-15294B398959}" ShortID="356993468">
+								<AudioFileSource Name="Manual_loop" ID="{8DE1CAEA-1BE5-43AE-9E14-15294B398959}">
 									<Language>SFX</Language>
 									<AudioFile>Manual_loop.wav</AudioFile>
-									<ConvertedFileIDList>
-										<File ID="878060044"/>
-									</ConvertedFileIDList>
+									<MediaIDList>
+										<MediaID ID="878060044"/>
+									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>

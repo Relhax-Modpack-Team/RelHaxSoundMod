@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{14E124CE-CD20-43C1-A9C6-B7B662EE2E29}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{14E124CE-CD20-43C1-A9C6-B7B662EE2E29}" SchemaVersion="97">
   <Events>
     <WorkUnit Name="Physical_Collision" ID="{14E124CE-CD20-43C1-A9C6-B7B662EE2E29}" PersistMode="Standalone">
       <Comment>Vehicles colliding with other vehicles and objects</Comment>

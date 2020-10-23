@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{D2B6A51D-2F3A-41D8-AB7A-452D83834C18}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{D2B6A51D-2F3A-41D8-AB7A-452D83834C18}" SchemaVersion="97">
   <Events>
     <WorkUnit Name="Engine" ID="{D2B6A51D-2F3A-41D8-AB7A-452D83834C18}" PersistMode="Standalone">
       <Comment>Engines</Comment>

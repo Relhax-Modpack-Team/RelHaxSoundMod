@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{8C42368A-32EA-4542-B03D-5AC155479859}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{8C42368A-32EA-4542-B03D-5AC155479859}" SchemaVersion="97">
   <Events>
     <WorkUnit Name="Damage" ID="{8C42368A-32EA-4542-B03D-5AC155479859}" PersistMode="Standalone">
       <Comment>Damage</Comment>

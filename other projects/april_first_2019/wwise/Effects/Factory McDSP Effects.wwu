@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{C495E5B0-5DF1-4961-BC6A-4C9887E70704}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{C495E5B0-5DF1-4961-BC6A-4C9887E70704}" SchemaVersion="97">
 	<Effects>
 		<WorkUnit Name="Factory McDSP Effects" ID="{C495E5B0-5DF1-4961-BC6A-4C9887E70704}" PersistMode="Standalone">
 			<ChildrenList>
@@ -429,7 +429,34 @@
 												<Property Name="LoFiFilter" Type="Real32" Value="9.408772"/>
 												<Property Name="NoiseHPFFreq" Type="Real32" Value="396.3328"/>
 												<Property Name="NoiseLPFFreq" Type="Real32" Value="20000"/>
-												<Property Name="NoiseLevel" Type="Real32" Value="-22.95051"/>
+												<Property Name="NoiseLevel" Type="Real32" Value="-22.95051">
+													<RTPCList>
+														<RTPC Name="" ID="{EA84BB77-A120-44C9-B0E4-A92CE6C743FB}" ShortID="878845861">
+															<ReferenceList>
+																<Reference Name="ControlInput">
+																	<ObjectRef Name="RTPC_ext_menu_volume_master" ID="{65457B04-8212-4658-93FB-B97BCE4E8608}" WorkUnitID="{AB476AAA-6033-49AB-999C-C9F0407E711B}"/>
+																</Reference>
+															</ReferenceList>
+															<Curve Name="" ID="{ACB3BDA6-DFCE-4866-848B-FEAF62240A84}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="1"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>-96</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>100</XPos>
+																		<YPos>-23</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</RTPC>
+													</RTPCList>
+												</Property>
 												<Property Name="NoiseRange" Type="Real32" Value="-26.88"/>
 												<Property Name="NoiseRecovery" Type="Real32" Value="56.10867"/>
 												<Property Name="NoiseThresh" Type="Real32" Value="-21.6"/>

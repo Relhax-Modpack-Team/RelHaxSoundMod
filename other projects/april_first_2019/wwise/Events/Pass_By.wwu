@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{07647DD8-2A57-456D-9D48-5DA0F17A1424}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{07647DD8-2A57-456D-9D48-5DA0F17A1424}" SchemaVersion="97">
   <Events>
     <WorkUnit Name="Pass_By" ID="{07647DD8-2A57-456D-9D48-5DA0F17A1424}" PersistMode="Standalone">
       <Comment>Tracers</Comment>
@@ -36,6 +36,9 @@
           <ChildrenList></ChildrenList>
         </Event>
         <Event Name="psb_npc_stop" ID="{B92A6155-F101-4B51-A0AA-7D48810D6184}">
+          <ChildrenList></ChildrenList>
+        </Event>
+        <Event Name="psb_pc_stop" ID="{6CF2827A-0AE8-43BE-8513-1D897C1A9D66}">
           <ChildrenList></ChildrenList>
         </Event>
       </ChildrenList>

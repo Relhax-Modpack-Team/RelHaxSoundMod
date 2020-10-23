@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{08AF131D-D050-4732-BD35-CB88EBED303E}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{08AF131D-D050-4732-BD35-CB88EBED303E}" SchemaVersion="97">
   <GameParameters>
     <WorkUnit Name="Turret" ID="{08AF131D-D050-4732-BD35-CB88EBED303E}" PersistMode="Standalone">
       <Comment>Turret</Comment>

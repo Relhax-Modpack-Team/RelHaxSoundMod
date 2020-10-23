@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{D7C341A7-85B4-45B2-A961-7C6CDF3A5F5C}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{D7C341A7-85B4-45B2-A961-7C6CDF3A5F5C}" SchemaVersion="97">
   <GameParameters>
     <WorkUnit Name="Ambient" ID="{D7C341A7-85B4-45B2-A961-7C6CDF3A5F5C}" PersistMode="Standalone">
       <Comment>Ambience</Comment>
@@ -82,6 +82,17 @@
                 <Property Name="BindToBuiltInParam" Type="int16" Value="1" />
                 <Property Name="InitialValue" Type="Real64" Value="0" />
                 <Property Name="Max" Type="Real64" Value="250" />
+              </PropertyList>
+            </GameParameter>
+          </ChildrenList>
+        </Folder>
+        <Folder Name="other" ID="{7C6B9DF7-A4A8-4F06-8ACB-BC33173983C7}" ShortID="420512646">
+          <ChildrenList>
+            <GameParameter Name="RTPC_int_enigne_exhaust_expl_volume" ID="{67CFB7DA-B596-409D-837C-EFF005ED34C0}">
+              <PropertyList>
+                <Property Name="InitialValue" Type="Real64" Value="-48" />
+                <Property Name="Max" Type="Real64" Value="0" />
+                <Property Name="Min" Type="Real64" Value="-48" />
               </PropertyList>
             </GameParameter>
           </ChildrenList>

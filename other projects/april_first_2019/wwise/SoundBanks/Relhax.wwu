@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{5BC8AED6-90FE-4388-8281-200DFBEDA33D}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{5BC8AED6-90FE-4388-8281-200DFBEDA33D}" SchemaVersion="97">
 	<SoundBanks>
 		<WorkUnit Name="Relhax" ID="{5BC8AED6-90FE-4388-8281-200DFBEDA33D}" PersistMode="Standalone">
 			<ChildrenList>
 				<SoundBank Name="april_first_2019" ID="{DAB4D80E-F7AE-49C0-B14A-B2A994F2C94C}">
 					<ObjectInclusionList>
-						<ObjectRef Name="troll_music_master_bus" ID="{4BB67778-AF7F-4765-92A5-2846F4581690}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="random_troll" ID="{19D5380D-920F-48F6-8C99-6A081F85A7AF}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="troll_music_in_xfade" ID="{72CCB953-BDC4-4A19-AF61-958C98096EAA}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="troll_music_lobby_bus" ID="{4B9F82E5-1849-4C92-B03D-814435185DB2}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="troll_xfade" ID="{76287DDB-CEEC-4E75-BBC1-EF6EBC6E434A}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="troll_music_master_bus" ID="{4BB67778-AF7F-4765-92A5-2846F4581690}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="random_troll" ID="{19D5380D-920F-48F6-8C99-6A081F85A7AF}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="troll_music_in_xfade" ID="{72CCB953-BDC4-4A19-AF61-958C98096EAA}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="troll_music_lobby_bus" ID="{4B9F82E5-1849-4C92-B03D-814435185DB2}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="troll_xfade" ID="{76287DDB-CEEC-4E75-BBC1-EF6EBC6E434A}" WorkUnitID="{5922C7B6-17C2-4206-8F33-0A0FFBE4B5D2}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{FFA2EC29-4A80-4FD9-AC3C-2402E5FF07D3}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{FFA2EC29-4A80-4FD9-AC3C-2402E5FF07D3}" SchemaVersion="97">
   <Triggers>
     <WorkUnit Name="Default Work Unit" ID="{FFA2EC29-4A80-4FD9-AC3C-2402E5FF07D3}" PersistMode="Standalone">
       <ChildrenList>
@@ -197,6 +197,21 @@
         <Folder Name="41_Lost_city_stinger" ID="{00202D2D-9BEF-462B-82CD-FFB9BB73DBEC}" ShortID="594984032">
           <ChildrenList>
             <Trigger Name="lost_city_stinger" ID="{ECD1EA04-A247-4168-BE6E-CA671B652841}" />
+          </ChildrenList>
+        </Folder>
+        <Folder Name="42_Kharkiv_stinger" ID="{79FA5505-4799-459D-B07E-36335D8A457B}" ShortID="894054301">
+          <ChildrenList>
+            <Trigger Name="kharkiv" ID="{A16060A0-F136-44D4-B9DF-1A6768B4C170}" />
+          </ChildrenList>
+        </Folder>
+        <Folder Name="43_Berlin" ID="{1BF17C5F-7B63-4A32-8A9E-440716B222E7}" ShortID="832889800">
+          <ChildrenList>
+            <Trigger Name="berlin_stinger" ID="{CF3F34E8-5451-4F6E-84FD-FD3E931E5EC2}" />
+          </ChildrenList>
+        </Folder>
+        <Folder Name="44_Perl_river_stinger" ID="{A2701798-9CFB-48A5-A0BB-F7310B20658A}" ShortID="838209703">
+          <ChildrenList>
+            <Trigger Name="perl_river" ID="{08EB4F7E-26FF-4C3E-B6CA-54FF5F8AEF69}" />
           </ChildrenList>
         </Folder>
       </ChildrenList>

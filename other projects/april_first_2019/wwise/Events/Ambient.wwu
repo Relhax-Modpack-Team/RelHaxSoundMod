@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{8EC00CD4-5767-4023-A222-F966184A3709}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{8EC00CD4-5767-4023-A222-F966184A3709}" SchemaVersion="97">
   <Events>
     <WorkUnit Name="Ambient" ID="{8EC00CD4-5767-4023-A222-F966184A3709}" PersistMode="Standalone">
       <Comment>Environment</Comment>
@@ -184,6 +184,14 @@
             </Event>
             <Event Name="ambient_wind_desert_01" ID="{686E2A46-6EE9-4300-BD27-6F5F0FEED8A5}">
               <Comment>Event - Desert wind</Comment>
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="ambient_wind_winter_02" ID="{88AF8DF4-F35B-4609-AB83-E3C192D65B89}">
+              <Comment>Event - Wind in winter with a minimum of forest</Comment>
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="ambient_wind_summer_02" ID="{E6865A60-703A-4A9B-86D8-C8EFC239DDD3}">
+              <Comment>Event - Wind in summer</Comment>
               <ChildrenList></ChildrenList>
             </Event>
           </ChildrenList>

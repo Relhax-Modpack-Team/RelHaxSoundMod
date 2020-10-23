@@ -1,4 +1,4 @@
-<WwiseDocument Type="WorkUnit" ID="{6451563F-CABC-4121-83A6-0536B4D3587B}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{6451563F-CABC-4121-83A6-0536B4D3587B}" SchemaVersion="97">
   <Events>
     <WorkUnit Name="Treads" ID="{6451563F-CABC-4121-83A6-0536B4D3587B}" PersistMode="Standalone">
       <Comment>Tracks and roughness</Comment>
