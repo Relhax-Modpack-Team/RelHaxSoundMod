@@ -1,0 +1,1776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows_HighRes" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Willster419\Tanks Stuff\RelhaxSoundMod\other projects\mlg_project_1.0.1\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Willster419\Tanks Stuff\RelhaxSoundMod\other projects\mlg_project_1.0.1\.cache\Windows_HighRes\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Willster419\Tanks Stuff\RelhaxSoundMod\other projects\mlg_project_1.0.1\GeneratedSoundBanks\WinHighRes\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Willster419\Tanks Stuff\RelhaxSoundMod\other projects\mlg_project_1.0.1\GeneratedSoundBanks\Windows_HighRes</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank>
+		<File Id="32993886" Language="SFX">
+			<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_6C35A1F3.wem</Path>
+		</File>
+		<File Id="554205954" Language="SFX">
+			<ShortName>Map_Zone\Deep forest.WAV</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_24F07BC1.wem</Path>
+		</File>
+		<File Id="684936451" Language="SFX">
+			<ShortName>Map_Zone\Canyons.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_6D074466.wem</Path>
+		</File>
+		<File Id="823230670" Language="SFX">
+			<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_59F7DD39.wem</Path>
+		</File>
+	</MediaFilesNotInAnyBank>
+	<SoundBanks>
+		<SoundBank Id="1098782345" Language="SFX">
+			<ObjectPath>\SoundBanks\mlg_work_unit\MLG</ObjectPath>
+			<ShortName>MLG</ShortName>
+			<Path>MLG.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2624697022" Name="mlg_alert" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_alert" DurationType="OneShot" DurationMin="0.371519" DurationMax="0.371519">
+					<IncludedMemoryFiles>
+						<File Id="434720682" Language="SFX">
+							<ShortName>alert.wav</ShortName>
+							<Path>SFX\alert_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1469495872" Name="mlg_arty_killed" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_arty_killed" DurationType="OneShot" DurationMin="5.038730" DurationMax="5.038730">
+					<IncludedMemoryFiles>
+						<File Id="447256348" Language="SFX">
+							<ShortName>arty_rekt.wav</ShortName>
+							<Path>SFX\arty_rekt_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2163984841" Name="mlg_camera" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_camera" DurationType="OneShot" DurationMin="16.000000" DurationMax="16.000000">
+					<IncludedMemoryFiles>
+						<File Id="35679927" Language="SFX">
+							<ShortName>Mom.wav</ShortName>
+							<Path>SFX\Mom_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2779637346" Name="mlg_camera_short" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_camera_short" DurationType="OneShot" DurationMin="4.906667" DurationMax="4.906667">
+					<IncludedMemoryFiles>
+						<File Id="365081151" Language="SFX">
+							<ShortName>mom_short.wav</ShortName>
+							<Path>SFX\mom_short_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="849550738" Name="mlg_cs_bomb_defused" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_cs_bomb_defused" DurationType="OneShot" DurationMin="1.741497" DurationMax="1.741497">
+					<IncludedMemoryFiles>
+						<File Id="674430655" Language="SFX">
+							<ShortName>bomb_defused.wav</ShortName>
+							<Path>SFX\bomb_defused_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1801200508" Name="mlg_cs_bomb_planted" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_cs_bomb_planted" DurationType="OneShot" DurationMin="1.555737" DurationMax="1.555737">
+					<IncludedMemoryFiles>
+						<File Id="976340763" Language="SFX">
+							<ShortName>bomb_planted.wav</ShortName>
+							<Path>SFX\bomb_planted_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2704285109" Name="mlg_cs_counterterrorists_win" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_cs_counterterrorists_win" DurationType="OneShot" DurationMin="2.008526" DurationMax="2.008526">
+					<IncludedMemoryFiles>
+						<File Id="76502464" Language="SFX">
+							<ShortName>counterterroristswin.wav</ShortName>
+							<Path>SFX\counterterroristswin_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3279111355" Name="mlg_cs_terrorists_win" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_cs_terrorists_win" DurationType="OneShot" DurationMin="1.706667" DurationMax="1.706667">
+					<IncludedMemoryFiles>
+						<File Id="899054304" Language="SFX">
+							<ShortName>terroristsWin.wav</ShortName>
+							<Path>SFX\terroristsWin_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1448059029" Name="mlg_enemykilled_14" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_enemykilled_14" DurationType="OneShot" DurationMin="2.635465" DurationMax="2.635465">
+					<IncludedMemoryFiles>
+						<File Id="922940206" Language="SFX">
+							<ShortName>OneManArmy.wav</ShortName>
+							<Path>SFX\OneManArmy_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2684083021" Name="mlg_enemykilled_default" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_enemykilled_default" DurationType="OneShot" DurationMin="0.801088" DurationMax="4.809083">
+					<IncludedMemoryFiles>
+						<File Id="247936974" Language="SFX">
+							<ShortName>enemy_killed3.wav</ShortName>
+							<Path>SFX\enemy_killed3_639CF9DE.wem</Path>
+						</File>
+						<File Id="402265622" Language="SFX">
+							<ShortName>Bratilaugh2.wav</ShortName>
+							<Path>SFX\Bratilaugh2_639CF9DE.wem</Path>
+						</File>
+						<File Id="673269894" Language="SFX">
+							<ShortName>bratilaugherino.wav</ShortName>
+							<Path>SFX\bratilaugherino_639CF9DE.wem</Path>
+						</File>
+						<File Id="690893424" Language="SFX">
+							<ShortName>enemy_killed5.wav</ShortName>
+							<Path>SFX\enemy_killed5_639CF9DE.wem</Path>
+						</File>
+						<File Id="730046895" Language="SFX">
+							<ShortName>enemy_killed2.wav</ShortName>
+							<Path>SFX\enemy_killed2_639CF9DE.wem</Path>
+						</File>
+						<File Id="755738100" Language="SFX">
+							<ShortName>enemy_killed4.wav</ShortName>
+							<Path>SFX\enemy_killed4_639CF9DE.wem</Path>
+						</File>
+						<File Id="839898287" Language="SFX">
+							<ShortName>enemy_killed6.wav</ShortName>
+							<Path>SFX\enemy_killed6_639CF9DE.wem</Path>
+						</File>
+						<File Id="1002556927" Language="SFX">
+							<ShortName>enemy_killed8.wav</ShortName>
+							<Path>SFX\enemy_killed8_639CF9DE.wem</Path>
+						</File>
+						<File Id="1008813279" Language="SFX">
+							<ShortName>enemy_killed7.wav</ShortName>
+							<Path>SFX\enemy_killed7_639CF9DE.wem</Path>
+						</File>
+						<File Id="1067307503" Language="SFX">
+							<ShortName>enemy_killed1.wav</ShortName>
+							<Path>SFX\enemy_killed1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3852754625" Name="mlg_explosion" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_explosion" DurationType="OneShot" DurationMin="2.321995" DurationMax="3.482993">
+					<IncludedMemoryFiles>
+						<File Id="140441323" Language="SFX">
+							<ShortName>explosion.wav</ShortName>
+							<Path>SFX\explosion_639CF9DE.wem</Path>
+						</File>
+						<File Id="434028893" Language="SFX">
+							<ShortName>explosion2.wav</ShortName>
+							<Path>SFX\explosion2_639CF9DE.wem</Path>
+						</File>
+						<File Id="516215000" Language="SFX">
+							<ShortName>explosion3.wav</ShortName>
+							<Path>SFX\explosion3_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2980920122" Name="mlg_glasses_canttouchthis" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_glasses_canttouchthis" DurationType="OneShot" DurationMin="6.989206" DurationMax="6.989206">
+					<IncludedMemoryFiles>
+						<File Id="301926400" Language="SFX">
+							<ShortName>canttouchthis.wav</ShortName>
+							<Path>SFX\canttouchthis_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1914372927" Name="mlg_hax" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_hax" DurationType="OneShot" DurationMin="0.976689" DurationMax="0.976689">
+					<IncludedMemoryFiles>
+						<File Id="730566828" Language="SFX">
+							<ShortName>Hax.wav</ShortName>
+							<Path>SFX\Hax_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3714978895" Name="mlg_horn" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_horn" DurationType="OneShot" DurationMin="3.082449" DurationMax="3.082449">
+					<IncludedMemoryFiles>
+						<File Id="922986319" Language="SFX">
+							<ShortName>Horn.wav</ShortName>
+							<Path>SFX\Horn_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3910839270" Name="mlg_illuminati" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_illuminati" DurationType="OneShot" DurationMin="7.826576" DurationMax="7.826576">
+					<IncludedMemoryFiles>
+						<File Id="424047642" Language="SFX">
+							<ShortName>Illuminati.wav</ShortName>
+							<Path>SFX\Illuminati_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1732273125" Name="mlg_illuminati_short" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_illuminati_short" DurationType="OneShot" DurationMin="2.261950" DurationMax="2.261950">
+					<IncludedMemoryFiles>
+						<File Id="920339167" Language="SFX">
+							<ShortName>Illuminati_short.wav</ShortName>
+							<Path>SFX\Illuminati_short_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2078661589" Name="mlg_inception" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_inception" DurationType="OneShot" DurationMin="10.003447" DurationMax="10.003447">
+					<IncludedMemoryFiles>
+						<File Id="303857227" Language="SFX">
+							<ShortName>Inception.wav</ShortName>
+							<Path>SFX\Inception_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4204335477" Name="mlg_neverdonethat" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_neverdonethat" DurationType="OneShot" DurationMin="4.743175" DurationMax="4.743175">
+					<IncludedMemoryFiles>
+						<File Id="413738459" Language="SFX">
+							<ShortName>NEVER DONE THAT.wav</ShortName>
+							<Path>SFX\NEVER DONE THAT_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1266678295" Name="mlg_onemanarmy" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_onemanarmy" DurationType="OneShot" DurationMin="2.635465" DurationMax="2.635465">
+					<IncludedMemoryFiles>
+						<File Id="922940206" Language="SFX">
+							<ShortName>OneManArmy.wav</ShortName>
+							<Path>SFX\OneManArmy_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2481921096" Name="mlg_pentakill" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_pentakill" DurationType="OneShot" DurationMin="2.115918" DurationMax="2.115918">
+					<IncludedMemoryFiles>
+						<File Id="350593659" Language="SFX">
+							<ShortName>pentakill.wav</ShortName>
+							<Path>SFX\pentakill_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="646216773" Name="mlg_rammkill_kamikaze" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_rammkill_kamikaze" DurationType="OneShot" DurationMin="1.242268" DurationMax="1.242268">
+					<IncludedMemoryFiles>
+						<File Id="1012305974" Language="SFX">
+							<ShortName>akbar3.wav</ShortName>
+							<Path>SFX\akbar3_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2463629525" Name="mlg_rammkill_normal" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_rammkill_normal" DurationType="OneShot" DurationMin="1.767619" DurationMax="1.767619">
+					<IncludedMemoryFiles>
+						<File Id="692174887" Language="SFX">
+							<ShortName>akbar2.wav</ShortName>
+							<Path>SFX\akbar2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="577173526" Name="mlg_rifle" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_rifle" DurationType="OneShot" DurationMin="0.963628" DurationMax="0.963628">
+					<IncludedMemoryFiles>
+						<File Id="462717047" Language="SFX">
+							<ShortName>rifle.wav</ShortName>
+							<Path>SFX\rifle_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1322074832" Name="mlg_smokeweed" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_smokeweed" DurationType="OneShot" DurationMin="2.117370" DurationMax="2.117370">
+					<IncludedMemoryFiles>
+						<File Id="783497288" Language="SFX">
+							<ShortName>Weed.wav</ShortName>
+							<Path>SFX\Weed_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3895261898" Name="mlg_speed_sanic" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_speed_sanic" DurationType="OneShot" DurationMin="60.107754" DurationMax="60.107754">
+					<IncludedMemoryFiles>
+						<File Id="23543322" Language="SFX">
+							<ShortName>sanic - theme 60s.wav</ShortName>
+							<Path>SFX\sanic - theme 60s_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2789492043" Name="mlg_speed_sanic_quiet" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_speed_sanic_quiet" DurationType="OneShot" DurationMin="60.133877" DurationMax="60.133877">
+					<IncludedMemoryFiles>
+						<File Id="749022613" Language="SFX">
+							<ShortName>sanic - theme 60s - lower volume.wav</ShortName>
+							<Path>SFX\sanic - theme 60s - lower volume_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="230631616" Name="mlg_tog_door_close" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_tog_door_close" DurationType="OneShot" DurationMin="4.715102" DurationMax="4.715102">
+					<IncludedMemoryFiles>
+						<File Id="505900346" Language="SFX">
+							<ShortName>close5.wav</ShortName>
+							<Path>SFX\close5_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4125895924" Name="mlg_tog_door_open" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_tog_door_open" DurationType="OneShot" DurationMin="3.684807" DurationMax="3.684807">
+					<IncludedMemoryFiles>
+						<File Id="686866236" Language="SFX">
+							<ShortName>open1.wav</ShortName>
+							<Path>SFX\open1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1768188103" Name="mlg_tog_drive_in" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_tog_drive_in" DurationType="OneShot" DurationMin="5.005442" DurationMax="5.005442">
+					<IncludedMemoryFiles>
+						<File Id="5841041" Language="SFX">
+							<ShortName>drive_in.wav</ShortName>
+							<Path>SFX\drive_in_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3373635002" Name="mlg_tog_drive_out" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_tog_drive_out" DurationType="OneShot" DurationMin="4.993651" DurationMax="4.993651">
+					<IncludedMemoryFiles>
+						<File Id="69238675" Language="SFX">
+							<ShortName>drive_out.wav</ShortName>
+							<Path>SFX\drive_out_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3842554383" Name="mlg_tog_explosion_close" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_tog_explosion_close" DurationType="OneShot" DurationMin="3.482993" DurationMax="3.482993">
+					<IncludedMemoryFiles>
+						<File Id="516215000" Language="SFX">
+							<ShortName>explosion3.wav</ShortName>
+							<Path>SFX\explosion3_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2776590020" Name="mlg_tog_explosion_far" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_tog_explosion_far" DurationType="OneShot" DurationMin="2.623855" DurationMax="2.623855">
+					<IncludedMemoryFiles>
+						<File Id="434028893" Language="SFX">
+							<ShortName>explosion2.wav</ShortName>
+							<Path>SFX\explosion2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1501312080" Name="mlg_tog_missile_idle" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_tog_missile_idle" DurationType="OneShot" DurationMin="0.353741" DurationMax="0.353741">
+					<IncludedMemoryFiles>
+						<File Id="1046761589" Language="SFX">
+							<ShortName>missle_idle_loop.wav</ShortName>
+							<Path>SFX\missle_idle_loop_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="191314766" Name="mlg_tog_missile_launcher" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_tog_missile_launcher" DurationType="OneShot" DurationMin="2.749252" DurationMax="2.749252">
+					<IncludedMemoryFiles>
+						<File Id="608939552" Language="SFX">
+							<ShortName>missle_launch00.wav</ShortName>
+							<Path>SFX\missle_launch00_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3004160630" Name="mlg_tog_missile_prewarm" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_tog_missile_prewarm" DurationType="OneShot" DurationMin="2.122449" DurationMax="2.122449">
+					<IncludedMemoryFiles>
+						<File Id="151374701" Language="SFX">
+							<ShortName>missle_prewarm2.wav</ShortName>
+							<Path>SFX\missle_prewarm2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2081421448" Name="mlg_triplebaby" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_triplebaby" DurationType="OneShot" DurationMin="4.940885" DurationMax="4.940885">
+					<IncludedMemoryFiles>
+						<File Id="418903561" Language="SFX">
+							<ShortName>Oh Baby A Triple.wav</ShortName>
+							<Path>SFX\Oh Baby A Triple_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="14876115" Name="AUX_ev_football_arena" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VOICE_GUI\AUX_ev_football_arena"/>
+				<AuxBus Id="375152608" Name="AUX_env_Village" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_Village"/>
+				<AuxBus Id="394482750" Name="AUX_eng_PC_flanger" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_ambient_control\AUX_eng_PC_flanger"/>
+				<AuxBus Id="401969492" Name="AUX_flange_plane" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_ambient_control\AUX_flange_plane"/>
+				<AuxBus Id="494784805" Name="AUX_reverb_hangar_dark_sfx_pm" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Personal_missions\AUX_reverb_hangar_dark_sfx_pm"/>
+				<AuxBus Id="647771714" Name="AUX_vehicle_control" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_vehicle_control"/>
+				<AuxBus Id="664496982" Name="AUX_reverb_hangar_Forest_env" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Hangar\AUX_reverb_hangar_Forest_env"/>
+				<AuxBus Id="1049984846" Name="AUX_reverb_hangar_Forest_gui" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VOICE_GUI\AUX_reverb_hangar_Forest_gui"/>
+				<AuxBus Id="1061338871" Name="AUX_reverb_personal_missions" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Personal_missions\AUX_reverb_personal_missions"/>
+				<AuxBus Id="1460769535" Name="AUX_env_Closed_space" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_Closed_space"/>
+				<AuxBus Id="1529986663" Name="AUX_sfx_control" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_sfx_control"/>
+				<AuxBus Id="1822577572" Name="AUX_eng_broken" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\045_impact_filter_ducking_group\VEHICLE_control\130_eng_trds_PC\AUX_eng_broken"/>
+				<AuxBus Id="1889485509" Name="AUX_env_City" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_City"/>
+				<AuxBus Id="2152316841" Name="AUX_env_Mountain" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_Mountain"/>
+				<AuxBus Id="2154148004" Name="AUX_reverb_researches" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Researches\AUX_reverb_researches"/>
+				<AuxBus Id="2343778479" Name="AUX_wpn_50_75mm_reverb_01" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_sfx_control\AUX_wpn_50_75mm_reverb_01"/>
+				<AuxBus Id="2543630464" Name="AUX_env_Mountain_close" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_Mountain_close"/>
+				<AuxBus Id="2575940795" Name="AUX_ev_halloween_wpn_PC" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\SFX_control_2\032_wpn_PC\AUX_ev_halloween_wpn_PC"/>
+				<AuxBus Id="2577149115" Name="AUX_wpn_50_75mm_reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_vehicle_control\AUX_wpn_50_75mm_reverb"/>
+				<AuxBus Id="2682597557" Name="AUX_reverb_expl_ally_NPC" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VOICE_GUI\AUX_reverb_expl_ally_NPC"/>
+				<AuxBus Id="2805659155" Name="AUX_env_Forest" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_Forest"/>
+				<AuxBus Id="2812721831" Name="AUX_multiband_dist_football" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_MUSIC\Lobby_music_garage\Lobby_music_garage_default\AUX_multiband_dist_football"/>
+				<AuxBus Id="3206664178" Name="AUX_stereo_delay_hangar_h07_newyear_2018" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Hangar\AUX_stereo_delay_hangar_h07_newyear_2018"/>
+				<AuxBus Id="3514658147" Name="AUX_PhCol_friction" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\045_impact_filter_ducking_group\VEHICLE_control\110_col_PC\AUX_PhCol_friction"/>
+				<AuxBus Id="3515001147" Name="AUX_wpn_85_107mm_reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_vehicle_control\AUX_wpn_85_107mm_reverb"/>
+				<AuxBus Id="3520008452" Name="AUX_ev_football_engine" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\045_impact_filter_ducking_group\VEHICLE_control\AUX_ev_football_engine"/>
+				<AuxBus Id="3528445383" Name="AUX_ev_halloween_leviathan_eng" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\045_impact_filter_ducking_group\VEHICLE_control\AUX_ev_halloween_leviathan_eng"/>
+				<AuxBus Id="3656279963" Name="AUX_eng_load_distortion" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\045_impact_filter_ducking_group\VEHICLE_control\130_eng_trds_PC\AUX_eng_load_distortion"/>
+				<AuxBus Id="3824605991" Name="AUX_collision_reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_vehicle_control\AUX_collision_reverb"/>
+				<AuxBus Id="3945567761" Name="AUX_reverb_hangar_dark_gui" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VOICE_GUI\AUX_reverb_hangar_dark_gui"/>
+				<AuxBus Id="4015978123" Name="AUX_NY_comp" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\SFX_control_2\AUX_NY_comp"/>
+				<AuxBus Id="4031197743" Name="AUX_wpn_85_107mm_reverb_01" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_sfx_control\AUX_wpn_85_107mm_reverb_01"/>
+				<AuxBus Id="4129827565" Name="AUX_reverb_hangar_dark_env" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Hangar\AUX_reverb_hangar_dark_env"/>
+				<AuxBus Id="4186278069" Name="AUX_multiband_dist_01" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_MUSIC\AUX_multiband_dist_01"/>
+				<AuxBus Id="4241804578" Name="AUX_ambient_control" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_ambient_control"/>
+			</IncludedAuxBusses>
+			<ExcludedMemoryFiles>
+				<File Id="32993886" Language="SFX">
+					<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_6C35A1F3.wem</Path>
+				</File>
+				<File Id="554205954" Language="SFX">
+					<ShortName>Map_Zone\Deep forest.WAV</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_24F07BC1.wem</Path>
+				</File>
+				<File Id="684936451" Language="SFX">
+					<ShortName>Map_Zone\Canyons.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_6D074466.wem</Path>
+				</File>
+				<File Id="823230670" Language="SFX">
+					<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_59F7DD39.wem</Path>
+				</File>
+			</ExcludedMemoryFiles>
+			<GameParameters>
+				<GameParameter Id="81471525" Name="RTPC_int_distance_1000m" ObjectPath="\Game Parameters\Common\RTPC_int_distance_1000m"/>
+				<GameParameter Id="248010418" Name="RTPC_int_device_laptop_lowcut_trigger" ObjectPath="\Game Parameters\Settings\RTPC_int_device_laptop_lowcut_trigger"/>
+				<GameParameter Id="257494316" Name="RTPC_ext_menu_volume_master" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_master"/>
+				<GameParameter Id="323535727" Name="RTPC_ext_wind_intensity" ObjectPath="\Game Parameters\Ambient\trees\RTPC_ext_wind_intensity"/>
+				<GameParameter Id="494846457" Name="RTPC_int_HDR_threshold" ObjectPath="\Game Parameters\Common\RTPC_int_HDR_threshold"/>
+				<GameParameter Id="529901698" Name="RTPC_int_wind_ducking_amount" ObjectPath="\Game Parameters\Ambient\wind\RTPC_int_wind_ducking_amount"/>
+				<GameParameter Id="566631840" Name="RTPC_ext_camera_height" ObjectPath="\Game Parameters\Ambient\wind\RTPC_ext_camera_height"/>
+				<GameParameter Id="695757872" Name="RTPC_ext_menu_volume_effects" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_effects"/>
+				<GameParameter Id="896614031" Name="RTPC_ext_viewPlayMode" ObjectPath="\Game Parameters\Common\RTPC_ext_viewPlayMode"/>
+				<GameParameter Id="1033699772" Name="RTPC_int_hangar_resultmusic_go_3D" ObjectPath="\Game Parameters\Interactive_music\RTPC_int_hangar_resultmusic_go_3D"/>
+				<GameParameter Id="1047122343" Name="RTPC_ext_menu_volume_music_hangar" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_music_hangar"/>
+				<GameParameter Id="1631196118" Name="RTPC_ext_menu_volume_ambient" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_ambient"/>
+				<GameParameter Id="1833954181" Name="RTPC_int_eng_damage" ObjectPath="\Game Parameters\Damage\RTPC_int_eng_damage"/>
+				<GameParameter Id="1945071579" Name="RTPC_ext_engine_damage_risk" ObjectPath="\Game Parameters\Vehicles\wheeled_vehicle\RTPC_ext_engine_damage_risk"/>
+				<GameParameter Id="1978220576" Name="RTPC_ext_menu_volume_voice" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_voice"/>
+				<GameParameter Id="2151720954" Name="RTPC_int_bass_boost_band_frequency_device_id" ObjectPath="\Game Parameters\Settings\RTPC_int_bass_boost_band_frequency_device_id"/>
+				<GameParameter Id="2163183645" Name="RTPC_int_friction_release" ObjectPath="\Game Parameters\Physical_Collision\RTPC_int_friction_release"/>
+				<GameParameter Id="2369516155" Name="RTPC_int_music_drone_enable_eq_lowshelf" ObjectPath="\Game Parameters\Interactive_music\RTPC_int_music_drone_enable_eq_lowshelf"/>
+				<GameParameter Id="2370945719" Name="RTPC_ext_menu_volume_music" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_music"/>
+				<GameParameter Id="2466770167" Name="RTPC_ext_roughness_global" ObjectPath="\Game Parameters\Vehicles\vehicles_global\RTPC_ext_roughness_global"/>
+				<GameParameter Id="2476546197" Name="RTPC_ext_physic_rpm_rel" ObjectPath="\Game Parameters\Vehicles\new_physic\RTPC_ext_physic_rpm_rel"/>
+				<GameParameter Id="2497463650" Name="RTPC_ext_speed_rel_global" ObjectPath="\Game Parameters\Vehicles\vehicles_global\RTPC_ext_speed_rel_global"/>
+				<GameParameter Id="2686672294" Name="RTPC_int_dynamic_range" ObjectPath="\Game Parameters\Settings\RTPC_int_dynamic_range"/>
+				<GameParameter Id="3259059030" Name="RTPC_int_impact_sidechain" ObjectPath="\Game Parameters\Common\RTPC_int_impact_sidechain"/>
+				<GameParameter Id="3261467983" Name="RTPC_int_bass_boost_band_gain_device_id" ObjectPath="\Game Parameters\Settings\RTPC_int_bass_boost_band_gain_device_id"/>
+				<GameParameter Id="3266425556" Name="RTPC_ext_camera_height_rel" ObjectPath="\Game Parameters\Ambient\wind\RTPC_ext_camera_height_rel"/>
+				<GameParameter Id="3348539219" Name="RTPC_ext_menu_volume_gui" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_gui"/>
+				<GameParameter Id="3391116920" Name="RTPC_int_vo_ducking" ObjectPath="\Game Parameters\Common\RTPC_int_vo_ducking"/>
+				<GameParameter Id="3394325855" Name="RTPC_int_explosion_sidechain" ObjectPath="\Game Parameters\Common\RTPC_int_explosion_sidechain"/>
+				<GameParameter Id="3436964933" Name="RTPC_int_meter_surface_balance" ObjectPath="\Game Parameters\Vehicles\surface\RTPC_int_meter_surface_balance"/>
+				<GameParameter Id="3546315937" Name="RTPC_ext_menu_volume_vehicles" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_vehicles"/>
+				<GameParameter Id="3567163588" Name="RTPC_ext_physic_load_global" ObjectPath="\Game Parameters\Vehicles\vehicles_global\RTPC_ext_physic_load_global"/>
+				<GameParameter Id="3643357862" Name="RTPC_int_imp_wise_gain" ObjectPath="\Game Parameters\Impacts\RTPC_int_imp_wise_gain"/>
+				<GameParameter Id="3753532465" Name="RTPC_int_bass_boost_trigger" ObjectPath="\Game Parameters\Settings\RTPC_int_bass_boost_trigger"/>
+				<GameParameter Id="3870047102" Name="RTPC_ext_slowmo_factor" ObjectPath="\Game Parameters\Common\RTPC_ext_slowmo_factor"/>
+				<GameParameter Id="4171884463" Name="RTPC_int_multichanel" ObjectPath="\Game Parameters\Multichanel\RTPC_int_multichanel"/>
+				<GameParameter Id="4245421398" Name="RTPC_ext_engine_load_global" ObjectPath="\Game Parameters\Vehicles\vehicles_global\RTPC_ext_engine_load_global"/>
+				<GameParameter Id="4247354303" Name="RTPC_int_bass_boost_gain_compensation" ObjectPath="\Game Parameters\Settings\RTPC_int_bass_boost_gain_compensation"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="791912384" Name="STATE_gamemode_progress_page" ObjectPath="\States\Common\STATE_gamemode_progress_page">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_gamemode_progress_page\None"/>
+						<State Id="3791716968" Name="STATE_gamemode_progress_page_on" ObjectPath="\States\Common\STATE_gamemode_progress_page\STATE_gamemode_progress_page_on"/>
+						<State Id="664190278" Name="STATE_gamemode_progress_page_off" ObjectPath="\States\Common\STATE_gamemode_progress_page\STATE_gamemode_progress_page_off"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="974744403" Name="STATE_viewPlayMode" ObjectPath="\States\Common\STATE_viewPlayMode">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_viewPlayMode\None"/>
+						<State Id="132799494" Name="STATE_viewPlayMode_arcade" ObjectPath="\States\Common\STATE_viewPlayMode\STATE_viewPlayMode_arcade"/>
+						<State Id="85928243" Name="STATE_viewPlayMode_sniper" ObjectPath="\States\Common\STATE_viewPlayMode\STATE_viewPlayMode_sniper"/>
+						<State Id="4289862936" Name="STATE_viewPlayMode_strategic" ObjectPath="\States\Common\STATE_viewPlayMode\STATE_viewPlayMode_strategic"/>
+						<State Id="2318091565" Name="STATE_viewPlayMode_arcade_ceilless" ObjectPath="\States\Common\STATE_viewPlayMode\STATE_viewPlayMode_arcade_ceilless"/>
+						<State Id="360996942" Name="STATE_viewPlayMode_sniper_ceilless" ObjectPath="\States\Common\STATE_viewPlayMode\STATE_viewPlayMode_sniper_ceilless"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1530490698" Name="STATE_gameplace" ObjectPath="\States\Common\STATE_gameplace">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_gameplace\None"/>
+						<State Id="3132916336" Name="STATE_gameplace_hangar" ObjectPath="\States\Common\STATE_gameplace\STATE_gameplace_hangar"/>
+						<State Id="2222908990" Name="STATE_gameplace_arena" ObjectPath="\States\Common\STATE_gameplace\STATE_gameplace_arena"/>
+						<State Id="2668334844" Name="STATE_gamplace_lobby" ObjectPath="\States\Common\STATE_gameplace\STATE_gamplace_lobby"/>
+						<State Id="29304656" Name="STATE_gamplace_loading" ObjectPath="\States\Common\STATE_gameplace\STATE_gamplace_loading"/>
+						<State Id="24118782" Name="STATE_gameplace_result" ObjectPath="\States\Common\STATE_gameplace\STATE_gameplace_result"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2110943632" Name="STATE_underwater" ObjectPath="\States\Common\STATE_underwater">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_underwater\None"/>
+						<State Id="2628170294" Name="STATE_underwater_off" ObjectPath="\States\Common\STATE_underwater\STATE_underwater_off"/>
+						<State Id="1493907064" Name="STATE_underwater_on" ObjectPath="\States\Common\STATE_underwater\STATE_underwater_on"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2343779507" Name="STATE_hangar_camera_rotating" ObjectPath="\States\Common\STATE_hangar_camera_rotating">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_hangar_camera_rotating\None"/>
+						<State Id="3158823513" Name="STATE_hangar_camera_rotating_on" ObjectPath="\States\Common\STATE_hangar_camera_rotating\STATE_hangar_camera_rotating_on"/>
+						<State Id="3054507493" Name="STATE_hangar_camera_rotating_off" ObjectPath="\States\Common\STATE_hangar_camera_rotating\STATE_hangar_camera_rotating_off"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2518278840" Name="STATE_gamemode" ObjectPath="\States\Common\STATE_gamemode">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_gamemode\None"/>
+						<State Id="236638138" Name="STATE_gamemode_default" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_default"/>
+						<State Id="1127815430" Name="STATE_gamemode_frontline" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_frontline"/>
+						<State Id="1070500498" Name="STATE_gamemode_ranked" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_ranked"/>
+						<State Id="1808199260" Name="STATE_gamemode_bootcamp" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_bootcamp"/>
+						<State Id="974843095" Name="STATE_gamemode_battle_of_bloggers" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_battle_of_bloggers"/>
+						<State Id="4248199219" Name="STATE_gamemode_weekend_brawl" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_weekend_brawl"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2544266487" Name="STATE_arenastate" ObjectPath="\States\Common\STATE_arenastate">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_arenastate\None"/>
+						<State Id="26253895" Name="STATE_arenastate_waiting" ObjectPath="\States\Common\STATE_arenastate\STATE_arenastate_waiting"/>
+						<State Id="1506040602" Name="STATE_arenastate_counter" ObjectPath="\States\Common\STATE_arenastate\STATE_arenastate_counter"/>
+						<State Id="668236828" Name="STATE_arenastate_battle" ObjectPath="\States\Common\STATE_arenastate\STATE_arenastate_battle"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2773731236" Name="STATE_hangar_filtered" ObjectPath="\States\Default Work Unit\STATE_hangar_filtered">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\STATE_hangar_filtered\None"/>
+						<State Id="19640060" Name="STATE_hangar_filtered_on" ObjectPath="\States\Default Work Unit\STATE_hangar_filtered\STATE_hangar_filtered_on"/>
+						<State Id="3418647162" Name="STATE_hangar_filtered_off" ObjectPath="\States\Default Work Unit\STATE_hangar_filtered\STATE_hangar_filtered_off"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2936847994" Name="STATE_hangar_view" ObjectPath="\States\Common\STATE_hangar_view">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_hangar_view\None"/>
+						<State Id="36532472" Name="STATE_hangar_view_01" ObjectPath="\States\Common\STATE_hangar_view\STATE_hangar_view_01"/>
+						<State Id="36532475" Name="STATE_hangar_view_02" ObjectPath="\States\Common\STATE_hangar_view\STATE_hangar_view_02"/>
+						<State Id="36532474" Name="STATE_hangar_view_03" ObjectPath="\States\Common\STATE_hangar_view\STATE_hangar_view_03"/>
+						<State Id="36532477" Name="STATE_hangar_view_04" ObjectPath="\States\Common\STATE_hangar_view\STATE_hangar_view_04"/>
+						<State Id="36532476" Name="STATE_hangar_view_05" ObjectPath="\States\Common\STATE_hangar_view\STATE_hangar_view_05"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3677561149" Name="STATE_video_overlay" ObjectPath="\States\Default Work Unit\STATE_video_overlay">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\STATE_video_overlay\None"/>
+						<State Id="13612235" Name="STATE_video_overlay_on" ObjectPath="\States\Default Work Unit\STATE_video_overlay\STATE_video_overlay_on"/>
+						<State Id="167349919" Name="STATE_video_overlay_off" ObjectPath="\States\Default Work Unit\STATE_video_overlay\STATE_video_overlay_off"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3764078144" Name="STATE_overlay_hangar_general" ObjectPath="\States\Default Work Unit\STATE_overlay_hangar_general">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\STATE_overlay_hangar_general\None"/>
+						<State Id="420104680" Name="STATE_overlay_hangar_general_on" ObjectPath="\States\Default Work Unit\STATE_overlay_hangar_general\STATE_overlay_hangar_general_on"/>
+						<State Id="1261587398" Name="STATE_overlay_hangar_general_off" ObjectPath="\States\Default Work Unit\STATE_overlay_hangar_general\STATE_overlay_hangar_general_off"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3983889542" Name="STATE_hangar_place" ObjectPath="\States\Common\STATE_hangar_place">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_hangar_place\None"/>
+						<State Id="768442838" Name="STATE_hangar_place_garage" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_garage"/>
+						<State Id="3092877988" Name="STATE_hangar_place_personalMissions" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_personalMissions"/>
+						<State Id="3369004084" Name="STATE_hangar_place_customization" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_customization"/>
+						<State Id="4120106793" Name="STATE_hangar_place_shop" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_shop"/>
+						<State Id="1786143786" Name="STATE_hangar_place_research" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_research"/>
+						<State Id="569750957" Name="STATE_hangar_place_tasks" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_tasks"/>
+						<State Id="2332360656" Name="STATE_hangar_place_barracks" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_barracks"/>
+						<State Id="1461274737" Name="STATE_hangar_place_achievements" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_achievements"/>
+						<State Id="1683001988" Name="STATE_hangar_place_clans" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_clans"/>
+						<State Id="3354433999" Name="STATE_hangar_place_browser" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_browser"/>
+						<State Id="1751757854" Name="STATE_hangar_place_noobieCenter" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_noobieCenter"/>
+						<State Id="1154502" Name="STATE_hangar_place_warehouse" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_warehouse"/>
+						<State Id="301050511" Name="STATE_hangar_place_researches_preview" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_researches_preview"/>
+						<State Id="101805544" Name="STATE_hangar_place_shop_preview" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_shop_preview"/>
+						<State Id="2190607603" Name="STATE_hangar_place_consumables" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_consumables"/>
+						<State Id="3496164419" Name="STATE_hangar_place_dog_tags" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_dog_tags"/>
+						<State Id="3236318546" Name="STATE_hangar_place_lootboxes" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_lootboxes"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="4279851394" Name="STATE_in_bunker" ObjectPath="\States\Common\STATE_in_bunker">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_in_bunker\None"/>
+						<State Id="1218194578" Name="STATE_in_bunker_on" ObjectPath="\States\Common\STATE_in_bunker\STATE_in_bunker_on"/>
+						<State Id="3889837576" Name="STATE_in_bunker_off" ObjectPath="\States\Common\STATE_in_bunker\STATE_in_bunker_off"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+		<SoundBank Id="1735767616" Language="SFX">
+			<ObjectPath>\SoundBanks\mlg_work_unit\sixthsense_mlg</ObjectPath>
+			<ShortName>sixthsense_mlg</ShortName>
+			<Path>sixthsense_mlg.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2524229265" Name="mlg_6thsense_illuminati" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_6thsense_illuminati" DurationType="OneShot" DurationMin="2.261950" DurationMax="2.261950">
+					<IncludedMemoryFiles>
+						<File Id="920339167" Language="SFX">
+							<ShortName>Illuminati_short.wav</ShortName>
+							<Path>SFX\Illuminati_short_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1776621568" Language="SFX">
+			<ObjectPath>\SoundBanks\mlg_work_unit\loginscreen</ObjectPath>
+			<ShortName>loginscreen</ShortName>
+			<Path>loginscreen.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3754653678" Name="loginscreen_ambient_start_01" ObjectPath="\Events\MOD\mlg_work_unit\loginscreen\loginscreen_ambient_start_01" DurationType="OneShot" DurationMin="0.419410" DurationMax="0.419410">
+					<IncludedMemoryFiles>
+						<File Id="939661405" Language="SFX">
+							<ShortName>HitmarkerSound-backup1.wav</ShortName>
+							<Path>SFX\HitmarkerSound-backup1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1402715658" Name="loginscreen_ambient_stop_01" ObjectPath="\Events\MOD\mlg_work_unit\loginscreen\loginscreen_ambient_stop_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1866276007" Name="loginscreen_music_pause_01" ObjectPath="\Events\MOD\mlg_work_unit\loginscreen\loginscreen_music_pause_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1219455928" Name="loginscreen_music_resume_01" ObjectPath="\Events\MOD\mlg_work_unit\loginscreen\loginscreen_music_resume_01" DurationType="OneShot" DurationMin="23.988277" DurationMax="23.988277">
+					<IncludedMemoryFiles>
+						<File Id="375378403" Language="SFX">
+							<ShortName>mlg intro music - edited +10db stretched.wav</ShortName>
+							<Path>SFX\mlg intro music - edited +10db stretched_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3522905717" Name="loginscreen_music_start_01" ObjectPath="\Events\MOD\mlg_work_unit\loginscreen\loginscreen_music_start_01" DurationType="OneShot" DurationMin="23.988277" DurationMax="23.988277">
+					<IncludedMemoryFiles>
+						<File Id="375378403" Language="SFX">
+							<ShortName>mlg intro music - edited +10db stretched.wav</ShortName>
+							<Path>SFX\mlg intro music - edited +10db stretched_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4207767594" Name="loginscreen_mute_01" ObjectPath="\Events\MOD\mlg_work_unit\loginscreen\loginscreen_mute_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3475301245" Name="loginscreen_unmute_01" ObjectPath="\Events\MOD\mlg_work_unit\loginscreen\loginscreen_unmute_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2644293958" Language="SFX">
+			<ObjectPath>\SoundBanks\mlg_work_unit\RTAN</ObjectPath>
+			<ShortName>RTAN</ShortName>
+			<Path>RTAN.bnk</Path>
+			<IncludedEvents>
+				<Event Id="630355583" Name="mlg_rtan_notification" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_rtan_notification" DurationType="OneShot" DurationMin="0.267029" DurationMax="0.267029">
+					<IncludedMemoryFiles>
+						<File Id="745287354" Language="SFX">
+							<ShortName>notification.wav</ShortName>
+							<Path>SFX\notification_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="3733553022" Language="SFX">
+			<ObjectPath>\SoundBanks\mlg_work_unit\hitmarker</ObjectPath>
+			<ShortName>hitmarker</ShortName>
+			<Path>hitmarker.bnk</Path>
+			<IncludedEvents>
+				<Event Id="235088465" Name="mlg_Hitmarker" ObjectPath="\Events\MOD\mlg_work_unit\mlg_specific\mlg_Hitmarker" DurationType="OneShot" DurationMin="0.419410" DurationMax="0.419410">
+					<IncludedMemoryFiles>
+						<File Id="939661405" Language="SFX">
+							<ShortName>HitmarkerSound-backup1.wav</ShortName>
+							<Path>SFX\HitmarkerSound-backup1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="4041657371" Language="SFX">
+			<ObjectPath>\SoundBanks\mlg_work_unit\voiceover</ObjectPath>
+			<ShortName>voiceover</ShortName>
+			<Path>voiceover.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2301863335" Name="vo_ally_killed_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_ally_killed_by_player" DurationType="OneShot" DurationMin="1.195828" DurationMax="2.345215">
+					<IncludedMemoryFiles>
+						<File Id="56970766" Language="SFX">
+							<ShortName>teamkill.wav</ShortName>
+							<Path>SFX\teamkill_639CF9DE.wem</Path>
+						</File>
+						<File Id="939883274" Language="SFX">
+							<ShortName>teamkill2.wav</ShortName>
+							<Path>SFX\teamkill2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3166122996" Name="vo_ammo_bay_damaged" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_ammo_bay_damaged" DurationType="OneShot" DurationMin="1.300317" DurationMax="2.914104">
+					<IncludedMemoryFiles>
+						<File Id="163095569" Language="SFX">
+							<ShortName>ammorack_damaged2.wav</ShortName>
+							<Path>SFX\ammorack_damaged2_639CF9DE.wem</Path>
+						</File>
+						<File Id="248551684" Language="SFX">
+							<ShortName>ammorack_damaged3.wav</ShortName>
+							<Path>SFX\ammorack_damaged3_639CF9DE.wem</Path>
+						</File>
+						<File Id="831685367" Language="SFX">
+							<ShortName>ammorack_damaged.wav</ShortName>
+							<Path>SFX\ammorack_damaged_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1332081395" Name="vo_armor_not_pierced_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_armor_not_pierced_by_player" DurationType="OneShot" DurationMin="0.696599" DurationMax="6.720000">
+					<IncludedMemoryFiles>
+						<File Id="39313271" Language="SFX">
+							<ShortName>didntpen_1.wav</ShortName>
+							<Path>SFX\didntpen_1_639CF9DE.wem</Path>
+						</File>
+						<File Id="127234458" Language="SFX">
+							<ShortName>cyka_blyat.wav</ShortName>
+							<Path>SFX\cyka_blyat_639CF9DE.wem</Path>
+						</File>
+						<File Id="313564046" Language="SFX">
+							<ShortName>Bounce_2.wav</ShortName>
+							<Path>SFX\Bounce_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="401214102" Language="SFX">
+							<ShortName>Bounce_1.wav</ShortName>
+							<Path>SFX\Bounce_1_639CF9DE.wem</Path>
+						</File>
+						<File Id="422139913" Language="SFX">
+							<ShortName>Bounce_3.wav</ShortName>
+							<Path>SFX\Bounce_3_639CF9DE.wem</Path>
+						</File>
+						<File Id="435120173" Language="SFX">
+							<ShortName>Bounce_6.wav</ShortName>
+							<Path>SFX\Bounce_6_639CF9DE.wem</Path>
+						</File>
+						<File Id="480473545" Language="SFX">
+							<ShortName>brati2.wav</ShortName>
+							<Path>SFX\brati2_639CF9DE.wem</Path>
+						</File>
+						<File Id="502659169" Language="SFX">
+							<ShortName>waah.wav</ShortName>
+							<Path>SFX\waah_639CF9DE.wem</Path>
+						</File>
+						<File Id="506425466" Language="SFX">
+							<ShortName>didntpen_2.wav</ShortName>
+							<Path>SFX\didntpen_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="764384770" Language="SFX">
+							<ShortName>Bounce_4.wav</ShortName>
+							<Path>SFX\Bounce_4_639CF9DE.wem</Path>
+						</File>
+						<File Id="795657855" Language="SFX">
+							<ShortName>didntpen_4.wav</ShortName>
+							<Path>SFX\didntpen_4_639CF9DE.wem</Path>
+						</File>
+						<File Id="885736313" Language="SFX">
+							<ShortName>Bounce_5.wav</ShortName>
+							<Path>SFX\Bounce_5_639CF9DE.wem</Path>
+						</File>
+						<File Id="898751905" Language="SFX">
+							<ShortName>bratilaugherino2.wav</ShortName>
+							<Path>SFX\bratilaugherino2_639CF9DE.wem</Path>
+						</File>
+						<File Id="941580264" Language="SFX">
+							<ShortName>didntpen_3.wav</ShortName>
+							<Path>SFX\didntpen_3_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2655350512" Name="vo_armor_ricochet_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_armor_ricochet_by_player" DurationType="OneShot" DurationMin="0.696599" DurationMax="6.720000">
+					<IncludedMemoryFiles>
+						<File Id="127234458" Language="SFX">
+							<ShortName>cyka_blyat.wav</ShortName>
+							<Path>SFX\cyka_blyat_639CF9DE.wem</Path>
+						</File>
+						<File Id="313564046" Language="SFX">
+							<ShortName>Bounce_2.wav</ShortName>
+							<Path>SFX\Bounce_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="401214102" Language="SFX">
+							<ShortName>Bounce_1.wav</ShortName>
+							<Path>SFX\Bounce_1_639CF9DE.wem</Path>
+						</File>
+						<File Id="422139913" Language="SFX">
+							<ShortName>Bounce_3.wav</ShortName>
+							<Path>SFX\Bounce_3_639CF9DE.wem</Path>
+						</File>
+						<File Id="435120173" Language="SFX">
+							<ShortName>Bounce_6.wav</ShortName>
+							<Path>SFX\Bounce_6_639CF9DE.wem</Path>
+						</File>
+						<File Id="480473545" Language="SFX">
+							<ShortName>brati2.wav</ShortName>
+							<Path>SFX\brati2_639CF9DE.wem</Path>
+						</File>
+						<File Id="502659169" Language="SFX">
+							<ShortName>waah.wav</ShortName>
+							<Path>SFX\waah_639CF9DE.wem</Path>
+						</File>
+						<File Id="764384770" Language="SFX">
+							<ShortName>Bounce_4.wav</ShortName>
+							<Path>SFX\Bounce_4_639CF9DE.wem</Path>
+						</File>
+						<File Id="885736313" Language="SFX">
+							<ShortName>Bounce_5.wav</ShortName>
+							<Path>SFX\Bounce_5_639CF9DE.wem</Path>
+						</File>
+						<File Id="898751905" Language="SFX">
+							<ShortName>bratilaugherino2.wav</ShortName>
+							<Path>SFX\bratilaugherino2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1946435397" Name="vo_commander_killed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_commander_killed" DurationType="OneShot" DurationMin="1.010068" DurationMax="2.867664">
+					<IncludedMemoryFiles>
+						<File Id="7672157" Language="SFX">
+							<ShortName>commander_died5.wav</ShortName>
+							<Path>SFX\commander_died5_639CF9DE.wem</Path>
+						</File>
+						<File Id="159388960" Language="SFX">
+							<ShortName>commander_died3.wav</ShortName>
+							<Path>SFX\commander_died3_639CF9DE.wem</Path>
+						</File>
+						<File Id="203198300" Language="SFX">
+							<ShortName>commander_died1.wav</ShortName>
+							<Path>SFX\commander_died1_639CF9DE.wem</Path>
+						</File>
+						<File Id="221076440" Language="SFX">
+							<ShortName>commander_died4.wav</ShortName>
+							<Path>SFX\commander_died4_639CF9DE.wem</Path>
+						</File>
+						<File Id="428310048" Language="SFX">
+							<ShortName>commander_died2.wav</ShortName>
+							<Path>SFX\commander_died2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1988695347" Name="vo_crew_deactivated" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_crew_deactivated" DurationType="OneShot" DurationMin="1.277097" DurationMax="2.066576">
+					<IncludedMemoryFiles>
+						<File Id="467495043" Language="SFX">
+							<ShortName>WholeCrewDied3.wav</ShortName>
+							<Path>SFX\WholeCrewDied3_639CF9DE.wem</Path>
+						</File>
+						<File Id="585619315" Language="SFX">
+							<ShortName>WholeCrewDied1.wav</ShortName>
+							<Path>SFX\WholeCrewDied1_639CF9DE.wem</Path>
+						</File>
+						<File Id="695765156" Language="SFX">
+							<ShortName>WholeCrewDied2.wav</ShortName>
+							<Path>SFX\WholeCrewDied2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3716823038" Name="vo_damage_by_near_explosion_by_enemy" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_damage_by_near_explosion_by_enemy" DurationType="OneShot" DurationMin="3.192744" DurationMax="3.192744">
+					<IncludedMemoryFiles>
+						<File Id="694183836" Language="SFX">
+							<ShortName>NearExplosion.wav</ShortName>
+							<Path>SFX\NearExplosion_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2509625173" Name="vo_damage_by_near_explosion_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_damage_by_near_explosion_by_player" DurationType="OneShot" DurationMin="0.998458" DurationMax="4.109932">
+					<IncludedMemoryFiles>
+						<File Id="19645432" Language="SFX">
+							<ShortName>MissedClosely2.wav</ShortName>
+							<Path>SFX\MissedClosely2_639CF9DE.wem</Path>
+						</File>
+						<File Id="140256811" Language="SFX">
+							<ShortName>MissedClosely7.wav</ShortName>
+							<Path>SFX\MissedClosely7_639CF9DE.wem</Path>
+						</File>
+						<File Id="178700574" Language="SFX">
+							<ShortName>MissedClosely.wav</ShortName>
+							<Path>SFX\MissedClosely_639CF9DE.wem</Path>
+						</File>
+						<File Id="438856851" Language="SFX">
+							<ShortName>MissedClosely8.wav</ShortName>
+							<Path>SFX\MissedClosely8_639CF9DE.wem</Path>
+						</File>
+						<File Id="443874806" Language="SFX">
+							<ShortName>MissedClosely10.wav</ShortName>
+							<Path>SFX\MissedClosely10_639CF9DE.wem</Path>
+						</File>
+						<File Id="472739044" Language="SFX">
+							<ShortName>MissedClosely4.wav</ShortName>
+							<Path>SFX\MissedClosely4_639CF9DE.wem</Path>
+						</File>
+						<File Id="797526022" Language="SFX">
+							<ShortName>MissedClosely6.wav</ShortName>
+							<Path>SFX\MissedClosely6_639CF9DE.wem</Path>
+						</File>
+						<File Id="934365835" Language="SFX">
+							<ShortName>MissedClosely5.wav</ShortName>
+							<Path>SFX\MissedClosely5_639CF9DE.wem</Path>
+						</File>
+						<File Id="975433064" Language="SFX">
+							<ShortName>MissedClosely3.wav</ShortName>
+							<Path>SFX\MissedClosely3_639CF9DE.wem</Path>
+						</File>
+						<File Id="1019176045" Language="SFX">
+							<ShortName>MissedClosely9.wav</ShortName>
+							<Path>SFX\MissedClosely9_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2921316646" Name="vo_dp_assistance_been_requested" ObjectPath="\Events\MOD\mlg_work_unit\notifications_dp\vo_dp_assistance_been_requested" DurationType="OneShot" DurationMin="2.136236" DurationMax="2.136236">
+					<IncludedMemoryFiles>
+						<File Id="918689827" Language="SFX">
+							<ShortName>vo_dp_assistance_been_requested_1.wav</ShortName>
+							<Path>SFX\vo_dp_assistance_been_requested_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="831761693" Name="vo_dp_been_excluded_platoon" ObjectPath="\Events\MOD\mlg_work_unit\notifications_dp\vo_dp_been_excluded_platoon" DurationType="OneShot" DurationMin="1.718277" DurationMax="1.718277">
+					<IncludedMemoryFiles>
+						<File Id="937927949" Language="SFX">
+							<ShortName>vo_dp_been_excluded_platoon.wav</ShortName>
+							<Path>SFX\vo_dp_been_excluded_platoon_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="605448325" Name="vo_dp_left_platoon" ObjectPath="\Events\MOD\mlg_work_unit\notifications_dp\vo_dp_left_platoon" DurationType="OneShot" DurationMin="1.822766" DurationMax="1.822766">
+					<IncludedMemoryFiles>
+						<File Id="83291568" Language="SFX">
+							<ShortName>vo_dp_left_platoon_1.wav</ShortName>
+							<Path>SFX\vo_dp_left_platoon_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2717569914" Name="vo_dp_platoon_created" ObjectPath="\Events\MOD\mlg_work_unit\notifications_dp\vo_dp_platoon_created" DurationType="OneShot" DurationMin="2.484535" DurationMax="2.484535">
+					<IncludedMemoryFiles>
+						<File Id="387848628" Language="SFX">
+							<ShortName>vo_dp_platoon_created_1.wav</ShortName>
+							<Path>SFX\vo_dp_platoon_created_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1736989749" Name="vo_dp_platoon_dismissed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_dp\vo_dp_platoon_dismissed" DurationType="OneShot" DurationMin="1.219048" DurationMax="2.542585">
+					<IncludedMemoryFiles>
+						<File Id="849525047" Language="SFX">
+							<ShortName>vo_dp_platoon_dismissed_2.wav</ShortName>
+							<Path>SFX\vo_dp_platoon_dismissed_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="878442904" Language="SFX">
+							<ShortName>vo_dp_platoon_dismissed_1.wav</ShortName>
+							<Path>SFX\vo_dp_platoon_dismissed_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1193243693" Name="vo_dp_platoon_joined" ObjectPath="\Events\MOD\mlg_work_unit\notifications_dp\vo_dp_platoon_joined" DurationType="OneShot" DurationMin="2.763175" DurationMax="2.763175">
+					<IncludedMemoryFiles>
+						<File Id="949678184" Language="SFX">
+							<ShortName>vo_dp_player_joined_platoon.wav</ShortName>
+							<Path>SFX\vo_dp_player_joined_platoon_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2524427447" Name="vo_dp_player_joined_platoon" ObjectPath="\Events\MOD\mlg_work_unit\notifications_dp\vo_dp_player_joined_platoon" DurationType="OneShot" DurationMin="1.195828" DurationMax="1.416417">
+					<IncludedMemoryFiles>
+						<File Id="723414006" Language="SFX">
+							<ShortName>vo_dp_player_joined_platoon_2.wav</ShortName>
+							<Path>SFX\vo_dp_player_joined_platoon_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="1056773829" Language="SFX">
+							<ShortName>vo_dp_player_joined_platoon_1.wav</ShortName>
+							<Path>SFX\vo_dp_player_joined_platoon_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="664892591" Name="vo_driver_killed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_driver_killed" DurationType="OneShot" DurationMin="1.068118" DurationMax="1.358367">
+					<IncludedMemoryFiles>
+						<File Id="269337533" Language="SFX">
+							<ShortName>driver_died1.wav</ShortName>
+							<Path>SFX\driver_died1_639CF9DE.wem</Path>
+						</File>
+						<File Id="712439722" Language="SFX">
+							<ShortName>driver_died2.wav</ShortName>
+							<Path>SFX\driver_died2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3563950026" Name="vo_enemy_fire_started_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_fire_started_by_player" DurationType="OneShot" DurationMin="3.118322" DurationMax="3.118322">
+					<IncludedMemoryFiles>
+						<File Id="989385231" Language="SFX">
+							<ShortName>Bonfire.wav</ShortName>
+							<Path>SFX\Bonfire_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4209631318" Name="vo_enemy_hp_damaged_by_explosion_at_direct_hit_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_hp_damaged_by_explosion_at_direct_hit_by_player" DurationType="OneShot" DurationMin="0.870748" DurationMax="1.985306">
+					<IncludedMemoryFiles>
+						<File Id="144655707" Language="SFX">
+							<ShortName>CriticalHit_1.wav</ShortName>
+							<Path>SFX\CriticalHit_1_639CF9DE.wem</Path>
+						</File>
+						<File Id="218562544" Language="SFX">
+							<ShortName>CriticalHit_5.wav</ShortName>
+							<Path>SFX\CriticalHit_5_639CF9DE.wem</Path>
+						</File>
+						<File Id="432149900" Language="SFX">
+							<ShortName>CriticalHit_3.wav</ShortName>
+							<Path>SFX\CriticalHit_3_639CF9DE.wem</Path>
+						</File>
+						<File Id="615011351" Language="SFX">
+							<ShortName>CriticalHit_6.wav</ShortName>
+							<Path>SFX\CriticalHit_6_639CF9DE.wem</Path>
+						</File>
+						<File Id="869833018" Language="SFX">
+							<ShortName>CriticalHit_2.wav</ShortName>
+							<Path>SFX\CriticalHit_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="1015940323" Language="SFX">
+							<ShortName>CriticalHit_4.wav</ShortName>
+							<Path>SFX\CriticalHit_4_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="136522141" Name="vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_hp_damaged_by_projectile_and_chassis_damaged_by_player" DurationType="OneShot" DurationMin="0.870748" DurationMax="1.985306">
+					<IncludedMemoryFiles>
+						<File Id="144655707" Language="SFX">
+							<ShortName>CriticalHit_1.wav</ShortName>
+							<Path>SFX\CriticalHit_1_639CF9DE.wem</Path>
+						</File>
+						<File Id="218562544" Language="SFX">
+							<ShortName>CriticalHit_5.wav</ShortName>
+							<Path>SFX\CriticalHit_5_639CF9DE.wem</Path>
+						</File>
+						<File Id="432149900" Language="SFX">
+							<ShortName>CriticalHit_3.wav</ShortName>
+							<Path>SFX\CriticalHit_3_639CF9DE.wem</Path>
+						</File>
+						<File Id="615011351" Language="SFX">
+							<ShortName>CriticalHit_6.wav</ShortName>
+							<Path>SFX\CriticalHit_6_639CF9DE.wem</Path>
+						</File>
+						<File Id="869833018" Language="SFX">
+							<ShortName>CriticalHit_2.wav</ShortName>
+							<Path>SFX\CriticalHit_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="1015940323" Language="SFX">
+							<ShortName>CriticalHit_4.wav</ShortName>
+							<Path>SFX\CriticalHit_4_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="102434383" Name="vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_hp_damaged_by_projectile_and_gun_damaged_by_player" DurationType="OneShot" DurationMin="0.870748" DurationMax="1.985306">
+					<IncludedMemoryFiles>
+						<File Id="144655707" Language="SFX">
+							<ShortName>CriticalHit_1.wav</ShortName>
+							<Path>SFX\CriticalHit_1_639CF9DE.wem</Path>
+						</File>
+						<File Id="218562544" Language="SFX">
+							<ShortName>CriticalHit_5.wav</ShortName>
+							<Path>SFX\CriticalHit_5_639CF9DE.wem</Path>
+						</File>
+						<File Id="432149900" Language="SFX">
+							<ShortName>CriticalHit_3.wav</ShortName>
+							<Path>SFX\CriticalHit_3_639CF9DE.wem</Path>
+						</File>
+						<File Id="615011351" Language="SFX">
+							<ShortName>CriticalHit_6.wav</ShortName>
+							<Path>SFX\CriticalHit_6_639CF9DE.wem</Path>
+						</File>
+						<File Id="869833018" Language="SFX">
+							<ShortName>CriticalHit_2.wav</ShortName>
+							<Path>SFX\CriticalHit_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="1015940323" Language="SFX">
+							<ShortName>CriticalHit_4.wav</ShortName>
+							<Path>SFX\CriticalHit_4_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1057290642" Name="vo_enemy_hp_damaged_by_projectile_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_hp_damaged_by_projectile_by_player" DurationType="OneShot" DurationMin="0.846825" DurationMax="3.157914">
+					<IncludedMemoryFiles>
+						<File Id="76502248" Language="SFX">
+							<ShortName>Pen_4.wav</ShortName>
+							<Path>SFX\Pen_4_639CF9DE.wem</Path>
+						</File>
+						<File Id="274567573" Language="SFX">
+							<ShortName>Pen_5.wav</ShortName>
+							<Path>SFX\Pen_5_639CF9DE.wem</Path>
+						</File>
+						<File Id="358247964" Language="SFX">
+							<ShortName>Pen_8.wav</ShortName>
+							<Path>SFX\Pen_8_639CF9DE.wem</Path>
+						</File>
+						<File Id="368145231" Language="SFX">
+							<ShortName>Pen_2.wav</ShortName>
+							<Path>SFX\Pen_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="599278310" Language="SFX">
+							<ShortName>Pen_6.wav</ShortName>
+							<Path>SFX\Pen_6_639CF9DE.wem</Path>
+						</File>
+						<File Id="661523849" Language="SFX">
+							<ShortName>Pen_3.wav</ShortName>
+							<Path>SFX\Pen_3_639CF9DE.wem</Path>
+						</File>
+						<File Id="745633163" Language="SFX">
+							<ShortName>Pen_7.wav</ShortName>
+							<Path>SFX\Pen_7_639CF9DE.wem</Path>
+						</File>
+						<File Id="977676725" Language="SFX">
+							<ShortName>Pen_1.wav</ShortName>
+							<Path>SFX\Pen_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1316861587" Name="vo_enemy_killed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_killed" DurationType="OneShot" DurationMin="0.348912" DurationMax="0.348912">
+					<IncludedMemoryFiles>
+						<File Id="434529130" Language="SFX">
+							<ShortName>silence.wav</ShortName>
+							<Path>SFX\silence_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1122640859" Name="vo_enemy_killed_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_killed_by_player" DurationType="OneShot" DurationMin="0.348912" DurationMax="0.348912">
+					<IncludedMemoryFiles>
+						<File Id="434529130" Language="SFX">
+							<ShortName>silence.wav</ShortName>
+							<Path>SFX\silence_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3406769" Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" DurationType="OneShot" DurationMin="1.613787" DurationMax="2.310385">
+					<IncludedMemoryFiles>
+						<File Id="28880999" Language="SFX">
+							<ShortName>you only hit the tracks learn to aim.wav</ShortName>
+							<Path>SFX\you only hit the tracks learn to aim_639CF9DE.wem</Path>
+						</File>
+						<File Id="117945431" Language="SFX">
+							<ShortName>tracks best armor confirmed.wav</ShortName>
+							<Path>SFX\tracks best armor confirmed_639CF9DE.wem</Path>
+						</File>
+						<File Id="486958479" Language="SFX">
+							<ShortName>CriticalHitNODAMAGE.wav</ShortName>
+							<Path>SFX\CriticalHitNODAMAGE_639CF9DE.wem</Path>
+						</File>
+						<File Id="559278191" Language="SFX">
+							<ShortName>just shooting the tracks wont kill him.wav</ShortName>
+							<Path>SFX\just shooting the tracks wont kill him_639CF9DE.wem</Path>
+						</File>
+						<File Id="764563825" Language="SFX">
+							<ShortName>at least you hit something.wav</ShortName>
+							<Path>SFX\at least you hit something_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3175172091" Name="vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_no_hp_damage_at_attempt_and_gun_damaged_by_player" DurationType="OneShot" DurationMin="1.555737" DurationMax="1.869206">
+					<IncludedMemoryFiles>
+						<File Id="486958479" Language="SFX">
+							<ShortName>CriticalHitNODAMAGE.wav</ShortName>
+							<Path>SFX\CriticalHitNODAMAGE_639CF9DE.wem</Path>
+						</File>
+						<File Id="723438868" Language="SFX">
+							<ShortName>maybe he cant shoot you now.wav</ShortName>
+							<Path>SFX\maybe he cant shoot you now_639CF9DE.wem</Path>
+						</File>
+						<File Id="764563825" Language="SFX">
+							<ShortName>at least you hit something.wav</ShortName>
+							<Path>SFX\at least you hit something_639CF9DE.wem</Path>
+						</File>
+						<File Id="925826009" Language="SFX">
+							<ShortName>his donger got in the way.wav</ShortName>
+							<Path>SFX\his donger got in the way_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="730352367" Name="vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_no_hp_damage_at_no_attempt_and_chassis_damaged_by_player" DurationType="OneShot" DurationMin="1.613787" DurationMax="2.310385">
+					<IncludedMemoryFiles>
+						<File Id="28880999" Language="SFX">
+							<ShortName>you only hit the tracks learn to aim.wav</ShortName>
+							<Path>SFX\you only hit the tracks learn to aim_639CF9DE.wem</Path>
+						</File>
+						<File Id="117945431" Language="SFX">
+							<ShortName>tracks best armor confirmed.wav</ShortName>
+							<Path>SFX\tracks best armor confirmed_639CF9DE.wem</Path>
+						</File>
+						<File Id="486958479" Language="SFX">
+							<ShortName>CriticalHitNODAMAGE.wav</ShortName>
+							<Path>SFX\CriticalHitNODAMAGE_639CF9DE.wem</Path>
+						</File>
+						<File Id="559278191" Language="SFX">
+							<ShortName>just shooting the tracks wont kill him.wav</ShortName>
+							<Path>SFX\just shooting the tracks wont kill him_639CF9DE.wem</Path>
+						</File>
+						<File Id="764563825" Language="SFX">
+							<ShortName>at least you hit something.wav</ShortName>
+							<Path>SFX\at least you hit something_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1713814001" Name="vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_no_hp_damage_at_no_attempt_and_gun_damaged_by_player" DurationType="OneShot" DurationMin="1.555737" DurationMax="1.869206">
+					<IncludedMemoryFiles>
+						<File Id="486958479" Language="SFX">
+							<ShortName>CriticalHitNODAMAGE.wav</ShortName>
+							<Path>SFX\CriticalHitNODAMAGE_639CF9DE.wem</Path>
+						</File>
+						<File Id="723438868" Language="SFX">
+							<ShortName>maybe he cant shoot you now.wav</ShortName>
+							<Path>SFX\maybe he cant shoot you now_639CF9DE.wem</Path>
+						</File>
+						<File Id="764563825" Language="SFX">
+							<ShortName>at least you hit something.wav</ShortName>
+							<Path>SFX\at least you hit something_639CF9DE.wem</Path>
+						</File>
+						<File Id="925826009" Language="SFX">
+							<ShortName>his donger got in the way.wav</ShortName>
+							<Path>SFX\his donger got in the way_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3207438912" Name="vo_enemy_no_hp_damage_at_no_attempt_by_player" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_enemy_no_hp_damage_at_no_attempt_by_player" DurationType="OneShot" DurationMin="1.613787" DurationMax="2.574512">
+					<IncludedMemoryFiles>
+						<File Id="67986917" Language="SFX">
+							<ShortName>you cannot do damage if you do not penetrate.wav</ShortName>
+							<Path>SFX\you cannot do damage if you do not penetrate_639CF9DE.wem</Path>
+						</File>
+						<File Id="764563825" Language="SFX">
+							<ShortName>at least you hit something.wav</ShortName>
+							<Path>SFX\at least you hit something_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1702267773" Name="vo_engine_damaged" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_engine_damaged" DurationType="OneShot" DurationMin="1.044898" DurationMax="1.741497">
+					<IncludedMemoryFiles>
+						<File Id="627705560" Language="SFX">
+							<ShortName>engine_damaged.wav</ShortName>
+							<Path>SFX\engine_damaged_639CF9DE.wem</Path>
+						</File>
+						<File Id="729886935" Language="SFX">
+							<ShortName>engine_damaged (2).wav</ShortName>
+							<Path>SFX\engine_damaged (2)_639CF9DE.wem</Path>
+						</File>
+						<File Id="906166225" Language="SFX">
+							<ShortName>engine_damaged2.wav</ShortName>
+							<Path>SFX\engine_damaged2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1302422561" Name="vo_engine_destroyed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_engine_destroyed" DurationType="OneShot" DurationMin="1.416417" DurationMax="1.416417">
+					<IncludedMemoryFiles>
+						<File Id="502911072" Language="SFX">
+							<ShortName>engine_destroyed.wav</ShortName>
+							<Path>SFX\engine_destroyed_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4148607935" Name="vo_engine_functional" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_engine_functional" DurationType="OneShot" DurationMin="1.079728" DurationMax="1.567347">
+					<IncludedMemoryFiles>
+						<File Id="297455883" Language="SFX">
+							<ShortName>engine_functional.wav</ShortName>
+							<Path>SFX\engine_functional_639CF9DE.wem</Path>
+						</File>
+						<File Id="521117311" Language="SFX">
+							<ShortName>engine_functional3.wav</ShortName>
+							<Path>SFX\engine_functional3_639CF9DE.wem</Path>
+						</File>
+						<File Id="538773794" Language="SFX">
+							<ShortName>engine_functional2.wav</ShortName>
+							<Path>SFX\engine_functional2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1396083645" Name="vo_fire_started" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_fire_started" DurationType="OneShot" DurationMin="3.082449" DurationMax="3.082449">
+					<IncludedMemoryFiles>
+						<File Id="922986319" Language="SFX">
+							<ShortName>Horn.wav</ShortName>
+							<Path>SFX\Horn_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3616464105" Name="vo_fire_stopped" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_fire_stopped" DurationType="OneShot" DurationMin="1.369977" DurationMax="2.809614">
+					<IncludedMemoryFiles>
+						<File Id="480134926" Language="SFX">
+							<ShortName>fire_out.wav</ShortName>
+							<Path>SFX\fire_out_639CF9DE.wem</Path>
+						</File>
+						<File Id="821954590" Language="SFX">
+							<ShortName>fire_out2.wav</ShortName>
+							<Path>SFX\fire_out2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2719910977" Name="vo_flt_ally_captured" ObjectPath="\Events\MOD\mlg_work_unit\notifications_flt\vo_flt_ally_captured" DurationType="OneShot" DurationMin="1.637007" DurationMax="1.637007">
+					<IncludedMemoryFiles>
+						<File Id="647835402" Language="SFX">
+							<ShortName>vo_flt_ally_captured.wav</ShortName>
+							<Path>SFX\vo_flt_ally_captured_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2664141873" Name="vo_flt_ally_flag" ObjectPath="\Events\MOD\mlg_work_unit\notifications_flt\vo_flt_ally_flag" DurationType="OneShot" DurationMin="1.590567" DurationMax="1.590567">
+					<IncludedMemoryFiles>
+						<File Id="844259712" Language="SFX">
+							<ShortName>vo_flt_ally_flag.wav</ShortName>
+							<Path>SFX\vo_flt_ally_flag_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2204362635" Name="vo_flt_combat_reserve" ObjectPath="\Events\MOD\mlg_work_unit\notifications_flt\vo_flt_combat_reserve" DurationType="OneShot" DurationMin="1.393197" DurationMax="1.393197">
+					<IncludedMemoryFiles>
+						<File Id="768455735" Language="SFX">
+							<ShortName>vo_flt_combat_reserve.wav</ShortName>
+							<Path>SFX\vo_flt_combat_reserve_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1190544762" Name="vo_flt_deliver_flag" ObjectPath="\Events\MOD\mlg_work_unit\notifications_flt\vo_flt_deliver_flag" DurationType="OneShot" DurationMin="2.263946" DurationMax="2.263946">
+					<IncludedMemoryFiles>
+						<File Id="745351487" Language="SFX">
+							<ShortName>vo_flt_deliver_flag.wav</ShortName>
+							<Path>SFX\vo_flt_deliver_flag_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="743931770" Name="vo_flt_drop_flag" ObjectPath="\Events\MOD\mlg_work_unit\notifications_flt\vo_flt_drop_flag" DurationType="OneShot" DurationMin="2.054966" DurationMax="2.054966">
+					<IncludedMemoryFiles>
+						<File Id="38856804" Language="SFX">
+							<ShortName>vo_flt_drop_flag_1.wav</ShortName>
+							<Path>SFX\vo_flt_drop_flag_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2727251273" Name="vo_flt_enemy_take_flag" ObjectPath="\Events\MOD\mlg_work_unit\notifications_flt\vo_flt_enemy_take_flag" DurationType="OneShot" DurationMin="2.589025" DurationMax="2.589025">
+					<IncludedMemoryFiles>
+						<File Id="993669075" Language="SFX">
+							<ShortName>vo_flt_enemy_take_flag.wav</ShortName>
+							<Path>SFX\vo_flt_enemy_take_flag_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="390769732" Name="vo_flt_ready_for_action" ObjectPath="\Events\MOD\mlg_work_unit\notifications_flt\vo_flt_ready_for_action" DurationType="OneShot" DurationMin="2.159456" DurationMax="2.159456">
+					<IncludedMemoryFiles>
+						<File Id="74092194" Language="SFX">
+							<ShortName>vo_flt_ready_for_action.wav</ShortName>
+							<Path>SFX\vo_flt_ready_for_action_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2621563361" Name="vo_flt_repair" ObjectPath="\Events\MOD\mlg_work_unit\notifications_flt\vo_flt_repair" DurationType="OneShot" DurationMin="2.554195" DurationMax="2.554195">
+					<IncludedMemoryFiles>
+						<File Id="440124092" Language="SFX">
+							<ShortName>vo_flt_repair.wav</ShortName>
+							<Path>SFX\vo_flt_repair_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3472660432" Name="vo_flt_take_flag" ObjectPath="\Events\MOD\mlg_work_unit\notifications_flt\vo_flt_take_flag" DurationType="OneShot" DurationMin="2.089796" DurationMax="2.089796">
+					<IncludedMemoryFiles>
+						<File Id="146986677" Language="SFX">
+							<ShortName>vo_flt_take_flag.wav</ShortName>
+							<Path>SFX\vo_flt_take_flag_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1641781602" Name="vo_fuel_tank_damaged" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_fuel_tank_damaged" DurationType="OneShot" DurationMin="1.393197" DurationMax="3.181134">
+					<IncludedMemoryFiles>
+						<File Id="368711477" Language="SFX">
+							<ShortName>fueltank_damaged.wav</ShortName>
+							<Path>SFX\fueltank_damaged_639CF9DE.wem</Path>
+						</File>
+						<File Id="387694001" Language="SFX">
+							<ShortName>fueltank_damaged3_LOWCHANCE.wav</ShortName>
+							<Path>SFX\fueltank_damaged3_LOWCHANCE_639CF9DE.wem</Path>
+						</File>
+						<File Id="1062460807" Language="SFX">
+							<ShortName>fueltank_damaged2.wav</ShortName>
+							<Path>SFX\fueltank_damaged2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="693799259" Name="vo_gun_damaged" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_gun_damaged" DurationType="OneShot" DurationMin="1.044898" DurationMax="1.706667">
+					<IncludedMemoryFiles>
+						<File Id="91781935" Language="SFX">
+							<ShortName>gun_damaged2.wav</ShortName>
+							<Path>SFX\gun_damaged2_639CF9DE.wem</Path>
+						</File>
+						<File Id="178716750" Language="SFX">
+							<ShortName>gun_damaged.wav</ShortName>
+							<Path>SFX\gun_damaged_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="825236543" Name="vo_gun_destroyed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_gun_destroyed" DurationType="OneShot" DurationMin="1.335147" DurationMax="1.462857">
+					<IncludedMemoryFiles>
+						<File Id="791537409" Language="SFX">
+							<ShortName>gun_destroyed.wav</ShortName>
+							<Path>SFX\gun_destroyed_639CF9DE.wem</Path>
+						</File>
+						<File Id="796692067" Language="SFX">
+							<ShortName>gun_damaged3.wav</ShortName>
+							<Path>SFX\gun_damaged3_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4011208105" Name="vo_gun_functional" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_gun_functional" DurationType="OneShot" DurationMin="1.439637" DurationMax="3.111474">
+					<IncludedMemoryFiles>
+						<File Id="159068736" Language="SFX">
+							<ShortName>gun_functional2.wav</ShortName>
+							<Path>SFX\gun_functional2_639CF9DE.wem</Path>
+						</File>
+						<File Id="268673558" Language="SFX">
+							<ShortName>gun_functional.wav</ShortName>
+							<Path>SFX\gun_functional_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1107412350" Name="vo_gunner_killed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_gunner_killed" DurationType="OneShot" DurationMin="1.277097" DurationMax="2.287166">
+					<IncludedMemoryFiles>
+						<File Id="81375299" Language="SFX">
+							<ShortName>gunner_died.wav</ShortName>
+							<Path>SFX\gunner_died_639CF9DE.wem</Path>
+						</File>
+						<File Id="1026530163" Language="SFX">
+							<ShortName>gunner_died2.wav</ShortName>
+							<Path>SFX\gunner_died2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1781671118" Name="vo_loader_killed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_loader_killed" DurationType="OneShot" DurationMin="1.230658" DurationMax="1.253878">
+					<IncludedMemoryFiles>
+						<File Id="524854320" Language="SFX">
+							<ShortName>loader_killed2.wav</ShortName>
+							<Path>SFX\loader_killed2_639CF9DE.wem</Path>
+						</File>
+						<File Id="721141061" Language="SFX">
+							<ShortName>loader_killed.wav</ShortName>
+							<Path>SFX\loader_killed_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="575170028" Name="vo_radio_damaged" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_radio_damaged" DurationType="OneShot" DurationMin="1.416417" DurationMax="1.753107">
+					<IncludedMemoryFiles>
+						<File Id="485771897" Language="SFX">
+							<ShortName>Radio_damaged.wav</ShortName>
+							<Path>SFX\Radio_damaged_639CF9DE.wem</Path>
+						</File>
+						<File Id="865034638" Language="SFX">
+							<ShortName>Radio_damaged2.wav</ShortName>
+							<Path>SFX\Radio_damaged2_639CF9DE.wem</Path>
+						</File>
+						<File Id="1026027327" Language="SFX">
+							<ShortName>Radio_damaged3.wav</ShortName>
+							<Path>SFX\Radio_damaged3_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3928775652" Name="vo_radioman_killed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_radioman_killed" DurationType="OneShot" DurationMin="1.311927" DurationMax="2.299388">
+					<IncludedMemoryFiles>
+						<File Id="383734919" Language="SFX">
+							<ShortName>radioman_died3.wav</ShortName>
+							<Path>SFX\radioman_died3_639CF9DE.wem</Path>
+						</File>
+						<File Id="539456652" Language="SFX">
+							<ShortName>radioman_died.wav</ShortName>
+							<Path>SFX\radioman_died_639CF9DE.wem</Path>
+						</File>
+						<File Id="629070276" Language="SFX">
+							<ShortName>radioman_died4.wav</ShortName>
+							<Path>SFX\radioman_died4_639CF9DE.wem</Path>
+						</File>
+						<File Id="981556336" Language="SFX">
+							<ShortName>radioman_died2.wav</ShortName>
+							<Path>SFX\radioman_died2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="590598450" Name="vo_start_battle" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_start_battle" DurationType="OneShot" DurationMin="0.743039" DurationMax="4.887800">
+					<IncludedMemoryFiles>
+						<File Id="16925058" Language="SFX">
+							<ShortName>Battle_start14.wav</ShortName>
+							<Path>SFX\Battle_start14_639CF9DE.wem</Path>
+						</File>
+						<File Id="17775494" Language="SFX">
+							<ShortName>Battle_start2.wav</ShortName>
+							<Path>SFX\Battle_start2_639CF9DE.wem</Path>
+						</File>
+						<File Id="27733038" Language="SFX">
+							<ShortName>Battle_start24.wav</ShortName>
+							<Path>SFX\Battle_start24_639CF9DE.wem</Path>
+						</File>
+						<File Id="98696452" Language="SFX">
+							<ShortName>Battle_start18.wav</ShortName>
+							<Path>SFX\Battle_start18_639CF9DE.wem</Path>
+						</File>
+						<File Id="153162670" Language="SFX">
+							<ShortName>Battle_start19.wav</ShortName>
+							<Path>SFX\Battle_start19_639CF9DE.wem</Path>
+						</File>
+						<File Id="185920831" Language="SFX">
+							<ShortName>Battle_start10.wav</ShortName>
+							<Path>SFX\Battle_start10_639CF9DE.wem</Path>
+						</File>
+						<File Id="203854264" Language="SFX">
+							<ShortName>Battle_start7.wav</ShortName>
+							<Path>SFX\Battle_start7_639CF9DE.wem</Path>
+						</File>
+						<File Id="246935834" Language="SFX">
+							<ShortName>Battle_start20.wav</ShortName>
+							<Path>SFX\Battle_start20_639CF9DE.wem</Path>
+						</File>
+						<File Id="303931122" Language="SFX">
+							<ShortName>Battle_start.wav</ShortName>
+							<Path>SFX\Battle_start_639CF9DE.wem</Path>
+						</File>
+						<File Id="373208547" Language="SFX">
+							<ShortName>Battle_start5.wav</ShortName>
+							<Path>SFX\Battle_start5_639CF9DE.wem</Path>
+						</File>
+						<File Id="399433663" Language="SFX">
+							<ShortName>Battle_start15.wav</ShortName>
+							<Path>SFX\Battle_start15_639CF9DE.wem</Path>
+						</File>
+						<File Id="407799110" Language="SFX">
+							<ShortName>Battle_start27.wav</ShortName>
+							<Path>SFX\Battle_start27_639CF9DE.wem</Path>
+						</File>
+						<File Id="449924422" Language="SFX">
+							<ShortName>Battle_start16.wav</ShortName>
+							<Path>SFX\Battle_start16_639CF9DE.wem</Path>
+						</File>
+						<File Id="529757638" Language="SFX">
+							<ShortName>Battle_start22.wav</ShortName>
+							<Path>SFX\Battle_start22_639CF9DE.wem</Path>
+						</File>
+						<File Id="566370152" Language="SFX">
+							<ShortName>Battle_start13.wav</ShortName>
+							<Path>SFX\Battle_start13_639CF9DE.wem</Path>
+						</File>
+						<File Id="581392322" Language="SFX">
+							<ShortName>Battle_start23.wav</ShortName>
+							<Path>SFX\Battle_start23_639CF9DE.wem</Path>
+						</File>
+						<File Id="615391095" Language="SFX">
+							<ShortName>Battle_start21.wav</ShortName>
+							<Path>SFX\Battle_start21_639CF9DE.wem</Path>
+						</File>
+						<File Id="706149578" Language="SFX">
+							<ShortName>Battle_start4.wav</ShortName>
+							<Path>SFX\Battle_start4_639CF9DE.wem</Path>
+						</File>
+						<File Id="738515086" Language="SFX">
+							<ShortName>Battle_start3.wav</ShortName>
+							<Path>SFX\Battle_start3_639CF9DE.wem</Path>
+						</File>
+						<File Id="739457198" Language="SFX">
+							<ShortName>Battle_start11.wav</ShortName>
+							<Path>SFX\Battle_start11_639CF9DE.wem</Path>
+						</File>
+						<File Id="744789361" Language="SFX">
+							<ShortName>Battle_start25.wav</ShortName>
+							<Path>SFX\Battle_start25_639CF9DE.wem</Path>
+						</File>
+						<File Id="750697291" Language="SFX">
+							<ShortName>Battle_start9.wav</ShortName>
+							<Path>SFX\Battle_start9_639CF9DE.wem</Path>
+						</File>
+						<File Id="797987408" Language="SFX">
+							<ShortName>Battle_start17.wav</ShortName>
+							<Path>SFX\Battle_start17_639CF9DE.wem</Path>
+						</File>
+						<File Id="888360964" Language="SFX">
+							<ShortName>Battle_start6.wav</ShortName>
+							<Path>SFX\Battle_start6_639CF9DE.wem</Path>
+						</File>
+						<File Id="946969175" Language="SFX">
+							<ShortName>Battle_start8.wav</ShortName>
+							<Path>SFX\Battle_start8_639CF9DE.wem</Path>
+						</File>
+						<File Id="1008987283" Language="SFX">
+							<ShortName>Battle_start26.wav</ShortName>
+							<Path>SFX\Battle_start26_639CF9DE.wem</Path>
+						</File>
+						<File Id="1063259514" Language="SFX">
+							<ShortName>Battle_start12.wav</ShortName>
+							<Path>SFX\Battle_start12_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1077949222" Name="vo_surveying_devices_crit_damaged" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_surveying_devices_crit_damaged" DurationType="OneShot" DurationMin="2.252336" DurationMax="2.252336">
+					<IncludedMemoryFiles>
+						<File Id="135255537" Language="SFX">
+							<ShortName>vo_surveying_devices_crit_damaged.wav</ShortName>
+							<Path>SFX\vo_surveying_devices_crit_damaged_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2775977275" Name="vo_surveying_devices_damaged" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_surveying_devices_damaged" DurationType="OneShot" DurationMin="1.555737" DurationMax="1.555737">
+					<IncludedMemoryFiles>
+						<File Id="795791768" Language="SFX">
+							<ShortName>surveyingDeviceDamged.wav</ShortName>
+							<Path>SFX\surveyingDeviceDamged_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1112395295" Name="vo_surveying_devices_destroyed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_surveying_devices_destroyed" DurationType="OneShot" DurationMin="1.834376" DurationMax="1.834376">
+					<IncludedMemoryFiles>
+						<File Id="519964500" Language="SFX">
+							<ShortName>surveyingDeviceDestroyed.wav</ShortName>
+							<Path>SFX\surveyingDeviceDestroyed_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="998311689" Name="vo_surveying_devices_functional" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_surveying_devices_functional" DurationType="OneShot" DurationMin="2.113016" DurationMax="2.113016">
+					<IncludedMemoryFiles>
+						<File Id="632370187" Language="SFX">
+							<ShortName>surveyingDeviceFunctional.wav</ShortName>
+							<Path>SFX\surveyingDeviceFunctional_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1491984609" Name="vo_target_captured" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_target_captured" DurationType="OneShot" DurationMin="1.381587" DurationMax="2.670295">
+					<IncludedMemoryFiles>
+						<File Id="10495291" Language="SFX">
+							<ShortName>DAMN SON WHERED YOU FIND THIS.wav</ShortName>
+							<Path>SFX\DAMN SON WHERED YOU FIND THIS_639CF9DE.wem</Path>
+						</File>
+						<File Id="245488460" Language="SFX">
+							<ShortName>target_captured.wav</ShortName>
+							<Path>SFX\target_captured_639CF9DE.wem</Path>
+						</File>
+						<File Id="608381843" Language="SFX">
+							<ShortName>target_captured2.wav</ShortName>
+							<Path>SFX\target_captured2_639CF9DE.wem</Path>
+						</File>
+						<File Id="800623062" Language="SFX">
+							<ShortName>target_captured3.wav</ShortName>
+							<Path>SFX\target_captured3_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2836359293" Name="vo_target_lost" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_target_lost" DurationType="OneShot" DurationMin="1.021678" DurationMax="1.486077">
+					<IncludedMemoryFiles>
+						<File Id="282280971" Language="SFX">
+							<ShortName>target_lost3.wav</ShortName>
+							<Path>SFX\target_lost3_639CF9DE.wem</Path>
+						</File>
+						<File Id="418082889" Language="SFX">
+							<ShortName>target_lost.wav</ShortName>
+							<Path>SFX\target_lost_639CF9DE.wem</Path>
+						</File>
+						<File Id="489647740" Language="SFX">
+							<ShortName>target_lost4.wav</ShortName>
+							<Path>SFX\target_lost4_639CF9DE.wem</Path>
+						</File>
+						<File Id="1026144453" Language="SFX">
+							<ShortName>target_lost2.wav</ShortName>
+							<Path>SFX\target_lost2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="85617264" Name="vo_target_unlocked" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_target_unlocked" DurationType="OneShot" DurationMin="0.743039" DurationMax="2.879274">
+					<IncludedMemoryFiles>
+						<File Id="212824697" Language="SFX">
+							<ShortName>target_unlocked3.wav</ShortName>
+							<Path>SFX\target_unlocked3_639CF9DE.wem</Path>
+						</File>
+						<File Id="345614438" Language="SFX">
+							<ShortName>target_unlocked4.wav</ShortName>
+							<Path>SFX\target_unlocked4_639CF9DE.wem</Path>
+						</File>
+						<File Id="534660539" Language="SFX">
+							<ShortName>target_unlocked.wav</ShortName>
+							<Path>SFX\target_unlocked_639CF9DE.wem</Path>
+						</File>
+						<File Id="951785992" Language="SFX">
+							<ShortName>target_unlocked2.wav</ShortName>
+							<Path>SFX\target_unlocked2_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="766987452" Name="vo_track_damaged" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_track_damaged" DurationType="OneShot" DurationMin="0.859138" DurationMax="1.753107">
+					<IncludedMemoryFiles>
+						<File Id="635060205" Language="SFX">
+							<ShortName>Track_damaged3.wav</ShortName>
+							<Path>SFX\Track_damaged3_639CF9DE.wem</Path>
+						</File>
+						<File Id="709346903" Language="SFX">
+							<ShortName>Track_damaged.wav</ShortName>
+							<Path>SFX\Track_damaged_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1244332268" Name="vo_track_destroyed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_track_destroyed" DurationType="OneShot" DurationMin="0.835918" DurationMax="1.404807">
+					<IncludedMemoryFiles>
+						<File Id="465714960" Language="SFX">
+							<ShortName>Track_destroyed2.wav</ShortName>
+							<Path>SFX\Track_destroyed2_639CF9DE.wem</Path>
+						</File>
+						<File Id="582285931" Language="SFX">
+							<ShortName>Track_destroyed.wav</ShortName>
+							<Path>SFX\Track_destroyed_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3498324732" Name="vo_track_functional" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_track_functional" DurationType="OneShot" DurationMin="1.033288" DurationMax="1.033288">
+					<IncludedMemoryFiles>
+						<File Id="885432025" Language="SFX">
+							<ShortName>Track_repaired.wav</ShortName>
+							<Path>SFX\Track_repaired_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="311966861" Name="vo_track_functional_can_move" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_track_functional_can_move" DurationType="OneShot" DurationMin="0.801088" DurationMax="2.809614">
+					<IncludedMemoryFiles>
+						<File Id="349467536" Language="SFX">
+							<ShortName>Track_canMove3.wav</ShortName>
+							<Path>SFX\Track_canMove3_639CF9DE.wem</Path>
+						</File>
+						<File Id="506544341" Language="SFX">
+							<ShortName>Track_canMove.wav</ShortName>
+							<Path>SFX\Track_canMove_639CF9DE.wem</Path>
+						</File>
+						<File Id="586547448" Language="SFX">
+							<ShortName>Track_canMove2.wav</ShortName>
+							<Path>SFX\Track_canMove2_639CF9DE.wem</Path>
+						</File>
+						<File Id="712316573" Language="SFX">
+							<ShortName>SANIC0.wav</ShortName>
+							<Path>SFX\SANIC0_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="47755571" Name="vo_turret_rotator_damaged" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_turret_rotator_damaged" DurationType="OneShot" DurationMin="1.451247" DurationMax="1.451247">
+					<IncludedMemoryFiles>
+						<File Id="13944554" Language="SFX">
+							<ShortName>TurretRing_Damaged.wav</ShortName>
+							<Path>SFX\TurretRing_Damaged_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1630212423" Name="vo_turret_rotator_destroyed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_turret_rotator_destroyed" DurationType="OneShot" DurationMin="1.671837" DurationMax="1.671837">
+					<IncludedMemoryFiles>
+						<File Id="814792360" Language="SFX">
+							<ShortName>TurretRing_Destroyed.wav</ShortName>
+							<Path>SFX\TurretRing_Destroyed_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="257621937" Name="vo_turret_rotator_functional" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_turret_rotator_functional" DurationType="OneShot" DurationMin="1.869206" DurationMax="1.869206">
+					<IncludedMemoryFiles>
+						<File Id="699113868" Language="SFX">
+							<ShortName>TurretRing_Functional.wav</ShortName>
+							<Path>SFX\TurretRing_Functional_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3917054405" Name="vo_vehicle_destroyed" ObjectPath="\Events\MOD\mlg_work_unit\notifications_vo_old\vo_vehicle_destroyed" DurationType="OneShot" DurationMin="0.976689" DurationMax="22.089365">
+					<IncludedMemoryFiles>
+						<File Id="99250177" Language="SFX">
+							<ShortName>player_died.wav</ShortName>
+							<Path>SFX\player_died_639CF9DE.wem</Path>
+						</File>
+						<File Id="235291933" Language="SFX">
+							<ShortName>Violin.wav</ShortName>
+							<Path>SFX\Violin_639CF9DE.wem</Path>
+						</File>
+						<File Id="407458404" Language="SFX">
+							<ShortName>GET NOSCOPED.wav</ShortName>
+							<Path>SFX\GET NOSCOPED_639CF9DE.wem</Path>
+						</File>
+						<File Id="658305789" Language="SFX">
+							<ShortName>player_died2.wav</ShortName>
+							<Path>SFX\player_died2_639CF9DE.wem</Path>
+						</File>
+						<File Id="730566828" Language="SFX">
+							<ShortName>Hax.wav</ShortName>
+							<Path>SFX\Hax_639CF9DE.wem</Path>
+						</File>
+						<File Id="813294878" Language="SFX">
+							<ShortName>press f to pay respects.wav</ShortName>
+							<Path>SFX\press f to pay respects_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
