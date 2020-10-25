@@ -3,9 +3,9 @@
 	<Events>
 		<WorkUnit Name="6th_sense" ID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" PersistMode="Standalone">
 			<ChildrenList>
-				<Folder Name="lightbulb" ID="{3988EB0D-4FD2-4AE4-AA3E-91C9AB5881E6}" ShortID="582566105">
+				<Folder Name="lightbulb_relhax" ID="{0E3F1750-BB15-4911-B9DA-1E48E6EECC6C}" ShortID="582566106">
 					<ChildrenList>
-						<Event Name="lightbulb_admiral_akbar" ID="{C5236D3F-FCF5-4DBC-B3BF-58B0963119C5}">
+						<Event Name="lightbulb_admiral_akbar" ID="{AF9622BB-09AC-4232-8630-D64DCC24894C}">
 							<ChildrenList>
 								<Action Name="" ID="{8421F475-ED11-49A4-8D3C-DD8B4043A7CF}" ShortID="870065660">
 									<PropertyList>
@@ -304,6 +304,20 @@
 									<ReferenceList>
 										<Reference Name="Target">
 											<ObjectRef Name="What a surprise" ID="{9F143C4D-529B-4ACB-B26F-1A5CF62DEA8B}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lightbulb_illuminati" ID="{4EE49B24-5238-4776-A732-1DF30A74C06C}">
+							<ChildrenList>
+								<Action Name="" ID="{4F927EBA-95CA-462A-A4B8-770B711FB961}" ShortID="300238801">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Illuminati" ID="{4FBA0515-0C55-4A74-8A03-25B0DCDECCBF}" WorkUnitID="{C99A358E-9BBE-4EC4-BF49-2E14DDCE3061}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>

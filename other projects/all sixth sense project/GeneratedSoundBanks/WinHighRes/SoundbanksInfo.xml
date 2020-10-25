@@ -33,7 +33,7 @@
 			<ShortName>sixthsense_star_trek</ShortName>
 			<Path>sixthsense_star_trek.bnk</Path>
 			<IncludedEvents>
-				<Event Id="3888414238" Name="lightbulb_star_trek" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_star_trek" DurationType="OneShot" DurationMin="2.390396" DurationMax="2.390396">
+				<Event Id="3888414238" Name="lightbulb_star_trek" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_star_trek" DurationType="OneShot" DurationMin="2.390396" DurationMax="2.390396">
 					<IncludedMemoryFiles>
 						<File Id="985227019" Language="SFX">
 							<ShortName>star_trek.wav</ShortName>
@@ -48,7 +48,7 @@
 			<ShortName>sixthsense_countdown_10_sec</ShortName>
 			<Path>sixthsense_countdown_10_sec.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2630273700" Name="lightbulb_countdown_10_sec" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_countdown_10_sec" DurationType="OneShot" DurationMin="15.063197" DurationMax="15.063197">
+				<Event Id="2630273700" Name="lightbulb_countdown_10_sec" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_countdown_10_sec" DurationType="OneShot" DurationMin="15.063197" DurationMax="15.063197">
 					<IncludedMemoryFiles>
 						<File Id="920916149" Language="SFX">
 							<ShortName>countdown_10_sec.wav</ShortName>
@@ -63,7 +63,7 @@
 			<ShortName>sixthsense_i_am_groot</ShortName>
 			<Path>sixthsense_i_am_groot.bnk</Path>
 			<IncludedEvents>
-				<Event Id="3387022945" Name="lightbulb_i_am_groot" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_i_am_groot" DurationType="OneShot" DurationMin="5.064376" DurationMax="5.064376">
+				<Event Id="3387022945" Name="lightbulb_i_am_groot" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_i_am_groot" DurationType="OneShot" DurationMin="5.064376" DurationMax="5.064376">
 					<IncludedMemoryFiles>
 						<File Id="330504322" Language="SFX">
 							<ShortName>i_am_groot.wav</ShortName>
@@ -78,7 +78,7 @@
 			<ShortName>sixthsense_suprise</ShortName>
 			<Path>sixthsense_suprise.bnk</Path>
 			<IncludedEvents>
-				<Event Id="890815120" Name="lightbulb_suprise" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_suprise" DurationType="OneShot" DurationMin="1.812000" DurationMax="1.812000">
+				<Event Id="890815120" Name="lightbulb_suprise" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_suprise" DurationType="OneShot" DurationMin="1.812000" DurationMax="1.812000">
 					<IncludedMemoryFiles>
 						<File Id="514088020" Language="SFX">
 							<ShortName>suprise_sound_1.wav</ShortName>
@@ -93,7 +93,7 @@
 			<ShortName>sixthsense_deadpool</ShortName>
 			<Path>sixthsense_deadpool.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1989768041" Name="lightbulb_Deadpool" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_Deadpool" DurationType="OneShot" DurationMin="2.351917" DurationMax="2.351917">
+				<Event Id="1989768041" Name="lightbulb_Deadpool" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_Deadpool" DurationType="OneShot" DurationMin="2.351917" DurationMax="2.351917">
 					<IncludedMemoryFiles>
 						<File Id="1005315180" Language="SFX">
 							<ShortName>HAC841E.wav</ShortName>
@@ -108,7 +108,7 @@
 			<ShortName>sixthsense_die_zwei</ShortName>
 			<Path>sixthsense_die_zwei.bnk</Path>
 			<IncludedEvents>
-				<Event Id="96822391" Name="lightbulb_die_zwei" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_die_zwei" DurationType="OneShot" DurationMin="2.194286" DurationMax="2.194286">
+				<Event Id="96822391" Name="lightbulb_die_zwei" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_die_zwei" DurationType="OneShot" DurationMin="2.194286" DurationMax="2.194286">
 					<IncludedMemoryFiles>
 						<File Id="882647014" Language="SFX">
 							<ShortName>die_zwei.wav</ShortName>
@@ -123,7 +123,7 @@
 			<ShortName>sixthsense_casino</ShortName>
 			<Path>sixthsense_casino.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2818614488" Name="lightbulb_casino" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_casino" DurationType="OneShot" DurationMin="1.453016" DurationMax="1.453016">
+				<Event Id="2818614488" Name="lightbulb_casino" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_casino" DurationType="OneShot" DurationMin="1.453016" DurationMax="1.453016">
 					<IncludedMemoryFiles>
 						<File Id="301142422" Language="SFX">
 							<ShortName>Casino Peek a Boo.wav</ShortName>
@@ -138,7 +138,7 @@
 			<ShortName>sixthsense_homer_doh</ShortName>
 			<Path>sixthsense_homer_doh.bnk</Path>
 			<IncludedEvents>
-				<Event Id="203406646" Name="lightbulb_homer_doh" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_homer_doh" DurationType="OneShot" DurationMin="1.018775" DurationMax="1.018775">
+				<Event Id="203406646" Name="lightbulb_homer_doh" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_homer_doh" DurationType="OneShot" DurationMin="1.018775" DurationMax="1.018775">
 					<IncludedMemoryFiles>
 						<File Id="586865750" Language="SFX">
 							<ShortName>homer_doh.wav</ShortName>
@@ -153,7 +153,7 @@
 			<ShortName>sixthsense_timer_8_sec_soft</ShortName>
 			<Path>sixthsense_timer_8_sec_soft.bnk</Path>
 			<IncludedEvents>
-				<Event Id="3925217966" Name="lightbulb_timer_8_sec_soft" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_timer_8_sec_soft" DurationType="OneShot" DurationMin="9.752381" DurationMax="9.752381">
+				<Event Id="3925217966" Name="lightbulb_timer_8_sec_soft" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_timer_8_sec_soft" DurationType="OneShot" DurationMin="9.752381" DurationMax="9.752381">
 					<IncludedMemoryFiles>
 						<File Id="634788724" Language="SFX">
 							<ShortName>timer_8_sec_soft.wav</ShortName>
@@ -168,7 +168,7 @@
 			<ShortName>sixthsense_szarik</ShortName>
 			<Path>sixthsense_szarik.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2757498159" Name="lightbulb_szarik" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_szarik" DurationType="OneShot" DurationMin="0.978667" DurationMax="0.978667">
+				<Event Id="2757498159" Name="lightbulb_szarik" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_szarik" DurationType="OneShot" DurationMin="0.978667" DurationMax="0.978667">
 					<IncludedMemoryFiles>
 						<File Id="438049905" Language="SFX">
 							<ShortName>szarik.wav</ShortName>
@@ -183,7 +183,7 @@
 			<ShortName>sixthsense_admiral_akbar</ShortName>
 			<Path>sixthsense_admiral_akbar.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1497440411" Name="lightbulb_admiral_akbar" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_admiral_akbar" DurationType="OneShot" DurationMin="1.259683" DurationMax="1.259683">
+				<Event Id="1497440411" Name="lightbulb_admiral_akbar" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_admiral_akbar" DurationType="OneShot" DurationMin="1.259683" DurationMax="1.259683">
 					<IncludedMemoryFiles>
 						<File Id="56150732" Language="SFX">
 							<ShortName>admiral_akbar_1.wav</ShortName>
@@ -420,7 +420,7 @@
 			<ShortName>sixthsense_jingles</ShortName>
 			<Path>sixthsense_jingles.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2917348121" Name="lightbulb_jingles" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_jingles" DurationType="OneShot" DurationMin="0.548571" DurationMax="0.548571">
+				<Event Id="2917348121" Name="lightbulb_jingles" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_jingles" DurationType="OneShot" DurationMin="0.548571" DurationMax="0.548571">
 					<IncludedMemoryFiles>
 						<File Id="802807596" Language="SFX">
 							<ShortName>jingles.wav</ShortName>
@@ -435,7 +435,7 @@
 			<ShortName>sixthsense_german</ShortName>
 			<Path>sixthsense_german.bnk</Path>
 			<IncludedEvents>
-				<Event Id="885284655" Name="lightbulb_german" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_german" DurationType="OneShot" DurationMin="0.875102" DurationMax="1.583311">
+				<Event Id="885284655" Name="lightbulb_german" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_german" DurationType="OneShot" DurationMin="0.875102" DurationMax="1.583311">
 					<IncludedMemoryFiles>
 						<File Id="25302839" Language="SFX">
 							<ShortName>german_4.wav</ShortName>
@@ -461,12 +461,27 @@
 				</Event>
 			</IncludedEvents>
 		</SoundBank>
+		<SoundBank Id="1805968680" Language="SFX">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_illuminati</ObjectPath>
+			<ShortName>sixthsense_illuminati</ShortName>
+			<Path>sixthsense_illuminati.bnk</Path>
+			<IncludedEvents>
+				<Event Id="685153231" Name="lightbulb_illuminati" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_illuminati" DurationType="OneShot" DurationMin="2.261950" DurationMax="2.261950">
+					<IncludedMemoryFiles>
+						<File Id="772430047" Language="SFX">
+							<ShortName>Illuminati.wav</ShortName>
+							<Path>SFX\Illuminati_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
 		<SoundBank Id="2018860002" Language="SFX">
 			<ObjectPath>\SoundBanks\6th_sense\sixthsense_miqts_sheep</ObjectPath>
 			<ShortName>sixthsense_miqts_sheep</ShortName>
 			<Path>sixthsense_miqts_sheep.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2704892735" Name="lightbulb_miqts_sheep" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_miqts_sheep" DurationType="OneShot" DurationMin="0.757551" DurationMax="0.757551">
+				<Event Id="2704892735" Name="lightbulb_miqts_sheep" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_miqts_sheep" DurationType="OneShot" DurationMin="0.757551" DurationMax="0.757551">
 					<IncludedMemoryFiles>
 						<File Id="685520101" Language="SFX">
 							<ShortName>miqts_sheep.wav</ShortName>
@@ -481,7 +496,7 @@
 			<ShortName>sixthsense_surprise_not</ShortName>
 			<Path>sixthsense_surprise_not.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2873720078" Name="lightbulb_surprise_not" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_surprise_not" DurationType="OneShot" DurationMin="2.881531" DurationMax="2.881531">
+				<Event Id="2873720078" Name="lightbulb_surprise_not" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_surprise_not" DurationType="OneShot" DurationMin="2.881531" DurationMax="2.881531">
 					<IncludedMemoryFiles>
 						<File Id="61714546" Language="SFX">
 							<ShortName>Recording_3.wav</ShortName>
@@ -496,7 +511,7 @@
 			<ShortName>sixthsense_sauron</ShortName>
 			<Path>sixthsense_sauron.bnk</Path>
 			<IncludedEvents>
-				<Event Id="424170523" Name="lightbulb_sauron" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_sauron" DurationType="OneShot" DurationMin="3.240635" DurationMax="3.348027">
+				<Event Id="424170523" Name="lightbulb_sauron" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_sauron" DurationType="OneShot" DurationMin="3.240635" DurationMax="3.348027">
 					<IncludedMemoryFiles>
 						<File Id="769756070" Language="SFX">
 							<ShortName>sauron_2.wav</ShortName>
@@ -515,7 +530,7 @@
 			<ShortName>sixthsense_relhax</ShortName>
 			<Path>sixthsense_relhax.bnk</Path>
 			<IncludedEvents>
-				<Event Id="4157475797" Name="lightbulb_relhax" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_relhax" DurationType="OneShot" DurationMin="0.415533" DurationMax="2.389896">
+				<Event Id="4157475797" Name="lightbulb_relhax" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_relhax" DurationType="OneShot" DurationMin="0.415533" DurationMax="2.389896">
 					<IncludedMemoryFiles>
 						<File Id="19983457" Language="SFX">
 							<ShortName>relhax_spotted_4.wav</ShortName>
@@ -554,7 +569,7 @@
 			<ShortName>sixthsense_timer_10_sec</ShortName>
 			<Path>sixthsense_timer_10_sec.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1734253026" Name="lightbulb_timer_10_sec" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_timer_10_sec" DurationType="OneShot" DurationMin="10.135510" DurationMax="10.135510">
+				<Event Id="1734253026" Name="lightbulb_timer_10_sec" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_timer_10_sec" DurationType="OneShot" DurationMin="10.135510" DurationMax="10.135510">
 					<IncludedMemoryFiles>
 						<File Id="583623869" Language="SFX">
 							<ShortName>timer_10_sec.wav</ShortName>
@@ -569,7 +584,7 @@
 			<ShortName>sixthsense_timer_8_sec_loud</ShortName>
 			<Path>sixthsense_timer_8_sec_loud.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1621478942" Name="lightbulb_timer_8_sec_loud" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_timer_8_sec_loud" DurationType="OneShot" DurationMin="9.753832" DurationMax="9.753832">
+				<Event Id="1621478942" Name="lightbulb_timer_8_sec_loud" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_timer_8_sec_loud" DurationType="OneShot" DurationMin="9.753832" DurationMax="9.753832">
 					<IncludedMemoryFiles>
 						<File Id="909511877" Language="SFX">
 							<ShortName>timer_8_sec_loud.wav</ShortName>
@@ -584,7 +599,7 @@
 			<ShortName>sixthsense_minions</ShortName>
 			<Path>sixthsense_minions.bnk</Path>
 			<IncludedEvents>
-				<Event Id="4095789686" Name="lightbulb_minions" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_minions" DurationType="OneShot" DurationMin="3.887891" DurationMax="3.887891">
+				<Event Id="4095789686" Name="lightbulb_minions" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_minions" DurationType="OneShot" DurationMin="3.887891" DurationMax="3.887891">
 					<IncludedMemoryFiles>
 						<File Id="759615291" Language="SFX">
 							<ShortName>minions_1.wav</ShortName>
@@ -599,7 +614,7 @@
 			<ShortName>sixthsense_monty_python</ShortName>
 			<Path>sixthsense_monty_python.bnk</Path>
 			<IncludedEvents>
-				<Event Id="3701369009" Name="lightbulb_monty_python" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_monty_python" DurationType="OneShot" DurationMin="3.031270" DurationMax="3.031270">
+				<Event Id="3701369009" Name="lightbulb_monty_python" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_monty_python" DurationType="OneShot" DurationMin="3.031270" DurationMax="3.031270">
 					<IncludedMemoryFiles>
 						<File Id="758196921" Language="SFX">
 							<ShortName>monty_python.wav</ShortName>
@@ -614,7 +629,7 @@
 			<ShortName>sixthsense_General_Lee</ShortName>
 			<Path>sixthsense_General_Lee.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2521442384" Name="lightbulb_General_Lee" ObjectPath="\Events\MOD\6th_sense\lightbulb\lightbulb_General_Lee" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2521442384" Name="lightbulb_General_Lee" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_General_Lee" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
 			</IncludedEvents>
 		</SoundBank>
 	</SoundBanks>

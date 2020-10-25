@@ -47,7 +47,7 @@
 				</SoundBank>
 				<SoundBank Name="sixthsense_admiral_akbar" ID="{F1D54A6A-74DF-41D2-A0B7-07ACEEEC2FB6}">
 					<ObjectInclusionList>
-						<ObjectRef Name="lightbulb_admiral_akbar" ID="{C5236D3F-FCF5-4DBC-B3BF-58B0963119C5}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="lightbulb_admiral_akbar" ID="{AF9622BB-09AC-4232-8630-D64DCC24894C}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
@@ -153,6 +153,13 @@
 				<SoundBank Name="sixthsense_surprise_not" ID="{7696C77E-3E86-421F-9B9D-C42F3FCE19AC}">
 					<ObjectInclusionList>
 						<ObjectRef Name="lightbulb_surprise_not" ID="{54E51E56-516C-4661-8AC7-7DAB4368F101}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="sixthsense_illuminati" ID="{037D262E-8D6A-425F-A296-1F268BDBE3B4}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lightbulb_illuminati" ID="{4EE49B24-5238-4776-A732-1DF30A74C06C}" WorkUnitID="{3B2E05A1-6A1A-407B-BFB2-965DBE090939}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
