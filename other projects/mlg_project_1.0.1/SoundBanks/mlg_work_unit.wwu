@@ -110,6 +110,7 @@
 						<ObjectRef Name="mlg_pentakill" ID="{C2C3E0FF-1654-4761-8410-836FB0CEC09F}" WorkUnitID="{83A72A50-C83C-41B5-8BCF-982EF4862675}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="mlg_hax" ID="{9E6D5206-F6FE-47D1-B6AE-B60BAECFB6F8}" WorkUnitID="{83A72A50-C83C-41B5-8BCF-982EF4862675}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="mlg_speed_sanic" ID="{A604B076-A126-47EC-A3B8-1C8C1CB9FE41}" WorkUnitID="{83A72A50-C83C-41B5-8BCF-982EF4862675}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="mlg_6thsense_illuminati" ID="{5A04CCA1-A834-48DA-B98C-54F5F2EEFCCE}" WorkUnitID="{83A72A50-C83C-41B5-8BCF-982EF4862675}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="mlg_tog_explosion_close" ID="{AB5C0386-C20B-4926-802A-2B84F636895B}" WorkUnitID="{83A72A50-C83C-41B5-8BCF-982EF4862675}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="mlg_rammkill_normal" ID="{0F1AE016-7759-4973-9FE3-7A45FEB7A34C}" WorkUnitID="{83A72A50-C83C-41B5-8BCF-982EF4862675}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="mlg_rammkill_kamikaze" ID="{839734D7-EB8E-4984-B825-8C751C72EC4D}" WorkUnitID="{83A72A50-C83C-41B5-8BCF-982EF4862675}" Origin="Manual" Filter="7"/>
