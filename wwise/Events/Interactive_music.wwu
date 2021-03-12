@@ -45,6 +45,9 @@
 						<Event Name="music_abbey_result_drawn" ID="{BC546195-FBA6-40C1-97F1-0A7934BFD17F}">
 							<ChildrenList></ChildrenList>
 						</Event>
+						<Event Name="music_abbey_battle" ID="{F7B9C97D-AD64-423D-B765-0C5C43873336}">
+							<ChildrenList></ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="03_Sweden" ID="{A0199E05-84E5-4D61-80E7-078BC5DC75A9}" ShortID="455800153">
@@ -131,6 +134,9 @@
 							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="music_steppes_result_drawn" ID="{8351C8F5-676F-4571-B8BF-02D12042B498}">
+							<ChildrenList></ChildrenList>
+						</Event>
+						<Event Name="music_steppes_battle" ID="{3AF457D0-1BC2-4807-810C-D568D5C1DBB7}">
 							<ChildrenList></ChildrenList>
 						</Event>
 					</ChildrenList>
@@ -252,6 +258,9 @@
 						<Event Name="music_cliff_result_drawn" ID="{F36AE8BC-7A29-4349-A7DE-C0E2C4B64CEC}">
 							<ChildrenList></ChildrenList>
 						</Event>
+						<Event Name="music_cliff_battle" ID="{7065B337-DA2C-49D1-9E5E-441692A7C921}">
+							<ChildrenList></ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="12_Murovanka" ID="{F72926FB-9722-4FAC-8F72-FAF8E0A06D49}" ShortID="362449830">
@@ -362,6 +371,9 @@
 						<Event Name="music_caucasus_result_drawn" ID="{B108FF4F-82EB-4466-B1A9-5D2C19B63CC9}">
 							<ChildrenList></ChildrenList>
 						</Event>
+						<Event Name="music_caucasus_battle" ID="{B93C40E3-1CDE-4E54-929B-D86626FF9D5B}">
+							<ChildrenList></ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="17_Ruinberg" ID="{BDE35647-6CA3-4668-9B3D-112E35A90305}" ShortID="156344690">
@@ -382,6 +394,9 @@
 							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="music_ruinberg_result_drawn" ID="{9B2E1920-BD69-46C7-85E9-0C5489DDAF9F}">
+							<ChildrenList></ChildrenList>
+						</Event>
+						<Event Name="music_ruinberg_battle" ID="{2CD28D76-A0F4-4EE8-8AAF-BB1DF766F75B}">
 							<ChildrenList></ChildrenList>
 						</Event>
 					</ChildrenList>
@@ -479,6 +494,9 @@
 						<Event Name="music_karelia_result_drawn" ID="{BDD99FDB-EB67-4D59-BAF6-025F751049D7}">
 							<ChildrenList></ChildrenList>
 						</Event>
+						<Event Name="music_karelia_battle" ID="{DDE3B147-E22B-4F1F-B894-3B117DC33230}">
+							<ChildrenList></ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="22_Siegfried" ID="{03B7EFA2-3840-4BA7-8107-B9728A843A1A}" ShortID="473783493">
@@ -499,6 +517,9 @@
 							<ChildrenList></ChildrenList>
 						</Event>
 						<Event Name="music_siegfried_result_drawn" ID="{A50D8091-366C-411F-AE15-F155FBF0CDDE}">
+							<ChildrenList></ChildrenList>
+						</Event>
+						<Event Name="music_siegfried_battle" ID="{B6C43875-B59E-4E08-9424-3A77273EEBFD}">
 							<ChildrenList></ChildrenList>
 						</Event>
 					</ChildrenList>

@@ -251,6 +251,46 @@
             <State Name="STATE_in_bunker_off" ID="{BA736B69-9305-4025-AAA0-B88B247184F7}" />
           </ChildrenList>
         </StateGroup>
+        <StateGroup Name="STATE_music_inBattle_phase" ID="{C05B31FF-D67D-4FDF-AFA7-C55E318D37F4}">
+          <ChildrenList>
+            <State Name="None" ID="{6EBA6C8D-7112-423A-A9A1-8C4E865F167F}" />
+            <State Name="STATE_music_inBattle_phase_muted" ID="{C64648C6-CCBE-43B9-97AF-9B4E106932AF}" />
+            <State Name="STATE_music_inBattle_phase_final" ID="{8225DB6B-95D5-4039-BC14-20B884B5E074}" />
+            <State Name="STATE_music_inBattle_phase_start" ID="{36326691-EAD3-4584-ADC5-CBBDDEAD755E}" />
+            <State Name="STATE_music_inBattle_phase_middle" ID="{2FF16D07-1196-4876-878B-5B7AF3BAFF5E}" />
+          </ChildrenList>
+        </StateGroup>
+        <StateGroup Name="STATE_music_inBattle_status" ID="{385E1E88-62AA-430F-B403-E9CA59E3DB6C}">
+          <PropertyList>
+            <Property Name="DefaultTransitionTime" Type="Real64" Value="2.5" />
+          </PropertyList>
+          <ChildrenList>
+            <State Name="None" ID="{6D61817F-1D65-4FB4-8A5E-C3D78568A642}" />
+            <State Name="STATE_music_inBattle_battle" ID="{4F607D30-5C15-4909-95F3-856302DA1328}" />
+            <State Name="STATE_music_inBattle_exploring" ID="{657C6729-EF03-4945-9442-8E3524C1BD3E}" />
+          </ChildrenList>
+        </StateGroup>
+        <StateGroup Name="STATE_obseerver_camera" ID="{2EC06962-2CDA-4FC5-8FDB-C04492F4F4DD}">
+          <ChildrenList>
+            <State Name="None" ID="{6C53184F-92C9-44A0-8F72-C91C57551703}" />
+            <State Name="STATE_obseerver_camera_fpv" ID="{99F9DD54-1F02-4997-BBE2-4F7D2F75BFE6}">
+              <Comment>The first-person observer mode works when the observer is attached to the player.
+During this mode, the observer's view and detection is indeterminate to the player he is attached to
+, the observer sees the same interfaces as the player.</Comment>
+            </State>
+            <State Name="STATE_obseerver_camera_free" ID="{B2A19D54-53AA-4C56-B397-F3B91179105A}">
+              <Comment>Player Observation mode with the ability to inspect what is happening in "flight" mode, works when the observer disconnects from the player.
+During this mode the observer's visibility and detection is not limited, the observer detects and sees all objects (tanks, loot) around him. The range of visibility is also not limited.
+All player interfaces are hidden, except the game account</Comment>
+            </State>
+            <State Name="STATE_obseerver_camera_commander" ID="{5867AFE2-042E-45D4-B6E5-584CDE44A25E}">
+              <Comment>First-person observation mode, in this mode, the camera rotates around the player's tank, the observer himself can choose the rotation of the camera around the player's tank.</Comment>
+            </State>
+            <State Name="STATE_obseerver_camera_off" ID="{BE3ADE54-8B3D-4732-8D4D-6773A30C5BFB}">
+              <Comment>Camera mode is inactive.</Comment>
+            </State>
+          </ChildrenList>
+        </StateGroup>
       </ChildrenList>
     </WorkUnit>
   </States>
