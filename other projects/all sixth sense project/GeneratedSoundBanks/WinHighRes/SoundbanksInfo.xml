@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows_HighRes" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Willster419\Tanks Stuff\RelhaxSoundMod\other projects\all sixth sense project\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Willster419\Tanks Stuff\RelhaxSoundMod\other projects\all sixth sense project\.cache\Windows_HighRes\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Willster419\Tanks Stuff\RelhaxSoundMod\other projects\all sixth sense project\GeneratedSoundBanks\WinHighRes\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Willster419\Tanks Stuff\RelhaxSoundMod\other projects\all sixth sense project\GeneratedSoundBanks\Windows_HighRes</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank>
+		<File Id="32993886" Language="SFX">
+			<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_6C35A1F3.wem</Path>
+		</File>
+		<File Id="554205954" Language="SFX">
+			<ShortName>Map_Zone\Deep forest.WAV</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_24F07BC1.wem</Path>
+		</File>
+		<File Id="684936451" Language="SFX">
+			<ShortName>Map_Zone\Canyons.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_6D074466.wem</Path>
+		</File>
+		<File Id="823230670" Language="SFX">
+			<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
+			<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_59F7DD39.wem</Path>
+		</File>
+	</MediaFilesNotInAnyBank>
+	<SoundBanks>
+		<SoundBank Id="122127475" Language="SFX" Hash="3660457362">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_star_trek</ObjectPath>
+			<ShortName>sixthsense_star_trek</ShortName>
+			<Path>sixthsense_star_trek.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3888414238" Name="lightbulb_star_trek" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_star_trek" DurationType="OneShot" DurationMin="2.390396" DurationMax="2.390396">
+					<IncludedMemoryFiles>
+						<File Id="985227019" Language="SFX">
+							<ShortName>star_trek.wav</ShortName>
+							<Path>SFX\star_trek_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="309474831" Language="SFX" Hash="3420676583">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_countdown_10_sec</ObjectPath>
+			<ShortName>sixthsense_countdown_10_sec</ShortName>
+			<Path>sixthsense_countdown_10_sec.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2630273700" Name="lightbulb_countdown_10_sec" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_countdown_10_sec" DurationType="OneShot" DurationMin="15.063197" DurationMax="15.063197">
+					<IncludedMemoryFiles>
+						<File Id="920916149" Language="SFX">
+							<ShortName>countdown_10_sec.wav</ShortName>
+							<Path>SFX\countdown_10_sec_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="487391974" Language="SFX" Hash="1902910178">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_i_am_groot</ObjectPath>
+			<ShortName>sixthsense_i_am_groot</ShortName>
+			<Path>sixthsense_i_am_groot.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3387022945" Name="lightbulb_i_am_groot" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_i_am_groot" DurationType="OneShot" DurationMin="5.064376" DurationMax="5.064376">
+					<IncludedMemoryFiles>
+						<File Id="330504322" Language="SFX">
+							<ShortName>i_am_groot.wav</ShortName>
+							<Path>SFX\i_am_groot_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="656212693" Language="SFX" Hash="3598728693">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_suprise</ObjectPath>
+			<ShortName>sixthsense_suprise</ShortName>
+			<Path>sixthsense_suprise.bnk</Path>
+			<IncludedEvents>
+				<Event Id="890815120" Name="lightbulb_suprise" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_suprise" DurationType="OneShot" DurationMin="1.812000" DurationMax="1.812000">
+					<IncludedMemoryFiles>
+						<File Id="514088020" Language="SFX">
+							<ShortName>suprise_sound_1.wav</ShortName>
+							<Path>SFX\suprise_sound_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="757326110" Language="SFX" Hash="340571327">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_deadpool</ObjectPath>
+			<ShortName>sixthsense_deadpool</ShortName>
+			<Path>sixthsense_deadpool.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1989768041" Name="lightbulb_Deadpool" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_Deadpool" DurationType="OneShot" DurationMin="2.351917" DurationMax="2.351917">
+					<IncludedMemoryFiles>
+						<File Id="1005315180" Language="SFX">
+							<ShortName>HAC841E.wav</ShortName>
+							<Path>SFX\HAC841E_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="815031624" Language="SFX" Hash="3255883436">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_die_zwei</ObjectPath>
+			<ShortName>sixthsense_die_zwei</ShortName>
+			<Path>sixthsense_die_zwei.bnk</Path>
+			<IncludedEvents>
+				<Event Id="96822391" Name="lightbulb_die_zwei" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_die_zwei" DurationType="OneShot" DurationMin="2.194286" DurationMax="2.194286">
+					<IncludedMemoryFiles>
+						<File Id="882647014" Language="SFX">
+							<ShortName>die_zwei.wav</ShortName>
+							<Path>SFX\die_zwei_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="926499255" Language="SFX" Hash="3463754497">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_casino</ObjectPath>
+			<ShortName>sixthsense_casino</ShortName>
+			<Path>sixthsense_casino.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2818614488" Name="lightbulb_casino" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_casino" DurationType="OneShot" DurationMin="1.453016" DurationMax="1.453016">
+					<IncludedMemoryFiles>
+						<File Id="301142422" Language="SFX">
+							<ShortName>Casino Peek a Boo.wav</ShortName>
+							<Path>SFX\Casino Peek a Boo_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="938932263" Language="SFX" Hash="314125289">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_homer_doh</ObjectPath>
+			<ShortName>sixthsense_homer_doh</ShortName>
+			<Path>sixthsense_homer_doh.bnk</Path>
+			<IncludedEvents>
+				<Event Id="203406646" Name="lightbulb_homer_doh" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_homer_doh" DurationType="OneShot" DurationMin="1.018775" DurationMax="1.018775">
+					<IncludedMemoryFiles>
+						<File Id="586865750" Language="SFX">
+							<ShortName>homer_doh.wav</ShortName>
+							<Path>SFX\homer_doh_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1008084913" Language="SFX" Hash="920264774">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_timer_8_sec_soft</ObjectPath>
+			<ShortName>sixthsense_timer_8_sec_soft</ShortName>
+			<Path>sixthsense_timer_8_sec_soft.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3925217966" Name="lightbulb_timer_8_sec_soft" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_timer_8_sec_soft" DurationType="OneShot" DurationMin="9.752381" DurationMax="9.752381">
+					<IncludedMemoryFiles>
+						<File Id="634788724" Language="SFX">
+							<ShortName>timer_8_sec_soft.wav</ShortName>
+							<Path>SFX\timer_8_sec_soft_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1056566808" Language="SFX" Hash="1110920732">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_szarik</ObjectPath>
+			<ShortName>sixthsense_szarik</ShortName>
+			<Path>sixthsense_szarik.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2757498159" Name="lightbulb_szarik" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_szarik" DurationType="OneShot" DurationMin="0.978667" DurationMax="0.978667">
+					<IncludedMemoryFiles>
+						<File Id="438049905" Language="SFX">
+							<ShortName>szarik.wav</ShortName>
+							<Path>SFX\szarik_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1097896522" Language="SFX" Hash="1909715143">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_admiral_akbar</ObjectPath>
+			<ShortName>sixthsense_admiral_akbar</ShortName>
+			<Path>sixthsense_admiral_akbar.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1497440411" Name="lightbulb_admiral_akbar" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_admiral_akbar" DurationType="OneShot" DurationMin="1.259683" DurationMax="1.259683">
+					<IncludedMemoryFiles>
+						<File Id="56150732" Language="SFX">
+							<ShortName>admiral_akbar_1.wav</ShortName>
+							<Path>SFX\admiral_akbar_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3395298368">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="14876115" Name="AUX_ev_football_arena" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VOICE_GUI\AUX_ev_football_arena"/>
+				<AuxBus Id="375152608" Name="AUX_env_Village" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_Village"/>
+				<AuxBus Id="394482750" Name="AUX_eng_PC_flanger" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_ambient_control\AUX_eng_PC_flanger"/>
+				<AuxBus Id="401969492" Name="AUX_flange_plane" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_ambient_control\AUX_flange_plane"/>
+				<AuxBus Id="494784805" Name="AUX_reverb_hangar_dark_sfx_pm" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Personal_missions\AUX_reverb_hangar_dark_sfx_pm"/>
+				<AuxBus Id="647771714" Name="AUX_vehicle_control" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_vehicle_control"/>
+				<AuxBus Id="664496982" Name="AUX_reverb_hangar_Forest_env" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Hangar\AUX_reverb_hangar_Forest_env"/>
+				<AuxBus Id="1049984846" Name="AUX_reverb_hangar_Forest_gui" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VOICE_GUI\AUX_reverb_hangar_Forest_gui"/>
+				<AuxBus Id="1061338871" Name="AUX_reverb_personal_missions" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Personal_missions\AUX_reverb_personal_missions"/>
+				<AuxBus Id="1460769535" Name="AUX_env_Closed_space" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_Closed_space"/>
+				<AuxBus Id="1529986663" Name="AUX_sfx_control" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_sfx_control"/>
+				<AuxBus Id="1822577572" Name="AUX_eng_broken" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\045_impact_filter_ducking_group\VEHICLE_control\130_eng_trds_PC\AUX_eng_broken"/>
+				<AuxBus Id="1889485509" Name="AUX_env_City" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_City"/>
+				<AuxBus Id="2152316841" Name="AUX_env_Mountain" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_Mountain"/>
+				<AuxBus Id="2154148004" Name="AUX_reverb_researches" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Researches\AUX_reverb_researches"/>
+				<AuxBus Id="2343778479" Name="AUX_wpn_50_75mm_reverb_01" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_sfx_control\AUX_wpn_50_75mm_reverb_01"/>
+				<AuxBus Id="2543630464" Name="AUX_env_Mountain_close" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_Mountain_close"/>
+				<AuxBus Id="2575940795" Name="AUX_ev_halloween_wpn_PC" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\SFX_control_2\032_wpn_PC\AUX_ev_halloween_wpn_PC"/>
+				<AuxBus Id="2577149115" Name="AUX_wpn_50_75mm_reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_vehicle_control\AUX_wpn_50_75mm_reverb"/>
+				<AuxBus Id="2682597557" Name="AUX_reverb_expl_ally_NPC" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VOICE_GUI\AUX_reverb_expl_ally_NPC"/>
+				<AuxBus Id="2805659155" Name="AUX_env_Forest" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\SFX_control_1\AUX_env_Forest"/>
+				<AuxBus Id="2812721831" Name="AUX_multiband_dist_football" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_MUSIC\Lobby_music_garage\Lobby_music_garage_default\AUX_multiband_dist_football"/>
+				<AuxBus Id="3206664178" Name="AUX_stereo_delay_hangar_h07_newyear_2018" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Hangar\AUX_stereo_delay_hangar_h07_newyear_2018"/>
+				<AuxBus Id="3514658147" Name="AUX_PhCol_friction" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\045_impact_filter_ducking_group\VEHICLE_control\110_col_PC\AUX_PhCol_friction"/>
+				<AuxBus Id="3515001147" Name="AUX_wpn_85_107mm_reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_vehicle_control\AUX_wpn_85_107mm_reverb"/>
+				<AuxBus Id="3520008452" Name="AUX_ev_football_engine" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\045_impact_filter_ducking_group\VEHICLE_control\AUX_ev_football_engine"/>
+				<AuxBus Id="3528445383" Name="AUX_ev_halloween_leviathan_eng" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\045_impact_filter_ducking_group\VEHICLE_control\AUX_ev_halloween_leviathan_eng"/>
+				<AuxBus Id="3656279963" Name="AUX_eng_load_distortion" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\045_impact_filter_ducking_group\VEHICLE_control\130_eng_trds_PC\AUX_eng_load_distortion"/>
+				<AuxBus Id="3824605991" Name="AUX_collision_reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_vehicle_control\AUX_collision_reverb"/>
+				<AuxBus Id="3945567761" Name="AUX_reverb_hangar_dark_gui" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VOICE_GUI\AUX_reverb_hangar_dark_gui"/>
+				<AuxBus Id="4015978123" Name="AUX_NY_comp" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\SFX_control_2\AUX_NY_comp"/>
+				<AuxBus Id="4031197743" Name="AUX_wpn_85_107mm_reverb_01" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_sfx_control\AUX_wpn_85_107mm_reverb_01"/>
+				<AuxBus Id="4129827565" Name="AUX_reverb_hangar_dark_env" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_AMBIENTS\Hangar\AUX_reverb_hangar_dark_env"/>
+				<AuxBus Id="4186278069" Name="AUX_multiband_dist_01" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\LOBBY_MUSIC\AUX_multiband_dist_01"/>
+				<AuxBus Id="4241804578" Name="AUX_ambient_control" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\HDR_dbc\Additional_post_effects\secondary\AUX_ambient_control"/>
+			</IncludedAuxBusses>
+			<ExcludedMemoryFiles>
+				<File Id="32993886" Language="SFX">
+					<ShortName>IR_50-75mm_tank_interior.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\IR_50-75mm_tank_interior_6C35A1F3.wem</Path>
+				</File>
+				<File Id="554205954" Language="SFX">
+					<ShortName>Map_Zone\Deep forest.WAV</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Deep forest_24F07BC1.wem</Path>
+				</File>
+				<File Id="684936451" Language="SFX">
+					<ShortName>Map_Zone\Canyons.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\Map_Zone\Canyons_6D074466.wem</Path>
+				</File>
+				<File Id="823230670" Language="SFX">
+					<ShortName>IR_85-107mm_tank_interior.wav</ShortName>
+					<Path>Plugins\Wwise Convolution Reverb\IR_85-107mm_tank_interior_59F7DD39.wem</Path>
+				</File>
+			</ExcludedMemoryFiles>
+			<GameParameters>
+				<GameParameter Id="81471525" Name="RTPC_int_distance_1000m" ObjectPath="\Game Parameters\Common\RTPC_int_distance_1000m"/>
+				<GameParameter Id="248010418" Name="RTPC_int_device_laptop_lowcut_trigger" ObjectPath="\Game Parameters\Settings\RTPC_int_device_laptop_lowcut_trigger"/>
+				<GameParameter Id="257494316" Name="RTPC_ext_menu_volume_master" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_master"/>
+				<GameParameter Id="323535727" Name="RTPC_ext_wind_intensity" ObjectPath="\Game Parameters\Ambient\trees\RTPC_ext_wind_intensity"/>
+				<GameParameter Id="494846457" Name="RTPC_int_HDR_threshold" ObjectPath="\Game Parameters\Common\RTPC_int_HDR_threshold"/>
+				<GameParameter Id="529901698" Name="RTPC_int_wind_ducking_amount" ObjectPath="\Game Parameters\Ambient\wind\RTPC_int_wind_ducking_amount"/>
+				<GameParameter Id="566631840" Name="RTPC_ext_camera_height" ObjectPath="\Game Parameters\Ambient\wind\RTPC_ext_camera_height"/>
+				<GameParameter Id="695757872" Name="RTPC_ext_menu_volume_effects" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_effects"/>
+				<GameParameter Id="896614031" Name="RTPC_ext_viewPlayMode" ObjectPath="\Game Parameters\Common\RTPC_ext_viewPlayMode"/>
+				<GameParameter Id="1033699772" Name="RTPC_int_hangar_resultmusic_go_3D" ObjectPath="\Game Parameters\Interactive_music\RTPC_int_hangar_resultmusic_go_3D"/>
+				<GameParameter Id="1047122343" Name="RTPC_ext_menu_volume_music_hangar" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_music_hangar"/>
+				<GameParameter Id="1631196118" Name="RTPC_ext_menu_volume_ambient" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_ambient"/>
+				<GameParameter Id="1833954181" Name="RTPC_int_eng_damage" ObjectPath="\Game Parameters\Damage\RTPC_int_eng_damage"/>
+				<GameParameter Id="1945071579" Name="RTPC_ext_engine_damage_risk" ObjectPath="\Game Parameters\Vehicles\wheeled_vehicle\RTPC_ext_engine_damage_risk"/>
+				<GameParameter Id="1978220576" Name="RTPC_ext_menu_volume_voice" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_voice"/>
+				<GameParameter Id="2151720954" Name="RTPC_int_bass_boost_band_frequency_device_id" ObjectPath="\Game Parameters\Settings\RTPC_int_bass_boost_band_frequency_device_id"/>
+				<GameParameter Id="2163183645" Name="RTPC_int_friction_release" ObjectPath="\Game Parameters\Physical_Collision\RTPC_int_friction_release"/>
+				<GameParameter Id="2369516155" Name="RTPC_int_music_drone_enable_eq_lowshelf" ObjectPath="\Game Parameters\Interactive_music\RTPC_int_music_drone_enable_eq_lowshelf"/>
+				<GameParameter Id="2370945719" Name="RTPC_ext_menu_volume_music" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_music"/>
+				<GameParameter Id="2466770167" Name="RTPC_ext_roughness_global" ObjectPath="\Game Parameters\Vehicles\vehicles_global\RTPC_ext_roughness_global"/>
+				<GameParameter Id="2476546197" Name="RTPC_ext_physic_rpm_rel" ObjectPath="\Game Parameters\Vehicles\new_physic\RTPC_ext_physic_rpm_rel"/>
+				<GameParameter Id="2497463650" Name="RTPC_ext_speed_rel_global" ObjectPath="\Game Parameters\Vehicles\vehicles_global\RTPC_ext_speed_rel_global"/>
+				<GameParameter Id="2686672294" Name="RTPC_int_dynamic_range" ObjectPath="\Game Parameters\Settings\RTPC_int_dynamic_range"/>
+				<GameParameter Id="3259059030" Name="RTPC_int_impact_sidechain" ObjectPath="\Game Parameters\Common\RTPC_int_impact_sidechain"/>
+				<GameParameter Id="3261467983" Name="RTPC_int_bass_boost_band_gain_device_id" ObjectPath="\Game Parameters\Settings\RTPC_int_bass_boost_band_gain_device_id"/>
+				<GameParameter Id="3266425556" Name="RTPC_ext_camera_height_rel" ObjectPath="\Game Parameters\Ambient\wind\RTPC_ext_camera_height_rel"/>
+				<GameParameter Id="3348539219" Name="RTPC_ext_menu_volume_gui" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_gui"/>
+				<GameParameter Id="3391116920" Name="RTPC_int_vo_ducking" ObjectPath="\Game Parameters\Common\RTPC_int_vo_ducking"/>
+				<GameParameter Id="3394325855" Name="RTPC_int_explosion_sidechain" ObjectPath="\Game Parameters\Common\RTPC_int_explosion_sidechain"/>
+				<GameParameter Id="3436964933" Name="RTPC_int_meter_surface_balance" ObjectPath="\Game Parameters\Vehicles\surface\RTPC_int_meter_surface_balance"/>
+				<GameParameter Id="3546315937" Name="RTPC_ext_menu_volume_vehicles" ObjectPath="\Game Parameters\Settings\RTPC_ext_menu_volume_vehicles"/>
+				<GameParameter Id="3567163588" Name="RTPC_ext_physic_load_global" ObjectPath="\Game Parameters\Vehicles\vehicles_global\RTPC_ext_physic_load_global"/>
+				<GameParameter Id="3643357862" Name="RTPC_int_imp_wise_gain" ObjectPath="\Game Parameters\Impacts\RTPC_int_imp_wise_gain"/>
+				<GameParameter Id="3753532465" Name="RTPC_int_bass_boost_trigger" ObjectPath="\Game Parameters\Settings\RTPC_int_bass_boost_trigger"/>
+				<GameParameter Id="3870047102" Name="RTPC_ext_slowmo_factor" ObjectPath="\Game Parameters\Common\RTPC_ext_slowmo_factor"/>
+				<GameParameter Id="4171884463" Name="RTPC_int_multichanel" ObjectPath="\Game Parameters\Multichanel\RTPC_int_multichanel"/>
+				<GameParameter Id="4245421398" Name="RTPC_ext_engine_load_global" ObjectPath="\Game Parameters\Vehicles\vehicles_global\RTPC_ext_engine_load_global"/>
+				<GameParameter Id="4247354303" Name="RTPC_int_bass_boost_gain_compensation" ObjectPath="\Game Parameters\Settings\RTPC_int_bass_boost_gain_compensation"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="791912384" Name="STATE_gamemode_progress_page" ObjectPath="\States\Common\STATE_gamemode_progress_page">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_gamemode_progress_page\None"/>
+						<State Id="3791716968" Name="STATE_gamemode_progress_page_on" ObjectPath="\States\Common\STATE_gamemode_progress_page\STATE_gamemode_progress_page_on"/>
+						<State Id="664190278" Name="STATE_gamemode_progress_page_off" ObjectPath="\States\Common\STATE_gamemode_progress_page\STATE_gamemode_progress_page_off"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="974744403" Name="STATE_viewPlayMode" ObjectPath="\States\Common\STATE_viewPlayMode">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_viewPlayMode\None"/>
+						<State Id="132799494" Name="STATE_viewPlayMode_arcade" ObjectPath="\States\Common\STATE_viewPlayMode\STATE_viewPlayMode_arcade"/>
+						<State Id="85928243" Name="STATE_viewPlayMode_sniper" ObjectPath="\States\Common\STATE_viewPlayMode\STATE_viewPlayMode_sniper"/>
+						<State Id="4289862936" Name="STATE_viewPlayMode_strategic" ObjectPath="\States\Common\STATE_viewPlayMode\STATE_viewPlayMode_strategic"/>
+						<State Id="2318091565" Name="STATE_viewPlayMode_arcade_ceilless" ObjectPath="\States\Common\STATE_viewPlayMode\STATE_viewPlayMode_arcade_ceilless"/>
+						<State Id="360996942" Name="STATE_viewPlayMode_sniper_ceilless" ObjectPath="\States\Common\STATE_viewPlayMode\STATE_viewPlayMode_sniper_ceilless"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1530490698" Name="STATE_gameplace" ObjectPath="\States\Common\STATE_gameplace">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_gameplace\None"/>
+						<State Id="3132916336" Name="STATE_gameplace_hangar" ObjectPath="\States\Common\STATE_gameplace\STATE_gameplace_hangar"/>
+						<State Id="2222908990" Name="STATE_gameplace_arena" ObjectPath="\States\Common\STATE_gameplace\STATE_gameplace_arena"/>
+						<State Id="2668334844" Name="STATE_gamplace_lobby" ObjectPath="\States\Common\STATE_gameplace\STATE_gamplace_lobby"/>
+						<State Id="29304656" Name="STATE_gamplace_loading" ObjectPath="\States\Common\STATE_gameplace\STATE_gamplace_loading"/>
+						<State Id="24118782" Name="STATE_gameplace_result" ObjectPath="\States\Common\STATE_gameplace\STATE_gameplace_result"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2110943632" Name="STATE_underwater" ObjectPath="\States\Common\STATE_underwater">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_underwater\None"/>
+						<State Id="2628170294" Name="STATE_underwater_off" ObjectPath="\States\Common\STATE_underwater\STATE_underwater_off"/>
+						<State Id="1493907064" Name="STATE_underwater_on" ObjectPath="\States\Common\STATE_underwater\STATE_underwater_on"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2343779507" Name="STATE_hangar_camera_rotating" ObjectPath="\States\Common\STATE_hangar_camera_rotating">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_hangar_camera_rotating\None"/>
+						<State Id="3158823513" Name="STATE_hangar_camera_rotating_on" ObjectPath="\States\Common\STATE_hangar_camera_rotating\STATE_hangar_camera_rotating_on"/>
+						<State Id="3054507493" Name="STATE_hangar_camera_rotating_off" ObjectPath="\States\Common\STATE_hangar_camera_rotating\STATE_hangar_camera_rotating_off"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2518278840" Name="STATE_gamemode" ObjectPath="\States\Common\STATE_gamemode">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_gamemode\None"/>
+						<State Id="236638138" Name="STATE_gamemode_default" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_default"/>
+						<State Id="1127815430" Name="STATE_gamemode_frontline" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_frontline"/>
+						<State Id="1070500498" Name="STATE_gamemode_ranked" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_ranked"/>
+						<State Id="1808199260" Name="STATE_gamemode_bootcamp" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_bootcamp"/>
+						<State Id="974843095" Name="STATE_gamemode_battle_of_bloggers" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_battle_of_bloggers"/>
+						<State Id="4248199219" Name="STATE_gamemode_weekend_brawl" ObjectPath="\States\Common\STATE_gamemode\STATE_gamemode_weekend_brawl"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2544266487" Name="STATE_arenastate" ObjectPath="\States\Common\STATE_arenastate">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_arenastate\None"/>
+						<State Id="26253895" Name="STATE_arenastate_waiting" ObjectPath="\States\Common\STATE_arenastate\STATE_arenastate_waiting"/>
+						<State Id="1506040602" Name="STATE_arenastate_counter" ObjectPath="\States\Common\STATE_arenastate\STATE_arenastate_counter"/>
+						<State Id="668236828" Name="STATE_arenastate_battle" ObjectPath="\States\Common\STATE_arenastate\STATE_arenastate_battle"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2773731236" Name="STATE_hangar_filtered" ObjectPath="\States\Default Work Unit\STATE_hangar_filtered">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\STATE_hangar_filtered\None"/>
+						<State Id="19640060" Name="STATE_hangar_filtered_on" ObjectPath="\States\Default Work Unit\STATE_hangar_filtered\STATE_hangar_filtered_on"/>
+						<State Id="3418647162" Name="STATE_hangar_filtered_off" ObjectPath="\States\Default Work Unit\STATE_hangar_filtered\STATE_hangar_filtered_off"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2936847994" Name="STATE_hangar_view" ObjectPath="\States\Common\STATE_hangar_view">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_hangar_view\None"/>
+						<State Id="36532472" Name="STATE_hangar_view_01" ObjectPath="\States\Common\STATE_hangar_view\STATE_hangar_view_01"/>
+						<State Id="36532475" Name="STATE_hangar_view_02" ObjectPath="\States\Common\STATE_hangar_view\STATE_hangar_view_02"/>
+						<State Id="36532474" Name="STATE_hangar_view_03" ObjectPath="\States\Common\STATE_hangar_view\STATE_hangar_view_03"/>
+						<State Id="36532477" Name="STATE_hangar_view_04" ObjectPath="\States\Common\STATE_hangar_view\STATE_hangar_view_04"/>
+						<State Id="36532476" Name="STATE_hangar_view_05" ObjectPath="\States\Common\STATE_hangar_view\STATE_hangar_view_05"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3677561149" Name="STATE_video_overlay" ObjectPath="\States\Default Work Unit\STATE_video_overlay">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\STATE_video_overlay\None"/>
+						<State Id="13612235" Name="STATE_video_overlay_on" ObjectPath="\States\Default Work Unit\STATE_video_overlay\STATE_video_overlay_on"/>
+						<State Id="167349919" Name="STATE_video_overlay_off" ObjectPath="\States\Default Work Unit\STATE_video_overlay\STATE_video_overlay_off"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3764078144" Name="STATE_overlay_hangar_general" ObjectPath="\States\Default Work Unit\STATE_overlay_hangar_general">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\STATE_overlay_hangar_general\None"/>
+						<State Id="420104680" Name="STATE_overlay_hangar_general_on" ObjectPath="\States\Default Work Unit\STATE_overlay_hangar_general\STATE_overlay_hangar_general_on"/>
+						<State Id="1261587398" Name="STATE_overlay_hangar_general_off" ObjectPath="\States\Default Work Unit\STATE_overlay_hangar_general\STATE_overlay_hangar_general_off"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3983889542" Name="STATE_hangar_place" ObjectPath="\States\Common\STATE_hangar_place">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_hangar_place\None"/>
+						<State Id="768442838" Name="STATE_hangar_place_garage" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_garage"/>
+						<State Id="3092877988" Name="STATE_hangar_place_personalMissions" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_personalMissions"/>
+						<State Id="3369004084" Name="STATE_hangar_place_customization" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_customization"/>
+						<State Id="4120106793" Name="STATE_hangar_place_shop" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_shop"/>
+						<State Id="1786143786" Name="STATE_hangar_place_research" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_research"/>
+						<State Id="569750957" Name="STATE_hangar_place_tasks" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_tasks"/>
+						<State Id="2332360656" Name="STATE_hangar_place_barracks" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_barracks"/>
+						<State Id="1461274737" Name="STATE_hangar_place_achievements" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_achievements"/>
+						<State Id="1683001988" Name="STATE_hangar_place_clans" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_clans"/>
+						<State Id="3354433999" Name="STATE_hangar_place_browser" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_browser"/>
+						<State Id="1751757854" Name="STATE_hangar_place_noobieCenter" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_noobieCenter"/>
+						<State Id="1154502" Name="STATE_hangar_place_warehouse" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_warehouse"/>
+						<State Id="301050511" Name="STATE_hangar_place_researches_preview" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_researches_preview"/>
+						<State Id="101805544" Name="STATE_hangar_place_shop_preview" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_shop_preview"/>
+						<State Id="2190607603" Name="STATE_hangar_place_consumables" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_consumables"/>
+						<State Id="3496164419" Name="STATE_hangar_place_dog_tags" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_dog_tags"/>
+						<State Id="3236318546" Name="STATE_hangar_place_lootboxes" ObjectPath="\States\Common\STATE_hangar_place\STATE_hangar_place_lootboxes"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="4279851394" Name="STATE_in_bunker" ObjectPath="\States\Common\STATE_in_bunker">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Common\STATE_in_bunker\None"/>
+						<State Id="1218194578" Name="STATE_in_bunker_on" ObjectPath="\States\Common\STATE_in_bunker\STATE_in_bunker_on"/>
+						<State Id="3889837576" Name="STATE_in_bunker_off" ObjectPath="\States\Common\STATE_in_bunker\STATE_in_bunker_off"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+		<SoundBank Id="1383694724" Language="SFX" Hash="3066671030">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_jingles</ObjectPath>
+			<ShortName>sixthsense_jingles</ShortName>
+			<Path>sixthsense_jingles.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2917348121" Name="lightbulb_jingles" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_jingles" DurationType="OneShot" DurationMin="0.548571" DurationMax="0.548571">
+					<IncludedMemoryFiles>
+						<File Id="802807596" Language="SFX">
+							<ShortName>jingles.wav</ShortName>
+							<Path>SFX\jingles_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1618322204" Language="SFX" Hash="1570617237">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_german</ObjectPath>
+			<ShortName>sixthsense_german</ShortName>
+			<Path>sixthsense_german.bnk</Path>
+			<IncludedEvents>
+				<Event Id="885284655" Name="lightbulb_german" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_german" DurationType="OneShot" DurationMin="0.875102" DurationMax="1.583311">
+					<IncludedMemoryFiles>
+						<File Id="25302839" Language="SFX">
+							<ShortName>german_4.wav</ShortName>
+							<Path>SFX\german_4_639CF9DE.wem</Path>
+						</File>
+						<File Id="139030348" Language="SFX">
+							<ShortName>german_2.wav</ShortName>
+							<Path>SFX\german_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="545812755" Language="SFX">
+							<ShortName>german_1.wav</ShortName>
+							<Path>SFX\german_1_639CF9DE.wem</Path>
+						</File>
+						<File Id="729550964" Language="SFX">
+							<ShortName>german_3.wav</ShortName>
+							<Path>SFX\german_3_639CF9DE.wem</Path>
+						</File>
+						<File Id="735747772" Language="SFX">
+							<ShortName>german_5.wav</ShortName>
+							<Path>SFX\german_5_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1805968680" Language="SFX" Hash="1080471851">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_illuminati</ObjectPath>
+			<ShortName>sixthsense_illuminati</ShortName>
+			<Path>sixthsense_illuminati.bnk</Path>
+			<IncludedEvents>
+				<Event Id="685153231" Name="lightbulb_illuminati" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_illuminati" DurationType="OneShot" DurationMin="2.261950" DurationMax="2.261950">
+					<IncludedMemoryFiles>
+						<File Id="772430047" Language="SFX">
+							<ShortName>Illuminati.wav</ShortName>
+							<Path>SFX\Illuminati_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2018860002" Language="SFX" Hash="2488120173">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_miqts_sheep</ObjectPath>
+			<ShortName>sixthsense_miqts_sheep</ShortName>
+			<Path>sixthsense_miqts_sheep.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2704892735" Name="lightbulb_miqts_sheep" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_miqts_sheep" DurationType="OneShot" DurationMin="0.757551" DurationMax="0.757551">
+					<IncludedMemoryFiles>
+						<File Id="685520101" Language="SFX">
+							<ShortName>miqts_sheep.wav</ShortName>
+							<Path>SFX\miqts_sheep_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2268742989" Language="SFX" Hash="3801250686">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_surprise_not</ObjectPath>
+			<ShortName>sixthsense_surprise_not</ShortName>
+			<Path>sixthsense_surprise_not.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2873720078" Name="lightbulb_surprise_not" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_surprise_not" DurationType="OneShot" DurationMin="2.881531" DurationMax="2.881531">
+					<IncludedMemoryFiles>
+						<File Id="61714546" Language="SFX">
+							<ShortName>Recording_3.wav</ShortName>
+							<Path>SFX\Recording_3_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2329902760" Language="SFX" Hash="784744022">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_sauron</ObjectPath>
+			<ShortName>sixthsense_sauron</ShortName>
+			<Path>sixthsense_sauron.bnk</Path>
+			<IncludedEvents>
+				<Event Id="424170523" Name="lightbulb_sauron" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_sauron" DurationType="OneShot" DurationMin="3.240635" DurationMax="3.348027">
+					<IncludedMemoryFiles>
+						<File Id="769756070" Language="SFX">
+							<ShortName>sauron_2.wav</ShortName>
+							<Path>SFX\sauron_2_639CF9DE.wem</Path>
+						</File>
+						<File Id="877893592" Language="SFX">
+							<ShortName>sauron_1.wav</ShortName>
+							<Path>SFX\sauron_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2661368074" Language="SFX" Hash="3883443943">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_relhax</ObjectPath>
+			<ShortName>sixthsense_relhax</ShortName>
+			<Path>sixthsense_relhax.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4157475797" Name="lightbulb_relhax" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_relhax" DurationType="OneShot" DurationMin="0.415533" DurationMax="2.389896">
+					<IncludedMemoryFiles>
+						<File Id="19983457" Language="SFX">
+							<ShortName>relhax_spotted_4.wav</ShortName>
+							<Path>SFX\relhax_spotted_4_C75167D5.wem</Path>
+						</File>
+						<File Id="37171546" Language="SFX">
+							<ShortName>relhax_spotted_7.wav</ShortName>
+							<Path>SFX\relhax_spotted_7_C75167D5.wem</Path>
+						</File>
+						<File Id="284834397" Language="SFX">
+							<ShortName>relhax_spotted_3.wav</ShortName>
+							<Path>SFX\relhax_spotted_3_C75167D5.wem</Path>
+						</File>
+						<File Id="358064880" Language="SFX">
+							<ShortName>relhax_spotted_6.wav</ShortName>
+							<Path>SFX\relhax_spotted_6_C75167D5.wem</Path>
+						</File>
+						<File Id="405624697" Language="SFX">
+							<ShortName>relhax_spotted_5.wav</ShortName>
+							<Path>SFX\relhax_spotted_5_C75167D5.wem</Path>
+						</File>
+						<File Id="408718608" Language="SFX">
+							<ShortName>relhax_spotted_1.wav</ShortName>
+							<Path>SFX\relhax_spotted_1_C75167D5.wem</Path>
+						</File>
+						<File Id="582298540" Language="SFX">
+							<ShortName>relhax_spotted_2.wav</ShortName>
+							<Path>SFX\relhax_spotted_2_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2677459209" Language="SFX" Hash="3125542552">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_timer_10_sec</ObjectPath>
+			<ShortName>sixthsense_timer_10_sec</ShortName>
+			<Path>sixthsense_timer_10_sec.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1734253026" Name="lightbulb_timer_10_sec" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_timer_10_sec" DurationType="OneShot" DurationMin="10.135510" DurationMax="10.135510">
+					<IncludedMemoryFiles>
+						<File Id="583623869" Language="SFX">
+							<ShortName>timer_10_sec.wav</ShortName>
+							<Path>SFX\timer_10_sec_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2849411409" Language="SFX" Hash="1290301009">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_timer_8_sec_loud</ObjectPath>
+			<ShortName>sixthsense_timer_8_sec_loud</ShortName>
+			<Path>sixthsense_timer_8_sec_loud.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1621478942" Name="lightbulb_timer_8_sec_loud" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_timer_8_sec_loud" DurationType="OneShot" DurationMin="9.753832" DurationMax="9.753832">
+					<IncludedMemoryFiles>
+						<File Id="909511877" Language="SFX">
+							<ShortName>timer_8_sec_loud.wav</ShortName>
+							<Path>SFX\timer_8_sec_loud_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2930551839" Language="SFX" Hash="2983672171">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_minions</ObjectPath>
+			<ShortName>sixthsense_minions</ShortName>
+			<Path>sixthsense_minions.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4095789686" Name="lightbulb_minions" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_minions" DurationType="OneShot" DurationMin="3.887891" DurationMax="3.887891">
+					<IncludedMemoryFiles>
+						<File Id="759615291" Language="SFX">
+							<ShortName>minions_1.wav</ShortName>
+							<Path>SFX\minions_1_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="4168723090" Language="SFX" Hash="1596296841">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_monty_python</ObjectPath>
+			<ShortName>sixthsense_monty_python</ShortName>
+			<Path>sixthsense_monty_python.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3701369009" Name="lightbulb_monty_python" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_monty_python" DurationType="OneShot" DurationMin="3.031270" DurationMax="3.031270">
+					<IncludedMemoryFiles>
+						<File Id="758196921" Language="SFX">
+							<ShortName>monty_python.wav</ShortName>
+							<Path>SFX\monty_python_C75167D5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="4169131629" Language="SFX" Hash="358978247">
+			<ObjectPath>\SoundBanks\6th_sense\sixthsense_General_Lee</ObjectPath>
+			<ShortName>sixthsense_General_Lee</ShortName>
+			<Path>sixthsense_General_Lee.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2521442384" Name="lightbulb_General_Lee" ObjectPath="\Events\MOD\6th_sense\lightbulb_relhax\lightbulb_General_Lee" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
