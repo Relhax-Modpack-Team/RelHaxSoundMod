@@ -134,6 +134,19 @@ Launched at the time of transition to Charge Mode</Comment>
             </Event>
           </ChildrenList>
         </Folder>
+        <Folder Name="gun_rld_automat_reloading_boost" ID="{381149B9-A77F-4491-BC1B-6438F0E8D1E1}" ShortID="915694709">
+          <ChildrenList>
+            <Event Name="gun_rld_automat_reloading_boost_max" ID="{3C77CD13-6294-4B42-8BA8-D3218475CB58}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="gun_rld_automat_reloading_boost_progress" ID="{F3B5E911-7072-4E6F-A32F-D3C0BCFF89BE}">
+              <ChildrenList></ChildrenList>
+            </Event>
+            <Event Name="gun_rld_automat_reloading_boost_start" ID="{83658191-76A1-42CB-AF35-2DCDD1FBB11D}">
+              <ChildrenList></ChildrenList>
+            </Event>
+          </ChildrenList>
+        </Folder>
       </ChildrenList>
     </WorkUnit>
   </Events>

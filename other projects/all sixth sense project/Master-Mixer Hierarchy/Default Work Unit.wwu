@@ -693,7 +693,7 @@
                 </Reference>
                 <Reference Name="Effect2">
                   <Custom>
-                    <Effect Name="McDSP FutzBox (Custom)" ID="{A375D35A-264F-4007-84F2-7C63C49E6276}" ShortID="1004613693" PluginName="McDSP FutzBox" CompanyID="256" PluginID="110" PluginType="3">
+                    <Effect Name="McDSP_FutzBox_(Custom)" ID="{A375D35A-264F-4007-84F2-7C63C49E6276}" ShortID="1004613693" PluginName="McDSP FutzBox" CompanyID="256" PluginID="110" PluginType="3">
                       <PropertyList>
                         <Property Name="Balance" Type="Real32" Value="40">
                           <RTPCList>
@@ -4559,7 +4559,7 @@ Effect 2 - adjusts the decrease in LF for the transition between the arena and h
                                     </Reference>
                                     <Reference Name="Effect2">
                                       <Custom>
-                                        <Effect Name="Wwise Parametric EQ (Custom)" ID="{CD6841FB-07E5-4204-90DA-C49FCEBAA295}" ShortID="407946566" PluginName="Wwise Parametric EQ" CompanyID="0" PluginID="105" PluginType="3">
+                                        <Effect Name="Wwise_Parametric_EQ_(Custom)" ID="{CD6841FB-07E5-4204-90DA-C49FCEBAA295}" ShortID="407946566" PluginName="Wwise Parametric EQ" CompanyID="0" PluginID="105" PluginType="3">
                                           <PropertyList>
                                             <Property Name="FrequencyBand1" Type="Real32" Value="120" />
                                             <Property Name="FrequencyBand3" Type="Real32" Value="3000" />
@@ -6674,7 +6674,7 @@ The NPC bus is compensated -6db relatively PC bus in HDR scheme.</Comment>
                   <ReferenceList>
                     <Reference Name="Effect3">
                       <Custom>
-                        <Effect Name="Wwise Gain (Custom)" ID="{37C2AED5-9B60-479C-88E8-71352673829B}" ShortID="700252450" PluginName="Wwise Gain" CompanyID="0" PluginID="139" PluginType="3">
+                        <Effect Name="Wwise_Gain_(Custom)" ID="{37C2AED5-9B60-479C-88E8-71352673829B}" ShortID="700252450" PluginName="Wwise Gain" CompanyID="0" PluginID="139" PluginType="3">
                           <PropertyList>
                             <Property Name="FullBandGain" Type="Real32">
                               <RTPCList>
@@ -6939,7 +6939,7 @@ The NPC bus is compensated -6db relatively PC bus in HDR scheme.</Comment>
                       <ReferenceList>
                         <Reference Name="Effect0">
                           <Custom CreatedFrom="{F8C5F019-CCF3-41C4-8AE3-DC16397E515F}">
-                            <Effect Name="Lets_Do_Lunch (Custom)" ID="{085DFEF7-389C-43E2-8C1D-DA29959A41B1}" ShortID="579309952" PluginName="McDSP FutzBox" CompanyID="256" PluginID="110" PluginType="3">
+                            <Effect Name="Lets_Do_Lunch_(Custom)" ID="{085DFEF7-389C-43E2-8C1D-DA29959A41B1}" ShortID="579309952" PluginName="McDSP FutzBox" CompanyID="256" PluginID="110" PluginType="3">
                               <PropertyList>
                                 <Property Name="DistortionAmount" Type="Real32" Value="20" />
                                 <Property Name="DistortionIntensity" Type="Real32" Value="100" />
@@ -7310,7 +7310,7 @@ Auto-Duck for HDRdbc bus</Comment>
                           <ReferenceList>
                             <Reference Name="Effect0">
                               <Custom>
-                                <Effect Name="McDSP FutzBox (Custom)" ID="{54F81667-D3C3-44E7-A7CA-38C03E60C2C2}" ShortID="851645646" PluginName="McDSP FutzBox" CompanyID="256" PluginID="110" PluginType="3">
+                                <Effect Name="McDSP_FutzBox_(Custom)" ID="{54F81667-D3C3-44E7-A7CA-38C03E60C2C2}" ShortID="851645646" PluginName="McDSP FutzBox" CompanyID="256" PluginID="110" PluginType="3">
                                   <PropertyList>
                                     <Property Name="DistortionAmount" Type="Real32" Value="61" />
                                     <Property Name="DistortionIntensity" Type="Real32" Value="70" />
@@ -8613,6 +8613,34 @@ Auto-Duck for HDRdbc bus</Comment>
                 </AuxBus>
                 <Bus Name="010_vo_com_noducking" ID="{AC17613E-DAC9-4757-B848-E705EA75A70B}">
                   <PropertyList>
+                    <Property Name="BusVolume" Type="Real64">
+                      <RTPCList>
+                        <RTPC Name="" ID="{5292DD03-A1B5-4E16-9503-1D4E92A126B8}" ShortID="666767804">
+                          <ReferenceList>
+                            <Reference Name="ControlInput">
+                              <ObjectRef Name="RTPC_ext_menu_volume_voice" ID="{AF4E0606-C698-4F32-8FA7-CC0B6AFF0861}" WorkUnitID="{AB476AAA-6033-49AB-999C-C9F0407E711B}" />
+                            </Reference>
+                          </ReferenceList>
+                          <Curve Name="" ID="{21D88AC0-056B-4367-B3C3-7991FF99D27A}">
+                            <PropertyList>
+                              <Property Name="Flags" Type="int32" Value="3" />
+                            </PropertyList>
+                            <PointList>
+                              <Point>
+                                <XPos>0</XPos>
+                                <YPos>-200</YPos>
+                                <Flags>5</Flags>
+                              </Point>
+                              <Point>
+                                <XPos>100</XPos>
+                                <YPos>0</YPos>
+                                <Flags>37</Flags>
+                              </Point>
+                            </PointList>
+                          </Curve>
+                        </RTPC>
+                      </RTPCList>
+                    </Property>
                     <Property Name="CenterPercentage" Type="int32">
                       <ValueList>
                         <Value>100</Value>
@@ -9444,11 +9472,7 @@ Auto-Duck for HDRdbc bus</Comment>
                       </CustomState>
                       <CustomState>
                         <StateRef Name="STATE_hangar_place_barracks" ID="{B17ADA94-E2DB-4E0F-AD44-3BD718336256}" />
-                        <CustomState Name="" ID="{CB364544-F789-4DFC-8755-D5345395CFBC}" ShortID="586508473">
-                          <PropertyList>
-                            <Property Name="BusVolume" Type="Real64" Value="-96" />
-                          </PropertyList>
-                        </CustomState>
+                        <CustomState Name="" ID="{CB364544-F789-4DFC-8755-D5345395CFBC}" ShortID="586508473" />
                       </CustomState>
                       <CustomState>
                         <StateRef Name="STATE_hangar_camera_rotating_on" ID="{B338CD76-4C59-4E15-A9E3-804F91D02F67}" />
@@ -11073,6 +11097,9 @@ Auto-Duck for HDRdbc bus</Comment>
                       <StateGroupInfo>
                         <StateGroupRef Name="STATE_video_overlay" ID="{45D461A4-9865-43D6-8958-86FA4A12A448}" />
                       </StateGroupInfo>
+                      <StateGroupInfo>
+                        <StateGroupRef Name="STATE_overlay_hangar_general" ID="{205CE61E-ECDD-491F-AD4E-6AF16B15594A}" />
+                      </StateGroupInfo>
                     </StateGroupList>
                     <CustomStateList>
                       <CustomState>
@@ -11110,6 +11137,19 @@ Auto-Duck for HDRdbc bus</Comment>
                             <Property Name="BusVolume" Type="Real64" Value="-96" />
                           </PropertyList>
                         </CustomState>
+                      </CustomState>
+                      <CustomState>
+                        <StateRef Name="STATE_overlay_hangar_general_on" ID="{02FBFA78-F4DF-43CF-905F-68C34613A84F}" />
+                        <CustomState Name="" ID="{CF37FFAA-BFC3-4CA7-AB91-CAD23D97243B}" ShortID="873419426">
+                          <PropertyList>
+                            <Property Name="BusVolume" Type="Real64" Value="-6" />
+                            <Property Name="Lowpass" Type="int16" Value="30" />
+                          </PropertyList>
+                        </CustomState>
+                      </CustomState>
+                      <CustomState>
+                        <StateRef Name="STATE_overlay_hangar_general_off" ID="{6C92CBF3-3A6B-456A-96B4-3C1A2726E463}" />
+                        <CustomState Name="" ID="{1FF68D1F-4BA4-4958-88DF-B45B4CA3E8BE}" ShortID="219351338" />
                       </CustomState>
                       <CustomState>
                         <StateRef Name="STATE_hangar_place_customization" ID="{17A1E408-1E5F-4585-BBD4-71D33F5EE345}" />
@@ -14095,6 +14135,30 @@ Auto-Duck for HDRdbc bus</Comment>
                           <Point>
                             <XPos>100</XPos>
                             <YPos>0</YPos>
+                            <Flags>37</Flags>
+                          </Point>
+                        </PointList>
+                      </Curve>
+                    </RTPC>
+                    <RTPC Name="" ID="{73F66874-0C7E-4162-BF84-161FDE01964B}" ShortID="442123364">
+                      <ReferenceList>
+                        <Reference Name="ControlInput">
+                          <ObjectRef Name="RTPC_int_vo_ducking" ID="{1E252F1B-39B9-4251-8D5D-A20E4F4AF0BF}" WorkUnitID="{99AED538-0B7F-42D5-942E-04185D409E05}" />
+                        </Reference>
+                      </ReferenceList>
+                      <Curve Name="" ID="{506F90F8-A9F3-4BE2-916B-6E9259AFF7F4}">
+                        <PropertyList>
+                          <Property Name="Flags" Type="int32" Value="3" />
+                        </PropertyList>
+                        <PointList>
+                          <Point>
+                            <XPos>-48</XPos>
+                            <YPos>0</YPos>
+                            <Flags>5</Flags>
+                          </Point>
+                          <Point>
+                            <XPos>0</XPos>
+                            <YPos>-9</YPos>
                             <Flags>37</Flags>
                           </Point>
                         </PointList>

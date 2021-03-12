@@ -14,6 +14,17 @@
             <Property Name="SlewRateUp" Type="Real64" Value="1" />
           </PropertyList>
         </GameParameter>
+        <GameParameter Name="RTPC_int_expl_ram_gain" ID="{0F291310-5C97-490E-9E88-A4A97BF777C7}">
+          <Comment>Internal RTPC - Necessary to convert the volume level of tank destruction by an NPC ram</Comment>
+          <PropertyList>
+            <Property Name="FilterTimeUp" Type="Real64" Value="1.5" />
+            <Property Name="InitialValue" Type="Real64" Value="0" />
+            <Property Name="Max" Type="Real64" Value="4" />
+            <Property Name="RTPCRamping" Type="int16" Value="1" />
+            <Property Name="SlewRateDown" Type="Real64" Value="20000" />
+            <Property Name="SlewRateUp" Type="Real64" Value="1" />
+          </PropertyList>
+        </GameParameter>
       </ChildrenList>
     </WorkUnit>
   </GameParameters>
