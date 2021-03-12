@@ -106,7 +106,7 @@
 						<Event Name="vo_enemy_killed_01" ID="{E4504866-DE43-4FCA-B431-D3437538006E}">
 							<Comment>Event - Enemy vehicle destroyed</Comment>
 						</Event>
-						<Event Name="vo_surveying_devices_crit_damaged" ID="{BA0CFCDC-4BC1-41A4-9333-9348ACBEE557}">
+						<Event Name="vo_surveying_devices_crit_damaged_01" ID="{BA0CFCDC-4BC1-41A4-9333-9348ACBEE557}">
 							<Comment>Event - The periscope is damaged</Comment>
 						</Event>
 						<Event Name="vo_turret_rotator_damaged_01" ID="{142F27C2-AE29-4055-A4E7-B390CAD824C2}">
@@ -130,7 +130,7 @@
 						<Event Name="vo_gunner_killed_01" ID="{0DE3301B-97E9-42C7-A870-945062C4EE2B}">
 							<Comment>Event - The Gunner is dead</Comment>
 						</Event>
-						<Event Name="vo_enemy_no_hp_damage_at_no_attempt_by_player" ID="{E5559116-EB43-4260-8D2E-72D72FDBA1AF}">
+						<Event Name="vo_enemy_no_hp_damage_at_no_attempt_by_player_01" ID="{E5559116-EB43-4260-8D2E-72D72FDBA1AF}">
 							<Comment>Event - Critical hit</Comment>
 						</Event>
 						<Event Name="vo_engine_destroyed_01" ID="{39136F27-582A-445E-B6DD-D4B1D41CC812}">

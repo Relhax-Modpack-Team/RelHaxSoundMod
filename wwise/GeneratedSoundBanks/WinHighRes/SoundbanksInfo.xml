@@ -37,7 +37,7 @@
 		</File>
 	</MediaFilesNotInAnyBank>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Language="SFX">
+		<SoundBank Id="1355168291" Language="SFX" Hash="3395298368">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
@@ -259,7 +259,7 @@
 				</StateGroup>
 			</StateGroups>
 		</SoundBank>
-		<SoundBank Id="2802364914" Language="SFX">
+		<SoundBank Id="2802364914" Language="SFX" Hash="1816683057">
 			<ObjectPath>\SoundBanks\Relhax\RelHaxGui</ObjectPath>
 			<ShortName>RelHaxGui</ShortName>
 			<Path>RelHaxGui.bnk</Path>
@@ -378,7 +378,7 @@
 				</Event>
 			</IncludedEvents>
 		</SoundBank>
-		<SoundBank Id="4041657371" Language="SFX">
+		<SoundBank Id="4041657371" Language="SFX" Hash="253323374">
 			<ObjectPath>\SoundBanks\Relhax\voiceover</ObjectPath>
 			<ShortName>voiceover</ShortName>
 			<Path>voiceover.bnk</Path>

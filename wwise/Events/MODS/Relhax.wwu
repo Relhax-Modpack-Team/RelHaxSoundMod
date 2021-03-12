@@ -803,6 +803,36 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="vo_surveying_devices_crit_damaged" ID="{7FDF3134-91DE-4E35-B354-D1340538CFAA}">
+							<Comment>Event - The periscope is damaged</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{06AF9FAF-6560-4C2A-9BA5-88322AE90D72}" ShortID="898078193">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="vo_surveying_devices_damaged" ID="{0D8FDBC0-C10A-4643-9345-F4E0C3C947C7}" WorkUnitID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="vo_enemy_no_hp_damage_at_no_attempt_by_player" ID="{78BC09B0-26C5-42DE-93B0-FF46739880C1}">
+							<Comment>Event - Critical hit</Comment>
+							<ChildrenList>
+								<Action Name="" ID="{61CEE08B-E699-4691-92B3-77D0017C6436}" ShortID="45047157">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="vo_enemy_no_hp_damage_at_attempt_and_chassis_damaged_by_player" ID="{A2CBBFE2-ACB2-4F3C-9331-CDB928D4D8AD}" WorkUnitID="{5238FFD3-49CF-4315-90F8-0232AB6D6C24}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="gui" ID="{4C9EB5D8-5E64-4866-AD4F-7CE3B7A6E549}" ShortID="892041270">
