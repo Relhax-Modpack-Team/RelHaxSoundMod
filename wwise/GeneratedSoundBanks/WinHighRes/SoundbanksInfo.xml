@@ -378,7 +378,7 @@
 				</Event>
 			</IncludedEvents>
 		</SoundBank>
-		<SoundBank Id="4041657371" Language="SFX" Hash="253323374">
+		<SoundBank Id="4041657371" Language="SFX" Hash="894184432">
 			<ObjectPath>\SoundBanks\Relhax\voiceover</ObjectPath>
 			<ShortName>voiceover</ShortName>
 			<Path>voiceover.bnk</Path>
@@ -1132,6 +1132,18 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
+				<Event Id="3207438912" Name="vo_enemy_no_hp_damage_at_no_attempt_by_player" ObjectPath="\Events\MODS\Relhax\voiceover\vo_enemy_no_hp_damage_at_no_attempt_by_player" DurationType="OneShot" DurationMin="0.936000" DurationMax="2.289000">
+					<IncludedMemoryFiles>
+						<File Id="519048676" Language="SFX">
+							<ShortName>armor_pierced_crit_by_player_01.wav</ShortName>
+							<Path>SFX\armor_pierced_crit_by_player_01_639CF9DE.wem</Path>
+						</File>
+						<File Id="996782967" Language="SFX">
+							<ShortName>armor_pierced_crit_by_player_03.wav</ShortName>
+							<Path>SFX\armor_pierced_crit_by_player_03_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="40924856" Name="vo_enemy_sighted" ObjectPath="\Events\MODS\Relhax\voiceover\vo_enemy_sighted" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
 				<Event Id="1702267773" Name="vo_engine_damaged" ObjectPath="\Events\MODS\Relhax\voiceover\vo_engine_damaged" DurationType="OneShot" DurationMin="1.384479" DurationMax="1.986757">
 					<IncludedMemoryFiles>
@@ -1430,6 +1442,14 @@
 						<File Id="1039848926" Language="SFX">
 							<ShortName>start_battle_14.wav</ShortName>
 							<Path>SFX\start_battle_14_639CF9DE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1077949222" Name="vo_surveying_devices_crit_damaged" ObjectPath="\Events\MODS\Relhax\voiceover\vo_surveying_devices_crit_damaged" DurationType="OneShot" DurationMin="1.619583" DurationMax="1.619583">
+					<IncludedMemoryFiles>
+						<File Id="521641112" Language="SFX">
+							<ShortName>surveying_devices_damaged_01.wav</ShortName>
+							<Path>SFX\surveying_devices_damaged_01_639CF9DE.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
